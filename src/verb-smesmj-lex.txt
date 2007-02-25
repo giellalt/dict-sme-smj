@@ -1,0 +1,5 @@
+LEXICON Verb
+ leat:liehket v ;
+ bassat v ;
+ dupliseret:dupliserit v ;
+ 

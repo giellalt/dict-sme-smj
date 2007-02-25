@@ -1,0 +1,15 @@
+LEXICON Subjunction
+ahte	cs ;
+aht:at	cs ;
+danin:danen	cs ;
+das:dasik	cs ;
+dego:degu	cs ;
+dasgo:dagu	cs ; 
+go:gå	cs ;
+jus	cs ;
+muhte:men	cs ;
+nugo:nåv% gåk	cs ;
+vai:vaj		cs ;
+vaikke:vájk	cs ;
+vaikko:vájku	cs ;
+ovdal% go:åvddål% gå cs ;

@@ -1,0 +1,4 @@
+LEXICON Adjective
+ nuorra a ;
+ bastil:basstel a ;
+ 
