@@ -62,8 +62,8 @@ LEXICON na
  +Sg+Acc			 px ;
  +Sg+Gen			 px ;
  +Sg+Ill			 px ;
- +Sg+Loc:+N+Sg+Ine px ;
- +Sg+Loc:+N+Sg+Ela px ; 
+ +Sg+Loc:+Sg+Ine px ;
+ +Sg+Loc:+Sg+Ela px ; 
  +Sg+Com			 px ;
  +Ess				 px ;
  +Sg+Nom			 px ;
