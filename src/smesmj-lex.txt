@@ -1,4 +1,4 @@
-Multichar_Symbols
+'Multichar_Symbols
  +A +ABBR +ACR +Abe +Acc +Actio +Actor +Adp +Adv +Ani +Attr
  +CC +CLB +CS +Card +Cmpnd +Cmpnd+ +Com +Comp +ConNeg +Cond
  +Dem +Der/Dimin +Der/Pass +Der/adda +Der/ahkes +Der/ahtes +Der/ahtes
@@ -172,15 +172,15 @@ LEXICON num
  +Num+Sg+Gen # ;
  +Num+Sg+Acc # ;
  +Num+Sg+Ill # ;
- +Num+Sg+Loc # ;
- +Num+Sg+Loc # ;
+ +Num+Sg+Loc:+Num+Sg+Ine # ;
+ +Num+Sg+Loc:+Num+Sg+Ela # ;
  +Num+Sg+Com # ;
  +Num+Ess	 # ;
  +Num+Pl+Nom # ;
  +Num+Pl+Gen # ;
  +Num+Pl+Acc # ;
  +Num+Pl+Ill # ;
- +Num+Pl+Loc # ;
- +Num+Pl+Loc # ;
+ +Num+Pl+Loc:+Num+Pl+Ine # ;
+ +Num+Pl+Loc:+Num+Pl+Ela # ;
  +Num+Pl+Com # ;
 
