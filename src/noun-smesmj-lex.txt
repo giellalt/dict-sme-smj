@@ -1,4 +1,4 @@
 LEXICON Noun
- muorra n ;
- biila:bijlla n ;
+muorra:muorra n ;
+biila:bijlla n ;
  
