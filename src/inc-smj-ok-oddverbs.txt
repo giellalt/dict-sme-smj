@@ -1,0 +1,1383 @@
+ahtselit 	"ahtselit" V IV Inf 	"ahtselit" V IV Imprt Pl2 
+aledit 	"aledit" V TV Imprt Pl2 	"aledit" V TV Inf 
+alestit 	"alestit" V IV Inf 	"alestit" V IV Imprt Pl2 
+allánit 	"allánit" V IV Inf 	"allánit" V IV Imprt Pl2 
+almodit 	"almodit" V TV Imprt Pl2 	"almodit" V TV Inf 
+anedit 	"anedit" V TV Inf 	"anedit" V TV Imprt Pl2 
+anestit 	"adnet" V* TV Der1 Der/st V Inf 	"adnet" V* TV Der1 Der/st V Imprt Pl2 
+arvatjit 	"arvvat" V IV Sup 
+asstadit 	"asstadit" V TV Imprt Pl2 	"asstadit" V TV Inf 
+astadit 	"astadit" V TV Inf 	"astadit" V TV Imprt Pl2 
+atsedit 	"atsedit" V TV Imprt Pl2 	"atsedit" V TV Inf 
+atsestit 	"ahtset" V* IV Der1 Der/st V Imprt Pl2 	"ahtset" V* IV Der1 Der/st V Inf 
+badjánit 	"badjánit" V IV Imprt Pl2 	"badjánit" V IV Inf 
+bagádit 	"bagádit" V TV Inf 	"bagádit" V TV Imprt Pl2 
+bahunit 	"bahunit" V IV Inf 	"bahunit" V IV Imprt Pl2 
+bajkatjit 	"bajkatjit" V IV Inf 	"bajkatjit" V IV Imprt Pl2 
+bajkedit 	"bajkket" V* IV Der1 Der/d V Inf 	"bajkket" V* IV Der1 Der/d V Imprt Pl2 
+bajástjuodtjelit 	"bajás#tjuodtjelit" V IV Inf 	"bajás#tjuodtjelit" V IV Imprt Pl2 
+baládit 	"ballat" V* TV Der1 Der/d V Imprt Pl2 	"ballat" V* TV Der1 Der/d V Inf 
+baládit 	"ballat" V* TV Der1 Der/d V Imprt Pl2 	"ballat" V* TV Der1 Der/d V Inf 
+balldalit 	"balldalit" V TV Inf 	"balldalit" V TV Imprt Pl2 
+baldedit 	"balldet" V* TV Der1 Der/d V Inf 	"balldet" V* TV Der1 Der/d V Imprt Pl2 
+bargadit 	"bargadit" V TV Inf 	"bargadit" V TV Imprt Pl2 
+bargadit 	"bargadit" V TV Inf 	"bargadit" V TV Imprt Pl2 
+bargastit 	"barggat" V* TV Der1 Der/st V Imprt Pl2 	"barggat" V* TV Der1 Der/st V Inf 
+bassudit 	"bassut" V* Der1 Der/d V Imprt Pl2 	"bassut" V* Der1 Der/d V Inf 
+basádit 	"basádit" V IV Imprt Pl2 	"basádit" V IV Inf 
+basádit 	"basádit" V IV Imprt Pl2 	"basádit" V IV Inf 
+basástit 	"bassat" V* TV Der1 Der/st V Imprt Pl2 	"bassat" V* TV Der1 Der/st V Inf 
+basestit 	"basestit" V TV Imprt Pl2 	"basestit" V TV Inf 
+basedit 	"basset" V* TV Der1 Der/d V Imprt Pl2 	"basset" V* TV Der1 Der/d V Inf 
+basestit 	"basestit" V TV Imprt Pl2 	"basestit" V TV Inf 
+baskedit 	"baskedit" V TV Imprt Pl2 	"baskedit" V TV Inf 
+bassalit 	"bassalit" V TV Imprt Pl2 	"bassalit" V TV Inf 
+basstasit 	"bassta" N Sg Ill PxSg2 	"basstasit" V IV Imprt Pl2 	"basstasit" V IV Inf 
+bastedit 	"basstet" V* IV Der1 Der/d V Inf 	"basstet" V* IV Der1 Der/d V Imprt Pl2 
+basstásit 	"basstet" V* IV Der3 Actor N Sg Ill PxSg2 
+basodit 	"basodit" V TV Inf 	"basodit" V TV Imprt Pl2 
+basátjit 	"bassat" V TV Sup 	"basset" V TV Sup 
+bieggalit 	"bieggat" V* IV Der1 Der/l V Inf 
+biehkelit 	"biehket" V* IV Der1 Der/l V Imprt Pl2 	"biehket" V* IV Der1 Der/l V Inf 
+biehtestit 	"biehttet" V* TV Der1 Der/st V Imprt Pl2 	"biehttet" V* TV Der1 Der/st V Inf 
+biekkedit 	"biegget" V* IV Der1 Der/d V Imprt Pl2 	"biegget" V* IV Der1 Der/d V Inf 
+biekkedit 	"biegget" V* IV Der1 Der/d V Imprt Pl2 	"biegget" V* IV Der1 Der/d V Inf 
+bielkkelit 	"bielkket" V* TV Der1 Der/l V Inf 	"bielkket" V* TV Der1 Der/l V Imprt Pl2 
+bielkedit 	"bielkket" V* TV Der1 Der/d V Inf 	"bielkket" V* TV Der1 Der/d V Imprt Pl2 
+bielkedit 	"bielkket" V* TV Der1 Der/d V Inf 	"bielkket" V* TV Der1 Der/d V Imprt Pl2 
+biesskedit 	"biesskedit" V TV Imprt Pl2 	"biesskedit" V TV Inf 
+biedadit 	"biedat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"biedat" V* IV Der1 Der/u/a/åd V Inf 	"biedat" V* IV Der1 Der/d V Imprt Pl2 	"biedat" V* IV Der1 Der/d V Inf 
+biedadit 	"biedat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"biedat" V* IV Der1 Der/u/a/åd V Inf 	"biedat" V* IV Der1 Der/d V Imprt Pl2 	"biedat" V* IV Der1 Der/d V Inf 
+biesjkedit 	"biesjkedit" V IV Imprt Pl2 	"biesjkedit" V IV Inf 
+biesjkedit 	"biesjkedit" V IV Imprt Pl2 	"biesjkedit" V IV Inf 
+berustit 	"berustit" V TV Imprt Pl2 	"berustit" V TV Inf 
+bieggalit 	"bieggat" V* IV Der1 Der/l V Inf 
+bieggasit 	"biegga" N Sg Ill PxSg2 
+biekkadit 	"biekkadit" V IV Inf 
+biekkadit 	"biekkadit" V IV Inf 
+biekkastit 	"biekkastit" V IV Inf 
+biebmadit 	"biebmadit" V TV Imprt Pl2 	"biebmadit" V TV Inf 
+biebmastit 	"biebbmat" V* TV Der1 Der/st V Imprt Pl2 	"biebbmat" V* TV Der1 Der/st V Inf 
+bievlladit 	"bievlladit" V IV Inf 
+bievladit 	"bievllat" V* IV Der1 Der/u/a/åd V Inf 	"bievllat" V* IV Der1 Der/d V Inf 	"bievllat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"bievllat" V* IV Der1 Der/d V Imprt Pl2 
+bijnedit 	"bijnedit" V TV Imprt Pl2 	"bijnedit" V TV Inf 
+biktalit 	"biktalit" V TV Imprt Pl2 	"biktalit" V TV Inf 
+biledit 	"biledit" V TV Inf 	"biledit" V TV Imprt Pl2 
+bilkkedit 	"bilkkedit" V TV Inf 	"bilkkedit" V TV Imprt Pl2 
+birástit 	"birástit" V TV Inf 	"birástit" V TV Imprt Pl2 
+bissánit 	"bissánit" V IV Imprt Pl2 	"bissánit" V IV Inf 
+bisodit 	"bisodit" V TV Imprt Pl2 	"bisodit" V TV Inf 
+bisánit 	"bisánit" V IV Inf 	"bisánit" V IV Imprt Pl2 
+biváldit 	"biváldit" V IV Inf 
+bivdestit 	"bivddet" V* TV Der1 Der/st V Inf 	"bivddet" V* TV Der1 Der/st V Imprt Pl2 
+bivdedit 	"bivddet" V* TV Der1 Der/d V Imprt Pl2 	"bivddet" V* TV Der1 Der/d V Inf 
+bivddelit 	"bivddet" V* TV Der1 Der/l V Inf 	"bivddet" V* TV Der1 Der/l V Imprt Pl2 
+bivsastit 	"biksat" V* TV Der1 Der/st V Imprt Pl2 	"biksat" V* TV Der1 Der/st V Inf 
+bivtastit 	"bivtastit" V TV Imprt Pl2 	"bivtastit" V TV Inf 
+bivtestit 	"biktet" V* TV Der1 Der/st V Imprt Pl2 	"biktet" V* TV Der1 Der/st V Inf 
+boagostit 	"boagostit" V TV Imprt Pl2 	"boagostit" V TV Inf 
+boahkkolit 	"boahkkot" V* IV Der1 Der/l V Inf 	"boahkkot" V* IV Der1 Der/l V Imprt Pl2 
+boahkodit 	"boahkkot" V* IV Der1 Der/d V Inf 	"boahkkot" V* IV Der1 Der/d V Imprt Pl2 
+boahkostit 	"boahkkot" V* IV Der1 Der/st V Inf 	"boahkkot" V* IV Der1 Der/st V Imprt Pl2 
+boahkodit 	"boahkkot" V* IV Der1 Der/d V Inf 	"boahkkot" V* IV Der1 Der/d V Imprt Pl2 
+boaktjánit 	"boaktjánit" V IV Inf 	"boaktjánit" V IV Imprt Pl2 
+boaldestit 	"boalldet" V* TV Der1 Der/st V Imprt Pl2 	"boalldet" V* TV Der1 Der/st V Inf 
+boaldedit 	"boaldedit" V IV Imprt Pl2 	"boaldedit" V IV Inf 
+boalodit 	"boalodit" V TV Imprt Pl2 	"boalodit" V TV Inf 
+boadestit 	"boahtet" V* IV Der1 Der/st V Inf 	"boahtet" V* IV Der1 Der/st V Imprt Pl2 
+boadedit 	"boahtet" V* IV Der1 Der/d V Inf 	"boahtet" V* IV Der1 Der/d V Imprt Pl2 
+boadestit 	"boahtet" V* IV Der1 Der/st V Inf 	"boahtet" V* IV Der1 Der/st V Imprt Pl2 
+båttsedit 	"bådtset" V* TV Der1 Der/d V Inf 	"bådtset" V* TV Der1 Der/d V Imprt Pl2 
+båhtsijdit 	"båhtsijdit" V IV Imprt Pl2 	"båhtsijdit" V IV Inf 
+båhkåsit 	"båhke" N Sg Ill PxSg2 
+båhtånit 	"båhtånit" V IV Imprt Pl2 	"båhtånit" V IV Inf 
+båhtjelit 	"båhtjet" V* TV Der1 Der/l V Inf 	"båhtjet" V* TV Der1 Der/l V Imprt Pl2 
+båkkedit 	"båkkedit" V IV Imprt Pl2 	"båkkedit" V IV Inf 
+båktålit 	"båktålit" V TV Imprt Pl2 	"båktålit" V TV Inf 
+båktelit 	"båktet" V* TV Der1 Der/l V Imprt Pl2 	"båktet" V* TV Der1 Der/l V Inf 
+bålåstit 	"bålåstit" V IV Inf 
+båltåstit 	"båltåstit" V IV Imprt Pl2 	"båltåstit" V IV Inf 
+båltudit 	"bålltot" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"bålltot" V* TV Der1 Der/u/a/åd V Inf 
+båltodit 	"bålltot" V* TV Der1 Der/d V Imprt Pl2 	"bålltot" V* TV Der1 Der/d V Inf 
+bånåtjit 	"bådnet" V TV Sup 
+bånedit 	"bådnet" V* TV Der1 Der/d V Inf 	"bådnet" V* TV Der1 Der/d V Imprt Pl2 
+bånestit 	"bådnet" V* TV Der1 Der/st V Imprt Pl2 	"bådnet" V* TV Der1 Der/st V Inf 
+bånjådit 	"bånjådit" V TV Imprt Pl2 	"bånjådit" V TV Inf 
+bånjådit 	"bånjådit" V TV Imprt Pl2 	"bånjådit" V TV Inf 
+bånjåstit 	"bådnjåt" V* TV Der1 Der/st V Inf 	"bådnjåt" V* TV Der1 Der/st V Imprt Pl2 
+bårådit 	"bårådit" V TV Inf 	"bårådit" V TV Imprt Pl2 
+bårådit 	"bårådit" V TV Inf 	"bårådit" V TV Imprt Pl2 
+båråstit 	"båråstit" V TV Inf 	"båråstit" V TV Imprt Pl2 
+bårdåtjit 	"bårddet" V TV Sup 
+bårdestit 	"bårddet" V* TV Der1 Der/st V Imprt Pl2 	"bårddet" V* TV Der1 Der/st V Inf 
+bårddelit 	"bårddet" V* TV Der1 Der/l V Inf 	"bårddet" V* TV Der1 Der/l V Imprt Pl2 
+bårggålit 	"bårggålit" V TV Inf 	"bårggålit" V TV Imprt Pl2 
+bårgestit 	"bårgestit" V IV Imprt Pl2 	"bårgestit" V IV Inf 
+bårgodit 	"bårggot" V* IV Der1 Der/d V Imprt Pl2 	"bårggot" V* IV Der1 Der/d V Inf 
+bårjåstit 	"bårjåstit" V IV Inf 	"bårjåstit" V IV Imprt Pl2 
+bårjjånit 	"bårjjånit" V IV Inf 	"bårjjånit" V IV Imprt Pl2 
+bårrålit 	"bårrålit" V TV Imprt Pl2 	"bårrålit" V TV Inf 
+bårsjudit 	"bårssjot" V* IV Der1 Der/u/a/åd V Inf 	"bårssjot" V* IV Der1 Der/u/a/åd V Imprt Pl2 
+bårsjodit 	"bårssjot" V* IV Der1 Der/d V Imprt Pl2 	"bårssjot" V* IV Der1 Der/d V Inf 
+båsåstit 	"båsåstit" V TV Imprt Pl2 	"båsåstit" V TV Inf 
+båsudit 	"båssot" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"båssot" V* TV Der1 Der/u/a/åd V Inf 
+båssolit 	"båssot" V* TV Der1 Der/l V Inf 	"båssot" V* TV Der1 Der/l V Imprt Pl2 
+båsodit 	"båssot" V* TV Der1 Der/d V Imprt Pl2 	"båssot" V* TV Der1 Der/d V Inf 
+bådnjålit 	"bådnjålit" V TV Imprt Pl2 	"bådnjålit" V TV Inf 
+bådnjåsit 	"bådnjåsit" V IV Imprt Pl2 	"bådnjåsit" V IV Inf 
+båvtåtjit 	"båktet" V TV Sup 
+båvtedit 	"båktet" V* TV Der1 Der/d V Imprt Pl2 	"båktet" V* TV Der1 Der/d V Inf 
+båtjestit 	"båtjestit" V TV Imprt Pl2 	"båtjestit" V TV Inf 
+båtjedit 	"båhtjet" V* TV Der1 Der/d V Imprt Pl2 	"båhtjet" V* TV Der1 Der/d V Inf 
+båtjestit 	"båtjestit" V TV Imprt Pl2 	"båtjestit" V TV Inf 
+buktalit 	"buktalit" V TV Imprt Pl2 	"buktalit" V TV Inf 
+buktelit 	"buktet" V* TV Der1 Der/l V Imprt Pl2 	"buktet" V* TV Der1 Der/l V Inf 
+bultjedit 	"bultjedit" V IV Imprt Pl2 	"bultjedit" V IV Inf 
+buojddodit 	"buojddodit" V TV Inf 	"buojddodit" V TV Imprt Pl2 
+buojddolit 	"buojddot" V* IV Der1 Der/l V Imprt Pl2 	"buojddot" V* IV Der1 Der/l V Inf 
+buoktjalit 	"buoktjat" V* IV Der1 Der/l V Inf 	"buoktjat" V* IV Der1 Der/l V Imprt Pl2 
+buolládit 	"buollát" V* IV Der1 Der/d V Imprt Pl2 	"buollát" V* IV Der1 Der/d V Inf 
+buolatjit 	"buolatjit" V IV Inf 	"buolatjit" V IV Imprt Pl2 
+buolestit 	"buollet" V* IV Der1 Der/st V Inf 	"buollet" V* IV Der1 Der/st V Imprt Pl2 
+buollelit 	"buollet" V* IV Der1 Der/l V Imprt Pl2 	"buollet" V* IV Der1 Der/l V Inf 
+buonjostit 	"buonjostit" V TV Inf 	"buonjostit" V TV Imprt Pl2 
+buonjodit 	"buonjodit" V TV Inf 	"buonjodit" V TV Imprt Pl2 
+buonjostit 	"buonjostit" V TV Inf 	"buonjostit" V TV Imprt Pl2 
+buoredit 	"buoredit" V TV Imprt Pl2 	"buoredit" V TV Inf 
+buorránit 	"buorránit" V IV Inf 	"buorránit" V IV Imprt Pl2 
+buorástahttalit 	"buorástahttalit" V TV Imprt Pl2 	"buorástahttalit" V TV Inf 
+buovtjadit 	"buoktjat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"buoktjat" V* IV Der1 Der/d V Inf 	"buoktjat" V* IV Der1 Der/u/a/åd V Inf 	"buoktjat" V* IV Der1 Der/d V Imprt Pl2 
+buovtjadit 	"buoktjat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"buoktjat" V* IV Der1 Der/d V Inf 	"buoktjat" V* IV Der1 Der/u/a/åd V Inf 	"buoktjat" V* IV Der1 Der/d V Imprt Pl2 
+buotsadit 	"buohtsat" V* IV Der1 Der/d V Imprt Pl2 	"buohtsat" V* IV Der1 Der/u/a/åd V Inf 	"buohtsat" V* IV Der1 Der/d V Inf 	"buohtsat" V* IV Der1 Der/u/a/åd V Imprt Pl2 
+buotsadit 	"buohtsat" V* IV Der1 Der/d V Imprt Pl2 	"buohtsat" V* IV Der1 Der/u/a/åd V Inf 	"buohtsat" V* IV Der1 Der/d V Inf 	"buohtsat" V* IV Der1 Der/u/a/åd V Imprt Pl2 
+buotsastit 	"buohtsat" V* IV Der1 Der/st V Imprt Pl2 	"buohtsat" V* IV Der1 Der/st V Inf 
+buododit 	"buodot" V* TV Der1 Der/d V Imprt Pl2 	"buodot" V* TV Der1 Der/d V Inf 
+buossjodit 	"buossjodit" V TV Imprt Pl2 	"buossjodit" V TV Inf 
+buossjodit 	"buossjodit" V TV Imprt Pl2 	"buossjodit" V TV Inf 
+buossjolit 	"buossjot" V* IV Der1 Der/l V Imprt Pl2 	"buossjot" V* IV Der1 Der/l V Inf 
+buskedit 	"buskedit" V IV Imprt Pl2 	"buskedit" V IV Inf 
+buvvudit 	"buvvut" V* Der1 Der/d V Inf 	"buvvut" V* Der1 Der/d V Imprt Pl2 
+buvedit 	"buvvet" V* TV Der1 Der/d V Imprt Pl2 	"buvvet" V* TV Der1 Der/d V Inf 
+buvtadit 	"buvtadit" V TV Imprt Pl2 	"buvtadit" V TV Inf 
+buvtedit 	"buktet" V* TV Der1 Der/d V Inf 	"buktet" V* TV Der1 Der/d V Imprt Pl2 
+buvtestit 	"buktet" V* TV Der1 Der/st V Imprt Pl2 	"buktet" V* TV Der1 Der/st V Inf 
+buvtedit 	"buktet" V* TV Der1 Der/d V Inf 	"buktet" V* TV Der1 Der/d V Imprt Pl2 
+budáldit 	"budáldit" V IV Imprt Pl2 	"budáldit" V IV Inf 
+bággidit 	"bággit" V* TV Der1 Der/d V Inf 	"bággit" V* TV Der1 Der/d V Imprt Pl2 
+báhtsadit 	"báhtsadit" V TV Imprt Pl2 	"báhtsadit" V TV Inf 
+báhtsadit 	"báhtsadit" V TV Imprt Pl2 	"báhtsadit" V TV Inf 
+báhtselit 	"báhtset" V* IV Der1 Der/l V Imprt Pl2 	"báhtset" V* IV Der1 Der/l V Inf 
+báhkadit 	"báhkadit" V TV Imprt Pl2 	"báhkadit" V TV Inf 
+báhkkanit 	"báhkkanit" V IV Inf 	"báhkkanit" V IV Imprt Pl2 
+báhkkudit 	"báhkkut" V* TV Der1 Der/d V Imprt Pl2 	"báhkkut" V* TV Der1 Der/d V Inf 
+báhtarit 	"báhtarit" V IV Imprt Pl2 	"báhtarit" V IV Inf 
+bájnestit 	"bájnnet" V* TV Der1 Der/st V Inf 	"bájnnet" V* TV Der1 Der/st V Imprt Pl2 
+bájnedit 	"bájnedit" V TV Imprt Pl2 	"bájnedit" V TV Inf 
+bájttelit 	"bájttel" A* Adv 
+bájttustit 	"bájttut" V* Der1 Der/st V Imprt Pl2 	"bájttut" V* Der1 Der/st V Inf 
+bájtestit 	"bájttet" V* TV Der1 Der/st V Imprt Pl2 	"bájttet" V* TV Der1 Der/st V Inf 
+bájtedit 	"bájttet" V* TV Der1 Der/d V Inf 	"bájttet" V* TV Der1 Der/d V Imprt Pl2 
+bállidit 	"bállit" V* IV Der1 Der/d V Imprt Pl2 	"bállit" V* IV Der1 Der/d V Inf 
+bálggalit 	"bálggat" V* IV Der1 Der/l V Inf 	"bálggat" V* IV Der1 Der/l V Imprt Pl2 
+bálgadit 	"bálggat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"bálggat" V* IV Der1 Der/u/a/åd V Inf 	"bálggat" V* IV Der1 Der/d V Imprt Pl2 	"bálggat" V* IV Der1 Der/d V Inf 
+bálgadit 	"bálggat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"bálggat" V* IV Der1 Der/u/a/åd V Inf 	"bálggat" V* IV Der1 Der/d V Imprt Pl2 	"bálggat" V* IV Der1 Der/d V Inf 
+bálkkistit 	"bálkkit" V* TV Der1 Der/st V Inf 	"bálkkit" V* TV Der1 Der/st V Imprt Pl2 
+bálkudit 	"bálkkot" V* TV Der1 Der/u/a/åd V Inf 	"bálkkot" V* TV Der1 Der/u/a/åd V Imprt Pl2 
+bálkkolit 	"bálkkot" V* TV Der1 Der/l V Imprt Pl2 	"bálkkot" V* TV Der1 Der/l V Inf 
+bálkkásit 	"bálkká" N Sg Ill PxSg2 
+bárdestit 	"bárddet" V* TV Der1 Der/st V Inf 	"bárddet" V* TV Der1 Der/st V Imprt Pl2 
+bárddelit 	"bárddelit" V TV Inf 	"bárddelit" V TV Imprt Pl2 
+báttastit 	"báddat" V* TV Der1 Der/st V Imprt Pl2 	"báddat" V* TV Der1 Der/st V Inf 
+bávkkalit 	"bávkkalit" V TV Imprt Pl2 	"bávkkalit" V TV Inf 
+bávkedit 	"bávkedit" V IV Inf 	"bávkedit" V IV Imprt Pl2 
+bávkedit 	"bávkedit" V IV Inf 	"bávkedit" V IV Imprt Pl2 
+bávkodit 	"bávkodit" V TV Imprt Pl2 	"bávkodit" V TV Inf 
+bávtjastit 	"báktjat" V* IV Der1 Der/st V Inf 	"báktjat" V* IV Der1 Der/st V Imprt Pl2 
+bátsestit 	"báhtset" V* IV Der1 Der/st V Inf 	"báhtset" V* IV Der1 Der/st V Imprt Pl2 
+bátsedit 	"bátsedit" V TV Imprt Pl2 	"bátsedit" V TV Inf 
+bátsestit 	"báhtset" V* IV Der1 Der/st V Inf 	"báhtset" V* IV Der1 Der/st V Imprt Pl2 
+tsagádit 	"tsahkat" V* IV Der1 Der/d V Imprt Pl2 	"tsahkat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"tsahkat" V* IV Der1 Der/u/a/åd V Inf 	"tsahkat" V* IV Der1 Der/d V Inf 
+tsaggasit 	"tsaggasit" V IV Inf 	"tsaggasit" V IV Imprt Pl2 	"tsakkas" A* Adv 
+tsahkkidit 	"tsahkkidit" V TV Imprt Pl2 	"tsahkkidit" V TV Inf 
+tsakkadit 	"tsaggat" V* TV Der1 Der/d V Imprt Pl2 	"tsaggat" V* TV Der1 Der/d V Inf 	"tsaggat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"tsaggat" V* TV Der1 Der/u/a/åd V Inf 
+tsakkastit 	"tsakkastit" V TV Imprt Pl2 	"tsakkastit" V TV Inf 
+tsavedit 	"tsavvet" V* IV Der1 Der/d V Imprt Pl2 	"tsavvet" V* IV Der1 Der/d V Inf 
+tsavkedit 	"tsavkedit" V IV Inf 	"tsavkedit" V IV Imprt Pl2 
+tsieggadit 	"tsieggadit" V TV Imprt Pl2 	"tsieggadit" V TV Inf 
+tsieggadit 	"tsieggadit" V TV Imprt Pl2 	"tsieggadit" V TV Inf 
+tsiekkastit 	"tsieggat" V* IV Der1 Der/st V Inf 	"tsieggat" V* IV Der1 Der/st V Imprt Pl2 
+tsehkudit 	"tsehkudit" V IV Imprt Pl2 	"tsehkudit" V IV Inf 
+tsibbmalit 	"tsibbmat" V* TV Der1 Der/l V Inf 	"tsibbmat" V* TV Der1 Der/l V Imprt Pl2 
+tsiebadit 	"tsiehpat" V* TV Der1 Der/d V Imprt Pl2 	"tsiehpat" V* TV Der1 Der/d V Inf 	"tsiehpat" V* TV Der1 Der/u/a/åd V Inf 	"tsiehpat" V* TV Der1 Der/u/a/åd V Imprt Pl2 
+tsiebastit 	"tsiebastit" V TV Imprt Pl2 	"tsiebastit" V TV Inf 
+tsieggadit 	"tsieggadit" V TV Imprt Pl2 	"tsieggadit" V TV Inf 
+tsiekkadit 	"tsiekkadit" V IV Imprt Pl2 	"tsiekkadit" V IV Inf 
+tsiekkadit 	"tsiekkadit" V IV Imprt Pl2 	"tsiekkadit" V IV Inf 
+tsiekkastit 	"tsieggat" V* IV Der1 Der/st V Inf 	"tsieggat" V* IV Der1 Der/st V Imprt Pl2 
+tsiekkedit 	"tsiekkedit" V IV Imprt Pl2 	"tsiekkedit" V IV Inf 
+tsieladit 	"tsieladit" V TV Imprt Pl2 	"tsieladit" V TV Inf 
+tsieladit 	"tsieladit" V TV Imprt Pl2 	"tsieladit" V TV Inf 
+tsihpputjit 	"tsihpat" V* IV Der/Pass V Sup 
+tsibmastit 	"tsibbmat" V* TV Der1 Der/st V Imprt Pl2 	"tsibbmat" V* TV Der1 Der/st V Inf 
+tsirggalit 	"tsirggalit" V TV Inf 	"tsirggalit" V TV Imprt Pl2 
+tsirgodit 	"tsirgodit" V TV Inf 	"tsirgodit" V TV Imprt Pl2 
+tsivkestit 	"tsivkket" V* IV Der1 Der/st V Inf 	"tsivkket" V* IV Der1 Der/st V Imprt Pl2 
+tsivnijdit 	"tsivnijdit" V IV Inf 	"tsivnijdit" V IV Imprt Pl2 
+tsoagostit 	"tsoahkot" V* IV Der1 Der/st V Inf 	"tsoahkot" V* IV Der1 Der/st V Imprt Pl2 
+tsoagodit 	"tsoagodit" V TV Imprt Pl2 	"tsoagodit" V TV Inf 
+tsoahkodit 	"tsoahkodit" V TV Inf 	"tsoahkodit" V TV Imprt Pl2 
+tsoahkodit 	"tsoahkodit" V TV Inf 	"tsoahkodit" V TV Imprt Pl2 
+tsoahkolit 	"tsoahkolit" V IV Inf 	"tsoahkolit" V IV Imprt Pl2 
+tsåggålit 	"tsåggålit" V TV Imprt Pl2 	"tsåggålit" V TV Inf 
+tsåjtsestit 	"tsåjtsestit" V IV Imprt Pl2 	"tsåjtsestit" V IV Inf 
+tsåkkådit 	"tsåkkådit" V TV Imprt Pl2 	"tsåkkådit" V TV Inf 
+tsuovkkanit 	"tsuovkkanit" V IV Imprt Pl2 	"tsuovkkanit" V IV Inf 
+tsuovkodit 	"tsuovkodit" V TV Imprt Pl2 	"tsuovkodit" V TV Inf 
+tsuskedit 	"tsuskedit" V IV Imprt Pl2 	"tsuskedit" V IV Inf 
+tsuvkedit 	"tsuvkket" V* TV Der1 Der/d V Inf 	"tsuvkket" V* TV Der1 Der/d V Imprt Pl2 
+tsábbmelit 	"tsábbmet" V* TV Der1 Der/l V Inf 	"tsábbmet" V* TV Der1 Der/l V Imprt Pl2 
+tsáhkastit 	"tsáhkkat" V* IV Der1 Der/st V Imprt Pl2 	"tsáhkkat" V* IV Der1 Der/st V Inf 
+tsáhpalit 	"tsáhpat" V* TV Der1 Der/l V Imprt Pl2 	"tsáhpat" V* TV Der1 Der/l V Inf 
+tsábmatjit 	"tsábmatjit" V TV Imprt Pl2 	"tsábmatjit" V TV Inf 
+dadjalit 	"dadjalit" V IV Inf 	"dadjalit" V IV Imprt Pl2 
+dagádit 	"dagádit" V TV Inf 	"dagádit" V TV Imprt Pl2 
+dagádit 	"dagádit" V TV Inf 	"dagádit" V TV Imprt Pl2 
+dahkalit 	"dahkat" V* TV Der1 Der/l V Imprt Pl2 	"dahkat" V* TV Der1 Der/l V Inf 
+dahppasit 	"dahppasit" V IV Inf 	"dahpas" A* Adv 	"dahppasit" V IV Imprt Pl2 
+dajádit 	"dadjat" V* TV Der1 Der/d V Imprt Pl2 	"dadjat" V* TV Der1 Der/d V Inf 	"dadjat" V* TV Der1 Der/u/a/åd V Inf 	"dadjat" V* TV Der1 Der/u/a/åd V Imprt Pl2 
+darvvalit 	"darvvat" V* TV Der1 Der/l V Imprt Pl2 	"darvvat" V* TV Der1 Der/l V Inf 
+dasádit 	"dassat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"dassat" V* TV Der1 Der/u/a/åd V Inf 	"dassat" V* TV Der1 Der/d V Imprt Pl2 	"dassat" V* TV Der1 Der/d V Inf 
+dassalit 	"dassalit" V TV Imprt Pl2 	"dassalit" V TV Inf 
+davedit 	"davedit" V TV Imprt Pl2 	"davedit" V TV Inf 
+davkadit 	"davkkat" V* TV Der1 Der/d V Inf 	"davkkat" V* TV Der1 Der/d V Imprt Pl2 	"davkkat" V* TV Der1 Der/u/a/åd V Inf 	"davkkat" V* TV Der1 Der/u/a/åd V Imprt Pl2 
+davkastit 	"davkkat" V* TV Der1 Der/st V Inf 	"davkkat" V* TV Der1 Der/st V Imprt Pl2 
+davvánit 	"davvánit" V IV Imprt Pl2 	"davvánit" V IV Inf 
+dieddelit 	"dieddelit" V TV Imprt Pl2 	"dieddelit" V TV Inf 
+dieddelit 	"dieddelit" V TV Imprt Pl2 	"dieddelit" V TV Inf 
+dæddásit 	"dieddet" V* TV Der3 Actor N Sg Ill PxSg2 
+dierredit 	"dierredit" V TV Inf 	"dierredit" V TV Imprt Pl2 
+diettedit 	"dieddet" V* TV Der1 Der/d V Inf 	"dieddet" V* TV Der1 Der/d V Imprt Pl2 
+dievdedit 	"dievddet" V* TV Der1 Der/d V Inf 	"dievddet" V* TV Der1 Der/d V Imprt Pl2 
+dievddelit 	"dievddet" V* TV Der1 Der/l V Imprt Pl2 	"dievddet" V* TV Der1 Der/l V Inf 
+dieverdit 	"dieverdit" V IV Inf 	"dieverdit" V IV Imprt Pl2 
+deludit 	"dællot" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"dællot" V* IV Der1 Der/u/a/åd V Inf 
+diehtalit 	"diehtalit" V TV Inf 	"diehtalit" V TV Imprt Pl2 
+diededit 	"diededit" V TV Imprt Pl2 	"diededit" V TV Inf 
+dimátjit 	"dibmat" V IV Sup 
+dibmadit 	"dibmadit" V TV Imprt Pl2 	"dibmadit" V TV Inf 
+divudit 	"divudit" V IV Imprt Pl2 	"divudit" V IV Inf 
+divrrodit 	"divrrodit" V TV Imprt Pl2 	"divrrodit" V TV Inf 
+divtestit 	"diktet" V* TV Der1 Der/st V Inf 	"diktet" V* TV Der1 Der/st V Imprt Pl2 
+divtátjit 	"diktet" V TV Sup 
+divodit 	"divodit" V TV Inf 	"divodit" V TV Imprt Pl2 
+divostit 	"divvot" V* TV Der1 Der/st V Imprt Pl2 	"divvot" V* TV Der1 Der/st V Inf 
+divvolit 	"divvot" V* TV Der1 Der/l V Inf 	"divvot" V* TV Der1 Der/l V Imprt Pl2 
+doadjelit 	"doadjet" V* TV Der1 Der/l V Inf 	"doadjet" V* TV Der1 Der/l V Imprt Pl2 
+doahpolit 	"doahpolit" V TV Imprt Pl2 	"doahpolit" V TV Inf 
+doajvodit 	"doajvvot" V* TV Der1 Der/d V Imprt Pl2 	"doajvvot" V* TV Der1 Der/d V Inf 
+doajestit 	"doadjet" V* TV Der1 Der/st V Inf 	"doadjet" V* TV Der1 Der/st V Imprt Pl2 
+dåladit 	"dållat" V* TV Der1 Der/d V Inf 	"dållat" V* TV Der1 Der/u/a/åd V Inf 	"dållat" V* TV Der1 Der/d V Imprt Pl2 	"dållat" V* TV Der1 Der/u/a/åd V Imprt Pl2 
+dåladit 	"dållat" V* TV Der1 Der/d V Inf 	"dållat" V* TV Der1 Der/u/a/åd V Inf 	"dållat" V* TV Der1 Der/d V Imprt Pl2 	"dållat" V* TV Der1 Der/u/a/åd V Imprt Pl2 
+doalvvolit 	"doalvvolit" V TV Imprt Pl2 	"doalvvolit" V TV Inf 
+doalvodit 	"doalvodit" V TV Inf 	"doalvodit" V TV Imprt Pl2 
+dåmadit 	"dåmadit" V TV Imprt Pl2 	"dåmadit" V TV Inf 
+doargestit 	"doargestit" V IV Inf 	"doargestit" V IV Imprt Pl2 
+doarestit 	"doarestit" V IV Inf 	"doarestit" V IV Imprt Pl2 
+doarjjalit 	"doarjjalit" V TV Imprt Pl2 	"doarjjalit" V TV Inf 
+doarjodit 	"doarjodit" V TV Imprt Pl2 	"doarjodit" V TV Inf 
+doarostit 	"doarrot" V* IV Der1 Der/st V Imprt Pl2 	"doarrot" V* IV Der1 Der/st V Inf 
+doarredit 	"doarredit" V TV Imprt Pl2 	"doarredit" V TV Inf 
+doarredit 	"doarredit" V TV Imprt Pl2 	"doarredit" V TV Inf 
+doarodit 	"doarrot" V* IV Der1 Der/d V Imprt Pl2 	"doarrot" V* IV Der1 Der/d V Inf 
+dåbådit 	"dåbådit" V IV Inf 	"dåbådit" V IV Imprt Pl2 
+dåbudit 	"doahpot" V* TV Der1 Der/u/a/åd V Inf 	"doahpot" V* TV Der1 Der/u/a/åd V Imprt Pl2 
+dådjålit 	"dådjålit" V TV Inf 	"dådjålit" V TV Imprt Pl2 
+dåhkkidit 	"dåhkkidit" V TV Imprt Pl2 	"dåhkkidit" V TV Inf 
+dåjdåtjit 	"dåjddet" V TV Sup 
+dåjdestit 	"dåjdestit" V TV Imprt Pl2 	"dåjdestit" V TV Inf 
+dåjddelit 	"dåjddelit" V TV Inf 	"dåjddelit" V TV Imprt Pl2 
+dåjvudit 	"doajvvot" V* TV Der1 Der/u/a/åd V Inf 	"doajvvot" V* TV Der1 Der/u/a/åd V Imprt Pl2 
+dållidit 	"dållidit" V TV Inf 	"dållidit" V TV Imprt Pl2 
+dållistit 	"dållit" V* TV Der1 Der/st V Imprt Pl2 	"dållit" V* TV Der1 Der/st V Inf 
+dålvudit 	"dålvudit" V TV Inf 	"dålvudit" V TV Imprt Pl2 
+dåppedit 	"dåppedit" V TV Inf 	"dåppedit" V TV Imprt Pl2 
+dårrånit 	"dårrånit" V IV Imprt Pl2 	"dårrånit" V IV Inf 
+dårjudit 	"doarjjot" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"doarjjot" V* TV Der1 Der/u/a/åd V Inf 
+dårudit 	"doarrot" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"doarrot" V* IV Der1 Der/u/a/åd V Inf 
+dårrånit 	"dårrånit" V IV Imprt Pl2 	"dårrånit" V IV Inf 
+duhtadit 	"duhtadit" V TV Imprt Pl2 	"duhtadit" V TV Inf 
+dulvvadit 	"dulvvadit" V TV Inf 	"dulvvadit" V TV Imprt Pl2 
+dulvvalit 	"dulvvat" V* IV Der1 Der/l V Inf 	"dulvvat" V* IV Der1 Der/l V Imprt Pl2 
+dulvastit 	"dulvvat" V* IV Der1 Der/st V Inf 	"dulvvat" V* IV Der1 Der/st V Imprt Pl2 
+duobbánit 	"duobbánit" V IV Imprt Pl2 	"duobbánit" V IV Inf 
+duohpanit 	"duohpanit" V IV Imprt Pl2 	"duohpanit" V IV Inf 
+duohtadit 	"duohtadit" V TV Inf 	"duohtadit" V TV Imprt Pl2 
+duogŋadit 	"duogŋadit" V TV Inf 	"duogŋadit" V TV Imprt Pl2 
+duolbagit 	"duolbak" A* Adv 
+duolldalit 	"duolldat" V* IV Der1 Der/l V Inf 	"duolldat" V* IV Der1 Der/l V Imprt Pl2 
+duoldadit 	"duoldadit" V TV Imprt Pl2 	"duoldadit" V TV Inf 
+duoldadit 	"duoldadit" V TV Imprt Pl2 	"duoldadit" V TV Inf 
+duoldatjit 	"duolldat" V IV Sup 
+duolmastit 	"duolmastit" V TV Inf 	"duolmastit" V TV Imprt Pl2 
+duolvvadit 	"duolvvadit" V TV Imprt Pl2 	"duolvvadit" V TV Inf 
+duolvatjit 	"duolvvat" V IV Sup 
+duoppedit 	"duoppedit" V TV Imprt Pl2 	"duoppedit" V TV Inf 
+duoradit 	"duorrat" V* TV Der1 Der/u/a/åd V Inf 	"duorrat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"duorrat" V* TV Der1 Der/d V Imprt Pl2 	"duorrat" V* TV Der1 Der/d V Inf 
+duorralit 	"duorrat" V* TV Der1 Der/l V Imprt Pl2 	"duorrat" V* TV Der1 Der/l V Inf 
+duodastit 	"duodastit" V TV Inf 	"duodastit" V TV Imprt Pl2 
+duvddelit 	"duvddet" V* TV Der1 Der/l V Inf 	"duvddet" V* TV Der1 Der/l V Imprt Pl2 
+duvkestit 	"duvkestit" V IV Imprt Pl2 	"duvkestit" V IV Inf 
+dudádit 	"duhtat" V* IV Der1 Der/u/a/åd V Inf 	"duhtat" V* IV Der1 Der/d V Imprt Pl2 	"duhtat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"duhtat" V* IV Der1 Der/d V Inf 
+dábbánit 	"dábbánit" V IV Imprt Pl2 	"dábbánit" V IV Inf 
+dádjadit 	"dádjadit" V TV Imprt Pl2 	"dádjadit" V TV Inf 
+dájudit 	"dádjot" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"dádjot" V* IV Der1 Der/u/a/åd V Inf 
+dájodit 	"dádjot" V* IV Der1 Der/d V Imprt Pl2 	"dádjot" V* IV Der1 Der/d V Inf 
+dállidit 	"dállit" V* TV Der1 Der/d V Imprt Pl2 	"dállit" V* TV Der1 Der/d V Inf 
+dálkastit 	"dálkastit" V TV Imprt Pl2 	"dálkastit" V TV Inf 
+dálkudit 	"dálkudit" V TV Inf 	"dálkudit" V TV Imprt Pl2 
+dálvadit 	"dálvadit" V IV Imprt Pl2 	"dálvadit" V IV Inf 
+dáppedit 	"dáppedit" V TV Inf 	"dáppedit" V TV Imprt Pl2 
+dárkestit 	"dárkestit" V TV Inf 	"dárkestit" V TV Imprt Pl2 
+dássedit 	"dássedit" V TV Imprt Pl2 	"dássedit" V TV Inf 
+iehpedit 	"iehpedit" V TV Imprt Pl2 	"iehpedit" V TV Inf 
+ælládit 	"ælládit" V TV Inf 	"ælládit" V TV Imprt Pl2 
+ieledit 	"ieledit" V TV Inf 	"ieledit" V TV Imprt Pl2 
+ællásit 	"ielle" N Sg Ill PxSg2 	"iellet" V* TV Der3 Actor N Sg Ill PxSg2 
+ienedit 	"ienedit" V TV Inf 	"ienedit" V TV Imprt Pl2 
+ærránit 	"ærránit" V IV Inf 	"ærránit" V IV Imprt Pl2 
+ellusit 	"ællo" N Sg Ill PxSg2 
+ettudit 	"æddot" V* IV Der1 Der/u/a/åd V Inf 	"æddot" V* IV Der1 Der/u/a/åd V Imprt Pl2 
+fuojkadit 	"fuojkadit" V IV Imprt Pl2 	"fuojkadit" V IV Inf 
+fággádit 	"fággádit" V IV Imprt Pl2 	"fággádit" V IV Inf 
+fállalit 	"fállat" V* TV Der1 Der/l V Imprt Pl2 	"fállat" V* TV Der1 Der/l V Inf 
+fábmodit 	"fábmodit" V TV Imprt Pl2 	"fábmodit" V TV Inf 
+gabedit 	"gahpet" V* TV Der1 Der/d V Imprt Pl2 	"gahpet" V* TV Der1 Der/d V Inf 
+gattsadit 	"gadtsat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"gadtsat" V* TV Der1 Der/d V Imprt Pl2 	"gadtsat" V* TV Der1 Der/d V Inf 	"gadtsat" V* TV Der1 Der/u/a/åd V Inf 
+gattsastit 	"gattsastit" V TV Inf 	"gattsastit" V TV Imprt Pl2 
+gahtjadit 	"gahtjadit" V TV Inf 	"gahtjadit" V TV Imprt Pl2 
+gahtjadit 	"gahtjadit" V TV Inf 	"gahtjadit" V TV Imprt Pl2 
+gahtjalit 	"gahtjalit" V TV Imprt Pl2 	"gahtjalit" V TV Inf 
+gajkedit 	"gajkedit" V TV Imprt Pl2 	"gajkedit" V TV Inf 
+gajkedit 	"gajkedit" V TV Imprt Pl2 	"gajkedit" V TV Inf 
+gajkudit 	"gajkudit" V TV Imprt Pl2 	"gajkudit" V TV Inf 
+gajkodit 	"gajkkot" V* TV Der1 Der/d V Inf 	"gajkkot" V* TV Der1 Der/d V Imprt Pl2 
+gajkkudit 	"gajkkut" V* Der1 Der/d V Inf 	"gajkkut" V* Der1 Der/d V Imprt Pl2 
+gallidit 	"gallidit" V TV Inf 	"gallidit" V TV Imprt Pl2 
+gallidit 	"gallidit" V TV Inf 	"gallidit" V TV Imprt Pl2 
+gallánit 	"gallánit" V IV Imprt Pl2 	"gallánit" V IV Inf 
+galmmudit 	"galmmut" V* Der1 Der/d V Inf 	"galmmut" V* Der1 Der/d V Imprt Pl2 
+galmestit 	"galmestit" V IV Inf 	"galmestit" V IV Imprt Pl2 
+galmedit 	"galmmet" V* IV Der1 Der/d V Imprt Pl2 	"galmmet" V* IV Der1 Der/d V Inf 
+galmestit 	"galmestit" V IV Inf 	"galmestit" V IV Imprt Pl2 
+ganástit 	"ganástit" V IV Imprt Pl2 	"ganástit" V IV Inf 
+ganjáldit 	"ganjáldit" V IV Imprt Pl2 	"ganjáldit" V IV Inf 
+garádit 	"garádit" V TV Imprt Pl2 	"garádit" V TV Inf 
+garádit 	"garádit" V TV Imprt Pl2 	"garádit" V TV Inf 
+garttsasit 	"garttsa" N Sg Ill PxSg2 
+gartsastit 	"gartsastit" V TV Imprt Pl2 	"gartsastit" V TV Inf 
+garradit 	"garrat" V* IV Der1 Der/d V Inf 	"garrat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"garrat" V* IV Der1 Der/d V Imprt Pl2 	"garrat" V* IV Der1 Der/u/a/åd V Inf 
+garrodit 	"garrodit" V TV Inf 	"garrodit" V TV Imprt Pl2 
+garvvelit 	"garvvet" V* TV Der1 Der/l V Inf 	"garvvet" V* TV Der1 Der/l V Imprt Pl2 
+garvestit 	"garvvet" V* TV Der1 Der/st V Inf 	"garvvet" V* TV Der1 Der/st V Imprt Pl2 
+garvedit 	"garvvet" V* TV Der1 Der/d V Imprt Pl2 	"garvvet" V* TV Der1 Der/d V Inf 
+garvvásit 	"garvvet" V* TV Der3 Actor N Sg Ill PxSg2 
+gaskatjit 	"gasskat" V TV Sup 
+gaskostit 	"gaskostit" V TV Inf 	"gaskostit" V TV Imprt Pl2 
+gavtjadit 	"gavttjat" V* IV Der1 Der/u/a/åd V Inf 	"gavttjat" V* IV Der1 Der/d V Inf 	"gavttjat" V* IV Der1 Der/d V Imprt Pl2 	"gavttjat" V* IV Der1 Der/u/a/åd V Imprt Pl2 
+gavtjatjit 	"gavttjat" V IV Sup 
+gadtsasit 	"gadtsa" N Sg Ill PxSg2 
+gatjádit 	"gatjádit" V TV Inf 	"gatjádit" V TV Imprt Pl2 
+gatjádit 	"gatjádit" V TV Inf 	"gatjádit" V TV Imprt Pl2 
+giettsedit 	"giettsedit" V TV Inf 	"giettsedit" V TV Imprt Pl2 
+giehpedit 	"giehpedit" V TV Inf 	"giehpedit" V TV Imprt Pl2 
+giehpedit 	"giehpedit" V TV Inf 	"giehpedit" V TV Imprt Pl2 
+giehpedit 	"giehpedit" V TV Inf 	"giehpedit" V TV Imprt Pl2 
+giehpedit 	"giehpedit" V TV Inf 	"giehpedit" V TV Imprt Pl2 
+gæhppánit 	"gæhppánit" V IV Inf 	"gæhppánit" V IV Imprt Pl2 
+gielatjit 	"giellat" V TV Sup 
+gierdadit 	"gierddat" V* TV Der1 Der/d V Imprt Pl2 	"gierddat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"gierddat" V* TV Der1 Der/d V Inf 	"gierddat" V* TV Der1 Der/u/a/åd V Inf 
+gierdastit 	"gierddat" V* TV Der1 Der/st V Inf 	"gierddat" V* TV Der1 Der/st V Imprt Pl2 
+giesatjit 	"giessat" V TV Sup 
+giesedit 	"giesedit" V TV Imprt Pl2 	"giesedit" V TV Inf 
+giesedit 	"giesedit" V TV Imprt Pl2 	"giesedit" V TV Inf 
+gæssádit 	"gæssádit" V IV Imprt Pl2 	"gæssádit" V IV Inf 
+gæssásit 	"giesset" V* TV Der3 Actor N Sg Ill PxSg2 	"giesse" N Sg Ill PxSg2 
+gæsástit 	"gæsástit" V TV Inf 	"gæsástit" V TV Imprt Pl2 
+gietjedit 	"gietjedit" V IV Inf 	"gietjedit" V IV Imprt Pl2 
+gerdudit 	"gærddot" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"gærddot" V* TV Der1 Der/u/a/åd V Inf 
+germudit 	"germudit" V IV Inf 
+giddanit 	"giddanit" V IV Inf 	"giddanit" V IV Imprt Pl2 
+giebadit 	"giebadit" V TV Imprt Pl2 	"giebadit" V TV Inf 
+giehtadit 	"giehtadit" V TV Imprt Pl2 	"giehtadit" V TV Inf 
+gieldedit 	"gielldet" V* TV Der1 Der/d V Imprt Pl2 	"gielldet" V* TV Der1 Der/d V Inf 
+gielestit 	"gielestit" V TV Imprt Pl2 	"gielestit" V TV Inf 
+giemardit 	"giemardit" V TV Imprt Pl2 	"giemardit" V TV Inf 
+giesadit 	"giesadit" V IV Imprt Pl2 	"giesadit" V IV Inf 
+gievddadit 	"gievddadit" V TV Inf 	"gievddadit" V TV Imprt Pl2 
+gievrrodit 	"gievrrodit" V TV Imprt Pl2 	"gievrrodit" V TV Inf 
+gihpodit 	"gihpodit" V IV Inf 	"gihpodit" V IV Imprt Pl2 
+gijnadit 	"gijnnat" V* IV Der1 Der/d V Inf 	"gijnnat" V* IV Der1 Der/u/a/åd V Inf 	"gijnnat" V* IV Der1 Der/d V Imprt Pl2 	"gijnnat" V* IV Der1 Der/u/a/åd V Imprt Pl2 
+gijttalit 	"gijttalit" V TV Inf 	"gijttalit" V TV Imprt Pl2 
+gillásit 	"gille" N Sg Ill PxSg2 	"gillat" V* TV Der3 Actor N Sg Ill PxSg2 
+gilgudit 	"gilgudit" V IV Inf 	"gilgudit" V IV Imprt Pl2 
+gimádit 	"gibmat" V* IV Der1 Der/d V Imprt Pl2 	"gibmat" V* IV Der1 Der/d V Inf 	"gibmat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"gibmat" V* IV Der1 Der/u/a/åd V Inf 
+girdatjit 	"girdatjit" V IV Inf 	"girdatjit" V IV Imprt Pl2 
+girdedit 	"girddet" V* IV Der1 Der/d V Imprt Pl2 	"girddet" V* IV Der1 Der/d V Inf 
+girddelit 	"girddet" V* IV Der1 Der/l V Imprt Pl2 	"girddet" V* IV Der1 Der/l V Inf 
+girjodit 	"girjodit" V TV Imprt Pl2 	"girjodit" V TV Inf 
+girjodit 	"girjodit" V TV Imprt Pl2 	"girjodit" V TV Inf 
+givnjedit 	"givnjedit" V IV Inf 	"givnjedit" V IV Imprt Pl2 
+givsedit 	"givsedit" V TV Inf 	"givsedit" V TV Imprt Pl2 
+gissjalit 	"gissjat" V* IV Der1 Der/l V Imprt Pl2 	"gissjat" V* IV Der1 Der/l V Inf 
+goajkodit 	"goajkkot" V* IV Der1 Der/d V Imprt Pl2 	"goajkkot" V* IV Der1 Der/d V Inf 
+goajvvolit 	"goajvvolit" V TV Inf 	"goajvvolit" V TV Imprt Pl2 
+goalkkalit 	"goalkkalit" V TV Imprt Pl2 	"goalkkalit" V TV Inf 
+goalkodit 	"goalkodit" V TV Imprt Pl2 	"goalkodit" V TV Inf 
+goallodit 	"goallodit" V TV Imprt Pl2 	"goallodit" V TV Inf 
+goalodit 	"goallot" V* IV Der1 Der/d V Imprt Pl2 	"goallot" V* IV Der1 Der/d V Inf 
+goardestit 	"goarddet" V* TV Der1 Der/st V Inf 	"goarddet" V* TV Der1 Der/st V Imprt Pl2 
+goarddelit 	"goarddelit" V TV Inf 	"goarddelit" V TV Imprt Pl2 
+goarŋŋolit 	"goarŋŋot" V* TV Der1 Der/l V Inf 	"goarŋŋot" V* TV Der1 Der/l V Imprt Pl2 
+goaredit 	"goaredit" V TV Inf 	"goaredit" V TV Imprt Pl2 
+goarjjadit 	"goarjjadit" V IV Imprt Pl2 	"goarjjadit" V IV Inf 
+goarŋodit 	"goarŋŋot" V* TV Der1 Der/d V Imprt Pl2 	"goarŋŋot" V* TV Der1 Der/d V Inf 
+goarŋodit 	"goarŋŋot" V* TV Der1 Der/d V Imprt Pl2 	"goarŋŋot" V* TV Der1 Der/d V Inf 
+goarodit 	"goarodit" V TV Imprt Pl2 	"goarodit" V TV Inf 
+goastedit 	"goastedit" V TV Inf 	"goastedit" V TV Imprt Pl2 
+goastedit 	"goastedit" V TV Inf 	"goastedit" V TV Imprt Pl2 
+goasstodit 	"goasstodit" V TV Imprt Pl2 	"goasstodit" V TV Inf 
+gåtsadit 	"gåtsadit" V TV Imprt Pl2 	"gåtsadit" V TV Inf 
+gåtsastit 	"gåhtsat" V* TV Der1 Der/st V Inf 	"gåhtsat" V* TV Der1 Der/st V Imprt Pl2 
+gåbådit 	"gåhpåt" V* TV Der1 Der/d V Inf 	"gåhpåt" V* TV Der1 Der/d V Imprt Pl2 	"gåhpåt" V* TV Der1 Der/u/a/åd V Inf 	"gåhpåt" V* TV Der1 Der/u/a/åd V Imprt Pl2 
+gåddålit 	"gåddålit" V TV Inf 	"gåddålit" V TV Imprt Pl2 
+gåhpåsit 	"gåhpe" N Sg Ill PxSg2 
+gåhtjudit 	"gåhtjudit" V IV Imprt Pl2 	"gåhtjudit" V IV Inf 
+gåhtjodit 	"gåhttjot" V* TV Der1 Der/d V Inf 	"gåhttjot" V* TV Der1 Der/d V Imprt Pl2 
+gåjkkådit 	"gåjkkådit" V TV Imprt Pl2 	"gåjkkådit" V TV Inf 
+gåjkkålit 	"gåjkkåt" V* IV Der1 Der/l V Inf 	"gåjkkåt" V* IV Der1 Der/l V Imprt Pl2 
+gåjkådit 	"gåjkådit" V IV Inf 	"gåjkådit" V IV Imprt Pl2 
+gåjkudit 	"goajkkot" V* IV Der1 Der/u/a/åd V Inf 	"goajkkot" V* IV Der1 Der/u/a/åd V Imprt Pl2 
+gåjkåtjit 	"gåjkkåt" V IV Sup 
+gåjvudit 	"goajvvot" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"goajvvot" V* TV Der1 Der/u/a/åd V Inf 
+gållidit 	"gållit" V* TV Der1 Der/d V Imprt Pl2 	"gållit" V* TV Der1 Der/d V Inf 
+gålådit 	"gålådit" V TV Imprt Pl2 	"gålådit" V TV Inf 
+gålgådit 	"gålgådit" V TV Inf 	"gålgådit" V TV Imprt Pl2 
+gålgådit 	"gålgådit" V TV Inf 	"gålgådit" V TV Imprt Pl2 
+gålgijdit 	"gålgijdit" V IV Inf 	"gålgijdit" V IV Imprt Pl2 
+gållådit 	"gållådit" V TV Inf 	"gållådit" V TV Imprt Pl2 
+gåmedit 	"gåmedit" V TV Inf 	"gåmedit" V TV Imprt Pl2 
+gåmodit 	"gåmodit" V TV Inf 	"gåmodit" V TV Imprt Pl2 
+gåbmerdit 	"gåbmerdit" V IV Imprt Pl2 	"gåbmerdit" V IV Inf 
+gåbmånit 	"gåbmånit" V IV Inf 	"gåbmånit" V IV Imprt Pl2 
+gårjudit 	"goarjjot" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"goarjjot" V* IV Der1 Der/u/a/åd V Inf 
+gårŋudit 	"goarŋŋot" V* TV Der1 Der/u/a/åd V Inf 	"goarŋŋot" V* TV Der1 Der/u/a/åd V Imprt Pl2 
+gårudit 	"gårudit" V TV Imprt Pl2 	"gårudit" V TV Inf 
+gåsådit 	"gåsådit" V TV Inf 	"gåsådit" V TV Imprt Pl2 
+gåsådit 	"gåsådit" V TV Inf 	"gåsådit" V TV Imprt Pl2 
+gåsådit 	"gåsådit" V TV Inf 	"gåsådit" V TV Imprt Pl2 
+gåttåtjit 	"gåddet" V TV Sup 
+gåttedit 	"gåddet" V* TV Der1 Der/d V Inf 	"gåddet" V* TV Der1 Der/d V Imprt Pl2 
+gåvåstit 	"gåvåstit" V TV Inf 	"gåvåstit" V TV Imprt Pl2 
+gåvådit 	"gåvådit" V IV Inf 	"gåvådit" V IV Imprt Pl2 
+gåtsåtjit 	"gåhtset" V IV Sup 
+gåtsedit 	"gåtsedit" V TV Imprt Pl2 	"gåtsedit" V TV Inf 
+gåttjådit 	"gåttjådit" V IV Inf 	"gåttjådit" V IV Imprt Pl2 
+gåttjåstit 	"gådtjåt" V* IV Der1 Der/st V Imprt Pl2 	"gådtjåt" V* IV Der1 Der/st V Inf 
+gåddåsit 	"gådde" N Sg Ill PxSg2 
+guhkedit 	"guhkedit" V TV Inf 	"guhkedit" V TV Imprt Pl2 
+guhkátjit 	"guhkket" V IV Sup 
+gullustit 	"gullut" V* Der1 Der/st V Inf 	"gullut" V* Der1 Der/st V Imprt Pl2 
+guládit 	"guládit" V TV Imprt Pl2 	"guládit" V TV Inf 
+gulástit 	"gulástit" V TV Inf 	"gulástit" V TV Imprt Pl2 
+gulldalit 	"gulldalit" V TV Inf 	"gulldalit" V TV Imprt Pl2 
+guoddalit 	"guoddalit" V TV Imprt Pl2 	"guoddalit" V TV Inf 
+guokkardit 	"guokkardit" V IV Inf 	"guokkardit" V IV Imprt Pl2 
+guoktánit 	"guoktánit" V IV Inf 	"guoktánit" V IV Imprt Pl2 
+guoldostit 	"guolldot" V* IV Der1 Der/st V Inf 	"guolldot" V* IV Der1 Der/st V Imprt Pl2 
+guoradit 	"guoradit" V TV Imprt Pl2 	"guoradit" V TV Inf 
+guorastit 	"guorrat" V* TV Der1 Der/st V Inf 	"guorrat" V* TV Der1 Der/st V Imprt Pl2 
+guorbatjit 	"guorbbat" V IV Sup 
+guorrasit 	"guorrasit" V IV Inf 	"guorrasit" V IV Imprt Pl2 	"guorra" N Sg Ill PxSg2 
+guoskadit 	"guoskadit" V TV Imprt Pl2 	"guoskadit" V TV Inf 
+guossodit 	"guossodit" V TV Inf 	"guossodit" V TV Imprt Pl2 
+guottadit 	"guottadit" V TV Inf 	"guottadit" V TV Imprt Pl2 
+guottedit 	"guottedit" V TV Inf 	"guottedit" V TV Imprt Pl2 
+guottedit 	"guottedit" V TV Inf 	"guottedit" V TV Imprt Pl2 
+guovggadit 	"guovggat" A* Adv 
+guovllalit 	"guovllat" V* TV Der1 Der/l V Inf 	"guovllat" V* TV Der1 Der/l V Imprt Pl2 
+guovladit 	"guovladit" V TV Imprt Pl2 	"guovladit" V TV Inf 
+guovlastit 	"guovlastit" V TV Inf 	"guovlastit" V TV Imprt Pl2 
+guotsadit 	"guotsadit" V TV Imprt Pl2 	"guotsadit" V TV Inf 
+guodedit 	"guodet" V* TV Der1 Der/d V Inf 	"guodet" V* TV Der1 Der/d V Imprt Pl2 
+guododit 	"guododit" V TV Imprt Pl2 	"guododit" V TV Inf 
+gurridit 	"gurrit" V* TV Der1 Der/d V Inf 	"gurrit" V* TV Der1 Der/d V Imprt Pl2 
+gurristit 	"gurrit" V* TV Der1 Der/st V Imprt Pl2 	"gurrit" V* TV Der1 Der/st V Inf 
+gurggalit 	"gurggalit" V TV Inf 	"gurggalit" V TV Imprt Pl2 
+gurgijdit 	"gurgijdit" V IV Imprt Pl2 	"gurgijdit" V IV Inf 
+gurgestit 	"gurgestit" V IV Imprt Pl2 	"gurgestit" V IV Inf 
+gurgodit 	"gurgodit" V TV Imprt Pl2 	"gurgodit" V TV Inf 
+gáddánit 	"gáddánit" V IV Inf 	"gáddánit" V IV Imprt Pl2 
+gádjalit 	"gádjat" V* IV Der1 Der/l V Imprt Pl2 	"gádjat" V* IV Der1 Der/l V Inf 
+gággasit 	"gágga" N Sg Ill PxSg2 
+gáhtjadit 	"gáhtjadit" V TV Imprt Pl2 	"gáhtjadit" V TV Inf 
+gáhtjadit 	"gáhtjadit" V TV Imprt Pl2 	"gáhtjadit" V TV Inf 
+gáhttjalit 	"gáhttjat" V* IV Der1 Der/l V Inf 	"gáhttjat" V* IV Der1 Der/l V Imprt Pl2 
+gájbbedit 	"gájbbedit" V TV Imprt Pl2 	"gájbbedit" V TV Inf 
+gájddadit 	"gájddadit" V TV Inf 	"gájddadit" V TV Imprt Pl2 
+gájudit 	"gádjot" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"gádjot" V* TV Der1 Der/u/a/åd V Inf 
+gákkadit 	"gággat" V* TV Der1 Der/d V Imprt Pl2 	"gággat" V* TV Der1 Der/d V Inf 	"gággat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"gággat" V* TV Der1 Der/u/a/åd V Inf 
+gákkadit 	"gággat" V* TV Der1 Der/d V Imprt Pl2 	"gággat" V* TV Der1 Der/d V Inf 	"gággat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"gággat" V* TV Der1 Der/u/a/åd V Inf 
+gákkastit 	"gággat" V* TV Der1 Der/st V Imprt Pl2 	"gággat" V* TV Der1 Der/st V Inf 
+gálatjit 	"gállat" V IV Sup 	"gálatjit" V IV Imprt Pl2 	"gálatjit" V IV Inf 
+gálggalit 	"gálggat" V* TV Der1 Der/l V Inf 	"gálggat" V* TV Der1 Der/l V Imprt Pl2 
+gálgadit 	"gálggat" V* TV Der1 Der/d V Imprt Pl2 	"gálggat" V* TV Der1 Der/d V Inf 	"gálggat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"gálggat" V* TV Der1 Der/u/a/åd V Inf 
+gáledit 	"gáledit" V TV Imprt Pl2 	"gáledit" V TV Inf 
+gámudit 	"gámudit" V IV Imprt Pl2 	"gámudit" V IV Inf 
+gánnedit 	"gánnedit" V TV Imprt Pl2 	"gánnedit" V TV Inf 
+gánnedit 	"gánnedit" V TV Imprt Pl2 	"gánnedit" V TV Inf 
+gárdudit 	"gárddot" V* TV Der1 Der/u/a/åd V Inf 	"gárddot" V* TV Der1 Der/u/a/åd V Imprt Pl2 
+gárggalit 	"gárggalit" V TV Imprt Pl2 	"gárggalit" V TV Inf 
+gárgestit 	"gárgestit" V IV Inf 	"gárgestit" V IV Imprt Pl2 
+gárvedit 	"gárvedit" V TV Imprt Pl2 	"gárvedit" V TV Inf 
+gárvedit 	"gárvedit" V TV Imprt Pl2 	"gárvedit" V TV Inf 
+gárvodit 	"gárvodit" V TV Inf 	"gárvodit" V TV Imprt Pl2 
+gárvodit 	"gárvodit" V TV Inf 	"gárvodit" V TV Imprt Pl2 
+gárvvánit 	"gárvvánit" V IV Inf 	"gárvvánit" V IV Imprt Pl2 
+gártjedit 	"gártjedit" V TV Inf 	"gártjedit" V TV Imprt Pl2 
+gáskatjit 	"gáskatjit" V TV Imprt Pl2 	"gáskatjit" V TV Inf 
+gáskestit 	"gáskestit" V TV Inf 	"gáskestit" V TV Imprt Pl2 
+gáskestit 	"gáskestit" V TV Inf 	"gáskestit" V TV Imprt Pl2 
+gásskásit 	"gásskásit" V IV Imprt Pl2 	"gásskásit" V IV Inf 	"gássket" V* TV Der3 Actor N Sg Ill PxSg2 
+gáttedit 	"gáttedit" V TV Inf 	"gáttedit" V TV Imprt Pl2 
+gávnadit 	"gávnadit" V IV Imprt Pl2 	"gávnadit" V IV Inf 	"gávnadit" V TV Imprt Pl2 	"gávnadit" V TV Inf 
+gávnadit 	"gávnadit" V IV Imprt Pl2 	"gávnadit" V IV Inf 	"gávnadit" V TV Imprt Pl2 	"gávnadit" V TV Inf 
+gávvasit 	"gávva" N Sg Ill PxSg2 
+hartsastit 	"hartsastit" V TV Inf 	"hartsastit" V TV Imprt Pl2 
+hiejtedit 	"hiejtedit" V TV Inf 	"hiejtedit" V TV Imprt Pl2 
+hæjttásit 	"hiejttet" V* TV Der3 Actor N Sg Ill PxSg2 
+hielkedit 	"hielkedit" V IV Inf 	"hielkedit" V IV Imprt Pl2 
+hielkedit 	"hielkedit" V IV Inf 	"hielkedit" V IV Imprt Pl2 
+hieredit 	"hieredit" V TV Inf 	"hieredit" V TV Imprt Pl2 
+hedjunit 	"hedjunit" V IV Imprt Pl2 	"hedjunit" V IV Inf 
+hedjusit 	"hædjo" A Sg Ill PxSg2 
+hilgudit 	"hilggot" V* TV Der1 Der/u/a/åd V Inf 	"hilggot" V* TV Der1 Der/u/a/åd V Imprt Pl2 
+hibmodit 	"hibmodit" V TV Imprt Pl2 	"hibmodit" V TV Inf 
+håladit 	"hållat" V* TV Der1 Der/d V Inf 	"hållat" V* TV Der1 Der/d V Imprt Pl2 
+håhttsålit 	"håhttsålit" V TV Imprt Pl2 	"håhttsålit" V TV Inf 
+håhtsodit 	"håhtsodit" V TV Imprt Pl2 	"håhtsodit" V TV Inf 
+håhkkånit 	"håhkkånit" V IV Inf 	"håhkkånit" V IV Imprt Pl2 
+håjggådit 	"håjggådit" V TV Inf 	"håjggådit" V TV Imprt Pl2 
+håjgådit 	"håjgådit" V TV Imprt Pl2 	"håjgådit" V TV Inf 
+håjgådit 	"håjgådit" V TV Imprt Pl2 	"håjgådit" V TV Inf 
+hålvudit 	"hålvvot" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"hålvvot" V* IV Der1 Der/u/a/åd V Inf 
+hádjusit 	"hádjusit" V IV Inf 	"hádjusit" V IV Imprt Pl2 
+hádjánit 	"hádjánit" V IV Imprt Pl2 	"hádjánit" V IV Inf 
+háhppidit 	"háhppidit" V IV Imprt Pl2 	"háhppidit" V IV Inf 
+hálbedit 	"hálbedit" V TV Inf 	"hálbedit" V TV Imprt Pl2 
+hálbedit 	"hálbedit" V TV Inf 	"hálbedit" V TV Imprt Pl2 
+háldadit 	"háldadit" V TV Inf 	"háldadit" V TV Imprt Pl2 
+háldatjit 	"hálldat" V TV Sup 
+háledit 	"háledit" V IV Imprt Pl2 	"háledit" V IV Inf 
+háledit 	"háledit" V IV Imprt Pl2 	"háledit" V IV Inf 
+hálijdit 	"hálijdit" V TV Inf 	"hálijdit" V TV Imprt Pl2 
+hármmadit 	"hármmadit" Adv 
+hárjjidit 	"hárjjidit" V TV Imprt Pl2 	"hárjjidit" V TV Inf 
+hárjjánit 	"hárjjánit" V IV Inf 	"hárjjánit" V IV Imprt Pl2 
+hásstalit 	"hásstalit" V TV Imprt Pl2 	"hásstalit" V TV Inf 
+hástodit 	"hástodit" V TV Imprt Pl2 	"hástodit" V TV Inf 
+hávddádit 	"hávddádit" V TV Inf 	"hávddádit" V TV Imprt Pl2 
+hávkkadit 	"hávkkadit" V TV Imprt Pl2 	"hávkkadit" V TV Inf 
+idjadit 	"idjadit" V IV Inf 	"idjadit" V IV Imprt Pl2 
+illastit 	"illastit" V TV Inf 	"illastit" V TV Imprt Pl2 
+illusit 	"illo" N Sg Ill PxSg2 
+ilmodit 	"ilmodit" V TV Imprt Pl2 	"ilmodit" V TV Inf 
+irggedit 	"irggedit" V IV Inf 	"irggedit" V IV Imprt Pl2 
+irrodit 	"irrodit" V TV Inf 	"irrodit" V TV Imprt Pl2 
+idedit 	"ihtet" V* IV Der1 Der/d V Imprt Pl2 	"ihtet" V* IV Der1 Der/d V Inf 
+idestit 	"ihtet" V* IV Der1 Der/st V Inf 	"ihtet" V* IV Der1 Der/st V Imprt Pl2 
+jallutjit 	"jallat" V* TV Der/Pass V Sup 
+jalástit 	"jalástit" V TV Inf 	"jalástit" V TV Imprt Pl2 
+jiekkaldit 	"jiekkaldit" V IV Inf 	"jiekkaldit" V IV Imprt Pl2 
+jienastit 	"jienastit" V TV Inf 	"jienastit" V TV Imprt Pl2 
+jieppadit 	"jieppadit" V IV Imprt Pl2 	"jieppadit" V IV Inf 
+jiednadit 	"jiednadit" V TV Imprt Pl2 	"jiednadit" V TV Inf 
+joajmmodit 	"joajmmodit" V TV Imprt Pl2 	"joajmmodit" V TV Inf 
+jåhtålit 	"jåhtålit" V IV Imprt Pl2 	"jåhtålit" V IV Inf 
+jåhttådit 	"jåhttådit" V IV Imprt Pl2 	"jåhttådit" V IV Inf 
+jåhttåstit 	"jåhttåt" V* IV Der1 Der/st V Inf 	"jåhttåt" V* IV Der1 Der/st V Imprt Pl2 
+jårådit 	"jårådit" V IV Imprt Pl2 	"jårådit" V IV Inf 
+jårådit 	"jårådit" V IV Imprt Pl2 	"jårådit" V IV Inf 
+jårbbådit 	"jårbbåt" A* Adv 
+jårggålit 	"jårggålit" V TV Inf 	"jårggålit" V TV Imprt Pl2 
+jårggåsit 	"jårggå" N Sg Ill PxSg2 
+jårgåstit 	"jårgåstit" V TV Inf 	"jårgåstit" V TV Imprt Pl2 
+jårgijdit 	"jårgijdit" V IV Inf 	"jårgijdit" V IV Imprt Pl2 
+jårgestit 	"jårgestit" V IV Inf 	"jårgestit" V IV Imprt Pl2 
+jårgudit 	"jårgudit" V TV Inf 	"jårgudit" V TV Imprt Pl2 
+jårrålit 	"jårrålit" V IV Imprt Pl2 	"jårrålit" V IV Inf 
+jåttådit 	"jåttådit" V TV Inf 	"jåttådit" V TV Imprt Pl2 
+jådåtjit 	"jåhtet" V IV Sup 
+jådedit 	"jådedit" V TV Imprt Pl2 	"jådedit" V TV Inf 
+jugádit 	"jugádit" V TV Imprt Pl2 	"jugádit" V TV Inf 
+jugádit 	"jugádit" V TV Imprt Pl2 	"jugádit" V TV Inf 
+jugestit 	"jugestit" V TV Inf 	"jugestit" V TV Imprt Pl2 
+jugestit 	"jugestit" V TV Inf 	"jugestit" V TV Imprt Pl2 
+juládit 	"jullat" V* IV Der1 Der/d V Imprt Pl2 	"jullat" V* IV Der1 Der/u/a/åd V Inf 	"jullat" V* IV Der1 Der/d V Inf 	"jullat" V* IV Der1 Der/u/a/åd V Imprt Pl2 
+juogadit 	"juogadit" V TV Imprt Pl2 	"juogadit" V TV Inf 
+juohkásit 	"juohkásit" V IV Inf 	"juohkásit" V IV Imprt Pl2 
+juojgadit 	"juojggat" V* TV Der1 Der/u/a/åd V Inf 	"juojggat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"juojggat" V* TV Der1 Der/d V Inf 	"juojggat" V* TV Der1 Der/d V Imprt Pl2 
+juojgadit 	"juojggat" V* TV Der1 Der/u/a/åd V Inf 	"juojggat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"juojggat" V* TV Der1 Der/d V Inf 	"juojggat" V* TV Der1 Der/d V Imprt Pl2 
+juojgastit 	"juojggat" V* TV Der1 Der/st V Imprt Pl2 	"juojggat" V* TV Der1 Der/st V Inf 
+juollodit 	"juollodit" V TV Imprt Pl2 	"juollodit" V TV Inf 
+juoŋastit 	"juogŋat" V* IV Der1 Der/st V Imprt Pl2 	"juogŋat" V* IV Der1 Der/st V Inf 
+jurádit 	"jurrat" V* IV Der1 Der/d V Imprt Pl2 	"jurrat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"jurrat" V* IV Der1 Der/d V Inf 	"jurrat" V* IV Der1 Der/u/a/åd V Inf 
+juskedit 	"juskedit" V IV Inf 	"juskedit" V IV Imprt Pl2 
+jáddadit 	"jáddadit" V TV Imprt Pl2 	"jáddadit" V TV Inf 
+jáhkedit 	"jáhkedit" V TV Imprt Pl2 	"jáhkedit" V TV Inf 
+jámestit 	"jábmet" V* IV Der1 Der/st V Inf 	"jábmet" V* IV Der1 Der/st V Imprt Pl2 
+jámedit 	"jámedit" V TV Imprt Pl2 	"jámedit" V TV Inf 
+jávestit 	"jávestit" V TV Inf 	"jávestit" V TV Imprt Pl2 
+jávkkadit 	"jávkkadit" V TV Inf 	"jávkkadit" V TV Imprt Pl2 
+jávvásit 	"jávvásit" V IV Imprt Pl2 	"jávvet" V* TV Der3 Actor N Sg Ill PxSg2 	"jávvásit" V IV Inf 
+labádit 	"labádit" V IV Imprt Pl2 	"labádit" V IV Inf 
+labádit 	"labádit" V IV Imprt Pl2 	"labádit" V IV Inf 
+labástit 	"lahpat" V* IV Der1 Der/st V Imprt Pl2 	"lahpat" V* IV Der1 Der/st V Inf 
+lagádit 	"lagádit" V TV Imprt Pl2 	"lagádit" V TV Inf 
+lagádit 	"lagádit" V TV Imprt Pl2 	"lagádit" V TV Inf 
+lahkanit 	"lahkanit" V IV Imprt Pl2 	"lahkanit" V IV Inf 
+lajggidit 	"lajggit" V* TV Der1 Der/d V Imprt Pl2 	"lajggit" V* TV Der1 Der/d V Inf 
+lajgadit 	"lajggat" V* IV Der1 Der/d V Imprt Pl2 	"lajggat" V* IV Der1 Der/u/a/åd V Inf 	"lajggat" V* IV Der1 Der/d V Inf 	"lajggat" V* IV Der1 Der/u/a/åd V Imprt Pl2 
+lamádit 	"labmat" V* IV Der1 Der/u/a/åd V Inf 	"labmat" V* IV Der1 Der/d V Imprt Pl2 	"labmat" V* IV Der1 Der/d V Inf 	"labmat" V* IV Der1 Der/u/a/åd V Imprt Pl2 
+lamsedit 	"lamsedit" V IV Imprt Pl2 	"lamsedit" V IV Inf 
+labmalit 	"labmalit" V IV Imprt Pl2 	"labmalit" V IV Inf 
+lasedit 	"lasedit" V TV Imprt Pl2 	"lasedit" V TV Inf 
+lasedit 	"lasedit" V TV Imprt Pl2 	"lasedit" V TV Inf 
+lasskidit 	"lasskit" V* TV Der1 Der/d V Inf 	"lasskit" V* TV Der1 Der/d V Imprt Pl2 
+lasskistit 	"lasskit" V* TV Der1 Der/st V Inf 	"lasskit" V* TV Der1 Der/st V Imprt Pl2 
+lassánit 	"lassánit" V IV Inf 	"lassánit" V IV Imprt Pl2 
+ladnjasit 	"ladnja" N Sg Ill PxSg2 
+ladástit 	"ladástit" V TV Imprt Pl2 	"ladástit" V TV Inf 
+lejkudit 	"læjkkot" V* TV Der1 Der/u/a/åd V Inf 	"læjkkot" V* TV Der1 Der/u/a/åd V Imprt Pl2 
+liegganit 	"liegganit" V IV Imprt Pl2 	"liegganit" V IV Inf 
+liekkadit 	"liekkadit" V TV Imprt Pl2 	"liekkadit" V TV Inf 
+liggistit 	"liggit" V* IV Der1 Der/st V Inf 	"liggit" V* IV Der1 Der/st V Imprt Pl2 
+lihtudit 	"lihtudit" V IV Inf 	"lihtudit" V IV Imprt Pl2 
+lijggodit 	"lijggodit" V TV Inf 	"lijggodit" V TV Imprt Pl2 
+lijkkudit 	"lijkkut" V* TV Der1 Der/d V Inf 	"lijkkut" V* TV Der1 Der/d V Imprt Pl2 
+lijkkustit 	"lijkkut" V* TV Der1 Der/st V Imprt Pl2 	"lijkkut" V* TV Der1 Der/st V Inf 
+linedit 	"linedit" V TV Imprt Pl2 	"linedit" V TV Inf 
+livkkalit 	"livkkalit" V IV Imprt Pl2 	"livkkalit" V IV Inf 
+livkedit 	"livkedit" V IV Imprt Pl2 	"livkedit" V IV Inf 
+livudit 	"livudit" V IV Inf 	"livudit" V IV Imprt Pl2 
+livvadit 	"livvadit" V TV Inf 	"livvadit" V TV Imprt Pl2 
+loasskalit 	"loasskalit" V TV Imprt Pl2 	"loasskalit" V TV Inf 
+loavdátjit 	"loavddet" V TV Sup 
+loattjedit 	"loattjedit" V IV Inf 
+lågådit 	"lågådit" V TV Inf 	"lågådit" V TV Imprt Pl2 
+lågådit 	"lågådit" V TV Inf 	"lågådit" V TV Imprt Pl2 
+lågåstit 	"lågåstit" V TV Imprt Pl2 	"lågåstit" V TV Inf 
+låhkålit 	"låhkålit" V TV Inf 	"låhkålit" V TV Imprt Pl2 
+lålådit 	"lålådit" V TV Imprt Pl2 	"lålådit" V TV Inf 
+lånestit 	"lånestit" V TV Inf 	"lånestit" V TV Imprt Pl2 
+lånudit 	"lånudit" V TV Imprt Pl2 	"lånudit" V TV Inf 
+lånodit 	"lådnot" V* TV Der1 Der/d V Inf 	"lådnot" V* TV Der1 Der/d V Imprt Pl2 
+låsedit 	"låsedit" V TV Inf 	"låsedit" V TV Imprt Pl2 
+låssodit 	"låssodit" V TV Imprt Pl2 	"låssodit" V TV Inf 
+låsjkijdit 	"låsjkijdit" V IV Imprt Pl2 	"låsjkijdit" V IV Inf 
+lullánit 	"lullánit" V IV Imprt Pl2 	"lullánit" V IV Inf 
+luobadit 	"luohpat" V* TV Der1 Der/u/a/åd V Inf 	"luohpat" V* TV Der1 Der/d V Imprt Pl2 	"luohpat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"luohpat" V* TV Der1 Der/d V Inf 
+luohtedit 	"luohtedit" V IV Imprt Pl2 	"luohtedit" V IV Inf 
+luojkkalit 	"luojkkalit" V TV Inf 	"luojkkalit" V TV Imprt Pl2 
+luojkadit 	"luojkadit" V TV Inf 	"luojkadit" V TV Imprt Pl2 
+luojmadit 	"luojmmat" V* IV Der1 Der/d V Inf 	"luojmmat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"luojmmat" V* IV Der1 Der/d V Imprt Pl2 	"luojmmat" V* IV Der1 Der/u/a/åd V Inf 
+luojttalit 	"luojttalit" V TV Inf 	"luojttalit" V TV Imprt Pl2 
+luojttelit 	"luojttelit" V TV Imprt Pl2 	"luojttelit" V TV Inf 
+luojtedit 	"luojttet" V* TV Der1 Der/d V Imprt Pl2 	"luojttet" V* TV Der1 Der/d V Inf 
+luojttádit 	"luojttádit" V IV Imprt Pl2 	"luojttádit" V IV Inf 
+luovvanit 	"luovvanit" V IV Imprt Pl2 	"luovvanit" V IV Inf 
+luvvadit 	"luvvadit" V TV Imprt Pl2 	"luvvadit" V TV Inf 
+láddadit 	"láddadit" V TV Imprt Pl2 	"láddadit" V TV Inf 
+lágedit 	"lágedit" V TV Inf 	"lágedit" V TV Imprt Pl2 
+láhpadit 	"láhpadit" V TV Inf 	"láhpadit" V TV Imprt Pl2 
+láhpedit 	"láhppet" V* TV Der1 Der/d V Imprt Pl2 	"láhppet" V* TV Der1 Der/d V Inf 
+láhpedit 	"láhppet" V* TV Der1 Der/d V Imprt Pl2 	"láhppet" V* TV Der1 Der/d V Inf 
+láhppudit 	"láhppudit" V IV Inf 	"láhppudit" V IV Imprt Pl2 
+lájbudit 	"lájbbot" V* TV Der1 Der/u/a/åd V Inf 	"lájbbot" V* TV Der1 Der/u/a/åd V Imprt Pl2 
+lájbodit 	"lájbbot" V* TV Der1 Der/d V Imprt Pl2 	"lájbbot" V* TV Der1 Der/d V Inf 
+lájddistit 	"lájddit" V* TV Der1 Der/st V Inf 	"lájddit" V* TV Der1 Der/st V Imprt Pl2 
+lájkkutjit 	"lájkkot" V* IV Der/Pass V Sup 
+láktadit 	"láktadit" V TV Imprt Pl2 	"láktadit" V TV Inf 
+láttadit 	"láddat" V* IV Der1 Der/d V Inf 	"láddat" V* IV Der1 Der/u/a/åd V Inf 	"láddat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"láddat" V* IV Der1 Der/d V Imprt Pl2 
+lávgadit 	"lávgadit" V IV Inf 	"lávgadit" V IV Imprt Pl2 
+lávgudit 	"lávgudit" V IV Inf 	"lávgudit" V IV Imprt Pl2 
+lávkudit 	"lávkkot" V* IV Der1 Der/u/a/åd V Inf 	"lávkkot" V* IV Der1 Der/u/a/åd V Imprt Pl2 
+lávlastit 	"lávlastit" V TV Imprt Pl2 	"lávlastit" V TV Inf 
+lávludit 	"lávludit" V TV Imprt Pl2 	"lávludit" V TV Inf 
+lávtatjit 	"láktat" V IV Sup 
+lásjmudit 	"lásjmudit" V IV Imprt Pl2 	"lásjmudit" V IV Inf 
+manádit 	"manádit" V IV Imprt Pl2 	"manádit" V IV Inf 
+manádit 	"manádit" V IV Imprt Pl2 	"manádit" V IV Inf 
+mannalit 	"mannat" V* IV Der1 Der/l V Inf 	"mannat" V* IV Der1 Der/l V Imprt Pl2 
+masedit 	"masset" V* TV Der1 Der/d V Inf 	"masset" V* TV Der1 Der/d V Imprt Pl2 
+mastadit 	"mastadit" V IV Inf 	"mastadit" V IV Imprt Pl2 
+maŋedit 	"maŋedit" V TV Imprt Pl2 	"maŋedit" V TV Inf 
+maŋŋunit 	"maŋŋunit" V IV Imprt Pl2 	"maŋŋunit" V IV Inf 
+mægádit 	"mægádit" V IV Imprt Pl2 	"mægádit" V IV Inf 
+miehtjedit 	"miehtjedit" V TV Inf 	"miehtjedit" V TV Imprt Pl2 
+mierredit 	"mierredit" V TV Imprt Pl2 	"mierredit" V TV Inf 
+miettedit 	"mieddet" V* IV Der1 Der/d V Inf 	"mieddet" V* IV Der1 Der/d V Imprt Pl2 
+megudit 	"mæhkot" V* IV Der1 Der/u/a/åd V Inf 	"mæhkot" V* IV Der1 Der/u/a/åd V Imprt Pl2 
+merkudit 	"mærkkot" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"mærkkot" V* TV Der1 Der/u/a/åd V Inf 
+miesskadit 	"miesskadit" V TV Inf 	"miesskadit" V TV Imprt Pl2 
+miededit 	"miededit" V TV Inf 	"miededit" V TV Imprt Pl2 
+miededit 	"miededit" V TV Inf 	"miededit" V TV Imprt Pl2 
+millusit 	"millo" N Sg Ill PxSg2 
+måttsåstit 	"måttsåstit" V TV Inf 	"måttsåstit" V TV Imprt Pl2 
+måddjistit 	"måddjit" V* TV Der1 Der/st V Imprt Pl2 	"måddjit" V* TV Der1 Der/st V Inf 
+mådjusit 	"mådjusit" V IV Imprt Pl2 	"mådjusit" V IV Inf 
+måhkåstit 	"måhkåstit" V TV Imprt Pl2 	"måhkåstit" V TV Inf 
+måhkkåsit 	"måhkke" N Sg Ill PxSg2 
+målådit 	"målådit" V TV Inf 	"målådit" V TV Imprt Pl2 
+mållådit 	"mållådit" V TV Inf 	"mållåt" A* Adv 	"mållådit" V TV Imprt Pl2 
+målsudit 	"målsudit" V TV Inf 	"målsudit" V TV Imprt Pl2 
+mårijdit 	"mårijdit" V IV Inf 	"mårijdit" V IV Imprt Pl2 
+mugudit 	"muhkot" V* IV Der1 Der/u/a/åd V Inf 	"muhkot" V* IV Der1 Der/u/a/åd V Imprt Pl2 
+muhttudit 	"muhttut" V* Der1 Der/d V Inf 	"muhttut" V* Der1 Der/d V Imprt Pl2 
+mujttalit 	"mujttalit" V TV Inf 	"mujttalit" V TV Imprt Pl2 
+mujttádit 	"mujttádit" V TV Inf 	"mujttádit" V TV Imprt Pl2 
+mujttástit 	"mujttát" V* TV Der1 Der/st V Imprt Pl2 	"mujttát" V* TV Der1 Der/st V Inf 
+muohtestit 	"muohtestit" V IV Inf 
+muoladit 	"muoladit" V TV Imprt Pl2 	"muoladit" V TV Inf 
+murdedit 	"murddet" V* IV Der1 Der/d V Inf 	"murddet" V* IV Der1 Der/d V Imprt Pl2 
+murddelit 	"murddelit" V IV Imprt Pl2 	"murddelit" V IV Inf 
+murádit 	"murrat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"murrat" V* IV Der1 Der/u/a/åd V Inf 	"murrat" V* IV Der1 Der/d V Inf 	"murrat" V* IV Der1 Der/d V Imprt Pl2 
+máhtsadit 	"máhtsadit" V TV Imprt Pl2 	"máhtsadit" V TV Inf 
+máhtsadit 	"máhtsadit" V TV Imprt Pl2 	"máhtsadit" V TV Inf 
+máhtsastit 	"máhtsastit" V TV Inf 	"máhtsastit" V TV Imprt Pl2 
+máhttsasit 	"máhttsasit" V IV Inf 	"máhttsasit" V IV Imprt Pl2 
+máhtsudit 	"máhttsot" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"máhttsot" V* TV Der1 Der/u/a/åd V Inf 
+májnastit 	"májnastit" V TV Imprt Pl2 	"májnastit" V TV Inf 
+májnudit 	"májnudit" V TV Inf 	"májnudit" V TV Imprt Pl2 
+májstatjit 	"májstatjit" V TV Imprt Pl2 	"májstatjit" V TV Inf 
+mállidit 	"mállit" V* TV Der1 Der/d V Imprt Pl2 	"mállit" V* TV Der1 Der/d V Inf 
+málestit 	"málestit" V TV Inf 	"málestit" V TV Imprt Pl2 
+málestit 	"málestit" V TV Inf 	"málestit" V TV Imprt Pl2 
+máttedit 	"máddet" V* TV Der1 Der/d V Inf 	"máddet" V* TV Der1 Der/d V Imprt Pl2 
+mávsatjit 	"mávsatjit" V TV Imprt Pl2 	"mávsatjit" V TV Inf 
+mávsedit 	"mávsedit" V TV Imprt Pl2 	"mávsedit" V TV Inf 
+mávsedit 	"mávsedit" V TV Imprt Pl2 	"mávsedit" V TV Inf 
+nagádit 	"nagádit" V IV Inf 	"nagádit" V IV Imprt Pl2 
+naládit 	"naládit" V IV Inf 	"naládit" V IV Imprt Pl2 
+nammadit 	"nammadit" V TV Imprt Pl2 	"nammadit" V TV Inf 
+nanodit 	"nanodit" V TV Inf 	"nanodit" V TV Imprt Pl2 
+navddasit 	"navdda" N Sg Ill PxSg2 
+navedit 	"navvet" V* TV Der1 Der/d V Imprt Pl2 	"navvet" V* TV Der1 Der/d V Inf 
+naveldit 	"naveldit" V TV Inf 	"naveldit" V TV Imprt Pl2 
+navestit 	"navvet" V* TV Der1 Der/st V Inf 	"navvet" V* TV Der1 Der/st V Imprt Pl2 
+navválit 	"navválit" V IV Imprt Pl2 	"navválit" V IV Inf 
+nælggádit 	"nælggát" V* IV Der1 Der/d V Inf 	"nælggát" V* IV Der1 Der/d V Imprt Pl2 
+nelgudit 	"nælggot" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"nælggot" V* IV Der1 Der/u/a/åd V Inf 
+niegadit 	"niegadit" V TV Inf 	"niegadit" V TV Imprt Pl2 
+nivkedit 	"nivkedit" V IV Imprt Pl2 	"nivkedit" V IV Inf 
+nivkodit 	"nivkkot" V* IV Der1 Der/d V Imprt Pl2 	"nivkkot" V* IV Der1 Der/d V Inf 
+nivkkolit 	"nivkkot" V* IV Der1 Der/l V Inf 	"nivkkot" V* IV Der1 Der/l V Imprt Pl2 
+njattsastit 	"njattsastit" V TV Inf 	"njattsastit" V TV Imprt Pl2 
+njattsodit 	"njadtsot" V* TV Der1 Der/d V Imprt Pl2 	"njadtsot" V* TV Der1 Der/d V Inf 
+njahkastit 	"njahkastit" V IV Inf 	"njahkastit" V IV Imprt Pl2 
+njaládit 	"njaládit" V TV Imprt Pl2 	"njaládit" V TV Inf 
+njaldestit 	"njaldestit" V TV Imprt Pl2 	"njaldestit" V TV Inf 
+njaldedit 	"njalldet" V* TV Der1 Der/d V Inf 	"njalldet" V* TV Der1 Der/d V Imprt Pl2 
+njaldestit 	"njaldestit" V TV Imprt Pl2 	"njaldestit" V TV Inf 
+njalldásit 	"njalldet" V* TV Der3 Actor N Sg Ill PxSg2 
+njalkkasit 	"njalkas" A* Adv 
+njalkedit 	"njalkedit" V IV Imprt Pl2 	"njalkedit" V IV Inf 
+njaludit 	"njallot" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"njallot" V* TV Der1 Der/u/a/åd V Inf 
+njamádit 	"njamádit" V TV Imprt Pl2 	"njamádit" V TV Inf 
+njamádit 	"njamádit" V TV Imprt Pl2 	"njamádit" V TV Inf 
+njamestit 	"njamestit" V TV Inf 	"njamestit" V TV Imprt Pl2 
+njammásit 	"njammat" V* TV Der3 Actor N Sg Ill PxSg2 	"njammat" V* IV Der3 Actor N Sg Ill PxSg2 
+njaskastit 	"njaskastit" V TV Inf 	"njaskastit" V TV Imprt Pl2 
+njattijdit 	"njattijdit" V IV Imprt Pl2 	"njattijdit" V IV Inf 
+njadtsasit 	"njadtsasit" V IV Imprt Pl2 	"njadtsasit" V IV Inf 
+njaddásit 	"njaddet" V* IV Der3 Actor N Sg Ill PxSg2 	"njadet" V* IV Der3 Actor N Sg Ill PxSg2 
+njiejdedit 	"njiejddet" V* TV Der1 Der/d V Imprt Pl2 	"njiejddet" V* TV Der1 Der/d V Inf 
+njæjddásit 	"njiejddet" V* TV Der3 Actor N Sg Ill PxSg2 
+njieladit 	"njiellat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"njiellat" V* TV Der1 Der/d V Inf 	"njiellat" V* TV Der1 Der/d V Imprt Pl2 	"njiellat" V* TV Der1 Der/u/a/åd V Inf 
+njieladit 	"njiellat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"njiellat" V* TV Der1 Der/d V Inf 	"njiellat" V* TV Der1 Der/d V Imprt Pl2 	"njiellat" V* TV Der1 Der/u/a/åd V Inf 
+njielastit 	"njiellat" V* TV Der1 Der/st V Inf 	"njiellat" V* TV Der1 Der/st V Imprt Pl2 
+njiellalit 	"njiellat" V* TV Der1 Der/l V Imprt Pl2 	"njiellat" V* TV Der1 Der/l V Inf 
+njigudit 	"njihkot" V* IV Der1 Der/u/a/åd V Inf 	"njihkot" V* IV Der1 Der/u/a/åd V Imprt Pl2 
+njoalostit 	"njoalostit" V TV Inf 	"njoalostit" V TV Imprt Pl2 
+njoaládit 	"njoaládit" V TV Imprt Pl2 	"njoaládit" V TV Inf 
+njoamodit 	"njoammot" V* IV Der1 Der/d V Inf 	"njoammot" V* IV Der1 Der/d V Imprt Pl2 
+njåradit 	"njårrat" V* TV Der1 Der/u/a/åd V Inf 	"njårrat" V* TV Der1 Der/d V Imprt Pl2 	"njårrat" V* TV Der1 Der/d V Inf 	"njårrat" V* TV Der1 Der/u/a/åd V Imprt Pl2 
+njåradit 	"njårrat" V* TV Der1 Der/u/a/åd V Inf 	"njårrat" V* TV Der1 Der/d V Imprt Pl2 	"njårrat" V* TV Der1 Der/d V Inf 	"njårrat" V* TV Der1 Der/u/a/åd V Imprt Pl2 
+njålggålit 	"njålggåt" V* IV Der1 Der/l V Inf 	"njålggåt" V* IV Der1 Der/l V Imprt Pl2 
+njålgåstit 	"njålggåt" V* IV Der1 Der/st V Imprt Pl2 	"njålggåt" V* IV Der1 Der/st V Inf 
+njåludit 	"njoallot" V* TV Der1 Der/u/a/åd V Inf 	"njoallot" V* TV Der1 Der/u/a/åd V Imprt Pl2 
+njåmudit 	"njoammot" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"njoammot" V* IV Der1 Der/u/a/åd V Inf 
+njuolggadit 	"njuolggat" A* Adv 
+njuolggadit 	"njuolggat" A* Adv 
+njuolgadit 	"njuolggat" V* IV Der1 Der/u/a/åd V Inf 	"njuolggat" V* IV Der1 Der/d V Imprt Pl2 	"njuolggat" V* IV Der1 Der/d V Inf 	"njuolggat" V* IV Der1 Der/u/a/åd V Imprt Pl2 
+njuolgatjit 	"njuolggat" V IV Sup 
+njuorranit 	"njuorranit" V IV Inf 	"njuorranit" V IV Imprt Pl2 
+njuosskadit 	"njuosskadit" V TV Imprt Pl2 	"njuosskadit" V TV Inf 
+njuoskadit 	"njuosskat" V* IV Der1 Der/d V Inf 	"njuosskat" V* IV Der1 Der/d V Imprt Pl2 	"njuosskat" V* IV Der1 Der/u/a/åd V Inf 	"njuosskat" V* IV Der1 Der/u/a/åd V Imprt Pl2 
+njuoskatjit 	"njuosskat" V IV Sup 
+njuovadit 	"njuovadit" V TV Inf 	"njuovadit" V TV Imprt Pl2 
+njuovadit 	"njuovadit" V TV Inf 	"njuovadit" V TV Imprt Pl2 
+njuvdestit 	"njuvdestit" V TV Imprt Pl2 	"njuvdestit" V TV Inf 
+njuvddásit 	"njuvddet" V* TV Der3 Actor N Sg Ill PxSg2 
+njáhkalit 	"njáhkalit" V IV Imprt Pl2 	"njáhkalit" V IV Inf 
+njálgijdit 	"njálgijdit" V IV Imprt Pl2 	"njálgijdit" V IV Inf 
+njárbudit 	"njárbbot" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"njárbbot" V* IV Der1 Der/u/a/åd V Inf 
+njárbbodit 	"njárbbodit" V TV Imprt Pl2 	"njárbbodit" V TV Inf 
+njávgedit 	"njávgget" V* IV Der1 Der/d V Inf 	"njávgget" V* IV Der1 Der/d V Imprt Pl2 
+njávkadit 	"njávkadit" V TV Imprt Pl2 	"njávkadit" V TV Inf 
+njávkastit 	"njávkastit" V TV Imprt Pl2 	"njávkastit" V TV Inf 
+njátsodit 	"njátsodit" V IV Inf 
+noadodit 	"noadodit" V TV Imprt Pl2 	"noadodit" V TV Inf 
+någådit 	"nåhkåt" V* IV Der1 Der/d V Inf 	"nåhkåt" V* IV Der1 Der/u/a/åd V Inf 	"nåhkåt" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"nåhkåt" V* IV Der1 Der/d V Imprt Pl2 
+nåhkådit 	"nåhkådit" V TV Inf 	"nåhkådit" V TV Imprt Pl2 
+nåhkåstit 	"nåhkåstit" V IV Inf 	"nåhkåstit" V IV Imprt Pl2 
+nåråstit 	"nårråt" V* TV Der1 Der/st V Inf 	"nårråt" V* TV Der1 Der/st V Imprt Pl2 
+nårddådit 	"nårddådit" V TV Imprt Pl2 	"nårddådit" V TV Inf 
+nårdådit 	"nårdådit" V TV Imprt Pl2 	"nårdådit" V TV Inf 
+nårdådit 	"nårdådit" V TV Imprt Pl2 	"nårdådit" V TV Inf 
+nårdåstit 	"nårddåt" V* TV Der1 Der/st V Imprt Pl2 	"nårddåt" V* TV Der1 Der/st V Inf 
+nåskedit 	"nåskedit" V IV Imprt Pl2 	"nåskedit" V IV Inf 
+nuktalit 	"nuktalit" V TV Inf 	"nuktalit" V TV Imprt Pl2 
+nuoladit 	"nuoladit" V IV Inf 	"nuoladit" V IV Imprt Pl2 
+nuoladit 	"nuoladit" V IV Inf 	"nuoladit" V IV Imprt Pl2 
+nuollasit 	"nuollasit" V IV Imprt Pl2 	"nuollasit" V IV Inf 
+nuoskedit 	"nuoskedit" V TV Imprt Pl2 	"nuoskedit" V TV Inf 
+nuppástit 	"nuppástit" V TV Inf 	"nuppástit" V TV Imprt Pl2 
+náberdit 	"náberdit" V TV Inf 	"náberdit" V TV Imprt Pl2 
+návdadit 	"návddat" V* IV Der1 Der/d V Inf 	"návddat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"návddat" V* IV Der1 Der/u/a/åd V Inf 	"návddat" V* IV Der1 Der/d V Imprt Pl2 
+návdatjit 	"návddat" V IV Sup 
+návrodit 	"návrodit" V TV Imprt Pl2 	"návrodit" V TV Inf 
+nádudit 	"nádot" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"nádot" V* TV Der1 Der/u/a/åd V Inf 
+nádostit 	"nádot" V* TV Der1 Der/st V Imprt Pl2 	"nádot" V* TV Der1 Der/st V Inf 
+oadjodit 	"oadjodit" V TV Inf 	"oadjodit" V TV Imprt Pl2 
+oagodit 	"oagodit" V TV Inf 	"oagodit" V TV Imprt Pl2 
+oahkolit 	"oahkot" V* IV Der1 Der/l V Imprt Pl2 	"oahkot" V* IV Der1 Der/l V Inf 
+oahpestit 	"oahpestit" V TV Inf 	"oahpestit" V TV Imprt Pl2 
+oajvvadit 	"oajvvadit" V TV Inf 	"oajvvadit" V TV Imprt Pl2 
+oajodit 	"oadjot" V* IV Der1 Der/d V Imprt Pl2 	"oadjot" V* IV Der1 Der/d V Inf 
+oakkostit 	"oaggot" V* TV Der1 Der/st V Inf 	"oaggot" V* TV Der1 Der/st V Imprt Pl2 
+oakkodit 	"oaggot" V* TV Der1 Der/d V Imprt Pl2 	"oaggot" V* TV Der1 Der/d V Inf 
+oallásit 	"oalle" N Sg Ill PxSg2 
+åmastit 	"åmastit" V TV Inf 	"åmastit" V TV Imprt Pl2 
+oanedit 	"oanedit" V TV Inf 	"oanedit" V TV Imprt Pl2 
+oasestit 	"oasestit" V IV Inf 	"oasestit" V IV Imprt Pl2 
+oastestit 	"oasstet" V* TV Der1 Der/st V Inf 	"oasstet" V* TV Der1 Der/st V Imprt Pl2 
+oastedit 	"oasstet" V* TV Der1 Der/d V Inf 	"oasstet" V* TV Der1 Der/d V Imprt Pl2 
+oastestit 	"oasstet" V* TV Der1 Der/st V Inf 	"oasstet" V* TV Der1 Der/st V Imprt Pl2 
+oattjodit 	"oadtjot" V* TV Der1 Der/d V Imprt Pl2 	"oadtjot" V* TV Der1 Der/d V Inf 
+oattjostit 	"oadtjot" V* TV Der1 Der/st V Inf 	"oadtjot" V* TV Der1 Der/st V Imprt Pl2 
+oaddádit 	"oaddádit" V TV Imprt Pl2 	"oaddádit" V TV Inf 
+ådatjit 	"ådatjit" V IV Imprt Pl2 	"ådatjit" V IV Inf 
+oadestit 	"oadestit" V IV Imprt Pl2 	"oadestit" V IV Inf 
+oadedit 	"oadet" V* TV Der1 Der/d V Inf 	"oadet" V* IV Der1 Der/d V Inf 	"oadet" V* IV Der1 Der/d V Imprt Pl2 	"oadet" V* TV Der1 Der/d V Imprt Pl2 
+ågudit 	"oahkot" V* IV Der1 Der/u/a/åd V Inf 	"oahkot" V* IV Der1 Der/u/a/åd V Imprt Pl2 
+åhtsålit 	"åhtsålit" V TV Imprt Pl2 	"åhtsålit" V TV Inf 
+åkkudit 	"oaggot" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"oaggot" V* TV Der1 Der/u/a/åd V Inf 
+ållidit 	"ållidit" V TV Imprt Pl2 	"ållidit" V TV Inf 
+ållåsit 	"ållåsit" Adv 	"ålles" A* Adv 
+ålgodit 	"ålgodit" V TV Imprt Pl2 	"ålgodit" V TV Inf 
+ålggunit 	"ålggunit" V IV Inf 	"ålggunit" V IV Imprt Pl2 
+ållåsit 	"ållåsit" Adv 	"ålles" A* Adv 
+ålutjit 	"oallot" V TV Sup 
+årrustit 	"årrut" V* IV Der1 Der/st V Imprt Pl2 	"årrut" V* IV Der1 Der/st V Inf 
+årudit 	"årudit" V IV Inf 	"årudit" V IV Imprt Pl2 
+årostit 	"årrot" V* IV Der1 Der/st V Inf 	"årrot" V* IV Der1 Der/st V Imprt Pl2 
+åskeldit 	"åskeldit" V TV Imprt Pl2 	"åskeldit" V TV Inf 
+åsskolit 	"åsskot" V* IV Der1 Der/l V Imprt Pl2 	"åsskot" V* IV Der1 Der/l V Inf 
+åvdåstit 	"åvdåstit" V TV Inf 	"åvdåstit" V TV Imprt Pl2 
+åvdedit 	"åvdedit" V TV Imprt Pl2 	"åvdedit" V TV Inf 
+åvdutjit 	"oavddot" V TV Sup 
+åvddånit 	"åvddånit" V IV Inf 	"åvddånit" V IV Imprt Pl2 
+åtsådit 	"åtsådit" V TV Imprt Pl2 	"åtsådit" V TV Inf 
+åttjudit 	"åttjudit" V TV Inf 	"åttjudit" V TV Imprt Pl2 
+ådåstit 	"ådåstit" V TV Inf 	"ådåstit" V TV Imprt Pl2 
+rabádit 	"rabádit" V TV Imprt Pl2 	"rabádit" V TV Inf 
+rabástit 	"rabástit" V TV Inf 	"rabástit" V TV Imprt Pl2 
+rabbalit 	"rabbat" V* IV Der1 Der/l V Imprt Pl2 	"rabbat" V* IV Der1 Der/l V Inf 
+ragádit 	"rahkat" V* IV Der1 Der/d V Inf 	"rahkat" V* IV Der1 Der/u/a/åd V Inf 	"rahkat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"rahkat" V* IV Der1 Der/d V Imprt Pl2 
+ragádit 	"rahkat" V* IV Der1 Der/d V Inf 	"rahkat" V* IV Der1 Der/u/a/åd V Inf 	"rahkat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"rahkat" V* IV Der1 Der/d V Imprt Pl2 
+rahpasit 	"rabás" A* Adv 	"rahpasit" V IV Inf 	"rahpasit" V IV Imprt Pl2 
+rahtasit 	"rahtasit" V IV Imprt Pl2 	"rahtasit" V IV Inf 
+rahtjalit 	"rahtjat" V* IV Der1 Der/l V Inf 	"rahtjat" V* IV Der1 Der/l V Imprt Pl2 
+ravggidit 	"ravggit" V* TV Der1 Der/d V Imprt Pl2 	"ravggit" V* TV Der1 Der/d V Inf 
+ravgadit 	"ravgadit" V IV Inf 	"ravgadit" V IV Imprt Pl2 
+ravgadit 	"ravgadit" V IV Inf 	"ravgadit" V IV Imprt Pl2 
+ravgudit 	"ravggot" V* TV Der1 Der/u/a/åd V Inf 	"ravggot" V* TV Der1 Der/u/a/åd V Imprt Pl2 
+ravkkalit 	"ravkkalit" V IV Imprt Pl2 	"ravkkalit" V IV Inf 
+radádit 	"rahtat" V* TV Der1 Der/d V Imprt Pl2 	"rahtat" V* TV Der1 Der/u/a/åd V Inf 	"rahtat" V* TV Der1 Der/d V Inf 	"rahtat" V* TV Der1 Der/u/a/åd V Imprt Pl2 
+radástit 	"radástit" V TV Imprt Pl2 	"radástit" V TV Inf 
+ratjádit 	"ratjádit" V IV Imprt Pl2 	"ratjádit" V IV Inf 
+ratjástit 	"ratjástit" V IV Imprt Pl2 	"ratjástit" V IV Inf 
+riejnedit 	"riejnedit" V IV Inf 	"riejnedit" V IV Imprt Pl2 
+ribádit 	"ribádit" V TV Imprt Pl2 	"ribádit" V TV Inf 
+ribádit 	"ribádit" V TV Imprt Pl2 	"ribádit" V TV Inf 
+riegádit 	"riegádit" V IV Inf 	"riegádit" V IV Imprt Pl2 
+rievddadit 	"rievddadit" V TV Inf 	"rievddadit" V TV Imprt Pl2 
+rievdadit 	"rievdadit" V IV Imprt Pl2 	"rievdadit" V IV Inf 
+rijddalit 	"rijddalit" V IV Imprt Pl2 	"rijddalit" V IV Inf 
+rinodit 	"ridnot" V* IV Der1 Der/d V Inf 	"ridnot" V* IV Der1 Der/d V Imprt Pl2 
+risjostit 	"rissjot" V* IV Der1 Der/st V Imprt Pl2 	"rissjot" V* IV Der1 Der/st V Inf 
+roahkodit 	"roahkkot" V* IV Der1 Der/d V Imprt Pl2 	"roahkkot" V* IV Der1 Der/d V Inf 
+roahkodit 	"roahkkot" V* IV Der1 Der/d V Imprt Pl2 	"roahkkot" V* IV Der1 Der/d V Inf 
+roaŋkodit 	"roaŋŋkot" V* IV Der1 Der/d V Imprt Pl2 	"roaŋŋkot" V* IV Der1 Der/d V Inf 
+roassjkalit 	"roassjkat" V* TV Der1 Der/l V Imprt Pl2 	"roassjkat" V* TV Der1 Der/l V Inf 
+rågodit 	"råhkot" V* IV Der1 Der/d V Imprt Pl2 	"råhkot" V* IV Der1 Der/d V Inf 
+rågådit 	"råhkåt" V* TV Der1 Der/u/a/åd V Inf 	"råhkåt" V* TV Der1 Der/d V Imprt Pl2 	"råhkåt" V* TV Der1 Der/d V Inf 	"råhkåt" V* TV Der1 Der/u/a/åd V Imprt Pl2 
+råhttidit 	"råhttit" V* TV Der1 Der/d V Imprt Pl2 	"råhttit" V* TV Der1 Der/d V Inf 
+råhttidit 	"råhttit" V* TV Der1 Der/d V Imprt Pl2 	"råhttit" V* TV Der1 Der/d V Inf 
+råhttistit 	"råhttit" V* TV Der1 Der/st V Inf 	"råhttit" V* TV Der1 Der/st V Imprt Pl2 
+råhttåsit 	"råhttå" N Sg Ill PxSg2 
+råkkådit 	"råggåt" V* TV Der1 Der/u/a/åd V Inf 	"råggåt" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"råggåt" V* TV Der1 Der/d V Imprt Pl2 	"råggåt" V* TV Der1 Der/d V Inf 
+råkkågit 	"råkkåk" A* Adv 
+råkkåstit 	"råkkåstit" V TV Imprt Pl2 	"råkkåstit" V TV Inf 
+rubestit 	"rubestit" V TV Inf 	"rubestit" V TV Imprt Pl2 
+ruhtadit 	"ruhtadit" V TV Imprt Pl2 	"ruhtadit" V TV Inf 
+rujvedit 	"rujvedit" V IV Inf 	"rujvedit" V IV Imprt Pl2 
+ruohkadit 	"ruohkadit" V TV Imprt Pl2 	"ruohkadit" V TV Inf 
+ruohkastit 	"ruohkastit" V TV Inf 	"ruohkastit" V TV Imprt Pl2 
+ruohtadit 	"ruohttat" V* IV Der1 Der/u/a/åd V Inf 	"ruohttat" V* IV Der1 Der/d V Imprt Pl2 	"ruohttat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"ruohttat" V* IV Der1 Der/d V Inf 
+ruohtadit 	"ruohttat" V* IV Der1 Der/u/a/åd V Inf 	"ruohttat" V* IV Der1 Der/d V Imprt Pl2 	"ruohttat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"ruohttat" V* IV Der1 Der/d V Inf 
+ruohtastit 	"ruohtastit" V IV Imprt Pl2 	"ruohtastit" V IV Inf 
+ruosadit 	"ruossat" V* IV Der1 Der/d V Inf 	"ruossat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"ruossat" V* IV Der1 Der/d V Imprt Pl2 	"ruossat" V* IV Der1 Der/u/a/åd V Inf 
+ruosadit 	"ruossat" V* IV Der1 Der/d V Inf 	"ruossat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"ruossat" V* IV Der1 Der/d V Imprt Pl2 	"ruossat" V* IV Der1 Der/u/a/åd V Inf 
+ruosstodit 	"ruosstodit" V TV Imprt Pl2 	"ruosstodit" V TV Inf 
+ruovgadit 	"ruovggat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"ruovggat" V* TV Der1 Der/u/a/åd V Inf 	"ruovggat" V* TV Der1 Der/d V Imprt Pl2 	"ruovggat" V* TV Der1 Der/d V Inf 
+ruosjkedit 	"ruosjkedit" V IV Imprt Pl2 	"ruosjkedit" V IV Inf 
+ruosjkedit 	"ruosjkedit" V IV Imprt Pl2 	"ruosjkedit" V IV Inf 
+ruossjastit 	"ruossjastit" V IV Inf 	"ruossjastit" V IV Imprt Pl2 
+rusodit 	"russot" V* IV Der1 Der/d V Imprt Pl2 	"russot" V* IV Der1 Der/d V Inf 
+rusádit 	"russat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"russat" V* IV Der1 Der/d V Imprt Pl2 	"russat" V* IV Der1 Der/d V Inf 	"russat" V* IV Der1 Der/u/a/åd V Inf 
+ruvvidit 	"ruvvit" V* TV Der1 Der/d V Inf 	"ruvvit" V* TV Der1 Der/d V Imprt Pl2 
+rusjkudit 	"rusjkudit" V IV Inf 	"rusjkudit" V IV Imprt Pl2 
+ráfudit 	"ráfudit" V IV Inf 	"ráfudit" V IV Imprt Pl2 
+ráhkkidit 	"ráhkkidit" V IV Inf 	"ráhkkidit" V IV Imprt Pl2 
+rájggánit 	"rájggánit" V IV Imprt Pl2 	"rájggánit" V IV Inf 
+rájkestit 	"rájkestit" V IV Imprt Pl2 	"rájkestit" V IV Inf 
+rákkedit 	"rákkedit" V IV Imprt Pl2 	"rákkedit" V IV Inf 
+rávkkalit 	"rávkkat" V* TV Der1 Der/l V Imprt Pl2 	"rávkkat" V* TV Der1 Der/l V Inf 
+rávkadit 	"rávkkat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"rávkkat" V* TV Der1 Der/d V Inf 	"rávkkat" V* TV Der1 Der/d V Imprt Pl2 	"rávkkat" V* TV Der1 Der/u/a/åd V Inf 
+rádedit 	"rádedit" V IV Imprt Pl2 	"rádedit" V IV Inf 
+rássjodit 	"rássjodit" V IV Inf 
+sadjanit 	"sadjanit" V IV Imprt Pl2 	"sadjanit" V IV Inf 
+sahkanit 	"sahkanit" V IV Inf 	"sahkanit" V IV Imprt Pl2 
+sahkkidit 	"sahkkidit" V TV Imprt Pl2 	"sahkkidit" V TV Inf 
+sagŋadit 	"sagŋadit" V TV Inf 	"sagŋadit" V TV Imprt Pl2 
+sagŋedit 	"sagŋedit" V IV Inf 	"sagŋedit" V IV Imprt Pl2 
+salástit 	"salástit" V TV Inf 	"salástit" V TV Imprt Pl2 
+salgijdit 	"salgijdit" V IV Imprt Pl2 	"salgijdit" V IV Inf 
+sattedit 	"saddet" V* TV Der1 Der/d V Imprt Pl2 	"saddet" V* TV Der1 Der/d V Inf 
+savdastit 	"savddat" V* IV Der1 Der/st V Imprt Pl2 	"savddat" V* IV Der1 Der/st V Inf 
+savedit 	"savvet" V* IV Der1 Der/d V Imprt Pl2 	"savvet" V* IV Der1 Der/d V Inf 
+siejvedit 	"siejvvet" V* TV Der1 Der/d V Inf 	"siejvvet" V* TV Der1 Der/d V Imprt Pl2 
+siekkedit 	"siekkedit" V TV Imprt Pl2 	"siekkedit" V TV Inf 
+sievestit 	"sievvet" V* TV Der1 Der/st V Inf 	"sievvet" V* TV Der1 Der/st V Imprt Pl2 
+sievvelit 	"sievvet" V* TV Der1 Der/l V Imprt Pl2 	"sievvet" V* TV Der1 Der/l V Inf 
+sejvudit 	"sæjvvot" V* IV Der1 Der/u/a/åd V Inf 	"sæjvvot" V* IV Der1 Der/u/a/åd V Imprt Pl2 
+sieradit 	"sieradit" V TV Inf 	"sieradit" V TV Imprt Pl2 
+sieradit 	"sieradit" V TV Inf 	"sieradit" V TV Imprt Pl2 
+sierranit 	"sierranit" V IV Inf 	"sierranit" V IV Imprt Pl2 
+sihkastit 	"sihkastit" V TV Imprt Pl2 	"sihkastit" V TV Inf 
+sihkudit 	"sihkkot" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"sihkkot" V* TV Der1 Der/u/a/åd V Inf 
+sihkodit 	"sihkkot" V* TV Der1 Der/d V Inf 	"sihkkot" V* TV Der1 Der/d V Imprt Pl2 
+silldásit 	"silldá" N Sg Ill PxSg2 
+sillodit 	"sillodit" V TV Imprt Pl2 	"sillodit" V TV Inf 
+sirdedit 	"sirddet" V* TV Der1 Der/d V Imprt Pl2 	"sirddet" V* TV Der1 Der/d V Inf 
+sirddásit 	"sirddet" V* TV Der3 Actor N Sg Ill PxSg2 
+skibádit 	"skihpat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"skihpat" V* IV Der1 Der/u/a/åd V Inf 	"skihpat" V* IV Der1 Der/d V Imprt Pl2 	"skihpat" V* IV Der1 Der/d V Inf 
+skiermodit 	"skiermmot" V* IV Der1 Der/d V Imprt Pl2 	"skiermmot" V* IV Der1 Der/d V Inf 
+skihppudit 	"skihpput" V* TV Der1 Der/d V Imprt Pl2 	"skihpput" V* TV Der1 Der/d V Inf 
+skiládit 	"skillat" V* IV Der1 Der/d V Inf 	"skillat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"skillat" V* IV Der1 Der/d V Imprt Pl2 	"skillat" V* IV Der1 Der/u/a/åd V Inf 
+skilájdit 	"skilájdit" V IV Inf 	"skilájdit" V IV Imprt Pl2 
+skirrodit 	"skirrodit" V TV Inf 	"skirrodit" V TV Imprt Pl2 
+skidárdit 	"skidárdit" V TV Inf 	"skidárdit" V TV Imprt Pl2 
+skåbadit 	"skåhpat" V* IV Der1 Der/d V Imprt Pl2 	"skåhpat" V* IV Der1 Der/u/a/åd V Inf 	"skåhpat" V* IV Der1 Der/d V Inf 	"skåhpat" V* IV Der1 Der/u/a/åd V Imprt Pl2 
+skoalkkalit 	"skoalkkat" V* IV Der1 Der/l V Imprt Pl2 	"skoalkkat" V* IV Der1 Der/l V Inf 
+skoalkedit 	"skoalkedit" V IV Imprt Pl2 	"skoalkedit" V IV Inf 
+skoalkedit 	"skoalkedit" V IV Imprt Pl2 	"skoalkedit" V IV Inf 
+skuolkastit 	"skuolkkat" V* IV Der1 Der/st V Inf 	"skuolkkat" V* IV Der1 Der/st V Imprt Pl2 
+skálmmistit 	"skálmmit" V* TV Der1 Der/st V Imprt Pl2 	"skálmmit" V* TV Der1 Der/st V Inf 
+skárbagit 	"skárbak" A* Adv 
+skávodit 	"skávvot" V* IV Der1 Der/d V Imprt Pl2 	"skávvot" V* IV Der1 Der/d V Inf 
+smållånit 	"smållånit" V IV Inf 	"smållånit" V IV Imprt Pl2 
+smáhkijdit 	"smáhkijdit" V IV Imprt Pl2 	"smáhkijdit" V IV Inf 
+snelkudit 	"snælkkot" V* TV Der1 Der/u/a/åd V Inf 	"snælkkot" V* TV Der1 Der/u/a/åd V Imprt Pl2 
+snårråsit 	"snårre" N Sg Ill PxSg2 
+snurkedit 	"snurkket" V* IV Der1 Der/d V Inf 	"snurkket" V* IV Der1 Der/d V Imprt Pl2 
+såbadit 	"såbadit" V TV Imprt Pl2 	"såbadit" V TV Inf 
+såbadit 	"såbadit" V TV Imprt Pl2 	"såbadit" V TV Inf 
+soaggodit 	"soaggodit" V TV Imprt Pl2 	"soaggodit" V TV Inf 
+soadestit 	"soadestit" V TV Imprt Pl2 	"soadestit" V TV Inf 
+sådjålit 	"sådjålit" V IV Inf 	"sådjålit" V IV Imprt Pl2 
+såjddådit 	"såjddådit" V TV Imprt Pl2 	"såjddådit" V TV Inf 
+såjådit 	"såjådit" V TV Inf 	"såjådit" V TV Imprt Pl2 
+såjådit 	"såjådit" V TV Inf 	"såjådit" V TV Imprt Pl2 
+såludit 	"såludit" V TV Inf 	"såludit" V TV Imprt Pl2 
+sårmmånit 	"sårmmånit" V IV Imprt Pl2 	"sårmmånit" V IV Inf 
+sårmmidit 	"sårmmit" V* TV Der1 Der/d V Imprt Pl2 	"sårmmit" V* TV Der1 Der/d V Inf 
+spiergadit 	"spierggat" V* IV Der1 Der/d V Imprt Pl2 	"spierggat" V* IV Der1 Der/u/a/åd V Inf 	"spierggat" V* IV Der1 Der/d V Inf 	"spierggat" V* IV Der1 Der/u/a/åd V Imprt Pl2 
+stajggadit 	"stajggat" A* Adv 
+stoalodit 	"stoallot" V* TV Der1 Der/d V Inf 	"stoallot" V* TV Der1 Der/d V Imprt Pl2 
+stuoredit 	"stuoredit" V TV Imprt Pl2 	"stuoredit" V TV Inf 
+stutjádit 	"stuhtjat" V* IV Der1 Der/u/a/åd V Inf 	"stuhtjat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"stuhtjat" V* IV Der1 Der/d V Inf 	"stuhtjat" V* IV Der1 Der/d V Imprt Pl2 
+stávtjedit 	"stávtjedit" V IV Inf 	"stávtjedit" V IV Imprt Pl2 
+suddadit 	"suddadit" V TV Inf 	"suddadit" V TV Imprt Pl2 
+suddudit 	"suddut" V* Der1 Der/d V Inf 	"suddut" V* Der1 Der/d V Imprt Pl2 
+suddodit 	"suddodit" V TV Inf 	"suddodit" V TV Imprt Pl2 
+sugádit 	"sugádit" V TV Imprt Pl2 	"sugádit" V TV Inf 
+sugádit 	"sugádit" V TV Imprt Pl2 	"sugádit" V TV Inf 
+suhkalit 	"suhkalit" V IV Imprt Pl2 	"suhkalit" V IV Inf 
+suhtadit 	"suhtadit" V IV Imprt Pl2 	"suhtadit" V IV Inf 
+suhttadit 	"suhttadit" V TV Inf 	"suhttadit" V TV Imprt Pl2 
+sujbudit 	"sujbbot" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"sujbbot" V* IV Der1 Der/u/a/åd V Inf 
+sulástit 	"sulástit" V TV Inf 	"sulástit" V TV Imprt Pl2 
+suodjalit 	"suodjalit" V TV Inf 	"suodjalit" V TV Imprt Pl2 
+suohkodit 	"suohkodit" V TV Inf 	"suohkodit" V TV Imprt Pl2 
+suohppásit 	"suohppá" N Sg Ill PxSg2 
+suoládit 	"suoládit" V TV Imprt Pl2 	"suoládit" V TV Inf 
+suomastit 	"suomastit" V IV Imprt Pl2 	"suomastit" V IV Inf 
+suorgganit 	"suorgganit" V IV Imprt Pl2 	"suorgganit" V IV Inf 
+suoskadit 	"suoskadit" V TV Imprt Pl2 	"suoskadit" V TV Inf 
+suoskastit 	"suoskastit" V TV Imprt Pl2 	"suoskastit" V TV Inf 
+suovastit 	"suovastit" V TV Imprt Pl2 	"suovastit" V TV Inf 
+suovvadit 	"suovvadit" V TV Inf 	"suovvadit" V TV Imprt Pl2 
+suttadit 	"suddat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"suddat" V* IV Der1 Der/u/a/åd V Inf 	"suddat" V* IV Der1 Der/d V Imprt Pl2 	"suddat" V* IV Der1 Der/d V Inf 
+suvdedit 	"suvddet" V* TV Der1 Der/d V Imprt Pl2 	"suvddet" V* TV Der1 Der/d V Inf 
+suvrijdit 	"suvrijdit" V IV Inf 	"suvrijdit" V IV Imprt Pl2 
+suvrostit 	"suvrrot" V* IV Der1 Der/st V Imprt Pl2 	"suvrrot" V* IV Der1 Der/st V Inf 
+suvrostit 	"suvrrot" V* IV Der1 Der/st V Imprt Pl2 	"suvrrot" V* IV Der1 Der/st V Inf 
+suvrrodit 	"suvrrodit" V TV Inf 	"suvrrodit" V TV Imprt Pl2 
+suvrrolit 	"suvrrot" V* IV Der1 Der/l V Imprt Pl2 	"suvrrot" V* IV Der1 Der/l V Inf 
+sáddidit 	"sáddit" V* TV Der1 Der/d V Inf 	"sáddit" V* TV Der1 Der/d V Imprt Pl2 
+sáddidit 	"sáddit" V* TV Der1 Der/d V Inf 	"sáddit" V* TV Der1 Der/d V Imprt Pl2 
+sággalit 	"sággat" V* TV Der1 Der/l V Imprt Pl2 	"sággat" V* TV Der1 Der/l V Inf 
+sáhkkudit 	"sáhkkudit" V TV Imprt Pl2 	"sáhkkudit" V TV Inf 
+sáhpudit 	"sáhppot" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"sáhppot" V* IV Der1 Der/u/a/åd V Inf 
+sáhtjalit 	"sáhtjalit" V TV Inf 	"sáhtjalit" V TV Imprt Pl2 
+sájveldit 	"sájveldit" V IV Imprt Pl2 	"sájveldit" V IV Inf 
+sákkastit 	"sággat" V* TV Der1 Der/st V Inf 	"sággat" V* TV Der1 Der/st V Imprt Pl2 
+sámástit 	"sámástit" V IV Inf 	"sámástit" V IV Imprt Pl2 
+sárnnedit 	"sárnnedit" V IV Imprt Pl2 	"sárnnedit" V IV Inf 
+sárggasit 	"sárgga" N Sg Ill PxSg2 
+sárgastit 	"sárgastit" V TV Imprt Pl2 	"sárgastit" V TV Inf 
+sárgudit 	"sárggot" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"sárggot" V* TV Der1 Der/u/a/åd V Inf 
+sárggolit 	"sárggot" V* TV Der1 Der/l V Inf 	"sárggot" V* TV Der1 Der/l V Imprt Pl2 
+sárrasit 	"sárrasit" V IV Inf 	"sárrasit" V IV Imprt Pl2 
+sárnudit 	"sárnnot" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"sárnnot" V* TV Der1 Der/u/a/åd V Inf 
+sárnodit 	"sárnnot" V* TV Der1 Der/d V Inf 	"sárnnot" V* TV Der1 Der/d V Imprt Pl2 
+sávvalit 	"sávvat" V* TV Der1 Der/l V Inf 	"sávvat" V* TV Der1 Der/l V Imprt Pl2 
+uhtsedit 	"uhtsedit" V TV Imprt Pl2 	"uhtsedit" V TV Inf 
+unnedit 	"unnedit" V TV Inf 	"unnedit" V TV Imprt Pl2 
+vajádit 	"vadjat" V* TV Der1 Der/d V Imprt Pl2 	"vadjat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"vadjat" V* TV Der1 Der/u/a/åd V Inf 	"vadjat" V* TV Der1 Der/d V Inf 
+vajádit 	"vadjat" V* TV Der1 Der/d V Imprt Pl2 	"vadjat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"vadjat" V* TV Der1 Der/u/a/åd V Inf 	"vadjat" V* TV Der1 Der/d V Inf 
+vajoldit 	"vajoldit" V IV Imprt Pl2 	"vajoldit" V IV Inf 
+vanádit 	"vanádit" V TV Imprt Pl2 	"vanádit" V TV Inf 
+vanádit 	"vanádit" V TV Imprt Pl2 	"vanádit" V TV Inf 
+vadnalit 	"vadnat" V* IV Der1 Der/l V Imprt Pl2 	"vadnat" V* IV Der1 Der/l V Inf 
+vavdadit 	"vavddat" V* IV Der1 Der/d V Inf 	"vavddat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"vavddat" V* IV Der1 Der/d V Imprt Pl2 	"vavddat" V* IV Der1 Der/u/a/åd V Inf 
+vasjodit 	"vasjodit" V TV Imprt Pl2 	"vasjodit" V TV Inf 
+vassjolit 	"vassjot" V* IV Der1 Der/l V Imprt Pl2 	"vassjot" V* IV Der1 Der/l V Inf 
+viegadit 	"viegadit" V TV Inf 	"viegadit" V TV Imprt Pl2 
+viehkedit 	"viehkedit" V TV Imprt Pl2 	"viehkedit" V TV Inf 
+viehkedit 	"viehkedit" V TV Imprt Pl2 	"viehkedit" V TV Inf 
+viejedit 	"viejedit" V TV Imprt Pl2 	"viejedit" V TV Inf 
+viejestit 	"viedjet" V* IV Der1 Der/st V Inf 	"viedjet" V* IV Der1 Der/st V Imprt Pl2 
+vieradit 	"vieradit" V TV Imprt Pl2 	"vieradit" V TV Inf 
+vieredit 	"vieredit" V TV Imprt Pl2 	"vieredit" V TV Inf 
+værránit 	"værránit" V IV Inf 	"værránit" V IV Imprt Pl2 
+vierodit 	"vierrot" V* IV Der1 Der/d V Imprt Pl2 	"vierrot" V* IV Der1 Der/d V Inf 
+verrutjit 	"verrat" V* TV Der/Pass V Sup 
+vittsadit 	"vidtsat" V* TV Der1 Der/d V Imprt Pl2 	"vidtsat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"vidtsat" V* TV Der1 Der/d V Inf 	"vidtsat" V* TV Der1 Der/u/a/åd V Inf 
+viegadit 	"viegadit" V TV Inf 	"viegadit" V TV Imprt Pl2 
+viegadit 	"viegadit" V TV Inf 	"viegadit" V TV Imprt Pl2 
+viehkalit 	"viehkalit" V IV Inf 	"viehkalit" V IV Imprt Pl2 
+vielggadit 	"vielggat" A* Adv 
+viednadit 	"viednadit" V TV Imprt Pl2 	"viednadit" V TV Inf 
+viettjadit 	"viedtjat" V* TV Der1 Der/d V Inf 	"viedtjat" V* TV Der1 Der/d V Imprt Pl2 	"viedtjat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"viedtjat" V* TV Der1 Der/u/a/åd V Inf 
+viedtjalit 	"viedtjalit" V TV Inf 	"viedtjalit" V TV Imprt Pl2 
+vihpadit 	"vihpadit" V TV Imprt Pl2 	"vihpadit" V TV Inf 
+vijdedit 	"vijdedit" V TV Inf 	"vijdedit" V TV Imprt Pl2 
+vijddánit 	"vijddánit" V IV Imprt Pl2 	"vijddánit" V IV Inf 
+vikkadit 	"vikkadit" V IV Inf 	"vikkadit" V IV Imprt Pl2 
+vilsjastit 	"vilsjastit" V IV Inf 	"vilsjastit" V IV Imprt Pl2 
+virádit 	"virrat" V* IV Der1 Der/d V Imprt Pl2 	"virrat" V* IV Der1 Der/d V Inf 	"virrat" V* IV Der1 Der/u/a/åd V Inf 	"virrat" V* IV Der1 Der/u/a/åd V Imprt Pl2 
+vitsárdit 	"vitsárdit" V IV Inf 	"vitsárdit" V IV Imprt Pl2 
+visjádit 	"vissjat" V* IV Der1 Der/d V Imprt Pl2 	"vissjat" V* IV Der1 Der/d V Inf 	"vissjat" V* IV Der1 Der/u/a/åd V Inf 	"vissjat" V* IV Der1 Der/u/a/åd V Imprt Pl2 
+vissjalit 	"vissjal" A* Adv 
+vuoddjádit 	"vuoddját" V* IV Der1 Der/d V Imprt Pl2 	"vuoddját" V* IV Der1 Der/d V Inf 
+vuodjalit 	"vuodjat" V* TV Der1 Der/l V Imprt Pl2 	"vuodjat" V* TV Der1 Der/l V Inf 
+vuodjelit 	"vuodjelit" V TV Imprt Pl2 	"vuodjelit" V TV Inf 
+vuodjelit 	"vuodjelit" V TV Imprt Pl2 	"vuodjelit" V TV Inf 
+vuodjodit 	"vuodjodit" V TV Imprt Pl2 	"vuodjodit" V TV Inf 
+vuojddalit 	"vuojddat" V* TV Der1 Der/l V Inf 	"vuojddat" V* TV Der1 Der/l V Imprt Pl2 
+vuojdadit 	"vuojddat" V* TV Der1 Der/u/a/åd V Inf 	"vuojddat" V* TV Der1 Der/d V Inf 	"vuojddat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"vuojddat" V* TV Der1 Der/d V Imprt Pl2 
+vuojdastit 	"vuojdastit" V TV Imprt Pl2 	"vuojdastit" V TV Inf 
+vuojnedit 	"vuojnnet" V* TV Der1 Der/d V Imprt Pl2 	"vuojnnet" V* TV Der1 Der/d V Inf 
+vuojŋadit 	"vuojŋadit" V TV Imprt Pl2 	"vuojŋadit" V TV Inf 
+vuojŋastit 	"vuojŋastit" V IV Inf 	"vuojŋastit" V IV Imprt Pl2 
+vuojadit 	"vuojadit" V TV Imprt Pl2 	"vuojadit" V TV Inf 
+vuojadit 	"vuojadit" V TV Imprt Pl2 	"vuojadit" V TV Inf 
+vuojatjit 	"vuodjat" V TV Sup 
+vuojedit 	"vuojedit" V TV Imprt Pl2 	"vuojedit" V TV Inf 
+vuojestit 	"vuodjet" V* TV Der1 Der/st V Imprt Pl2 	"vuodjet" V* TV Der1 Der/st V Inf 
+vuojodit 	"vuodjot" V* IV Der1 Der/d V Imprt Pl2 	"vuodjot" V* IV Der1 Der/d V Inf 
+vuoladit 	"vuollat" V* TV Der1 Der/u/a/åd V Inf 	"vuollat" V* TV Der1 Der/d V Imprt Pl2 	"vuollat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"vuollat" V* TV Der1 Der/d V Inf 
+vuolgadit 	"vuolgadit" V TV Inf 	"vuolgadit" V TV Imprt Pl2 
+vuolgadit 	"vuolgadit" V TV Inf 	"vuolgadit" V TV Imprt Pl2 
+vuolggelit 	"vuolgget" V* IV Der1 Der/l V Inf 	"vuolgget" V* IV Der1 Der/l V Imprt Pl2 
+vuoledit 	"vuoledit" V TV Inf 	"vuoledit" V TV Imprt Pl2 
+vuollodit 	"vuollodit" V TV Imprt Pl2 	"vuollodit" V TV Inf 
+vuollánit 	"vuollánit" V IV Imprt Pl2 	"vuollánit" V IV Inf 
+vuorbbádit 	"vuorbbádit" V TV Inf 	"vuorbbádit" V TV Imprt Pl2 
+vuordatjit 	"vuordatjit" V TV Inf 	"vuordatjit" V TV Imprt Pl2 
+vuordestit 	"vuorddet" V* TV Der1 Der/st V Imprt Pl2 	"vuorddet" V* TV Der1 Der/st V Inf 
+vuordedit 	"vuordedit" V TV Inf 	"vuordedit" V TV Imprt Pl2 
+vuorddelit 	"vuorddelit" V TV Inf 	"vuorddelit" V TV Imprt Pl2 
+vuornodit 	"vuornnot" V* TV Der1 Der/d V Imprt Pl2 	"vuornnot" V* TV Der1 Der/d V Inf 
+vuorodit 	"vuorodit" V TV Inf 	"vuorodit" V TV Imprt Pl2 
+vuosedit 	"vuosedit" V TV Inf 	"vuosedit" V TV Imprt Pl2 
+vuosedit 	"vuosedit" V TV Inf 	"vuosedit" V TV Imprt Pl2 
+vuosteldit 	"vuosteldit" V IV Imprt Pl2 	"vuosteldit" V IV Inf 
+vuovsadit 	"vuovsadit" V TV Imprt Pl2 	"vuovsadit" V TV Inf 
+vuovsedit 	"vuokset" V* TV Der1 Der/d V Inf 	"vuokset" V* TV Der1 Der/d V Imprt Pl2 
+vuotjodit 	"vuotjodit" V TV Imprt Pl2 	"vuotjodit" V TV Inf 
+váttsatjit 	"váttsatjit" V IV Imprt Pl2 	"váttsatjit" V IV Inf 
+váttsedit 	"váttsedit" V TV Imprt Pl2 	"váttsedit" V TV Inf 
+vágodit 	"vágodit" V TV Imprt Pl2 	"vágodit" V TV Inf 
+vájbbadit 	"vájbbadit" V TV Inf 	"vájbbadit" V TV Imprt Pl2 
+vájbadit 	"vájbbat" V* TV Der1 Der/d V Inf 	"vájbbat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"vájbbat" V* TV Der1 Der/u/a/åd V Inf 	"vájbbat" V* TV Der1 Der/d V Imprt Pl2 
+vájbadit 	"vájbbat" V* TV Der1 Der/d V Inf 	"vájbbat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"vájbbat" V* TV Der1 Der/u/a/åd V Inf 	"vájbbat" V* TV Der1 Der/d V Imprt Pl2 
+vájddodit 	"vájddodit" V TV Inf 	"vájddodit" V TV Imprt Pl2 
+vájlodit 	"vájllot" V* IV Der1 Der/d V Imprt Pl2 	"vájllot" V* IV Der1 Der/d V Inf 
+vájvedit 	"vájvedit" V TV Imprt Pl2 	"vájvedit" V TV Inf 
+vájvedit 	"vájvedit" V TV Imprt Pl2 	"vájvedit" V TV Inf 
+váksjudit 	"váksjudit" V TV Imprt Pl2 	"váksjudit" V TV Inf 
+váksjudit 	"váksjudit" V TV Imprt Pl2 	"váksjudit" V TV Inf 
+váksjustit 	"váksjut" V* TV Der1 Der/st V Inf 	"váksjut" V* TV Der1 Der/st V Imprt Pl2 
+válldalit 	"válldalit" V IV Inf 	"válldalit" V IV Imprt Pl2 
+váldestit 	"váldestit" V TV Imprt Pl2 	"váldestit" V TV Inf 
+váldedit 	"válldet" V* TV Der1 Der/d V Imprt Pl2 	"válldet" V* TV Der1 Der/d V Inf 
+vándardit 	"vándardit" V IV Imprt Pl2 	"vándardit" V IV Inf 
+váratjit 	"váratjit" V IV Imprt Pl2 	"váratjit" V IV Inf 
+várjjalit 	"várjjalit" V TV Inf 	"várjjalit" V TV Imprt Pl2 
+várudit 	"várudit" V TV Imprt Pl2 	"várudit" V TV Inf 
+várodit 	"várodit" V TV Imprt Pl2 	"várodit" V TV Inf 
+vásedit 	"vásedit" V TV Imprt Pl2 	"vásedit" V TV Inf 
+vásstedit 	"vásstedit" V TV Imprt Pl2 	"vásstedit" V TV Inf 
+vástustit 	"vástutit" V TV Imprt Pl2 	"vástutit" V TV Inf 
+vádtselit 	"vádtset" V* IV Der1 Der/l V Inf 	"vádtset" V* TV Der1 Der/l V Imprt Pl2 	"vádtset" V* IV Der1 Der/l V Imprt Pl2 	"vádtset" V* TV Der1 Der/l V Inf 
+ádjánit 	"ádjánit" V IV Imprt Pl2 	"ádjánit" V IV Inf 
+ájtsadit 	"ájttsat" V* TV Der1 Der/d V Imprt Pl2 	"ájttsat" V* TV Der1 Der/u/a/åd V Inf 	"ájttsat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"ájttsat" V* TV Der1 Der/d V Inf 
+álgadit 	"álgadit" V TV Inf 	"álgadit" V TV Imprt Pl2 
+álgadit 	"álgadit" V TV Inf 	"álgadit" V TV Imprt Pl2 
+ánudit 	"ánudit" V TV Inf 	"ánudit" V TV Imprt Pl2 
+ánostit 	"ádnot" V* TV Der1 Der/st V Inf 	"ádnot" V* TV Der1 Der/st V Imprt Pl2 
+ánodit 	"ánodit" V TV Inf 	"ánodit" V TV Imprt Pl2 
+ánostit 	"ádnot" V* TV Der1 Der/st V Inf 	"ádnot" V* TV Der1 Der/st V Imprt Pl2 
+árbbistit 	"árbbit" V* TV Der1 Der/st V Inf 	"árbbit" V* TV Der1 Der/st V Imprt Pl2 
+árestit 	"árret" V* TV Der1 Der/st V Inf 	"árret" V* TV Der1 Der/st V Imprt Pl2 
+árvvalit 	"árvvalit" V TV Inf 	"árvvalit" V TV Imprt Pl2 
+árvvedit 	"árvvedit" V TV Inf 	"árvvedit" V TV Imprt Pl2 
+ássalit 	"ássat" V* IV Der1 Der/l V Inf 	"ássat" V* IV Der1 Der/l V Imprt Pl2 
+ávnnidit 	"ávnnit" V* TV Der1 Der/d V Imprt Pl2 	"ávnnit" V* TV Der1 Der/d V Inf 
+tjagárdit 	"tjagárdit" V TV Inf 	"tjagárdit" V TV Imprt Pl2 
+tjajmadit 	"tjajmadit" V IV Inf 	"tjajmadit" V IV Imprt Pl2 
+tjajmadit 	"tjajmadit" V IV Inf 	"tjajmadit" V IV Imprt Pl2 
+tjajmádit 	"tjajmádit" V IV Inf 	"tjajmádit" V IV Imprt Pl2 
+tjaládit 	"tjallat" V* TV Der1 Der/u/a/åd V Inf 	"tjallat" V* TV Der1 Der/d V Imprt Pl2 	"tjallat" V* TV Der1 Der/d V Inf 	"tjallat" V* TV Der1 Der/u/a/åd V Imprt Pl2 
+tjaládit 	"tjallat" V* TV Der1 Der/u/a/åd V Inf 	"tjallat" V* TV Der1 Der/d V Imprt Pl2 	"tjallat" V* TV Der1 Der/d V Inf 	"tjallat" V* TV Der1 Der/u/a/åd V Imprt Pl2 
+tjalástit 	"tjallat" V* TV Der1 Der/st V Imprt Pl2 	"tjallat" V* TV Der1 Der/st V Inf 
+tjalggalit 	"tjalggat" V* IV Der1 Der/l V Imprt Pl2 	"tjalggat" V* IV Der1 Der/l V Inf 
+tjalgadit 	"tjalggat" V* IV Der1 Der/d V Inf 	"tjalggat" V* IV Der1 Der/u/a/åd V Inf 	"tjalggat" V* IV Der1 Der/d V Imprt Pl2 	"tjalggat" V* IV Der1 Der/u/a/åd V Imprt Pl2 
+tjalgadit 	"tjalggat" V* IV Der1 Der/d V Inf 	"tjalggat" V* IV Der1 Der/u/a/åd V Inf 	"tjalggat" V* IV Der1 Der/d V Imprt Pl2 	"tjalggat" V* IV Der1 Der/u/a/åd V Imprt Pl2 
+tjallalit 	"tjallat" V* TV Der1 Der/l V Inf 	"tjallat" V* TV Der1 Der/l V Imprt Pl2 
+tjallodit 	"tjallodit" V TV Imprt Pl2 	"tjallodit" V TV Inf 
+tjalmostit 	"tjalmostit" V IV Imprt Pl2 	"tjalmostit" V IV Inf 
+tjanádit 	"tjanádit" V TV Inf 	"tjanádit" V TV Imprt Pl2 
+tjanádit 	"tjanádit" V TV Inf 	"tjanádit" V TV Imprt Pl2 
+tjanástit 	"tjanástit" V TV Inf 	"tjanástit" V TV Imprt Pl2 
+tjarvastit 	"tjarvvat" V* IV Der1 Der/st V Imprt Pl2 	"tjarvvat" V* IV Der1 Der/st V Inf 
+tjasskelit 	"tjassket" V* TV Der1 Der/l V Inf 	"tjassket" V* TV Der1 Der/l V Imprt Pl2 
+tjaskestit 	"tjassket" V* TV Der1 Der/st V Inf 	"tjassket" V* TV Der1 Der/st V Imprt Pl2 
+tjaskedit 	"tjassket" V* TV Der1 Der/d V Imprt Pl2 	"tjassket" V* TV Der1 Der/d V Inf 
+tjaskestit 	"tjassket" V* TV Der1 Der/st V Inf 	"tjassket" V* TV Der1 Der/st V Imprt Pl2 
+tjasskásit 	"tjassket" V* TV Der3 Actor N Sg Ill PxSg2 	"tjaskes" N Sg Ill PxSg2 
+tjadnalit 	"tjadnalit" V TV Inf 	"tjadnalit" V TV Imprt Pl2 
+tjadnasit 	"tjadnasit" V IV Imprt Pl2 	"tjadnasit" V IV Inf 
+tjavggalit 	"tjavggat" V* IV Der1 Der/l V Imprt Pl2 	"tjavggat" V* IV Der1 Der/l V Inf 
+tjavggistit 	"tjavggistit" V TV Imprt Pl2 	"tjavggistit" V TV Inf 
+tjavgadit 	"tjavggat" V* IV Der1 Der/d V Imprt Pl2 	"tjavggat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"tjavggat" V* IV Der1 Der/u/a/åd V Inf 	"tjavggat" V* IV Der1 Der/d V Inf 
+tjavgadit 	"tjavggat" V* IV Der1 Der/d V Imprt Pl2 	"tjavggat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"tjavggat" V* IV Der1 Der/u/a/åd V Inf 	"tjavggat" V* IV Der1 Der/d V Inf 
+tjavgastit 	"tjavggat" V* IV Der1 Der/st V Inf 	"tjavggat" V* IV Der1 Der/st V Imprt Pl2 
+tjadádit 	"tjadádit" V TV Imprt Pl2 	"tjadádit" V TV Inf 
+tjiegŋodit 	"tjiegŋodit" V TV Inf 	"tjiegŋodit" V TV Imprt Pl2 
+tjeludit 	"tjeludit" V IV Inf 	"tjeludit" V IV Imprt Pl2 
+tjiegadit 	"tjiegadit" V TV Inf 	"tjiegadit" V TV Imprt Pl2 
+tjiegadit 	"tjiegadit" V TV Inf 	"tjiegadit" V TV Imprt Pl2 
+tjiegardit 	"tjiegardit" V IV Inf 	"tjiegardit" V IV Imprt Pl2 
+tjiegastit 	"tjiehkat" V* TV Der1 Der/st V Imprt Pl2 	"tjiehkat" V* TV Der1 Der/st V Inf 
+tjiehkalit 	"tjiehkalit" V TV Inf 	"tjiehkalit" V TV Imprt Pl2 
+tjiehkádit 	"tjiehkádit" V IV Inf 	"tjiehkádit" V IV Imprt Pl2 
+tjiektjalit 	"tjiektjat" V* TV Der1 Der/l V Inf 	"tjiektjat" V* TV Der1 Der/l V Imprt Pl2 
+tjiektjasit 	"tjiektja" N Sg Ill PxSg2 
+tjiegŋodit 	"tjiegŋodit" V TV Inf 	"tjiegŋodit" V TV Imprt Pl2 
+tjiegŋolit 	"tjiegŋot" V* IV Der1 Der/l V Inf 	"tjiegŋot" V* IV Der1 Der/l V Imprt Pl2 
+tjielggalit 	"tjielggat" V* IV Der1 Der/l V Imprt Pl2 	"tjielggat" V* IV Der1 Der/l V Inf 
+tjielgadit 	"tjielgadit" V TV Imprt Pl2 	"tjielgadit" V TV Inf 
+tjierostit 	"tjierrot" V* IV Der1 Der/st V Imprt Pl2 	"tjierrot" V* IV Der1 Der/st V Inf 
+tjierodit 	"tjierodit" V TV Imprt Pl2 	"tjierodit" V TV Inf 
+tjierostit 	"tjierrot" V* IV Der1 Der/st V Imprt Pl2 	"tjierrot" V* IV Der1 Der/st V Inf 
+tjiesskasit 	"tjiesskasit" V IV Imprt Pl2 	"tjiesskasit" V IV Inf 
+tjieskadit 	"tjiesskat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"tjiesskat" V* TV Der1 Der/u/a/åd V Inf 	"tjiesskat" V* TV Der1 Der/d V Inf 	"tjiesskat" V* TV Der1 Der/d V Imprt Pl2 
+tjieskadit 	"tjiesskat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"tjiesskat" V* TV Der1 Der/u/a/åd V Inf 	"tjiesskat" V* TV Der1 Der/d V Inf 	"tjiesskat" V* TV Der1 Der/d V Imprt Pl2 
+tjievtjadit 	"tjiektjat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"tjiektjat" V* TV Der1 Der/d V Imprt Pl2 	"tjiektjat" V* TV Der1 Der/d V Inf 	"tjiektjat" V* TV Der1 Der/u/a/åd V Inf 
+tjievtjadit 	"tjiektjat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"tjiektjat" V* TV Der1 Der/d V Imprt Pl2 	"tjiektjat" V* TV Der1 Der/d V Inf 	"tjiektjat" V* TV Der1 Der/u/a/åd V Inf 
+tjievtjastit 	"tjievtjastit" V TV Imprt Pl2 	"tjievtjastit" V TV Inf 
+tjieŋedit 	"tjieŋedit" V TV Imprt Pl2 	"tjieŋedit" V TV Inf 
+tjieŋodit 	"tjieŋodit" V TV Imprt Pl2 	"tjieŋodit" V TV Inf 
+tjiktásit 	"tjiktet" V* TV Der3 Actor N Sg Ill PxSg2 
+tjirudit 	"tjirrot" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"tjirrot" V* IV Der1 Der/u/a/åd V Inf 
+tjivrijdit 	"tjivrijdit" V IV Inf 	"tjivrijdit" V IV Imprt Pl2 
+tjivtestit 	"tjivtestit" V TV Inf 	"tjivtestit" V TV Imprt Pl2 
+tjivtedit 	"tjiktet" V* TV Der1 Der/d V Inf 	"tjiktet" V* TV Der1 Der/d V Imprt Pl2 
+tjoaggelit 	"tjoaggelit" V TV Inf 	"tjoaggelit" V TV Imprt Pl2 
+tjoaggásit 	"tjoagget" V* TV Der3 Actor N Sg Ill PxSg2 	"tjoagge" N Sg Ill PxSg2 
+tjoakkestit 	"tjoagget" V* TV Der1 Der/st V Imprt Pl2 	"tjoagget" V* TV Der1 Der/st V Inf 
+tjoakkedit 	"tjoagget" V* TV Der1 Der/d V Imprt Pl2 	"tjoagget" V* TV Der1 Der/d V Inf 
+tjoakkestit 	"tjoagget" V* TV Der1 Der/st V Imprt Pl2 	"tjoagget" V* TV Der1 Der/st V Inf 
+tjoalkedit 	"tjoalkedit" V TV Inf 	"tjoalkedit" V TV Imprt Pl2 
+tjoalkodit 	"tjoalkodit" V TV Inf 	"tjoalkodit" V TV Imprt Pl2 
+tjoallolit 	"tjoallot" V* TV Der1 Der/l V Imprt Pl2 	"tjoallot" V* TV Der1 Der/l V Inf 
+tjoalodit 	"tjoallot" V* TV Der1 Der/d V Inf 	"tjoallot" V* TV Der1 Der/d V Imprt Pl2 
+tjoaskedit 	"tjoaskedit" V IV Inf 
+tjoaskedit 	"tjoaskedit" V IV Inf 
+tjoasskodit 	"tjoasskodit" V TV Imprt Pl2 	"tjoasskodit" V TV Inf 
+tjoasskolit 	"tjoasskot" V* IV Der1 Der/l V Inf 	"tjoasskot" V* IV Der1 Der/l V Imprt Pl2 
+tjoavddalit 	"tjoavddalit" V TV Inf 	"tjoavddalit" V TV Imprt Pl2 
+tjoavdedit 	"tjoavddet" V* TV Der1 Der/d V Inf 	"tjoavddet" V* TV Der1 Der/d V Imprt Pl2 
+tjoavddelit 	"tjoavddelit" V TV Imprt Pl2 	"tjoavddelit" V TV Inf 
+tjoavddásit 	"tjoavddet" V* TV Der3 Actor N Sg Ill PxSg2 	"tjoavddásit" V IV Imprt Pl2 	"tjoavddásit" V IV Inf 
+tjåbbmidit 	"tjåbbmit" V* TV Der1 Der/d V Imprt Pl2 	"tjåbbmit" V* TV Der1 Der/d V Inf 
+tjågådit 	"tjåhkåt" V* TV Der1 Der/d V Imprt Pl2 	"tjåhkåt" V* TV Der1 Der/d V Inf 	"tjåhkåt" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"tjåhkåt" V* TV Der1 Der/u/a/åd V Inf 
+tjågådit 	"tjåhkåt" V* TV Der1 Der/d V Imprt Pl2 	"tjåhkåt" V* TV Der1 Der/d V Inf 	"tjåhkåt" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"tjåhkåt" V* TV Der1 Der/u/a/åd V Inf 
+tjågåstit 	"tjåhkåt" V* TV Der1 Der/st V Inf 	"tjåhkåt" V* TV Der1 Der/st V Imprt Pl2 
+tjågudit 	"tjåhkot" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"tjåhkot" V* TV Der1 Der/u/a/åd V Inf 
+tjågostit 	"tjåhkot" V* TV Der1 Der/st V Imprt Pl2 	"tjåhkot" V* TV Der1 Der/st V Inf 
+tjågodit 	"tjåhkot" V* TV Der1 Der/d V Inf 	"tjåhkot" V* TV Der1 Der/d V Imprt Pl2 
+tjågostit 	"tjåhkot" V* TV Der1 Der/st V Imprt Pl2 	"tjåhkot" V* TV Der1 Der/st V Inf 
+tjågådit 	"tjåhkåt" V* TV Der1 Der/d V Imprt Pl2 	"tjåhkåt" V* TV Der1 Der/d V Inf 	"tjåhkåt" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"tjåhkåt" V* TV Der1 Der/u/a/åd V Inf 
+tjåhkåsit 	"tjåhke" N Sg Ill PxSg2 
+tjåhkkidit 	"tjåhkkidit" V IV Imprt Pl2 	"tjåhkkidit" V IV Inf 
+tjåhkkidit 	"tjåhkkidit" V IV Imprt Pl2 	"tjåhkkidit" V IV Inf 
+tjåhkolit 	"tjåhkot" V* TV Der1 Der/l V Inf 	"tjåhkot" V* TV Der1 Der/l V Imprt Pl2 
+tjållidit 	"tjållit" V* TV Der1 Der/d V Inf 	"tjållit" V* TV Der1 Der/d V Imprt Pl2 
+tjållistit 	"tjållit" V* TV Der1 Der/st V Imprt Pl2 	"tjållit" V* TV Der1 Der/st V Inf 
+tjålggådit 	"tjålggådit" V IV Inf 	"tjålggådit" V IV Imprt Pl2 
+tjålggåsit 	"tjålggå" N Sg Ill PxSg2 
+tjålgådit 	"tjålggåt" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"tjålggåt" V* IV Der1 Der/d V Imprt Pl2 	"tjålggåt" V* IV Der1 Der/u/a/åd V Inf 	"tjålggåt" V* IV Der1 Der/d V Inf 
+tjålgådit 	"tjålggåt" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"tjålggåt" V* IV Der1 Der/d V Imprt Pl2 	"tjålggåt" V* IV Der1 Der/u/a/åd V Inf 	"tjålggåt" V* IV Der1 Der/d V Inf 
+tjållolit 	"tjållot" V* TV Der1 Der/l V Inf 	"tjållot" V* TV Der1 Der/l V Imprt Pl2 
+tjålodit 	"tjållot" V* TV Der1 Der/d V Imprt Pl2 	"tjållot" V* TV Der1 Der/d V Inf 
+tjårmmådit 	"tjårmmådit" V TV Inf 	"tjårmmådit" V TV Imprt Pl2 
+tjårmmålit 	"tjårmmåt" V* TV Der1 Der/l V Inf 	"tjårmmåt" V* TV Der1 Der/l V Imprt Pl2 
+tjårggidit 	"tjårggit" V* TV Der1 Der/d V Imprt Pl2 	"tjårggit" V* TV Der1 Der/d V Inf 
+tjårggistit 	"tjårggit" V* TV Der1 Der/st V Inf 	"tjårggit" V* TV Der1 Der/st V Imprt Pl2 
+tjårmådit 	"tjårmmåt" V* TV Der1 Der/u/a/åd V Inf 	"tjårmmåt" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"tjårmmåt" V* TV Der1 Der/d V Imprt Pl2 	"tjårmmåt" V* TV Der1 Der/d V Inf 
+tjåskijdit 	"tjåskijdit" V IV Inf 
+tjåvllåsit 	"tjåvllå" N Sg Ill PxSg2 
+tjuodjalit 	"tjuodjal" A* Adv 
+tjuogadit 	"tjuogadit" V TV Inf 	"tjuogadit" V TV Imprt Pl2 
+tjuogadit 	"tjuogadit" V TV Inf 	"tjuogadit" V TV Imprt Pl2 
+tjuoggasit 	"tjuogga" N Sg Ill PxSg2 
+tjuoggolit 	"tjuoggolit" V TV Inf 	"tjuoggolit" V TV Imprt Pl2 
+tjuohkalit 	"tjuohkat" V* TV Der1 Der/l V Inf 	"tjuohkat" V* TV Der1 Der/l V Imprt Pl2 
+tjuohpadit 	"tjuohpadit" V TV Imprt Pl2 	"tjuohpadit" V TV Inf 
+tjuohpadit 	"tjuohpadit" V TV Imprt Pl2 	"tjuohpadit" V TV Inf 
+tjuohpastit 	"tjuohppat" V* TV Der1 Der/st V Imprt Pl2 	"tjuohppat" V* TV Der1 Der/st V Inf 
+tjuohppalit 	"tjuohppat" V* TV Der1 Der/l V Inf 	"tjuohppat" V* TV Der1 Der/l V Imprt Pl2 
+tjuojggalit 	"tjuojggat" V* TV Der1 Der/l V Inf 	"tjuojggat" V* TV Der1 Der/l V Imprt Pl2 
+tjuojgadit 	"tjuojgadit" V TV Imprt Pl2 	"tjuojgadit" V TV Inf 
+tjuojgadit 	"tjuojgadit" V TV Imprt Pl2 	"tjuojgadit" V TV Inf 
+tjuojgastit 	"tjuojggat" V* TV Der1 Der/st V Imprt Pl2 	"tjuojggat" V* TV Der1 Der/st V Inf 
+tjuojmastit 	"tjuojmastit" V IV Imprt Pl2 	"tjuojmastit" V IV Inf 
+tjuojadit 	"tjuojadit" V TV Inf 	"tjuojadit" V TV Imprt Pl2 
+tjuojadit 	"tjuojadit" V TV Inf 	"tjuojadit" V TV Imprt Pl2 
+tjuokkodit 	"tjuoggot" V* TV Der1 Der/d V Inf 	"tjuoggot" V* TV Der1 Der/d V Imprt Pl2 
+tjuoladit 	"tjuoladit" V TV Inf 	"tjuoladit" V TV Imprt Pl2 
+tjuoladit 	"tjuoladit" V TV Inf 	"tjuoladit" V TV Imprt Pl2 
+tjuolastit 	"tjuolastit" V TV Inf 	"tjuolastit" V TV Imprt Pl2 
+tjuolmmadit 	"tjuolmmadit" V TV Inf 	"tjuolmmadit" V TV Imprt Pl2 
+tjuoldedit 	"tjuolldet" V* TV Der1 Der/d V Imprt Pl2 	"tjuolldet" V* TV Der1 Der/d V Inf 
+tjuolldelit 	"tjuolldet" V* TV Der1 Der/l V Inf 	"tjuolldet" V* TV Der1 Der/l V Imprt Pl2 
+tjuolldásit 	"tjuolldet" V* TV Der3 Actor N Sg Ill PxSg2 	"tjuolldásit" V IV Inf 	"tjuolldásit" V IV Imprt Pl2 
+tjuollalit 	"tjuollat" V* TV Der1 Der/l V Inf 	"tjuollat" V* TV Der1 Der/l V Imprt Pl2 
+tjuolmadit 	"tjuolmadit" V TV Imprt Pl2 	"tjuolmadit" V TV Inf 
+tjuomadit 	"tjuobmat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"tjuobmat" V* TV Der1 Der/d V Inf 	"tjuobmat" V* TV Der1 Der/u/a/åd V Inf 	"tjuobmat" V* TV Der1 Der/d V Imprt Pl2 
+tjuomadit 	"tjuobmat" V* TV Der1 Der/u/a/åd V Imprt Pl2 	"tjuobmat" V* TV Der1 Der/d V Inf 	"tjuobmat" V* TV Der1 Der/u/a/åd V Inf 	"tjuobmat" V* TV Der1 Der/d V Imprt Pl2 
+tjuomastit 	"tjuomastit" V TV Inf 	"tjuomastit" V TV Imprt Pl2 
+tjuobmalit 	"tjuobmat" V* TV Der1 Der/l V Imprt Pl2 	"tjuobmat" V* TV Der1 Der/l V Inf 
+tjuorggadit 	"tjuorggat" A* Adv 
+tjuormastit 	"tjuormastit" V IV Inf 
+tjuorvvolit 	"tjuorvvot" V* TV Der1 Der/l V Imprt Pl2 	"tjuorvvot" V* TV Der1 Der/l V Inf 
+tjuorvodit 	"tjuorvodit" V TV Inf 	"tjuorvodit" V TV Imprt Pl2 
+tjuoskodit 	"tjuosskot" V* IV Der1 Der/d V Imprt Pl2 	"tjuosskot" V* IV Der1 Der/d V Inf 
+tjuosskolit 	"tjuosskot" V* IV Der1 Der/l V Inf 	"tjuosskot" V* IV Der1 Der/l V Imprt Pl2 
+tjuovggalit 	"tjuovggalit" V TV Imprt Pl2 	"tjuovggalit" V TV Inf 
+tjuovgadit 	"tjuovgadit" V TV Inf 	"tjuovgadit" V TV Imprt Pl2 
+tjuovgadit 	"tjuovgadit" V TV Inf 	"tjuovgadit" V TV Imprt Pl2 
+tjuovgastit 	"tjuovgastit" V TV Imprt Pl2 	"tjuovgastit" V TV Inf 
+tjuovgedit 	"tjuovgedit" V IV Inf 
+tjuovgedit 	"tjuovgedit" V IV Inf 
+tjuovostit 	"tjuovvot" V* TV Der1 Der/st V Imprt Pl2 	"tjuovvot" V* TV Der1 Der/st V Inf 
+tjuovodit 	"tjuovvot" V* TV Der1 Der/d V Imprt Pl2 	"tjuovvot" V* TV Der1 Der/d V Inf 
+tjuovvolit 	"tjuovvolit" V TV Imprt Pl2 	"tjuovvolit" V TV Inf 
+tjuovvolit 	"tjuovvolit" V TV Imprt Pl2 	"tjuovvolit" V TV Inf 
+tjuotsedit 	"tjuohtset" V* IV Der1 Der/d V Imprt Pl2 	"tjuohtset" V* IV Der1 Der/d V Inf 
+tjuottjadit 	"tjuottjadit" V IV Inf 	"tjuottjadit" V IV Imprt Pl2 
+tjuottjastit 	"tjuottjastit" V IV Imprt Pl2 	"tjuottjastit" V IV Inf 
+tjuottjeldit 	"tjuottjeldit" V TV Inf 	"tjuottjeldit" V TV Imprt Pl2 
+tjuottjodit 	"tjuottjodit" V TV Inf 	"tjuottjodit" V TV Imprt Pl2 
+tjuottjodit 	"tjuottjodit" V TV Inf 	"tjuottjodit" V TV Imprt Pl2 
+tjuodtjelit 	"tjuodtjelit" V IV Imprt Pl2 	"tjuodtjelit" V IV Inf 
+tjuodtjelit 	"tjuodtjelit" V IV Imprt Pl2 	"tjuodtjelit" V IV Inf 
+tjuvddidit 	"tjuvddit" V* TV Der1 Der/d V Imprt Pl2 	"tjuvddit" V* TV Der1 Der/d V Inf 
+tjábbolit 	"tjábbot" V* IV Der1 Der/l V Inf 	"tjábbot" V* IV Der1 Der/l V Imprt Pl2 
+tjádjánit 	"tjádjánit" V IV Inf 	"tjádjánit" V IV Imprt Pl2 
+tjáhkkidit 	"tjáhkkidit" V TV Imprt Pl2 	"tjáhkkidit" V TV Inf 
+tjáhkkidit 	"tjáhkkidit" V TV Imprt Pl2 	"tjáhkkidit" V TV Inf 
+tjáhkkistit 	"tjáhkkit" V* TV Der1 Der/st V Imprt Pl2 	"tjáhkkit" V* TV Der1 Der/st V Inf 
+tjáhpudit 	"tjáhpudit" V IV Imprt Pl2 	"tjáhpudit" V IV Inf 
+tjáhppadit 	"tjáhppat" A* Adv 
+tjágŋalit 	"tjágŋalit" V IV Imprt Pl2 	"tjágŋalit" V IV Inf 
+tjálatjit 	"tjálatjit" V TV Inf 	"tjálatjit" V TV Imprt Pl2 
+tjálestit 	"tjálestit" V TV Inf 	"tjálestit" V TV Imprt Pl2 
+tjálggalit 	"tjálggat" V* IV Der1 Der/l V Imprt Pl2 	"tjálggat" V* IV Der1 Der/l V Inf 
+tjáledit 	"tjáledit" V TV Inf 	"tjáledit" V TV Imprt Pl2 
+tjálestit 	"tjálestit" V TV Inf 	"tjálestit" V TV Imprt Pl2 
+tjállelit 	"tjállet" V* TV Der1 Der/l V Inf 	"tjállet" V* TV Der1 Der/l V Imprt Pl2 
+tjállásit 	"tjálle" N Sg Ill PxSg2 	"tjállet" V* TV Der3 Actor N Sg Ill PxSg2 
+tjávddásit 	"tjávddet" V* IV Der3 Actor N Sg Ill PxSg2 
+tjárgatjit 	"tjárggat" V IV Sup 
+sjaddadit 	"sjaddadit" V TV Inf 	"sjaddadit" V TV Imprt Pl2 
+sjaddalit 	"sjaddat" V* IV Der1 Der/l V Inf 	"sjaddat" V* IV Der1 Der/l V Imprt Pl2 
+sjiehtadit 	"sjiehtadit" V TV Imprt Pl2 	"sjiehtadit" V TV Inf 
+sjiehttadit 	"sjiehttadit" V TV Inf 	"sjiehttadit" V TV Imprt Pl2 
+slibárdit 	"slibárdit" V IV Inf 	"slibárdit" V IV Imprt Pl2 
+slåbardit 	"slåbardit" V IV Imprt Pl2 	"slåbardit" V IV Inf 
+sloahkedit 	"sloahkedit" V TV Imprt Pl2 	"sloahkedit" V TV Inf 
+sloahkkalit 	"sloahkkat" V* IV Der1 Der/l V Imprt Pl2 	"sloahkkat" V* IV Der1 Der/l V Inf 
+sluvggásit 	"sluvgget" V* TV Der3 Actor N Sg Ill PxSg2 
+sjnjirádit 	"sjnjirrat" V* IV Der1 Der/d V Inf 	"sjnjirrat" V* IV Der1 Der/u/a/åd V Imprt Pl2 	"sjnjirrat" V* IV Der1 Der/u/a/åd V Inf 	"sjnjirrat" V* IV Der1 Der/d V Imprt Pl2 
+sjuohkedit 	"sjuohkedit" V IV Imprt Pl2 	"sjuohkedit" V IV Inf 
+sjuvggalit 	"sjuvggalit" V IV Imprt Pl2 	"sjuvggalit" V IV Inf 
+sjuvgedit 	"sjuvgedit" V IV Imprt Pl2 	"sjuvgedit" V IV Inf 
+sjuvgedit 	"sjuvgedit" V IV Imprt Pl2 	"sjuvgedit" V IV Inf 
+sjávddásit 	"sjávddet" V* IV Der3 Actor N Sg Ill PxSg2 
