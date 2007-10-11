@@ -8,7 +8,13 @@
 # ./smesmjpairs.sh
 # The resulting file can then be picked up after a minute or three.
 
-for f1 in `cat inc-smj-unknown-oddverbs.txt`
+for f1 in `cat inc-smj-ok-oddverbs.txt`
 do
-	grep $f1 inc-smesmj-alloddverbs.txt >> inc-smesmj-unknown-oddverbs.txt
+	grep $f1 inc-smesmj-alloddverbs.txt >> inc-smesmj-ok-oddverbs.txt
 done
+
+# The unknowns:
+#for f1 in `cat inc-smj-unknown-oddverbs.txt`
+#do
+#	grep $f1 inc-smesmj-alloddverbs.txt >> inc-smesmj-unknown-oddverbs.txt
+#done
