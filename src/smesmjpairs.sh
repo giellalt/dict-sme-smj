@@ -7,5 +7,5 @@
 
 for f1 in `cat inc-smj-unknown-oddverbs.txt`
 do
-	grep $f1 inc-smesmj-alloddverbs.txt >> inc-smesme-unknown-oddverbs.txt
+	grep $f1 inc-smesmj-alloddverbs.txt >> inc-smesmj-unknown-oddverbs.txt
 done
