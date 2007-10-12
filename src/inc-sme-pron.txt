@@ -7,45 +7,47 @@ dakkár:dakkár
 dakkáraš:dakkárasj
 dat:dat
 diekkár:dákkár
-diekkáraš:dákkárasj
+diekkáraš:
 diet:dát
 dokkár:duokkár
-dokkáraš:duokkárasj
+dokkáraš:nn
 don:dån
 dot:duot
 duobbá dábbá:
 duokkár:duokkár
-duokkáraš:duokkárasj
+duokkáraš:nn
 duot:duot
-dábbá:
-dákkar:
+dábbá:nn
+dákkar:dákkár
 dákkár:dákkár
-dákkáraš:dákkárasj
+dákkáraš:nn
 dát:dát
 eanas:enemusát
 eanaš:enemusát
 eanas:ienemusát
 eanaš:ienemusát
-eambbogat:
-eambbos:
+eambbogat:nn
+eambbos:nn
 eanebut:ienebuv
 eanemusat:ienemusát
 eará:ietjá
 eatnagat:ednaga
-feara gii:
-feara mii:
-gaikkat:
-gait#diinnat:
-gait#divnnat:
-gait#tiinnat:
-gal0le:
-gal0lis:
+feara gii:fera guhti
+feara mii:fera mij
+gaikkat:gájka
+gait diinnat:nn
+gait divnnat:gájk divna
+gait tiinnat:nn
+gal0le:galla
+gal0lis:galles
 galládat:
 gallát:galládin
 gii:guhti
 giige:ij guhtik
-giijai:
-giinai:
+giijai:fert akta
+giinai:fert akta
+giijai:færttahasj
+giinai:færttahasj
 goabbat:goabbák
 goabbá:goabbá
 goabbáge:goabbásik
@@ -57,29 +59,30 @@ guhte:guhti
 guhtege:guhtik
 guhtemuš:guhtimusj
 guhtemušge:guhtimusj
-guhtenai:
-guktot:
-guoibmi:
-guoktasat:
+guhtenai:guhtik
+guhtenai:gesisik
+guktot:goappásj
+guoibmi:guojmme
+guoktasat:nn
 ieš:iesj
-ieš#giige:
-ieš#giijai:
-ieš#giinai:
-ieš#guhtege:
-ieš#guhtenai:
-ieš#guhtet:
+iešgiige:iesj guhtik
+iešgiijai:iesj guhtik
+iešgiinai:
+iešguhtege:
+iešguhtenai:
+iešguhtet:
 iežá:ietjá
 juobbá:juobbá
-juobbá#goabbá:
+juobbágoabbá:juobbá
 juoga:juoga
 juohkehaš:juohkkahasj
 makkár:makkár
 makkáraš:
-man% láhkái:
-mihkke:
+man% láhkái:man láhkáj
+mihkke:mige
 mihkkege:mige
-mihkket:
-mihkkige:migek
+mihkket:mige
+mihkkige:mige
 mii:mij
 miijai:soames
 miinai:
@@ -90,31 +93,31 @@ mun:mån
 nubbi:nubbe
 nuppi:nuppe
 nuppát:nuppát
-oallugat:
+oallugat:nn
 oktahat:aktelasj
 ol0lus:
-ollugat:
+ollugat:ålos
 ollut:
-olugat:
+olugat:ålos
 olus:
 olut:
 seamma:sæmmi
 seammahat:
-seammá:
-simme:
+seammá:sæmmi
+simme:nn
 soa0mes:
-soamis:
-son:
+soamis:soames
+son:sån
 uhccán:
 uhccánaš:
 unnán:
-unnánaš:
-vaikko% gii:
-vaikko% goabbá:
-vaikko% guh0te:
-vaikko% guhtemuš:
-vaikko% makkár:
-vaikko% mii:
-veaháš:
+unnánaš:unnánasj
+vaikko% gii:vájku guhti
+vaikko% goabbá:vájku goabbá
+vaikko% guh0te:vájku guhti
+vaikko% guhtemuš:vájku guhtimusj
+vaikko% makkár:vájku makkár
+vaikko% mii:vájku mij
+veaháš:unnán
 veháš:
 váháš:
