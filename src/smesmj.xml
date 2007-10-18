@@ -3643,104 +3643,145 @@ vázzilit	vádtselit	v
 šuvgge7hit	sjuvgedit	v	
 šuvggihit	sjuvgedit	v	
 šávdásit	sjávddásit	v	
-aktahat:åvdåjt	pron	
-buohkat:gájka	pron	
-dahtanaga:dahtak	pron	
-dakkar:dakkir	pron	
-dakkár:dakkár	pron	
-dakkáraš:dakkárasj	pron	
-dat:dat	pron	
-diekkár:dákkár	pron	
-diet:dát	pron	
-dokkár:duokkár	pron	
-dokkáraš:nn	pron	
-don:dån	pron	
-dot:duot	pron	
-duokkár:duokkár	pron	
-duokkáraš:nn	pron	
-duot:duot	pron	
-dábbá:nn	pron	
-dákkar:dákkár	pron	
-dákkár:dákkár	pron	
-dákkáraš:nn	pron	
-dát:dát	pron	
-eanas:enemusát	pron	
-eanaš:enemusát	pron	
-eanas:ienemusát	pron	
-eanaš:ienemusát	pron	
-eambbogat:nn	pron	
-eambbos:nn	pron	
-eanebut:ienebuv	pron	
-eanemusat:ienemusát	pron	
-eará:ietjá	pron	
-eatnagat:ednaga	pron	
-feara gii:fera guhti	pron	
-feara mii:fera mij	pron	
-gaikkat:gájka	pron	
-gait diinnat:nn	pron	
-gait divnnat:gájk divna	pron	
-gait tiinnat:nn	pron	
-gal0le:galla	pron	
-gal0lis:galles	pron	
-gallát:galládin	pron	
-gii:guhti	pron	
-giige:ij guhtik	pron	
-giijai:fert akta	pron	
-giinai:fert akta	pron	
-giijai:fær	ahasj	pron	
-giinai:fær	ahasj	pron	
-goabbat:goabbák	pron	
-goabbá:goabbá	pron	
-goabbáge:goabbásik	pron	
-goabbánai:goabbásik	pron	
-goappašagat:goappátjijt	pron	
-goappašat:goappátja	pron	
-goappešat:goappátja	pron	
-guhte:guhti	pron	
-guhtege:guhtik	pron	
-guhtemuš:guhtimusj	pron	
-guhtemušge:guhtimusj	pron	
-guhtenai:guhtik	pron	
-guhtenai:gesisik	pron	
-guktot:goappásj	pron	
-guoibmi:guojmme	pron	
-guoktasat:nn	pron	
-ieš:iesj	pron	
-iešgiige:iesj guhtik	pron	
-iešgiijai:iesj guhtik	pron	
-iežá:ietjá	pron	
-juobbá:juobbá	pron	
-juobbágoabbá:juobbá	pron	
-juoga:juoga	pron	
-juohkehaš:juohkkahasj	pron	
-makkár:makkár	pron	
-man% láhkái:man láhkáj	pron	
-mihkke:mige	pron	
-mihkkege:mige	pron	
-mihkket:mige	pron	
-mihkkige:mige	pron	
-mii:mij	pron	
-miijai:soames	pron	
-muhtin:muhtem	pron	
-muhtun:muhtem	pron	
-mun:mån	pron	
-nubbi:nubbe	pron	
-nuppi:nuppe	pron	
-nuppát:nuppát	pron	
-oallugat:nn	pron	
-oktahat:aktelasj	pron	
-ollugat:ålos	pron	
-olugat:ålos	pron	
-seamma:sæmmi	pron	
-seammá:sæmmi	pron	
-simme:nn	pron	
-soamis:soames	pron	
-son:sån	pron	
-unnánaš:unnánasj	pron	
-vaikko% gii:vájku guhti	pron	
-vaikko% goabbá:vájku goabbá	pron	
-vaikko% guh0te:vájku guhti	pron	
-vaikko% guhtemuš:vájku guhtimusj	pron	
-vaikko% makkár:vájku makkár	pron	
-vaikko% mii:vájku mij	pron	
-veaháš:unnán	pron	
+aktahat	åvdåjt	pron	
+buohkat	gájka	pron	
+dahtanaga	dahtak	pron	
+dakkar	dakkir	pron	
+dakkár	dakkár	pron	
+dakkáraš	dakkárasj	pron	
+dat	dat	pron	
+diekkár	dákkár	pron	
+diet	dát	pron	
+dokkár	duokkár	pron	
+dokkáraš	nn	pron	
+don	dån	pron	
+dot	duot	pron	
+duokkár	duokkár	pron	
+duokkáraš	nn	pron	
+duot	duot	pron	
+dábbá	nn	pron	
+dákkar	dákkár	pron	
+dákkár	dákkár	pron	
+dákkáraš	nn	pron	
+dát	dát	pron	
+eanas	enemusát	pron	
+eanaš	enemusát	pron	
+eanas	ienemusát	pron	
+eanaš	ienemusát	pron	
+eambbogat	nn	pron	
+eambbos	nn	pron	
+eanebut	ienebuv	pron	
+eanemusat	ienemusát	pron	
+eará	ietjá	pron	
+eatnagat	ednaga	pron	
+feara gii	fera guhti	pron	
+feara mii	fera mij	pron	
+gaikkat	gájka	pron	
+gait diinnat	nn	pron	
+gait divnnat	gájk divna	pron	
+gait tiinnat	nn	pron	
+gal0le	galla	pron	
+gal0lis	galles	pron	
+gallát	galládin	pron	
+gii	guhti	pron	
+giige	ij guhtik	pron	
+giijai	fert akta	pron	
+giinai	fert akta	pron	
+giijai	fær	ahasj	pron	
+giinai	fær	ahasj	pron	
+goabbat	goabbák	pron	
+goabbá	goabbá	pron	
+goabbáge	goabbásik	pron	
+goabbánai	goabbásik	pron	
+goappašagat	goappátjijt	pron	
+goappašat	goappátja	pron	
+goappešat	goappátja	pron	
+guhte	guhti	pron	
+guhtege	guhtik	pron	
+guhtemuš	guhtimusj	pron	
+guhtemušge	guhtimusj	pron	
+guhtenai	guhtik	pron	
+guhtenai	gesisik	pron	
+guktot	goappásj	pron	
+guoibmi	guojmme	pron	
+guoktasat	nn	pron	
+ieš	iesj	pron	
+iešgiige	iesj guhtik	pron	
+iešgiijai	iesj guhtik	pron	
+iežá	ietjá	pron	
+juobbá	juobbá	pron	
+juobbágoabbá	juobbá	pron	
+juoga	juoga	pron	
+juohkehaš	juohkkahasj	pron	
+makkár	makkár	pron	
+man% láhkái	man láhkáj	pron	
+mihkke	mige	pron	
+mihkkege	mige	pron	
+mihkket	mige	pron	
+mihkkige	mige	pron	
+mii	mij	pron	
+miijai	soames	pron	
+muhtin	muhtem	pron	
+muhtun	muhtem	pron	
+mun	mån	pron	
+nubbi	nubbe	pron	
+nuppi	nuppe	pron	
+nuppát	nuppát	pron	
+oallugat	nn	pron	
+oktahat	aktelasj	pron	
+ollugat	ålos	pron	
+olugat	ålos	pron	
+seamma	sæmmi	pron	
+seammá	sæmmi	pron	
+simme	nn	pron	
+soamis	soames	pron	
+son	sån	pron	
+unnánaš	unnánasj	pron	
+vaikko% gii	vájku guhti	pron	
+vaikko% goabbá	vájku goabbá	pron	
+vaikko% guh0te	vájku guhti	pron	
+vaikko% guhtemuš	vájku guhtimusj	pron	
+vaikko% makkár	vájku makkár	pron	
+vaikko% mii	vájku mij	pron	
+veaháš	unnán	pron	
+earret	dabdá	adv
+dan	dan	adv
+man	man	adv
+muhtun	valla	adv
+olggobealde	ålgusjbielen	adv
+agi	age	adv
+agi	agev	adv
+ain	ájn	adv
+ainjuo	gåjt	adv
+aittos	ajtu	adv
+aivve	nn	adv
+aktii	aktij	adv
+aktan	aktan	adv
+aktanaga	avta bále	adv
+aktanis	dalánagi	adv
+akte	akti	adv
+albma	almma	adv
+albmaládje	almmaláhkáj	adv
+albmaláhkai	almmaláhkáj	adv
+alibuin	alebun	adv
+ja	ja	cc	
+ja/dahje	ja/dahje	cc
+ele	valla	cc
+vai	vaj	cc
+ai	aj pcle	
+de	de	pcle	
+gal	gal	pcle	
+ahte	ahte	cs
+aht	at	cs
+danin	danen	cs
+das	dasik	cs
+dego	degu	cs
+dasgo	dagu	cs	
+go	gå	cs	
+jos	jus	cs	
+muhte	men	cs	
+nugo	nåv gåk	cs	
+vai	vaj	cs	
+vaikke	vájk	cs	
+vaikko	vájku	cs	
+ovdal% go	åvddål gå cs	
