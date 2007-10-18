@@ -1,123 +1,22 @@
 :
-aktahat:åvdåjt
-buohkat:gájka
-dahtanaga:dahtak
-dakkar:dakkir
-dakkár:dakkár
-dakkáraš:dakkárasj
-dat:dat
-diekkár:dákkár
 diekkáraš:
-diet:dát
-dokkár:duokkár
-dokkáraš:nn
-don:dån
-dot:duot
 duobbá dábbá:
-duokkár:duokkár
-duokkáraš:nn
-duot:duot
-dábbá:nn
-dákkar:dákkár
-dákkár:dákkár
-dákkáraš:nn
-dát:dát
-eanas:enemusát
-eanaš:enemusát
-eanas:ienemusát
-eanaš:ienemusát
-eambbogat:nn
-eambbos:nn
-eanebut:ienebuv
-eanemusat:ienemusát
-eará:ietjá
-eatnagat:ednaga
-feara gii:fera guhti
-feara mii:fera mij
-gaikkat:gájka
-gait diinnat:nn
-gait divnnat:gájk divna
-gait tiinnat:nn
-gal0le:galla
-gal0lis:galles
 galládat:
-gallát:galládin
-gii:guhti
-giige:ij guhtik
-giijai:fert akta
-giinai:fert akta
-giijai:færttahasj
-giinai:færttahasj
-goabbat:goabbák
-goabbá:goabbá
-goabbáge:goabbásik
-goabbánai:goabbásik
-goappašagat:goappátjijt
-goappašat:goappátja
-goappešat:goappátja
-guhte:guhti
-guhtege:guhtik
-guhtemuš:guhtimusj
-guhtemušge:guhtimusj
-guhtenai:guhtik
-guhtenai:gesisik
-guktot:goappásj
-guoibmi:guojmme
-guoktasat:nn
-ieš:iesj
-iešgiige:iesj guhtik
-iešgiijai:iesj guhtik
 iešgiinai:
 iešguhtege:
 iešguhtenai:
 iešguhtet:
-iežá:ietjá
-juobbá:juobbá
-juobbágoabbá:juobbá
-juoga:juoga
-juohkehaš:juohkkahasj
-makkár:makkár
 makkáraš:
-man% láhkái:man láhkáj
-mihkke:mige
-mihkkege:mige
-mihkket:mige
-mihkkige:mige
-mii:mij
-miijai:soames
 miinai:
 moanat:
-muhtin:muhtem
-muhtun:muhtem
-mun:mån
-nubbi:nubbe
-nuppi:nuppe
-nuppát:nuppát
-oallugat:nn
-oktahat:aktelasj
 ol0lus:
-ollugat:ålos
 ollut:
-olugat:ålos
 olus:
 olut:
-seamma:sæmmi
 seammahat:
-seammá:sæmmi
-simme:nn
 soa0mes:
-soamis:soames
-son:sån
 uhccán:
 uhccánaš:
 unnán:
-unnánaš:unnánasj
-vaikko% gii:vájku guhti
-vaikko% goabbá:vájku goabbá
-vaikko% guh0te:vájku guhti
-vaikko% guhtemuš:vájku guhtimusj
-vaikko% makkár:vájku makkár
-vaikko% mii:vájku mij
-veaháš:unnán
 veháš:
 váháš:
