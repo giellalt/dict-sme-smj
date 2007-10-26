@@ -1,4502 +1,4482 @@
-ábas
-ábirávkkas
-abmejeaddji
-áboheapme
-absoluhtalaš
-absoluhtta
-abstrákta
-absurda
-ábuheapme
-accagas
-áđabuš
-ađaheapme
-áđat
-ađđái
-ađđamahtes
-áddehahtti
-áddejeaddji
-áddemeahttun
-áddetmeahttun
-addevaš
-áddevaš
-addi
-áddjái
-adjektiivvalágan
-administratiiva
-adversatiiva
-affektiiva
-aggressiiva
-agibeaibahá
-agibeaibuorre
-agibeaibuorri
-agiheapme
-áhcagas
-áhčeheapme
-áhčiheapme
-ahkahaš
-ahkásaš
-ahkit
-ahkkái
-áhpeheapme
-áhpiheapme
-ahppar
-áhppar
-áhtis
-áibmadas
-áibmagas
-áibmodivttis
-áicavaš
-áiccalmas
-áicemeahtton
-áicemeahttun
-áiceš
-áicil
-áidalas
-aiddolaš
-áidelas
-áidna
-áidnalunddot
-áidnoriegádan
-áidnu
-áidonkeahtes
-áigadas
-áigahaš
-áigáiheivvolaš
-áigasaš
-áigeguovdil
-áigesoahppil
-áiggaš
-áiggáš
-áiggeheapme
-áiggiheapme
-áigodatlaš
-áitatvuloš
-áitil
-aitosaš
-áitosaš
-áivan
-akademalaš
-akademihkalaš
-akkusatiivahápmásaš
-akromáhtalaš
-aktalaš
-áktánas
-aktasaš
-aktiiva
-aktilaš
-aktonas
-aktoráđálaš
-akusttalaš
-ákusttalaš
-ákvahtalaš
-akváhtalaš
-álás
-álbaniektu
-álbmái
-álbmogiidgaskasaš
-álbmotlaš
-álbmotrievttalaš
-álbmotválddálaš
-alfabehtalaš
-alfanumeralaš
-álgoálgosaš
-álgosaš
-álgoskandinávalaš
-álgovuolggalaš
-álgovurrosaš
-alit
-alitlágáš
-alitruoksat
-alitvielgat
-álkkes
-allaáiggálaš
-allaárvosaš
-alladássásaš
-alladávttálaš
-allalágan
-allaseđolaš
-allat
-allegoralaš
-allegorálaš
-allegoriijalaš
-allosaš
-alluvialaš
-almennetlágan
-almennetlágán
-almmáilaš
-almmáiváibmil
-álmmeheapme
-álmmiheapme
-almmosrievttálaš
-almmus
-alolaš
-álolaš
-áloruonas
-alpin
-alternatiiva
-alvvaheapme
-alvvus
-amasgiel
-amerihkálaš
-ámmátsuorgái
-amorálalaš
-analogalaš
-analogiijalaš
-analyhtalaš
-anatomalaš
-ándagassiiaddemeahttun
-ándagassiiaddimeahttun
-anemalaš
-anemiijalaš
-áŋgir
-anglosáksilaš
-anihahtti
-animálalaš
-anonyma
-ánssášmeahttun
-antárktalaš
-ántárktalaš
-antihkalaš
-ántihkalaš
-antiokialaš
-antirasistalaš
-antirasisttalaš
-antisipatiiva
-antisosiála
-antropologalaš
-anuheapme
-apostovllalaš
-arábalaš
-arábialaš
-árbbeheapme
-árbbiheapme
-árbevirolaš
-árbevuoiggalaš
-árbmugas
-areála
-árggebuš
-árgi
-árjjaheapme
-árjjalaš
-árjjálaš
-árjjeheapme
-árjjiheapme
-arkeologalaš
-arkeologálaš
-árki
-árktalaš
-arktálaš
-arktihkalaš
-árpmitmeahttun
-árpmoheapme
-árpmuheapme
-árrat
-ártet
-artikulatoralaš
-arvil
-árvitmeahttun
-árvugas
-arvvaheapme
-arvvoheapme
-árvvoheapme
-arvvuheapme
-árvvuheapme
-asehaš
-aseheapme
-asfáltái
-asiáhtalaš
-asihaš
-asiheapme
-askehtalaš
-áskkas
-aspektuála
-ásppas
-assái
-áššáigullevaš
-áššáiguoskevaš
-áššáiosolaš
-ássameahttun
-áššeguoskekeahtes
-áššeguoskevaš
-áššeheapme
-áššiheapme
-assosaš
-astil
-astmáhtalaš
-ásttas
-asttuheapme
-asyndehtalaš
-atelihkalaš
-áŧesmielalaš
-atnemeahttun
-atnimeahttun
-atninláiki
-atomagevolaš
-audiovisuála
-auditiiva
-auditiivvalaš
-augsburgalaš
-austrálalaš
-austrálialaš
-auteanttalaš
-autenttalaš
-automahtalaš
-automáhtalaš
-automatiiva
-autonomalaš
-autoratiiva
-autoritatiiva
-autosemánttalaš
-ávda
-ávdái
-ávddaheapme
-ávdin
-ávdugas
-ávdugasmeahttun
-ávgat
-ávjjas
-ávjjeheapme
-ávjjiheapme
-ávjjoheapme
-ávjosaš
-ávkkeheapme
-ávkkiheapme
-ávnnasguovdasaš
-ávnnaslaš
-ávvirheapme
-ávvirmeahttun
-aziheapme
-azuheapme
-bábirlágan
-babylonalaš
-báddebahá
-báddekerámalaš
-báddekeramihkalaš
-báddelodji
-báddibahá
-báddilodji
-badjálas
-badjáneaddji
-badjelbeassameahttun
-badjeleatnanlaš
-badjelfámolaš
-badjelgeahčahahtti
-badjelhearki
-badjeliiluohtehahtti
-badjeljagáš
-badjellunddolaš
-badjelmearálaš
-badjelmielat
-badjilbeassameahttun
-badjilgeahčahahtti
-badjilhearki
-badjiliiluohtihahtti
-badjilmanni
-badjilmielat
-bádnái
-bággobargogeatnegas
-bággolonistanlágan
-bággolonistanlágán
-bahábeakkálmas
-bahádáhtolaš
-bahálunddot
-bahámielat
-bahánálat
-baháneahkkán
-bahánihkkán
-bahča
-bahkat
-báhkinlaš
-báhpárlágan
-báidnemeahttun
-báidnimeahttun
-báikkalaš
-báikkolaš
-báissas
-báitevaš
-bajáš
-bajásráhkadeaddji
-bajilduslaš
-bajit
-bajitdási
-bakkas
-báktefágalaš
-báktelágan
-balahahtti
-báldalas
-bálddalas
-balddehahtti
-balddihahtti
-baleš
-bálgáheapme
-bálggesprojektionála
-bálggisčuolli
-báljis
-bállas
-ballevaš
-bállir
-bálloheapme
-balsái
-baltalaš
-báltalaš
-baluheapme
-balvái
-báneheapme
-bániheapme
-bánžžas
-báraheapme
-báráhisstávval
-báralaš
-barbáralaš
-bárbáralaš
-barffas
-barggeš
-barggoš
-bargguheapme
-barggukeahtes
-bargofápmopolitihkalaš
-bargogeatnegas
-bargonávccaheapme
-bargonávccalaš
-báris
-bárrahaš
-bárrastávval
-bárššas
-bárulágan
-bás
-basakeat
-basiheapme
-baskalaš
-bassi
-bastteheapme
-basttiheapme
-basttoheapme
-báttas
-bávččasteaddji
-bázahaddan
-bázahallan
-bážas
-bážehahtti
-bážekeat
-bažihahtti
-bážihahtti
-beahttemeahttun
-beahttimeahttun
-beailasaš
-beaivejaŋas
-beaivvisealvi
-beakkálmas
-beakkán
-beaktilmeahttun
-bealát
-bealátkeahtes
-bealeheapme
-bealiheapme
-bealjeheapme
-bealjiheapme
-beallalas
-bealleálás
-bealleatno
-beallečujolaš
-beallečuoddjil
-bealleheat
-beallešaddi
-beallevirggálaš
-beallevuddjii
-beallibuoidi
-beallišaddi
-beanaheapme
-beanttis
-bearas
-bearrašguovdasaš
-beasakeat
-beasseheapme
-beassiheapme
-beatnagahtes
-beatnatlágan
-beatnatlágán
-beavkkas
-bellolas
-benjaminlaš
-berošmeahttun
-beroštahtti
-berosteaddji
-berošteaddji
-bestiálalaš
-bieđđu
-bieđggus
-bieđut
-biehčamahtes
-biehtalkeahtes
-biekkus
-bielloheapme
-biellui
-bierffas
-bierggasmeahttun
-bierggošlái-
-bievllus
-bihkaheapme
-bihkkái
-bihttil
-biikái
-bikŋaleaddjái
-biktaseaddjái
-biktil
-bilabiála
-bilaterála
-biljas
-bilttas
-binára
-binddeheapme
-binddiheapme
-binddoheapme
-bindil
-binjas
-biográfalaš
-biologalaš
-biologálaš
-birasdihtomielalaš
-birgehahtti
-birgemeahttun
-birgetmeahttun
-birolaš
-birppas
-birrajagáš
-birrajahkásaš
-birzzas
-birzzehas
-biškat
-bisovaš
-bissomeahttun
-bissovaš
-bistevaš
-bistil
-bistteheapme
-bisttiheapme
-bisttoheapme
-bisttuheapme
-bivahahtti
-bivaheapme
-bivddehahtti
-bivddihahtti
-bivdduheapme
-bivnnuheapme
-bivnnut
-bivššas
-bivvil
-bivzzehas
-boaddit
-boađuskeahtes
-boagustahtti
-boahkas
-boahkis
-boahtte
-boahtteáigásaš
-boahttevaš
-boahttil
-boaittobeal
-boakkas
-boalbbas
-boalččas
-boalddehahtti
-boalddihahtti
-boaldevaš
-boandái
-boaresáigásaš
-boareslágan
-boareslágán
-boaresmállesaš
-boargil
-boarka
-boaššumus
-boastto
-boasttooinnolaš
-boasttu
-boatkanmeahttun
-boatkatmeahttun
-boatkkaheapme
-boatkkakeahtes
-boazoheapme
-boazojeaddjái
-bođđehahtti
-boddosaš
-bohccilágan
-bohccilágán
-bohtas
-boisbotneheapme
-boisbotniheapme
-bokkas
-bolffas
-bollui
-bolttokeat
-bonju
-borahahtti
-boranas
-boreála
-borggas
-borril
-boruheapme
-bostta
-botkái
-botkkas
-botneheapme
-botniheapme
-bovdnái
-brihtalaš
-brihttalaš
-buddásaš
-bugo
-buhtadusgeatnegas
-buhtesoahpalaš
-buhtis
-buhtismeahttun
-buiccas
-buiga
-bukkas
-buktevaš
-bulddas
-buleš
-bulffas
-buljas
-bullas
-bullječalmmat
-bulljičalmmat
-bulssas
-bunccas
-buohkanas
-buohtalas
-buoiddeheapme
-buoiddiheapme
-buolaheapme
-buolaš
-buolašjaŋas
-buoleheapme
-buoliheapme
-buollán
-buollevaš
-buoloheapme
-buolvvat
-buolžái
-buoŋis
-buore
-buorggos
-buoritmeahttun
-buorránmeahttun
-buorredábálaš
-buorredáhtolaš
-buorredohkálaš
-buorrelágan
-buorrelágán
-buorremenolaš
-buorremielalaš
-buorrendoalli
-buorreoskkolaš
-buorrindoalli
-buotbeallásaš
-buotborri
-buotdiđolaš
-buotdiehtti
-buotguoskevaš
-buotlágan
-buotlágán
-buotlágáš
-buotoaidnevaš
-buotveagalaš
-buozas
-buresbirgejeaddji
-burššas
-buškkas
-byrokráhtalaš
-čábba
-čabo
-čabu
-čađačalmmat
-čađačuovgameahttun
-čađačuovgi
-čádjidahtti
-čadnivaš
-čaffat
-caggameahttun
-caggasmeahttun
-čáhccái
-čáhcedoallalas
-čáhcejeahkki
-čáhcevuoigatvuođalaš
-čáhcijeahkki
-čahkas
-čáhket
-čáhkit
-čáhkitmeahttun
-čáhkkejeaddji
-čáhkkengeatnegas
-cahkkil
-čáhkkil
-čáhppesvielgat
-čáhppes-vielgat
-cáiccas
-čaimmahahtti
-čájeheaddji
-čájiheaddji
-čakčasaš
-čakčaseavdnjat
-cakkadeaddji
-čálakeahtes
-čálalaš
-čálaoahppavaš
-čalas
-čalbmáičuohcci
-čalbmetbeal
-čálekeat
-čalgatmeahttun
-čálggas
-čálgil
-čalmmeheapme
-čalmmiheapme
-čalmmus
-čáŋaheapme
-čáppagirjjálaš
-čáppat
-čáppis
-čargálaš
-čártnas
-čáskameahttun
-čáskil
-čatnasmeahttun
-čázas
-čázeheapme
-čázevuloš
-čáziheapme
-ceaggái
-čeahkit
-ceahkkálas
-čeahpálas
-ceaikkas
-ceakkonjuolgat
-ceakkus
-čeakŋas
-čeaktu
-cealkemeahttun
-cealkimeahttun
-čearddalaš
-čearggus
-čearssas
-čeaskat
-čeavlái
-čeavžeballalas
-čeavžebalolaš
-ceavzil
-čemihkalaš
-čibmái
-čidnái
-čiegus
-čiehkaraddjái
-čiekŋaliimanni
-čiekŋudeaddji
-čielgelámis
-čielggasmeahttun
-čielggeheapme
-čielggus
-čieŋal
-čiergálas
-čierohahtti
-čierrus
-čievrái
-čigŋái
-čikŋosaš
-čilgemeahttun
-čillas
-čilssas
-čilvvas
-čimaheapme
-cirkkas
-čirssas
-čivhllas
-civnna
-čivra
-čivrra
-civzza
-coagis
-čoahkkat
-čoalččas
-čoaleheapme
-čoaliheapme
-čoalttas
-čoaŋkkas
-čoapmas
-čoarvveheapme
-čoarvviheapme
-čoasus
-čoavdemeahttun
-čoavdimeahttun
-čoavjjeheapme
-čoavjjiheapme
-coazzi
-čogas
-cohcas
-collas
-coola
-čorgatmeahttun
-čortnas
-čoskái
-cuippas
-čujolaš
-cuoccaheapme
-cuoccas
-čuoddjil
-čuođemat
-čuođigeardásaš
-čuođijahkásaš
-čuođiproseantasaš
-cuohppái
-čuohppil
-čuohtebuddásaš
-čuohtegeardásaš
-čuohtejahkásaš
-čuohteruvdnosaš
-čuoikái
-čuojaheapme
-čuojoheapme
-čuolmmaheapme
-čuoris
-čuovggaheapme
-čuovggus
-čuovjat
-čuovvovaš
-čuožžovaš
-curpmas
-čurttas
-čuvgesfiskat
-čuvgesruoksat
-čuvgetmeahttun
-cuvkemeahttun
-cuvzzas
-dábálašoahpaheaddji
-dábeheapme
-dábiheapme
-dáđas
-dáddjil
-dáđggis
-dádjagaš
-dáhpalaš
-dáhpemeahttun
-dáhtuheapme
-dáidduheapme
-dáidemeahttun
-dáidimeahttun
-dáiggas
-dakkáraš
-dákkáraš
-dáktái
-dalá
-dálá
-daláš
-dalgat
-dálkkasdieđalaš
-dálkkaslaš
-dalloš
-dálsái
-dáluhas
-dálvásaš
-dálvvas
-dámakeat
-dánáigásaš
-dánháváš
-dánjagáš
-dánlágan
-dannammasaš
-dánska
-dánskalaš
-dánska-norgga
-danšlái
-dánsullasaš
-danveardásaš
-dárbbašlaš
-dárbbašmeahttun
-dárbbuheapme
-dárjil
-dárjjaheapme
-dárjjoheapme
-dárki
-dárkilmeahttun
-dárogiel
-dárogielalaš
-dárogielat
-dárrolaš
-dárssas
-darvvas
-dáseheapme
-dásiheapme
-daškat
-dássálas
-dassáš
-dássáš
-dásseárvosaš
-dássedeattoheapme
-dássedeattokeahtes
-dássedeattukeahtes
-dássedettolaš
-dássegilggat
-dássejuolggat
-dásseliekkas
-dásseravddat
-dássesiiddot
-dásset
-dássi-deattoheapme
-dássigilggat
-dássijuolggat
-dássiravddat
-dássisiiddot
-dássit
-dássitmeahttun
-dáválaš
-dávggas
-dávggasmeahttun
-dávji
-dávlái
-dávŋŋas
-davrras
-dávttas
-dávttaskas
-dávtteheapme
-dávttiheapme
-davviamerihkálaš
-davvilaš
-davvinorgalaš
-davviriikkalaš
-davviromsalaš
-davvisámegielat
-deaddil
-deahkeheapme
-deahkiheapme
-deahtis
-deaivil
-dearvvas
-dearvvaš
-dearvvaslaš
-dearvvašlaš
-dearvvašmeahttun
-deašši
-deasttaheapme
-deatalaš
-deaŧalaš
-deaŧálaš
-deatnolaš
-deatnulaš
-deattoheapme
-deavdemeahttun
-deavdimeahttun
-deavis
-deavkat
-deđot
-definihtta
-dehalaš
-dehálaš
-deiktalaš
-demográfalaš
-demokráhtalaš
-deonttalaš
-depressiiva
-derivatiiva
-deskriptiivalaš
-destruktiiva
-detáljalaš
-deverbála
-diagnostalaš
-diagonála
-diakronalaš
-dialektála
-didákttalaš
-dieđateorehtalaš
-dieđihangeatnegas
-dieđuheapme
-dieđus
-diehpas
-diehtemeahttun
-diehtimeahttun
-diehtoáŋgir
-diehttalas
-diehttelas
-diehttevaš
-diehttislágan
-diehttislágán
-dieiggas
-diekkáraš
-dielas
-dielvvis
-diensullasaš
-dierbi
-dievaslaš
-dievasmeahttun
-dievasválddálaš
-digitála
-digitálalaš
-dihto
-dihtolágan
-dihtolágán
-dihtomielalaš
-diibmobeallásaš
-diibmosaš
-diidái
-diihmi
-diimmá
-diimmádálvváš
-diimmágeasáš
-dikkalčalmmat
-dikšumeahttun
-dilddas
-diliheapme
-dilkui
-diplomáhtalaš
-distrivttapolitihkalaš
-divas
-divttes
-doabalaš
-doabmil
-doaččis
-doadjemeahttun
-doadjimeahttun
-doahppil
-doaibmaekonomalaš
-doaibmahehttejuvvon
-doaibmaváillat
-doaibmevaš
-doaimmaheapme
-doaimmahuslaš
-doaivulas
-doaivvohahtti
-doaivvuheapme
-doalahahtti
-doallavaš
-doallevaš
-doallil
-doanda
-doaŋgat
-doaŋggas
-doaŋgi
-doapmat
-doarespolitihkalaš
-doarespolitihkkalaš
-doaris
-doarjaleaddji
-doarssas
-doavki
-doavkkas
-doažžat
-doažži
-dobbelaš
-dogmáhtalaš
-dohkkehahtti
-dohkkemeahttun
-dohkketmeahttun
-dokkáraš
-dolá
-dolaheapme
-dolbmi
-dolddas
-doljas
-dolkadahtti
-dolkkas
-dollaruoksat
-dollavulggolaš
-dolos
-dološáigásaš
-dološdárrolaš
-dompil
-doŋas
-dorras
-dorvvuheapme
-dovdameahttun
-dovddalmas
-dovdduheapme
-dovddus
-dovdil
-dovdomearkkalaš
-dovduičuohcci
-dramáhtalaš
-dramatihkalaš
-duđahahtti
-duđaheapme
-duđavaš
-duddjojeaddji
-duđuheapme
-duhátgeardásaš
-duhtameahttun
-duhtatmeahttun
-duhtavaš
-duhtávaš
-duhtivaš
-duhttivaš
-duihmi
-duippas
-duiska
-duiskalaš
-duiskkalaš
-duivvas
-dulán
-dulpegeažat
-dulpigeažat
-dulppas
-dulvvis
-dumpái
-dumssas
-dumsui
-duŋggas
-duobbelaš
-duođaštuslaš
-duoddil
-duoddjái
-duoddomeahttun
-duohkásaš
-duohpakeahtes
-duohtatmeahttun
-duojás
-duojáš
-duokkáraš
-duokkas
-duoláš
-duolbbas
-duollat
-duollet
-duolloheapme
-duolmmus
-duolvadovdi
-duolvil
-duorgái
-duorššas
-duosttaheapme
-duosttoheapme
-duottaraddjái
-dupleaksa
-duppal
-duppalgeardásaš
-durddas
-durjjas
-duskkas
-duskkeheapme
-duskkiheapme
-duššadeaddji
-dušši
-dynamalaš
-dynámalaš
-eaddil
-eahcálaš
-eahccil
-eahkedis-
-eahkes-
-eahpeaiddolaš
-eahpebassi
-eahpečuožžovaš
-eahpedábálaš
-eahpedárkil
-eahpedássit
-eahpedearvvašlaš
-eahpedievaslaš
-eahpedohkálaš
-eahpeduđahahtti
-eahpeduhtavaš
-eahpeduođalaš
-eahpeduohta
-eahpeformála
-eahpeformálalaš
-eahpegáhtavaš
-eahpegelbbolaš
-eahpegiellaoahpalaš
-eahpegorrelaš
-eahpegovttolaš
-eahpegulolaš
-eahpeguoktilaš
-eahpejáhkehahtti
-eahpekritihkalaš
-eahpelihkolaš
-eahpelogalaš
-eahpelunddolaš
-eahpeluohtehahtti
-eahpemávssolaš
-eahpenjuolgat
-eahpenjuolggaduslaš
-eahpenormála
-eahpeoiddolaš
-eahpeoskkolaš
-eahpeovttalaš
-eahpeozolaš
-eahpepolitihkalaš
-eahperealisttalaš
-eahpe-realisttalaš
-eahperehalaš
-eahperehálaš
-eahpesegmentálalaš
-eahpesihkar
-eahpesihkkar
-eahpestáđis
-eahpeustitlaš
-eahpeveaddji
-eahpevirggálaš
-eahpevissis
-eahpevuogálaš
-eahpevuoiggalaš
-eahpibassi
-eahpičielggas
-eahpidahtti
-eahpideaddji
-eahpiduđahahtti
-eahpigullu
-eahpijáhkihahtti
-eahpiluohtihahtti
-eahpinormála
-eahpisealvi
-eahpiveaddji
-eahtturuoksat
-eaimmaskas
-eaitnaha
-eakti
-eaktodáhtolaš
-eaktudáhtolaš
-ealas
-ealaskas
-ealihangeatnegas
-ealit
-ealjoheapme
-eallevaš
-eallinfámolaš
-eallinvulggolaš
-ealloáŋgir
-ealnnjehas
-ealus
-eambbo
-eamiálbmotguoskevaš
-eanadieđalaš
-eanadieđálaš
-eanagottálaš
-eanalaš
-eanandieđálaš
-eanas
-eanaš
-eaŋgalas
-eaŋgals
-eaŋkal
-eaŋkil
-eannjehas
-earádássásaš
-earáivdnásaš
-earalágan
-earálágan
-earalágán
-earálágán
-earámállet
-eareliiggán
-eareliiggáš
-earenoamáš
-earenomáš
-eartnjehas
-easkariegádan
-eassil
-eastatmeahttun
-easttaheapme
-eatnandieđalaš
-eatnanlaš
-eatnanvuoles
-eatnatgeardásaš
-eatnatlohkosaš
-eatneheapme
-eatniheapme
-eatnjehas
-eattas
-eavas
-eavttoheapme
-eavttuheapme
-ebmui
-edomlaš
-effektiiva
-egoisttalaš
-egyptalaš
-ehtalaš
-ekologalaš
-ekologálaš
-ekonomalaš
-ekonomálaš
-ekonomiijapolitihkalaš
-eksklusiiva
-eksoforalaš
-eksohtalaš
-eksosentrihkalaš
-eksotihkalaš
-eksperimentála
-eksplisihtta
-ekspressiiva
-ekstáhtalaš
-ekstremisttalaš
-ekumenalaš
-ekvivaleanta
-elastihkalaš
-elegánta
-elektralaš
-elektrihkalaš
-elektronalaš
-elementára
-ellipttalaš
-empiralaš
-endena
-endosentrihkalaš
-eŋgalas
-eŋgelas
-enharmonalaš
-enklihtalaš
-epihkalaš
-epihka-poehtalaš
-epistemalaš
-erdui
-ereliiggán
-ereliiggáš
-erenoamán
-erenoamaš
-erenoamáš
-erenoamášpedagogalaš
-erenomáš
-eretcealkkehahtti
-eretorru
-erohtalaš
-erotihkalaš
-espánjalaš
-estehtalaš
-estlándalaš
-etnalaš
-etnálaš
-etnihkalaš
-etnográfalaš
-etnologalaš
-etnosentrihkalaš
-etymologalaš
-eufemisttalaš
-eurohpalaš
-eurosentralaš
-eváhkkolaš
-evangelalaš
-fadni
-fadnil
-fágaidgaskasaš
-fágalaš
-fáhkka
-fáhkkamohkat
-fáhkkat
-fáhkkatlaš
-fakultehtaidgaskasaš
-falli
-fálmmeheapme
-fálmmiheapme
-fálska
-fámoheapme
-fámuheapme
-fanáhtalaš
-fanatihkalaš
-faŋkkas
-fantastihkalaš
-fantásttalaš
-fántásttalaš
-fárddaheapme
-fargat
-fašisttalaš
-fášisttalaš
-faskár
-fásta
-fasti
-fástideaddji
-fávdnái
-fávdnát
-fávllibuš
-fávru
-feaillaheapme
-fearalágan
-fearalágán
-feargasaš
-fearggaheapme
-federála
-feministtalaš
-fenomenála
-feodála
-feodálalaš
-fiberoptihkalaš
-fidnomáhtolaš
-fiellái
-fierggeheapme
-fierggiheapme
-fierttos
-fievrogollosguovdasaš
-fievrroguovdasaš
-figuratiiva
-fiinnadovddolaš
-fiktiiva
-filmáhtalaš
-filologalaš
-filosofalaš
-filosofálaš
-finála
-finihtta
-fioleahtta
-fiskat
-fiskeslágan
-fiskeslágán
-fitmat
-fitnodatekonomálaš
-fitnofágalaš
-fitnolaš
-fivlat
-flegmáhtalaš
-fleksi
-folkloristtalaš
-fonehtalaš
-fonemáhtalaš
-fonemalaš
-fonologalaš
-fonologálaš
-fonotávttalaš
-formála
-formálalaš
-freestyla
-freestyle
-friddjahápmásaš
-friija
-friijahápmásaš
-frisalaš
-friskkis
-fundamentalisttalaš
-funkšonála
-funkšunála
-funktionála
-fuođđi
-fuolaheapme
-fuollameahttun
-fuomášahtti
-fuopmášahtti
-fuoras
-fuorás
-fuorji
-fuotni
-fysalaš
-fysálaš
-fysikála
-fysikálalaš
-føderála
-gabaivdnásaš
-gabbái
-gadnái
-gádnosaš
-gáfat
-gággálaš
-gággat
-gáhcci
-gahci
-gahperahtes
-gahpergeahtes
-gahperha
-gahperkeahtes
-gáhtameahttun
-gáhtavaš
-gáhttenárvosaš
-gáibideaddji
-gáiccas
-gáiddus
-gáiggas
-gáirras
-gaitlágan
-gaitlágán
-galbahámat
-galdái
-gáldoprojektionála
-galenalaš
-gálggaheapme
-gálggus
-galkkadeaddji
-gallás
-gallilágan
-gallilágán
-galljes
-galljosaš
-gálmmas
-gálos
-gálššas
-gálus
-gámis
-gánas
-gaŋkkas
-gánnáhahtti
-gánnihahtti
-ganttas
-gappas
-gáppus
-garas
-garggas
-gárka
-gárkka
-gárkkis
-gárkŋas
-garppas
-gárrenávdnasvuloš
-garri
-gárri
-garril
-garuheapme
-garvemeahttun
-garvimeahttun
-gárvveheapme
-gárvviheapme
-gárvvoheaddji
-gáržžekeahtes
-gáržžesmielalaš
-gaskaáigásaš
-gaskaárvosaš
-gaskaboddasaš
-gaskaboddosaš
-gaskagielddalaš
-gaskamahtosaš
-gaskamearálaš
-gaskanas
-gaskandaga
-gaskaneas
-gaskanšatta
-gaskariikkalaš
-gaskkaheapme
-gaskkasaš
-gaškkus
-gaskaahkásaš
-gassat
-gassosaš
-gastrologalaš
-gastronomalaš
-gásttas
-gávddas
-gávdneš
-gavjái
-gávnnjas
-gávohalli
-gávpelaš
-gávppálaš
-gavri
-gávrras
-gávvar
-gávzzas
-gavžžas
-gažaldatvuloš
-gážžár
-geabbil
-geađas
-geađđat
-geađgái
-geaffi
-geafi
-geahčálas
-geahčemeahttun
-geahčimeahttun
-geahnoheapme
-geahpas
-geahpedangelbbolaš
-geahppat
-geaiddus
-geailohámat
-geainnoheapme
-geaisárlaš
-gealbboheapme
-geampa
-geamus
-geaŋga
-geanoheapme
-geanuheapme
-gearddaš
-geargat
-gearggaheapme
-gearggoheapme
-gearggus
-geargil
-gearpmus
-gearrat
-geaseheapme
-geasiheapme
-geasoheapme
-geasseruonas
-geassil
-geassiruonas
-geasuheaddji
-geatkkas
-geatnegas
-geavatlaš
-geavkái
-geavllas
-geavrras
-geavzzas
-geažehis
-geažo
-geažos
-gehpeš
-gehppes
-gehppeslágan
-gehppeslágán
-gehppesmielalaš
-genealogálaš
-genehtalaš
-generatiiva
-generealla
-generella
-geniála
-genitiivahápmásaš
-geologalaš
-geometralaš
-geometrihkalaš
-geosentrála
-geotermihkalaš
-gerelmas
-germána
-germánalaš
-gerolmas
-gerremas
-gesii
-gibuheapme
-giđđasaš
-giddat
-gieđaheapme
-giehtaráhpat
-giekcájeaddji
-gielagaskasaš
-gielaheapme
-gieldalaš
-gieldasápmelaš
-gielddus
-gielis
-giellamáhtolaš
-giellaoahpalaš
-gierdameahttun
-gierdavaš
-gierddoheapme
-gierdevaš
-gierdil
-gierdivaš
-gieskadaš
-gievdil
-gievvuárvvas
-giimmas
-giitemeahttun
-giitevaš
-giitimeahttun
-giivvis
-gilddas
-gillámeahttun
-gillil
-gillomaddjái
-gilššas
-gilvvakeahtes
-gilvvehahtti
-gilvvihahtti
-girjeloguheapme
-girjiloguheapme
-girjjat
-girkat
-girrat
-givas
-givrosaš
-givrras
-givssas
-givvi
-globála
-globálalaš
-glottála
-goabbatbeallásaš
-goabmái
-goađeheapme
-goađiheapme
-goahccelágan
-goahccelágán
-goahccelágaš
-goahccelágáš
-goahkkái
-goaiddus
-goaidi
-goakŋet
-goakŋit
-goakšat
-goalki
-goalššas
-goalus
-goalvvas
-goaŋkkas
-goanstái
-goanzzas
-goappašat
-goappeš
-goardu
-goargat
-goarkŋohahtti
-goarpmohahtti
-goarrat
-goatnas
-goatnjet
-goatnjit
-goattis
-goattus
-goavis
-goavkkas
-goavrras
-goavššas
-goavvi
-gobas
-godjat
-gohccevaš
-gohpevuđot
-gohpivuđot
-gohtalaš
-gohtolaš
-goiddas
-goike
-goikevaš
-goikil
-goikivaš
-gokčevaš
-golbmaoktalaš
-golbmaollil
-golgil
-golgoslágan
-golgoslágán
-golgu
-gollas
-gollil
-golmmabeaivásaš
-golmmaceahkálaš
-golmmageardán
-golmmageardásaš
-golmmagearddáš
-golmmagielat
-golmma-jahkásaš
-golmmajuvllat
-golmmalotjahkásaš
-golmmaoasat
-golmmaoktalaš
-golmmaoktasaš
-golmmasárgálaš
-golnnas
-golppas
-gomohalli
-gonagaslaš
-gonagasmielalaš
-goreheapme
-goriheapme
-gorrálas
-gortnas
-gotihkalaš
-gotteheapme
-gottiheapme
-govččoheapme
-govččolaš
-govdat
-govddoheapme
-govddus
-govdosaš
-govnnas
-govttoheapme
-govttohis
-govttolaš
-govttolašmeahttun
-govvideaddji
-gozeš
-gráfalaš
-grammáhtalaš
-grámmasaš
-grammatalaš
-greikalaš
-greikkalaš
-groavis
-groteaska
-guččeš
-gudneáŋgir
-gudnebalolaš
-gudnedievas
-gudneheapme
-gudnidievas
-gudnidovdi
-gudniheapme
-guhkálmas
-guhkásoaidnil
-guhkeáigásaš
-guhkedáleš
-guhkesáigásaš
-guhkesáiggi
-guhkesmielalaš
-guhkesvašálaš
-guhkilmas
-guhkkosaš
-guhkolaš
-guimmešvuođalágan
-gulavaš
-guldalas
-gullevaš
-gullivaš
-gullojeaddji
-gullomeahttun
-gulohaš
-guluheapme
-gululmas
-gulus
-gumpái
-guoddevaš
-guoddinnákcalaš
-guohca
-guohttu
-guohttul
-guoikái
-guoimmuheaddji
-guokkas
-guoktelaš
-guokteollil
-guoktilaš
-guoleheapme
-guolgái
-guolgasaš
-guolggaheapme
-guoliheapme
-guollái
-guolmmas
-guonna
-guorahallameahttun
-guorbbas
-guoros
-guorranmeahttun
-guorril
-guorus
-guoskameahttun
-guoskevaš
-guoskkaheaddji
-guossaskas
-guotteheaddji
-guovdageaidnolaš
-guovdageaidnulaš
-guovddáš
-guovddášlaš
-guovdil
-guovlluguovdasaš
-guovllulaš
-guovllupsykiátralaš
-guovlulaš
-guovlupolitihkkalaš
-guovnnjas
-guovttágaskasaš
-guovttebealat
-guovttebealát
-guovttebeallásaš
-guovttečilggolaš
-guovttedássásaš
-guovttegeardán
-guovttegeardásaš
-guovttegearddaš
-guovttegielalaš
-guovttegielat
-guovtteguolmmat
-guovttejuolggat
-guovttejuvllat
-guovttelágan
-guovttelágán
-guovttemiesat
-guovtteoasat
-guovtteollil
-guovttesárgálaš
-guovttesuorat
-guovttigaskasaš
-guovttiguolmmat
-guppas
-gurccas
-gurdui
-gurggástatguovdasaš
-gurppas
-gurrái
-gurranjálmmat
-gurut
-gurvvas
-guskkolaš
-gušmmus
-gustojeaddji
-gustomeahttun
-gustovaš
-gutneheapme
-gutniheapme
-guttaheapme
-guvgesruoksat
-guvhllas
-guvlolaš
-guvnnas
-guvnnjas
-guvrras
-gužžačuorbi
-gužžaláiki
-gælalaš
-habas
-háddjái
-hága
-háiggir
-háippas
-háissas
-háittis
-hájaheapme
-haksil
-hálaheapme
-hálddahuslaš
-hálddatlaš
-háljas
-hállái
-hálssas
-hálttat
-háluheapme
-hámeheapme
-hámiheapme
-hápmásaš
-hápmejámas
-hápmeoahpalaš
-harbmadas
-harbmat
-hárččas
-hárdoheapme
-hárdui
-háreheapme
-háriheapme
-hárjánmeahttun
-hárjjeheapme
-hárjjiheapme
-harmonalaš
-hármonalaš
-harmoniijalaš
-harmovnnalaš
-hármovnnalaš
-hárpma
-hárpmas
-hárras
-hárvenaš
-hárvi
-hatteheapme
-hattiheapme
-háváš
-hávdeduođalaš
-hávri
-hávrra
-hávskái
-hávskkes
-heaboheapme
-heabuheapme
-heađeheapme
-heađiheapme
-headju
-heaggái
-heaggaváldi
-heahkas
-heahpatlaš
-heahpatmeahttun
-heahtahaš
-heaigomielat
-heaila
-heailla
-heaivvoheapme
-heajoslágan
-heajoslágán
-heajosmenolaš
-heajosmielalaš
-heakkadeaŧalaš
-heakkadehálaš
-heakkaheapme
-heakkalaš
-heakkaváralaš
-heakkavárálaš
-healpu
-heamssas
-hearccas
-hearddoheapme
-hearki
-hearrákeahtes
-hearvái
-heava
-heavnnas
-heavskái
-heavskkálaš
-hebreagielat
-hebreálaš
-hehttejeaddji
-heila
-heilla
-heittot
-heivemeahttun
-heivetmeahttun
-heivvolaš
-hektosaš
-helssetlaš
-hermehtalaš
-hermetihkalaš
-herveja
-heterogena
-hevskkálas
-hevskkálaš
-hevssolaš
-hiđis
-hiebanas
-hiegis
-hierárkkalaš
-hilbat
-hilccas
-hilján
-hillján
-hillji
-himuheapme
-hiras
-hirbmat
-hirbmatlaš
-hirpmus
-hirras
-historjá-biografiija
-historjálaš
-historjjákeahtes
-historjjálaš
-hivli
-hoahpuheapme
-hoalddaheapme
-hoavkkas
-hoavrras
-hobas
-hohppil
-hollándalaš
-homogena
-homoseksuála
-horbbas
-horisontálalaš
-hudju
-huksejeaddji
-huksenkeahtes
-humána
-humánalaš
-humanitára
-humaniteara
-humoristtalaš
-humppas
-humuheapme
-huncái
-hurdnji
-hurskkis
-hurvi
-hurvvas
-hutkái
-huvddaheapme
-huvddalaš
-huvlla
-huvvái
-hypera
-hypotehtalaš
-hysteralaš
-iđalaš
-iddjái
-ideála
-idealaš
-idealisttalaš
-ideanttalaš
-ideationála
-iđedaš
-ideologalaš
-ideologálaš
-idiomáhtalaš
-idjasaš
-iehčanas
-iešaddiluvvon
-iešbeaivválaš
-iešbirgejeaddji
-iešbuorre
-iešdagolaš
-iešdáhtolaš
-iešgávval
-iešgieđalaš
-iešguđetgelágan
-iešguđetgelágán
-iešguđetgelágaš
-iešguđetgelágáš
-iešguđetlágan
-iešguđetlágán
-iešguhtetlágan
-iešheanalaš
-iešheanálaš
-iešlágalaš
-iešlágálaš
-iešlágan
-iešoaffarušši
-iešoahppan
-iešoaivválaš
-iešoaivvat
-iešráhkaduvvon
-iešráhkis
-iešsihkar
-iešstivrejeaddji
-iešválddálaš
-iešvuđot
-ievttá
-ievttáš
-iežálágan
-iežaslágan
-iežaslágán
-iežaslaš
-ihcaválddat
-ihcaveaiddat
-ihtá
-ihtáš
-ihttá
-iiralaš
-ii-referentiála
-ilgadit
-ilgat
-illatiivahápmásaš
-illudahtti
-iluheapme
-imaginára
-imašlaš
-immaneanta
-immateriálalaš
-impersonála
-implikationála
-implisihtta
-impressiiva
-indefinihtta
-individuála
-individuálalaš
-indiviidalaš
-indo-fijilaš
-indoiránalaš
-industriála
-industriijalaš
-infernálalaš
-infinihta
-infinihtta
-inhabiila
-inhabila
-inkompeteanta
-inkonsekveanta
-innovatiiva
-instinktiiva
-instruktiiva
-inteansa
-intellektuála
-intelligeanta
-intensiiva
-intentionála
-interaktiiva
-interaktiivalaš
-interlegála
-internašonála
-internaššuvnnalaš
-internašunála
-internášunála
-internašunálalaš
-internašuvnnalaš
-interpsykologalaš
-intertekstuála
-intrakultuvrralaš
-intransitiiva
-intrapsykologalaš
-intrusiiva
-ipmilaš
-ipmilbalolaš
-ipmillaš
-ipmilmeahttun
-ipmirdahtti
-ipmirdeaddji
-ipmirmeahttun
-ironalaš
-ironálaš
-ironiijalaš
-irrationála
-isitkeahtes
-islámalaš
-islamihtalaš
-islándalaš
-issoras
-itkkus
-ittis
-ivdnái
-ivdnásaš
-ivnneheapme
-ivnniheapme
-ivttá
-ivttáš
-jádnil
-jáffui
-jáfofiinnis
-jagŋi
-jagŋil
-jahkas
-jáhkaskas
-jahkebeallásaš
-jáhkehahtti
-jáhketmeahttun
-jáhkihahtti
-jáhkkarámas
-jáhkkemeahttun
-jáhkkevaš
-jáhkkil
-jáhkkimeahttun
-jakkas
-jalahas
-jálddos
-jállu
-jámadeaddji
-jámas
-jámmis
-jánas
-janzzas
-jápmán
-jápmemeahttun
-jápmimeahttun
-jappas
-jarffas
-jarkŋas
-jaskatlaš
-jassái
-jáválaš
-jávkameahttun
-jávkkus
-jávoheapme
-jávohisvuođageatnegas
-jávrreheapme
-jávrriheapme
-jeagatmeahttun
-jeageheapme
-jeageleaddjái
-jeagelgeahtes
-jeagelha
-jeagelheapme
-jeagelkeahtes
-jeagiheapme
-jeagilheapme
-jeagoheapme
-jeahkalahtes
-jeahkálahtes
-jeahkaleaddjái
-jealahas
-jearaldatvuloš
-jearggaheapme
-jeavddalaš
-jeđđehahtti
-jegolaš
-jerggolaš
-jiednái
-jiegŋái
-jiekŋagalmmas
-jiellis
-jienaheapme
-jieŋas
-jierbmái
-jieris
-jierpmaskas
-jierpmeheapme
-jierpmiheapme
-jiesas
-jiessas
-jietnadatlágalaš
-jietnasaš
-jietnavuoigadahtton
-jievjái
-jievjjaheapme
-jievjjas
-jievlái
-jievttá
-jievžalas
-joallu
-joatkevaš
-joatkkoheapme
-joavdelas
-joavdil
-joavggas
-joavggus
-jođán
-jođiheapme
-jođoheapme
-jođuheapme
-joggái
-jognái
-jogŋái
-jolgat
-jolggalaš
-joliheapme
-joraheapme
-jorgalmeahttun
-jorgalusdahkki
-jorggobuiccas
-jorril
-jotkkolaš
-jozzái
-judnii
-jugahahtti
-jugoslávialaš
-juguheapme
-julbmi
-julevsápmelaš
-julgat
-julggaheapme
-julggalaš
-juodnái
-juogakeahtes
-juogehahtti
-juogihahtti
-juogoheapme
-juohkásmeahttun
-juohkebeaivválaš
-juohkebeallásaš
-juohkelágan
-juohkemeahttun
-juohkešlái
-juohkimeahttun
-juoiggalmas
-juolggeheapme
-juolggiheapme
-juollet
-juorbbas
-juorbbehas
-juorrudeaddji
-juovvái
-juovzzas
-jurddašeaddji
-jurddašmeahttun
-juridihkalaš
-juvdu
-juvssahahtti
-kapitalisttalaš
-kardinála
-kásttaheapme
-kataforalaš
-katolihkalaš
-kaukasialaš
-keampa
-kemihkalaš
-kemiijalaš
-kievra
-kilosaš
-kirurgalaš
-kivrosaš
-klassihkalaš
-kleaidna
-klimáhtalaš
-klinalaš
-knáhpis
-koaillas
-kollegiála
-kollektiiva
-kollektiivvalaš
-kolonialisttalaš
-koltálaš
-komihkalaš
-kommersiála
-kommersiealla
-kommunála
-kommunikatiiva
-komplementára
-konkrehta
-konkrehtalaš
-konsekveanta
-konseptoála
-konseptuála
-konstitušonála
-konstitušunála
-konstitušunealla
-konstitutionála
-konstruktiiva
-konstruktiivalaš
-konstruktiivvalaš
-kontinentála
-kontrastiivvalaš
-kontroversiealla
-koreferentiála
-korporatiiva
-kosmehtalaš
-kosovo-albanalaš
-kránto
-kreatiiva
-kreatiivalaš
-kretalaš
-kristalaš
-kristállačuovgat
-kristállalaš
-kristtalaš
-kritihkalaš
-kroahtalaš
-kroavis
-kromáhtalaš
-kronalaš
-kronologalaš
-kruvdnasaš
-kruvdnosaš
-kula
-kulturpolitihkalaš
-kultuvrralaš
-kuohca
-kuonna
-kuorus
-kurdalaš
-kursiiva
-kvalitatiivalaš
-kvantitatiiva
-kvantitatiivalaš
-kyrillalaš
-labiála
-láđas
-laddjui
-láđis
-láđismeahttun
-ladjat
-ladnjil
-laestadiána
-láfos
-lagabuš
-lágafámolaš
-lágaheapme
-lágajegolaš
-lágan
-lágán
-lagas
-lagaš
-lagat
-lágavuostásaš
-lágavuosttas
-láhkačálakeahtes
-láhkafámolaš
-láhkageatnegas
-láhkalágan
-láhkalágán
-lahkalas
-lahkanmeahttun
-lahkaoaidnil
-lahkkálas
-láiddoheapme
-láitemeahttun
-láitimeahttun
-láittas
-láittehahtti
-láittihahtti
-lákcái
-lamas
-lámas
-lámis
-lánas
-lappalaš
-láskkonjuolgat
-lášmat
-lassi
-laššis
-laššit
-lastái
-latenamerihkálaš
-latnjat
-láttas
-lávccaheapme
-lávgalas
-lávgat
-lávggaheapme
-lávggoheapme
-lávgil
-lávlleheapme
-lávlliheapme
-lávlu
-lávttas
-lavttis
-lávvolágan
-lávvolágán
-lávžálas
-lávžeballalas
-lávžegullil
-lávžegulolaš
-lávžejorralas
-leabbat
-leaboheapme
-leabuheapme
-leahkemeahttun
-leahkimeahttun
-leaicái
-leaikái
-leamssas
-leanzzas
-leappas
-leastadialaš
-leatmeahttun
-leavllas
-leavvi
-legála
-leksikála
-leksikálalaš
-leksikográfalaš
-lestadiánalaš
-liberála
-liberálalaš
-libmii
-liđbmat
-liđvvas
-liebmái
-lieggaváimmolaš
-liehmos
-liekkus
-lievllisteaddji
-lievvil
-lihkaheaddji
-lihkkoš
-lihkoheapme
-lihkuheapme
-liigeguhkki
-liigehearki
-liigiguhkki
-liigihearki
-limškkas
-linccas
-liŋkkas
-lingvistihkalaš
-lingvisttalaš
-linjas
-lisas
-lissu
-livkat
-livttis
-livzzas
-loabmái
-loaččis
-loadtja
-loahpalaš
-loahppameahttun
-loahtis
-loaitu
-loakkas
-loaktevaš
-loamššas
-loarffas
-loaškkas
-loatni
-loavdi
-loavskkas
-loažžat
-lobálaš
-lobiheapme
-lobmui
-lodjumeahttun
-lođuheapme
-logahahtti
-logaheapme
-logalaš
-logihkalaš
-logoforalaš
-loguheapme
-lohkameahttun
-lohkki
-lohtat
-loikil
-lojála
-lokála
-loleš
-lonjas
-loseš
-losideaddji
-loškkas
-lossosaš
-lotkat
-lotnjat
-lovttolaš
-luhteránalaš
-luhtolaš
-luhtteorru
-lujávrilaš
-lujávrrelaš
-lullisápmelaš
-lunddolaš
-luŋkkas
-luođaheapme
-luoddái
-luođđái
-luodnái
-luohkkálaš
-luohpi
-luohtehahtti
-luohtihahtti
-luohttevaš
-luoillas
-luoktu
-luomus
-luonddudieđalaš
-luonddulágan
-luonddulágán
-luondduvuostásaš
-luoskkas
-luoškkas
-luossabiebmanfriija
-luossái
-luotkkus
-luottaheapme
-luovaskas
-luovddalas
-luovos
-luovus
-luovvat
-lurffas
-lurvvas
-lusabeassameahttun
-lusttuheapme
-luteralaš
-luteránalaš
-lutherána
-lutherlaš
-luvnnja
-luvnnjas
-luvvil
-lyralaš
-lyrihkalaš
-læstadialaš
-læstadiolaš
-mađáš
-máddeleabbo
-máddogávvil
-máđoheapme
-magihkalaš
-mágihkalaš
-magiijalaš
-mágiijalaš
-magnehtalaš
-mágnehtalaš
-máhccevaš
-mahtásaš
-mahtosaš
-máhtuheapme
-máihlleheapme
-máihlliheapme
-máilmmeloga
-máilmmiloga
-máilmmiviidosaš
-máinnalmas
-máinnašuvvon
-máinneheapme
-máinniheapme
-máinnolmas
-máisttoheapme
-máizzas
-majestehtalaš
-makkáraš
-maksimála
-máksingeatnegas
-máksinnávccaheapme
-máksinnávccalaš
-máksoáŋgir
-mállegelbbolaš
-manahahtti
-mánáheapme
-mánas
-mánaskas
-máŋgaholddet
-máŋggabealálaš
-máŋggabealat
-máŋggabeallásaš
-máŋggabuolvvat
-máŋggačearddalaš
-máŋggačuohtejahkásaš
-máŋggadáiddalaš
-máŋggadássásaš
-máŋggadieđalaš
-máŋggafágalaš
-máŋggageardán
-máŋggageardásaš
-máŋggagielalaš
-máŋggagielat
-máŋggaidgaskasaš
-máŋggaivdnásaš
-máŋggajahkásaš
-máŋggakultuvrralaš
-máŋggakultuvrrat
-máŋggalágan
-máŋggalágán
-máŋggasivavuloš
-máŋggašlái
-máŋggasuorat
-maŋit
-maŋitvurrosaš
-maŋŋálas
-maŋŋelaš
-maŋŋit
-maŋosmanni
-maniheapme
-maniijalaš
-mannanidjasaš
-manni
-mannosaš
-manuheapme
-marginála
-maritiibma
-maritiima
-márkemearrásaš
-marššas
-mášaheapme
-mášiinnalaš
-máškit
-mášoheapme
-matemáhtalaš
-materialisttalaš
-máŧoheapme
-máŧolaš
-matriarkálalaš
-máttasápmelaš
-máttibuš
-máŧuheapme
-mávssoheapme
-meaddevaš
-meaddilmanni
-meaddugas
-meađggus
-meađmma
-meamma
-meammas
-meareheapme
-meariheapme
-mearkavuđot
-mearkkahahtti
-mearkkaheapme
-mearkkašahtti
-mearkkašeaddji
-mearkkašmeahttun
-mearrasápmelaš
-mearreáigásaš
-mearrediđolaš
-mearreprojektionála
-mearridanfámolaš
-mearridanválddálaš
-mearrideaddji
-mearritmeahttun
-meašttárlaš
-meavrresgárelágan
-mediála
-medisiinnalaš
-megalománalaš
-mekánalaš
-meksikána
-meksikánalaš
-melodramáhtalaš
-mentála
-mentálalaš
-merolaš
-mesolihtalaš
-metaforalaš
-metagielalaš
-metatehtalaš
-meteorologalaš
-metodologalaš
-miđáheapme
-mieđamánas
-mieđis
-miehtáriikasaš
-miehtedoaris
-miehtidoaris
-mieiggus
-mielaevttot
-mielaheapme
-mielaidgeassi
-mielčuovvu
-mielkkas
-mielkkeheapme
-mielkkiheapme
-miellačájeheaddji
-miellagiddevaš
-miellahápmásaš
-miellasaš
-miellavádjet
-miellavádjigat
-miellaváillat
-mielriegádan
-mielsivalaš
-mieseheapme
-miesiheapme
-miessái
-mievkkis
-miháš
-miholaš
-mihtaskas
-mihtilmas
-mihtitmeahttun
-mihtus
-militánta
-militearalaš
-miljovdnasaš
-minerálalaš
-miniatiirasturrosaš
-minimála
-minuktasaš
-mirkkolaš
-moaitemeahttun
-moaitimeahttun
-moaittehahtti
-moakkas
-moalas
-moalkás
-moalkkas
-moallái
-moarssaskas
-moattelágan
-moattelágán
-moattevahkkosaš
-moattilágan
-moattilágán
-mobiila
-modearna
-moderáhta
-mohkeheapme
-mohkiheapme
-mohkkái
-mohtorkeahtes
-mohttái
-moivvas
-molddas
-molsaeaktolaš
-molssaektosaš
-molssaevttolaš
-molssolaš
-momentána
-monemušhámat
-monimušhámat
-monogámalaš
-monopollágan
-monopollágán
-morálaheapme
-moralalaš
-morálalaš
-morálameahttun
-morašlaš
-morašmielalaš
-morašmielat
-morfofonologalaš
-morfologalaš
-morfologálaš
-morrái
-morreš
-morris
-morrit
-moskkas
-moskkus
-mosttas
-motoralaš
-movttet
-muddosaš
-muhtehahtekeahtes
-muhtinlágan
-muhtinlágán
-muhtinlágaš
-muhtinlágáš
-muhtosaš
-muhtunlágan
-muhtunlágán
-muhtunlágaš
-muhtunlágáš
-muidui
-muittoheapme
-mukkas
-multifunkšunála
-multifunktionála
-multilaterála
-multimedialaš
-muohtaheapme
-muohtavielgat
-muoldái
-muolddas
-muoraheapme
-muorrái
-muoseheapme
-muosiheapme
-muosset
-muossit
-muosvvis
-murtolas
-murtolaš
-musihkkalaš
-musikálalaš
-muttát
-mystihkalaš
-mytologalaš
-nađaheapme
-nađđajoatkkalaš
-náddjil
-nággár
-nagirheapme
-naiiva
-náiiva
-náitalgeahtes
-náitoslágan
-nalas
-náleheapme
-nálggas
-náliheapme
-nalttas
-namahahtti
-namaheapme
-namakeahtes
-námas
-nammasaš
-nanadáhtolaš
-nanaguoddevaš
-nannehahtti
-nannemeahttun
-nanus
-nárvvas
-nasála
-našonála
-naššuvnnalaš
-náššuvnnalaš
-našunála
-nášunála
-nášunálalaš
-nášuvnála
-nášuvnnála
-našuvnnalaš
-nášuvnnalaš
-nationála
-nautalaš
-návccaheapme
-navggas
-navkkas
-návvái
-neagoheapme
-neaguheapme
-neagus
-neahkameahttun
-neahtis
-nealggas
-nealguvaš
-nearas
-nearoheapme
-neavrras
-negatiiva
-negatiivalaš
-negatiivvalaš
-nenetsalaš
-neogrammatihkalaš
-neolihtalaš
-nepper
-neutrála
-nevvot
-niestteheapme
-niesttiheapme
-nievkkas
-nihkkoš
-nirppas
-nirvvas
-nivssas
-njabas
-njáđđi
-njagas
-njahpit
-njáiggas
-njáiggos
-njáikkas
-njákkas
-njaláhas
-njálbmugas
-njálggat
-njálggis
-njálmmaskas
-njálmmeheapme
-njálmmiheapme
-njalppas
-njalssas
-njameš
-njaŋggas
-njáŋggas
-njárgái
-njarttas
-njarvvas
-njáškkas
-njattas
-njavččas
-njavgat
-njávkkas
-njávval
-njázos
-njeaccas
-njeađgi
-njealjegeardán
-njealjegeardásaš
-njealjejuolggat
-njealljejuvllat
-njeaššas
-njeavccas
-njieddji
-njielaheapme
-njieloheapme
-njieluheapme
-njiezas
-njivlla
-njivllas
-njoađggas
-njoađvvas
-njoahppat
-njoahppil
-njoaiddus
-njoalccas
-njoalokeahtes
-njoalppas
-njoammu
-njolvvas
-njuneheapme
-njuniheapme
-njuohcci
-njuohpa
-njuokčanvuloš
-njuokkas
-njuolggaduslaš
-njuolggadusvuloš
-njuolggalaš
-njuolggosánálaš
-njuolggus
-njuolgguslaš
-njuolvvas
-njuolvves
-njuorradeaddji
-njuorššas
-njuorvvas
-njuoski
-njuoskil
-njuovvi
-njuovžil
-njuovžžas
-noaiddes
-nohkameahttun
-nohkavaš
-nohkkivaš
-nollas
-nominála
-nominatiivahápmásaš
-nomotehtalaš
-norgalaš
-norgalaš-ruoššalaš
-norkkas
-normála
-normatiiva
-norrøna
-nubbe
-nubbingielat
-nugohčoduvvon
-nuohtaheapme
-nuolus
-nuommi
-nuommir
-nuoraidpsykiátralaš
-nuortaeatnanlaš
-nuortalaš
-nuortasápmelaš
-nuovvas
-nuppáš
-nuppát
-nuppeárvosaš
-nuppelágan
-nuppelohjahkásaš
-nuppisadjásaš
-nurddas
-nurrái
-nurssas
-nurššas
-nøytrála
-oabmái
-oaččeheapme
-oaččiheapme
-oaččoheapme
-oaddi
-oađekeat
-oadjebas
-oahccái
-oahcit
-oahpahusgeatnegas
-oahpismeahttun
-oahppageatnegas
-oahppameahttun
-oahppavaš
-oahppevaš
-oahppogeatnegas
-oahppováillat
-oaidnemeahttun
-oaidnil
-oaidnimeahttun
-oainnoheapme
-oainnus
-oaivelámis
-oaivenjuolggaduslaš
-oaivilámis
-oaivugas
-oaivveheapme
-oaivvesnaga
-oaivviheapme
-oallásahtes
-oamedovddoheapme
-oamedovddolaš
-oamidovddoheapme
-oamivanhurskkis
-oamivánhurskkis
-oanehaš
-oanehisáigásaš
-oapmedaš
-oaraheapme
-oardnji
-oarjeeurohpálaš
-oartnjas
-oaseheapme
-oasiheapme
-oassádalli
-oassálas
-oassálaš
-oasseáigásaš
-oassemávssekeahtes
-oassesivalaš
-oastil
-oatnelágan
-oaván
-oavlái
-oavsseheapme
-oavssiheapme
-oažžul
-objektiiva
-objektiivvalaš
-obmui
-observationála
-obugralaš
-ođasnuvakeahtes
-ođastanhálolaš
-ođđaáigásaš
-ođđaivnnálaš
-ođđamállet
-offensiiva
-offensiivvalaš
-ohcangeatnegas
-ohcejohkalaš
-oidduheapme
-okkasionála
-oktagaslaš
-oktageardán
-oktageardásaš
-oktalaš
-oktasaš
-oktat
-oktavuolgganas
-oktiigullevaš
-oktiiheivvolaš
-oktiisoahpevaš
-oktiisoahppevaš
-oktilaš
-oktilis
-oktonas
-oktoráđálaš
-olatmeahttun
-olbmoheapme
-olgeš
-olggosbuoidi
-olggubuš
-olgguldas
-olggut
-olgogollát
-olgogullát
-olgoparlamentáralaš
-olgoriikkalaš
-olgoriikkapolitihkalaš
-ollašuhttingelbbolaš
-ollesahkásaš
-ollesáigásaš
-ollesárvosaš
-ollil
-ollislaš
-ollolvuloš
-ollu
-olmmáilaš
-olmmáiváibmil
-olmmošaddjái
-olmmošárgi
-olmmošlaš
-olmmošmeahttun
-olmmošnákkis
-olu
-olympalaš
-onomasiologalaš
-operatiivvalaš
-oppa
-oppaeurohpálaš
-oppalaš
-oppas
-optimála
-optimistalaš
-oranša
-oránša
-orččas
-orči
-ordásaš
-orgánalaš
-organisatoralaš
-organisatovrralaš
-organisatuvrralaš
-orientála
-orientálalaš
-originála
-ortnetgullevaš
-ortodoksa
-ortodoksalaš
-ortográfalaš
-ortopedalaš
-ortopediijalaš
-oruhahtti
-oskkáldas
-oskkáldasmeahttun
-otná
-ovdagáttolaš
-ovdagieđaheapme
-ovdahistorjjálaš
-ovdaláiggiriegádan
-ovdalaš
-ovdamearkkalaš
-ovdánanmielalaš
-ovdáneaddji
-ovdánmeahttun
-ovdaromálaš
-ovdarossái
-ovddasteaddji
-ovddasvástáduslaš
-ovddasvásttolaš
-ovddeš
-ovddetjagáš
-ovddit
-ovtta-ahkáhaš
-ovtta-ahkásaš
-ovttaáigásaš
-ovttaárvosaš
-ovttabealálaš
-ovttabealat
-ovttabealát
-ovttabeallásaš
-ovttačilggolaš
-ovttadássásaš
-ovttadimensionála
-ovttagaslaš
-ovttageardán
-ovttageardásaš
-ovttagielalaš
-ovttagielat
-ovttagivrosaš
-ovttaguhkkosaš
-ovttaguvlosaš
-ovttahápmásaš
-ovttaháválaš
-ovttaháváš
-ovttaheapme
-ovttaivnnálaš
-ovttalágan
-ovttalaš
-ovttaluoddasaš
-ovttamađu
-ovttamuottat
-ovttanáittuslaš
-ovttanammasaš
-ovttaoaivil
-ovttaráđálaš
-ovttasárgálaš
-ovttaskas
-ovttaskaslundosaš
-ovttasorttat
-ovttasparggálaš
-ovttasturrosaš
-ovttastuvvon
-ovttasullasaš
-ovttavásttolaš
-ovttaveardásaš
-ovttilis
-ovttaallosaš
-ožžoš
-pakistána
-palestiinnálaš
-palestinalaš
-paradigmáhtalaš
-páraheapme
-parlamentaralaš
-parlamenttalaš
-partiála
-passiivvalaš
-pássiivvalaš
-patriarkálalaš
-peailasaš
-pedagogalaš
-pedagogálaš
-perbmelaš
-persovnnaheapme
-persovnnalaš
-persovnnálaš
-persuvnnaheapme
-persuvnnalaš
-peršuvnnalaš
-pivlii
-pneumáhtalaš
-polára
-politihkalaš
-politihkálaš
-politihkkalaš
-polygámalaš
-polygamiijalaš
-populára
-populearadieđalaš
-portugisalaš
-posetiiva
-positiiva
-positiivalaš
-positiivvalaš
-potentiála
-pragmáhtalaš
-pragmatihkalaš
-praktihkalaš
-prejudisiála
-preliminára
-prentengárvvis
-primára
-primitiiva
-primitiivvalaš
-prinsihpalaš
-prinsihppalaš
-prinsipála
-prinsipiála
-priváhtarievttálaš
-priváhtavuoigatvuođalaš
-priváhtta
-problemaheapme
-problemáhtalaš
-produktiiva
-produktiivvalaš
-profehtalaš
-profešunealla
-proffa
-profišunealla
-programmáhtalaš
-progressiiva
-projektionála
-proklihtalaš
-prosálaš
-prosentuála
-prosessuála
-prosessuealla
-protestánttalaš
-psyhkalaš
-psyhkálaš
-psykalaš
-psykiátralaš
-psykihkalaš
-psykohtalaš
-psykologalaš
-psykosomáhtalaš
-psykososiála
-punktuála
-puritánalaš
-pytagoralaš
-rábmái
-rábmii
-raččas
-ráččas
-ráđas
-raddálas
-ráđđeaddi
-ráđđejeaddji
-raddelámis
-ráđđenhálolaš
-ráđđiaddi
-ráddjil
-ráđeheapme
-ráđiheapme
-radikála
-radioaktiiva
-rádioaktiiva
-rádjaguovlluguovdasaš
-rádjálas
-rádjelihkot
-rádjilihkot
-ráđus
-ráfeheapme
-ráfiheapme
-rageš
-ráhkaduslaš
-rahkat
-ráhkis
-ráhkislaš
-ráhkismeahttun
-rahkki
-rahpas
-ráigeoaivvat
-ráigioaivvat
-ráikkas
-ráilu
-ráiskkas
-rájaheapme
-rájákeahtes
-rajárastá
-rájeheapme
-rájiheapme
-rájuheapme
-rákti
-rámálmas
-rámppas
-rámskkas
-rámškkas
-rámssas
-rámššas
-ranččas
-ránččas
-rándolaš
-rándulaš
-ránesruškat
-raŋggas
-ráŋggáštusvuloš
-ránis
-ránskalaš
-ránto
-ráseheapme
-rásiheapme
-rasisttalaš
-rásisttalaš
-rássái
-rastásaš
-rationála
-ravdameahttun
-ravddabuš
-ravddaheapme
-ravddamus
-rávis
-ravjjas
-rávnnjeheapme
-rávnnjiheapme
-rávvejeaddji
-rávžžas
-ražžat
-reagaheapme
-reahalaš
-reahcas
-reaktioneara
-reála
-realistalaš
-reálistalaš
-realisttalaš
-reálisttalaš
-realssas
-reanzzas
-reavas
-reavrras
-reavvas
-reavžžas
-recessiiva
-reella
-referentiála
-refleksiiva
-regála
-regionála
-regionálalaš
-regionálaš
-regiovdnapolitihkalaš
-registarguovdasaš
-regiunála
-regulára
-rehálaš
-rehelaš
-rehketdoallogeatnegas
-rekursiiva
-relatiiva
-relatiivalaš
-relationála
-relationálalaš
-relevánta
-representatiiva
-restriktiiva
-retoralaš
-retorihkalaš
-retrográdalaš
-reumáhtalaš
-revmáhtalaš
-ribiheapme
-riccas
-riddolagaš
-riđvái
-riebas
-riekta
-riektat
-riektelaš
-riekteoahppavaš
-riektevuoimmalaš
-rieppis
-rievdameahttun
-rievdavaš
-rievdil
-rievdiliekkas
-rievssat
-rievssatheapme
-rievssatkeahtes
-rievttalaš
-rihča
-rihkkasmeahttun
-riidduheapme
-riikkaidgaskasaš
-riikkaidgaskkasaš
-riikkasaš
-riikkaviidosaš
-riiska
-rikkas
-rikkis
-rimškkas
-rimssas
-rinččas
-rinzzas
-riskkaheapme
-riššafiskat
-riššagoikkis
-ristagas
-ristagaš
-ristaráiddat
-ritmái
-rittubuš
-rivdal
-riviheapme
-rivttesoahpalaš
-rivttesoskkolaš
-rivzzas
-roađđat
-roahkkálas
-roaibbas
-roaiskkas
-roakkas
-roamssas
-roamššas
-roanccas
-roaŋkkas
-roanžžas
-roaškkas
-roassái
-roastil
-roattus
-roava
-roavččas
-roavis
-roavnnjas
-roavvas
-rohčat
-rohkkolas
-rohppái
-rohttejeaddji
-rojalisttalaš
-romákatolalaš
-romalaš
-romálaškatolalaš
-románalaš
-romantalaš
-romantihkalaš
-románttalaš
-romis
-ropmi
-rossái
-rožas
-ruccas
-ruččas
-ruđaheapme
-ruhccái
-ruhtaáŋgir
-ruhtahánis
-ruhtaváibmil
-ruhttái
-ruibbas
-ruivvas
-rukseslágan
-ruksesruoná
-rukses-ruoná
-rumašlaš
-rumašváillat
-rumššas
-ruŋkkas
-runta
-runzui
-ruobbecoagis
-ruobbegoikkis
-ruogŋái
-ruohppái
-ruohtis
-ruoinnas
-ruojus
-ruoksájeaddji
-ruoksat
-ruolla
-ruoná
-ruonáeatnanlaš
-ruonálágan
-ruonas
-ruoppas
-ruoššabeal
-ruossalas
-ruoššaortodoksa
-ruošša-ortodoksa
-ruostameahttun
-ruosti
-ruosttaheapme
-ruosttas
-ruoŧagiel
-ruoŧŧelaš
-ruovas
-ruovddaheapme
-ruovjjeheapme
-ruovjjiheapme
-ruovttoheapme
-ruovttuheapme
-ruskkas
-russolas
-ruššu
-ruttas
-ruvdnosaš
-ruvsui
-ruvžái
-ruvžžas
-rytmálaš
-sábmái
-šaddi
-šaddodieđalaš
-sádnái
-sagaheapme
-ságaheapme
-saguheapme
-sáhkat
-sáhkaváibmil
-sáhkkái
-sáhkkii
-sáhkkit
-sahkuheapme
-sáhpeheapme
-sáhpiheapme
-sahpit
-sáhtehahtti
-sáhtihahtti
-saiggas
-sáiggas
-šáigil
-šáikkas
-sáissas
-sajiheapme
-sákčil
-sákkas
-salaheapme
-sálbat
-salggas
-sallái
-sallalas
-sallasaš
-šállošahtti
-sáltedoallevaš
-sáltteheapme
-sálttiheapme
-sálttisis
-sámegiel
-sámegielalaš
-sámegielat
-sámepolitihkalaš
-sámevulgosaš
-sáneheapme
-sánekeahtes
-sániheapme
-sápmelaš
-sárdnái
-šarmerejeaddji
-sarttas
-sátneálgosaš
-sátnedárkil
-sátnerikkis
-sátnesiskkáldas
-šatteš
-šattoheapme
-šattot
-šattuheapme
-sávahahtti
-sávaldatguovdásaš
-seađas
-seađus
-seagas
-seagáš
-seagus
-seahkalas
-seahkálas
-seahkalis
-seahkkái
-seaibbeheapme
-seaibbiheapme
-seainnibuš
-seakkisis
-sealas
-sealbbus
-sealgálas
-sealgameahttun
-šealgat
-sealggaheapme
-sealggálas
-sealggális
-sealgil
-sealvi
-sealvvas
-seammaárvosaš
-seammadássásaš
-seammádássásaš
-seammagovdosaš
-seammaguhkkosaš
-seammaguvlosaš
-seammaháltásaš
-seammalágan
-seammálágan
-seammamielalaš
-seammanammasaš
-seammánammasaš
-seammasturrosaš
-seammasullasaš
-seammásullásaš
-seanas
-seaŋggabuorre
-searalaš
-searra
-šearrat
-šearus
-searválas
-seastevaš
-seasttaskas
-seavagielat
-seavdda
-seavdnjat
-seavnnjus
-segmentálalaš
-seismalaš
-seksuála
-seksualálaš
-seksuálaš
-sekundára
-sekventiála
-selggolas
-selggolassii
-semantihkalaš
-semanttalaš
-semánttalaš
-semasiologalaš
-semiohtalaš
-seniila
-senila
-sentimentála
-serbálaš
-serddolaš
-servodatdieđalaš
-servodatekonomálaš
-servodatlágan
-servodatlágán
-servodatlaš
-servodatvuostásaš
-servvolaš
-sexualálaš
-sibirijálaš
-siđas
-siddjii
-sidnui
-siđus
-siđvvas
-sieđas
-sieddjái
-sieđgái
-sieđus
-šieđvi
-šiega
-šiegalaš
-šieguheapme
-šiehpun
-šiehttanválddálaš
-šiehtun
-sieiva
-sieloheapme
-sieluheapme
-sierra
-sierralágan
-sierranas
-šiervi
-šiervvas
-sievssaheapme
-signifikánta
-sihkar
-sihkkar
-sihtavaš
-šihttui
-siidái
-siidalodji
-siiddaheapme
-siiddalmas
-siidodoaibmasaš
-siidosaš
-šiitemeahttun
-šiitimeahttun
-siivolágan
-siivui
-siivvuheapme
-silbái
-silbaránis
-silbasaš
-sillat
-simpal
-sinas
-sipirjálaš
-sireráhkaduvvon
-sirkumpolára
-sisbuoidi
-siseatnansápmelaš
-siskálas
-siskálasti
-siskkaldas
-siskkáldas
-siskkibuš
-siskkildas
-siskkit
-sisriikkalaš
-sitkat
-sitnálaš
-sivaheapme
-sivakeahtes
-siviila
-siviilavuoigatvuođalaš
-sivvat
-skáddjil
-skáhppái
-skáigil
-skalddas
-skalddeheapme
-skaldil
-skálkái
-skálvvas
-skámuheapme
-skandinávalaš
-skárbbas
-skárllat
-skárllatruoksat
-skárppis
-skárttas
-skavžžas
-skeartnja
-skeavžžas
-skehpposaš
-skemáhtalaš
-skeptihkalaš
-skielggas
-skieras
-skieraskas
-skievaskas
-skievis
-skievttaheapme
-skievttardeaddji
-skievttáris
-skievttideaddji
-skihčas
-skihkaheapme
-skilaheapme
-skiluheapme
-skilžžas
-skiŋgil
-skinjas
-skirččas
-skirras
-skivllas
-skivnnjas
-skivžžas
-skjemáhtalaš
-skoalddas
-skoalmmas
-skoalppas
-skoarččas
-skoarras
-skoavddas
-skoavhllas
-skohččebealjat
-skohččibealjat
-skohttalaš
-skolas
-skolppas
-skolvvas
-skottálaš
-skožas
-skuđuheapme
-skuhttáris
-skuibbas
-skuittas
-skuŋkkas
-skuniheapme
-skuoivvas
-skuonjas
-skuortnas
-skuortnjas
-skuožas
-skurččas
-skurras
-skurtnjas
-skurvvas
-skuvlaahkásaš
-skuvnnjas
-skužas
-šláddjás
-šlárvvas
-slávalaš
-šlávalaš
-šlávas
-šleaiddos
-šleaippas
-šleanccas
-šliđas
-šliettas
-šlihttui
-šlihtu
-šliktu
-šlimppas
-šlinccas
-šlinzzas
-šlivggas
-šloanccas
-šluđas
-šluhttui
-šluhtu
-šlunddas
-šlundi
-šluŋkkas
-šluohkis
-šluppas
-šlurvvas
-smáđáhkes
-smađáhkis
-smáđáhkis
-smáiti
-smarffas
-smarvvas
-smávis
-smávislágan
-smávislágaš
-smiđis
-smierru
-smierus
-smilččas
-smoahtis
-smoalddas
-smokkas
-smolgat
-smolggus
-smulkkas
-smurtačáhppat
-smurvvas
-snáhpis
-snáhppil
-snárkkas
-snarras
-snárri
-snavggas
-sneavvar
-snielis
-snirkkas
-šnjalččas
-šnjalžžas
-šnjarvvas
-šnjirggas
-šnjoalccas
-šnjuokkas
-snoađas
-snoakkis
-snoalus
-snogas
-snolkkas
-snoras
-snorras
-snuolggas
-snuorddas
-soabalaš
-soabatgorálaš
-soabatmeahttun
-soaččas
-soaddjái
-soađemaŋáš
-soađiáigásaš
-soadjas
-soadjelámis
-soadjeorddálaš
-soahkkái
-soahpameahttun
-soahpavaš
-soahppevaš
-soahppi
-soahppil
-soahtegiivvis
-soahtelámis
-soahtigiivvis
-soahttevaš
-soaiggus
-soajáheapme
-soajeheapme
-soajiheapme
-soalddas
-soalssas
-soamálaš
-šoambái
-soameheapme
-soameslágan
-soamiheapme
-soarppas
-soarvveheapme
-soarvviheapme
-šoavkat
-soavllas
-šoavllas
-šoavvat
-soažžumeahttun
-sođas
-šođbat
-sodjavaš
-soft-gun
-sogaheapme
-sohkabealguoskevaš
-sohkenis
-soiddas
-soidnáris
-sojaheapme
-sojankeahtes
-sojavaš
-sojuheapme
-sokkibuš
-soktái
-solidáralaš
-somá
-somáhtalaš
-sonas
-sonjas
-soras
-sorjankeahtes
-sorjavaš
-sorjjakeahtes
-sorjjas
-sorjjaskeahtes
-sorjjasmeahttun
-sosiala
-sosiála
-sosiálademokráhtalaš
-sosiálalaš
-sosiálapolitihkalaš
-sosiáldarwinistalaš
-sosialisttalaš
-sosioekonomálaš
-sosiokultuvrralaš
-sosio-kultuvrralaš
-sosiologalaš
-sovjehtalaš
-sovkkenis
-sovttas
-spáhkis
-spáigil
-spáitil
-spáittas
-spáitteheapme
-spakkas
-spalccas
-spálččas
-spálžžas
-spanas
-spanjas
-spánska
-spánskalaš
-spárkkas
-spásmmalaš
-spatnat
-spažas
-speaččas
-speallansorjavaš
-spealnnjas
-speanta
-spesiála
-spesiálapedagogalaš
-spesifalaš
-spesifihkka
-spiehčas
-spiehkkaseaddji
-spiertačáhppat
-spiinnelágan
-spildarođas
-spinjas
-spirelaš
-spoadnái
-spoanas
-spontána
-spuŋggas
-sráŋggaheapme
-sreaŋggis
-sroaŋggis
-stábat
-stáččas
-stađaheapme
-stađđil
-stáđismeahttun
-stađuheapme
-stáhppái
-stáhtaeanádatlaš
-staigil
-stáippas
-stáleheapme
-stáliheapme
-stánžžas
-stargat
-starggas
-statihkalaš
-statistalaš
-stávrras
-steaččas
-steanžžas
-steavdda
-steavžžas
-stereotiippalaš
-steriila
-stiivvis
-stilistalaš
-stilistihkalaš
-stirddas
-stirddus
-stivrraheapme
-stoaiddas
-stoaljas
-stohkas
-stožas
-stráilu
-strategalaš
-streaŋga
-streaŋggis
-stroaŋggis
-strukturála
-strukturalisttalaš
-struktuvrralaš
-stuibmái
-stukkis
-stulkkas
-stumppas
-stuorebuš
-stuorralágan
-sturccas
-sturrodatjalla
-sturrosaš
-subjektiiva
-subjektiivvalaš
-subsidiára
-subsidiáralaš
-subtropalaš
-suddil
-suddugas
-sudnii
-sudnjui
-suhkkes
-suhkkolhámat
-suhppái
-suhtas
-suivat
-suivit
-sujaheapme
-suksii
-sullalas
-sullasaš
-sullásaš
-sulttas
-šumppas
-suoddjái
-suodnái
-suohkanlaš
-suohkkul
-suohpáheapme
-suoibmamohkat
-suojeheapme
-suojiheapme
-suokkis
-suoksái
-suollemas
-suomagiel
-suomagielat
-suomapermalaš
-suoma-permalaš
-suomaugralaš
-suoma-ugralaš
-suomavolgalaš
-suoma-volgalaš
-suonttas
-suopmaniidgaskasaš
-suopmat
-suopmelašugralaš
-suopmelaš-ugralaš
-suorgái
-suorgejoatkkalaš
-suorggatlaš
-suorggiguovdasaš
-suorttas
-suosttas
-suovat
-suovggas
-suovrras
-suovvil
-super-čáppat
-superristtalaš
-surgat
-surgatlaš
-surolaš
-suruheapme
-suttuheapme
-suvdi
-suvdil
-šuvgil
-syklihkalaš
-symbolalaš
-symbolihkalaš
-symmehtralaš
-symmetrihkalaš
-symptomáhtalaš
-synkronalaš
-synonymalaš
-synsemánttalaš
-syntagmáhtalaš
-syntávsslaš
-syntávttalaš
-syntehtalaš
-systemahtalaš
-systemáhtalaš
-táhpalaš
-táhpemeahttun
-taktiila
-teahtis
-teatrálalaš
-teknalaš
-teknihkalaš
-teknihkkalaš
-teknologalaš
-tekstuála
-telihkalaš
-temáhtalaš
-tematalaš
-temporála
-teologalaš
-teorehtalaš
-termála
-territoriála
-tibehtalaš
-tiibmosaš
-toleránta
-topográfalaš
-tragihkalaš
-transitiiva
-transitiivvalaš
-traumáhtalaš
-tribunála
-triviála
-trohpalaš
-trolahis
-tropalaš
-tuiska
-tuljánis
-tullut
-tuolloheapme
-tupaan
-turkalaš
-tuvalaš
-typihkalaš
-tøffa
-udju
-ugralaš
-uhcagielagaš
-uhcánaš
-uhcis
-uidni
-ulbmálaš
-ulbmállaš
-ulbmildiđolaš
-ulbmillaš
-ulbmilmeahttun
-ulddas
-ultramariidna
-umáhttu
-umas
-umassi
-uminddet
-universála
-unohas
-urálalaš
-urbmi
-urdni
-urdnji
-ussel
-ussil
-ustitlaš
-ustitmeahttun
-utnoheapme
-utnolaš
-utnuheapme
-uvjái
-uvjjaheapme
-vácceš
-vádjitválddálaš
-vadni
-vadnil
-váfi
-vahátilolaš
-vahátlaš
-vahccái
-váhčči
-vahkat
-vahkosaš
-váhnemahtes
-váhnengeahtes
-váibameahttun
-váibi
-váibil
-váibmoláđis
-váibmoláđismeahttun
-váibmolittat
-váibmolittis
-váibmoreađahahtti
-váidalahtti
-váigat
-váiggas
-váikkuhanfámolaš
-váikkuhanválddálaš
-váilevaš
-váillat
-váimmobávččas
-váimmoheapme
-váimmuheapme
-váivváš
-valanis
-válddeheapme
-válddiheapme
-váldegottálaš
-váldeváillat
-váldiváillat
-váldodoaibmasaš
-váldosaš
-válgadohkálaš
-válidahkan
-valljái
-valljogas
-valljugas
-válljugas
-válmmas
-válmmaš
-vánat
-váŋká
-váŋkái
-vaŋkkas
-vanhurskkis
-vánhurskkis
-vanhurskkismeahttun
-vánhurskkismeahttun
-vánta
-vánttaheapme
-vánttalaš
-varaheapme
-váraheapme
-várddus
-vardil
-váreheapme
-váribuš
-váriheapme
-varrái
-varraruškat
-varraváldi
-várrogas
-várrugas
-vártnuheapme
-váruheapme
-várutmeahttun
-várveš
-vašán
-vásedin
-vaššái
-vássevaš
-vástesaš
-vástevaš
-vástideaddji
-vástitmeahttun
-vásttolaš
-vásttuheapme
-vátnanávccalaš
-vátnečalmmat
-vátničalmmat
-váttis
-vávjjaskas
-vávjjehahtti
-vávjjihahtti
-vázzi
-veađar
-veađas
-veaddjil
-veadjemeahttun
-veadjetmeahttun
-veadnái
-veagaheapme
-veahkat
-veahkaválddálaš
-veahkiheapme
-veahkkái
-veahkkálas
-veahtas
-veaidaláđas
-veaiki
-veaittalas
-veaittalis
-veajitmeahttun
-veajuheapme
-vealččas
-vealggeheapme
-vealggiheapme
-vealgugas
-vealtameahttun
-veanzzas
-veara
-veardásaš
-vearddeheapme
-vearddiheapme
-veardidangelbbolaš
-vearditmeahttun
-vearjjoheapme
-vearjjuheapme
-vearjogeatnegas
-vearjogelbbolaš
-vearoheapme
-vearokeahtes
-vearrái
-vearrasaš
-vearreoahpalaš
-vearri
-vearrioahpalaš
-vearrogeatnegas
-veartasaš
-vearuheapme
-veasttabuš
-vehkkii
-vehttui
-vepsalaš
-vepselaš
-verbála
-vertikálalaš
-viđageardán
-viđageardásaš
-viedni
-viednil
-viehkis
-viehkki
-viepmat
-vierggeheapme
-vierggiheapme
-vieriseatnanlaš
-vierrogiel
-vierrovulggolaš
-vierttos
-viesas
-viessi
-viessil
-vigat
-vigiheapme
-vihkkái
-vihkosaš
-viiddisis
-viidnegierdil
-viidnejuhkki
-viidneváibmil
-viidosaš
-viinnevuloš
-viivvuheapme
-viivvurteapme
-vilddas
-vilddus
-vilgesáissat
-villas
-vilppas
-vilššas
-viŋkilnjuolgat
-violeahtta
-virgái
-virggeheapme
-virggiheapme
-virkui
-virttis
-virtuála
-viso
-visot
-viššalaš
-vissismeahttun
-vistteheapme
-visttiheapme
-visuála
-višuheapme
-vitmat
-vokálaidgaskasaš
-vuddjii
-vuđolaš
-vuktii
-vulgára
-vulkánalaš
-vuobmái
-vuoddjái
-vuoddji
-vuoddjiguovdasaš
-vuoddjul
-vuođđojurddalaš
-vuođđonjuolggaduslaš
-vuođđoskandinávalaš
-vuodjagoalki
-vuodjudanoaivvat
-vuodnái
-vuođoheapme
-vuođuheapme
-vuogádatlaš
-vuogeheapme
-vuogiheapme
-vuohkkái
-vuohttil
-vuohtus
-vuoiddasaddjái
-vuoigat
-vuoigatlaš
-vuoigatmeahttun
-vuoiggalaš
-vuoiggameahttun
-vuoiggus
-vuoimmalaš
-vuoimmeheapme
-vuoimmiheapme
-vuoitemeahttun
-vuoiti
-vuoitil
-vuoitosihkar
-vuoitteheapme
-vuoittiheapme
-vuoittoheapme
-vuoittuheapme
-vuojaheapme
-vuojuheapme
-vuojus
-vuoksái
-vuoktái
-vuolit
-vuolitárvosaš
-vuollálas
-vuollálasti
-vuolláneaddji
-vuollánmeahttun
-vuolleahkahaš
-vuolleahkáhaš
-vuolleahkásaš
-vuolleárvosaš
-vuollegaš
-vuollis
-vuonabuš
-vuoŋis
-vuonjas
-vuopmat
-vuorddálmas
-vuorddehahtti
-vuordemeahttun
-vuordetmeahttun
-vuordevaš
-vuordimeahttun
-vuordnásadahkan
-vuorji
-vuorukeahtes
-vuostáčuožžomeahttun
-vuostálas
-vuostedoaris
-vuostefápmoadversatiiva
-vuostehágolaš
-vuostidoaris
-vuosttašluohkkálaš
-vuosttašriegádan
-vuotnaheapme
-vuotnalaš
-vuovdái
-vuovdi
-vuovdnái
-vuovssaheapme
-vurrolas
-økonomálaš
+ábas	ábas	+?
+ábirávkkas	ábirávkkas	+?
+abmejeaddji	abmejeaddji	+?
+áboheapme	áboheapme	+?
+absoluhtalaš	absoluhtalaš	+?
+absoluhtta	absoluhtta	+?
+abstrákta	abstrákta	+?
+absurda	absurda	+?
+ábuheapme	ábuheapme	+?
+accagas	accagas	+?
+áđabuš	áđabuš	+?
+ađaheapme	ađaheapme	+?
+áđat	áđat	+?
+ađđái	ađđái	+?
+ađđamahtes	ađđamahtes	+?
+áddehahtti	áddehahtti	+?
+áddejeaddji	áddejeaddji	+?
+áddemeahttun	áddemeahttun	+?
+áddetmeahttun	áddetmeahttun	+?
+addevaš	addevaš	+?
+áddevaš	áddevaš	+?
+addi	addi	+?
+áddjái	áddjái	+?
+adjektiivvalágan	adjektiivvalágan	+?
+administratiiva	administratiiva	+?
+adversatiiva	adversatiiva	+?
+affektiiva	affektiiva	+?
+aggressiiva	aggressiiva	+?
+agibeaibahá	agibeaibahá	+?
+agibeaibuorre	agibeaibuorre	+?
+agibeaibuorri	agibeaibuorri	+?
+agiheapme	agiheapme	+?
+áhcagas	áhcagas	+?
+áhčeheapme	áhčeheapme	+?
+áhčiheapme	áhčiheapme	+?
+ahkahaš	ahkahaš	+?
+ahkásaš	ahkásaš	+?
+ahkit	ahkit	+?
+ahkkái	ahkkái	+?
+áhpeheapme	áhpeheapme	+?
+áhpiheapme	áhpiheapme	+?
+ahppar	ahppar	+?
+áhppar	áhppar	+?
+áhtis	áhtis	+?
+áibmadas	áibmadas	+?
+áibmagas	áibmagas	+?
+áibmodivttis	áibmodivttis	+?
+áicavaš	áicavaš	+?
+áiccalmas	áiccalmas	+?
+áicemeahtton	áicemeahtton	+?
+áicemeahttun	áicemeahttun	+?
+áiceš	áiceš	+?
+áicil	áicil	+?
+áidalas	áidalas	+?
+aiddolaš	aiddolaš	+?
+áidelas	áidelas	+?
+áidna	áidna	+?
+áidnalunddot	áidnalunddot	+?
+áidnoriegádan	áidnoriegádan	+?
+áidnu	áidnu	+?
+áidonkeahtes	áidonkeahtes	+?
+áigadas	áigadas	+?
+áigahaš	áigahaš	+?
+áigáiheivvolaš	áigáiheivvolaš	+?
+áigasaš	áigasaš	+?
+áigeguovdil	áigeguovdil	+?
+áigesoahppil	áigesoahppil	+?
+áiggaš	áiggaš	+?
+áiggáš	áiggáš	+?
+áiggeheapme	áiggeheapme	+?
+áiggiheapme	áiggiheapme	+?
+áigodatlaš	áigodatlaš	+?
+áitatvuloš	áitatvuloš	+?
+áitil	áitil	+?
+aitosaš	aitosaš	+?
+áitosaš	áitosaš	+?
+áivan	áivan	+?
+akademalaš	akademalaš	+?
+akademihkalaš	akademihkalaš	+?
+akkusatiivahápmásaš	akkusatiivahápmásaš	+?
+akromáhtalaš	akromáhtalaš	+?
+aktalaš	aktalaš	+?
+áktánas	áktánas	+?
+aktasaš	aktasaš	+?
+aktiiva	aktiiva	+?
+aktilaš	aktilaš	+?
+aktonas	aktonas	+?
+aktoráđálaš	aktoráđálaš	+?
+akusttalaš	akusttalaš	+?
+ákusttalaš	ákusttalaš	+?
+ákvahtalaš	ákvahtalaš	+?
+akváhtalaš	akváhtalaš	+?
+álás	álás	+?
+álbaniektu	álbaniektu	+?
+álbmái	álbmái	+?
+álbmogiidgaskasaš	álbmogiidgaskasaš	+?
+álbmotlaš	álbmotlaš	+?
+álbmotrievttalaš	álbmotrievttalaš	+?
+álbmotválddálaš	álbmotválddálaš	+?
+alfabehtalaš	alfabehtalaš	+?
+alfanumeralaš	alfanumeralaš	+?
+álgoálgosaš	álgoálgosaš	+?
+álgosaš	álgosaš	+?
+álgoskandinávalaš	álgoskandinávalaš	+?
+álgovuolggalaš	álgovuolggalaš	+?
+álgovurrosaš	álgovurrosaš	+?
+alit	alit	+?
+alitlágáš	alitlágáš	+?
+alitruoksat	alitruoksat	+?
+alitvielgat	alitvielgat	+?
+álkkes	álkkes	+?
+allaáiggálaš	allaáiggálaš	+?
+allaárvosaš	allaárvosaš	+?
+alladássásaš	alladássásaš	+?
+alladávttálaš	alladávttálaš	+?
+allalágan	allalágan	+?
+allaseđolaš	allaseđolaš	+?
+allat	allat	+?
+allegoralaš	allegoralaš	+?
+allegorálaš	allegorálaš	+?
+allegoriijalaš	allegoriijalaš	+?
+allosaš	allosaš	+?
+alluvialaš	alluvialaš	+?
+almennetlágan	almennetlágan	+?
+almennetlágán	almennetlágán	+?
+almmáilaš	almmáilaš	+?
+almmáiváibmil	almmáiváibmil	+?
+álmmeheapme	álmmeheapme	+?
+álmmiheapme	álmmiheapme	+?
+almmosrievttálaš	almmosrievttálaš	+?
+almmus	almmus	+?
+alolaš	alolaš	+?
+álolaš	álolaš	+?
+áloruonas	áloruonas	+?
+alpin	alpin	+?
+alternatiiva	alternatiiva	+?
+alvvaheapme	alvvaheapme	+?
+alvvus	alvvus	+?
+amasgiel	amasgiel	+?
+amerihkálaš	amerihkálaš	+?
+ámmátsuorgái	ámmátsuorgái	+?
+amorálalaš	amorálalaš	+?
+analogalaš	analogalaš	+?
+analogiijalaš	analogiijalaš	+?
+analyhtalaš	analyhtalaš	+?
+anatomalaš	anatomalaš	+?
+ándagassiiaddemeahttun	ándagassiiaddemeahttun	+?
+ándagassiiaddimeahttun	ándagassiiaddimeahttun	+?
+anemalaš	anemalaš	+?
+anemiijalaš	anemiijalaš	+?
+áŋgir	áŋgir	+?
+anglosáksilaš	anglosáksilaš	+?
+anihahtti	anihahtti	+?
+animálalaš	animálalaš	+?
+anonyma	anonyma	+?
+ánssášmeahttun	ánssášmeahttun	+?
+antárktalaš	antárktalaš	+?
+ántárktalaš	ántárktalaš	+?
+antihkalaš	antihkalaš	+?
+ántihkalaš	ántihkalaš	+?
+antiokialaš	antiokialaš	+?
+antirasistalaš	antirasistalaš	+?
+antirasisttalaš	antirasisttalaš	+?
+antisipatiiva	antisipatiiva	+?
+antisosiála	antisosiála	+?
+antropologalaš	antropologalaš	+?
+anuheapme	anuheapme	+?
+apostovllalaš	apostovllalaš	+?
+arábalaš	arábalaš	+?
+arábialaš	arábialaš	+?
+árbbeheapme	árbbeheapme	+?
+árbbiheapme	árbbiheapme	+?
+árbevirolaš	árbevirolaš	+?
+árbevuoiggalaš	árbevuoiggalaš	+?
+árbmugas	árbmugas	+?
+areála	areála	+?
+árggebuš	árggebuš	+?
+árgi	árgi	+?
+árjjaheapme	árjjaheapme	+?
+árjjalaš	árjjalaš	+?
+árjjálaš	árjjálaš	+?
+árjjeheapme	árjjeheapme	+?
+árjjiheapme	árjjiheapme	+?
+arkeologalaš	arkeologalaš	+?
+arkeologálaš	arkeologálaš	+?
+árki	árki	+?
+árktalaš	árktalaš	+?
+arktálaš	arktálaš	+?
+arktihkalaš	arktihkalaš	+?
+árpmitmeahttun	árpmitmeahttun	+?
+árpmoheapme	árpmoheapme	+?
+árpmuheapme	árpmuheapme	+?
+árrat	árrat	+?
+ártet	ártet	+?
+artikulatoralaš	artikulatoralaš	+?
+arvil	arvil	+?
+árvitmeahttun	árvitmeahttun	+?
+árvugas	árvugas	+?
+arvvaheapme	arvvaheapme	+?
+arvvoheapme	arvvoheapme	+?
+árvvoheapme	árvvoheapme	+?
+arvvuheapme	arvvuheapme	+?
+árvvuheapme	árvvuheapme	+?
+asehaš	asehaš	+?
+aseheapme	aseheapme	+?
+asfáltái	asfáltái	+?
+asiáhtalaš	asiáhtalaš	+?
+asihaš	asihaš	+?
+asiheapme	asiheapme	+?
+askehtalaš	askehtalaš	+?
+áskkas	áskkas	+?
+aspektuála	aspektuála	+?
+ásppas	ásppas	+?
+assái	assái	+?
+áššáigullevaš	áššáigullevaš	+?
+áššáiguoskevaš	áššáiguoskevaš	+?
+áššáiosolaš	áššáiosolaš	+?
+ássameahttun	ássameahttun	+?
+áššeguoskekeahtes	áššeguoskekeahtes	+?
+áššeguoskevaš	áššeguoskevaš	+?
+áššeheapme	áššeheapme	+?
+áššiheapme	áššiheapme	+?
+assosaš	assosaš	+?
+astil	astil	+?
+astmáhtalaš	astmáhtalaš	+?
+ásttas	ásttas	+?
+asttuheapme	asttuheapme	+?
+asyndehtalaš	asyndehtalaš	+?
+atelihkalaš	atelihkalaš	+?
+áŧesmielalaš	áŧesmielalaš	+?
+atnemeahttun	atnemeahttun	+?
+atnimeahttun	atnimeahttun	+?
+atninláiki	atninláiki	+?
+atomagevolaš	atomagevolaš	+?
+audiovisuála	audiovisuála	+?
+auditiiva	auditiiva	+?
+auditiivvalaš	auditiivvalaš	+?
+augsburgalaš	augsburgalaš	+?
+austrálalaš	austrálalaš	+?
+austrálialaš	austrálialaš	+?
+auteanttalaš	auteanttalaš	+?
+autenttalaš	autenttalaš	+?
+automahtalaš	automahtalaš	+?
+automáhtalaš	automáhtalaš	+?
+automatiiva	automatiiva	+?
+autonomalaš	autonomalaš	+?
+autoratiiva	autoratiiva	+?
+autoritatiiva	autoritatiiva	+?
+autosemánttalaš	autosemánttalaš	+?
+ávda	ávda	+?
+ávdái	ávdái	+?
+ávddaheapme	ávddaheapme	+?
+ávdin	ávdin	+?
+ávdugas	ávdugas	+?
+ávdugasmeahttun	ávdugasmeahttun	+?
+ávgat	ávgat	+?
+ávjjas	ávjjas	+?
+ávjjeheapme	ávjjeheapme	+?
+ávjjiheapme	ávjjiheapme	+?
+ávjjoheapme	ávjjoheapme	+?
+ávjosaš	ávjosaš	+?
+ávkkeheapme	ávkkeheapme	+?
+ávkkiheapme	ávkkiheapme	+?
+ávnnasguovdasaš	ávnnasguovdasaš	+?
+ávnnaslaš	ávnnaslaš	+?
+ávvirheapme	ávvirheapme	+?
+ávvirmeahttun	ávvirmeahttun	+?
+aziheapme	aziheapme	+?
+azuheapme	azuheapme	+?
+bábirlágan	bábirlágan	+?
+babylonalaš	babylonalaš	+?
+báddebahá	báddebahá	+?
+báddekerámalaš	báddekerámalaš	+?
+báddekeramihkalaš	báddekeramihkalaš	+?
+báddelodji	báddelodji	+?
+báddibahá	báddibahá	+?
+báddilodji	báddilodji	+?
+badjálas	badjálas	+?
+badjáneaddji	badjáneaddji	+?
+badjelbeassameahttun	badjelbeassameahttun	+?
+badjeleatnanlaš	badjeleatnanlaš	+?
+badjelfámolaš	badjelfámolaš	+?
+badjelgeahčahahtti	badjelgeahčahahtti	+?
+badjelhearki	badjelhearki	+?
+badjeliiluohtehahtti	badjeliiluohtehahtti	+?
+badjeljagáš	badjeljagáš	+?
+badjellunddolaš	badjellunddolaš	+?
+badjelmearálaš	badjelmearálaš	+?
+badjelmielat	badjelmielat	+?
+badjilbeassameahttun	badjilbeassameahttun	+?
+badjilgeahčahahtti	badjilgeahčahahtti	+?
+badjilhearki	badjilhearki	+?
+badjiliiluohtihahtti	badjiliiluohtihahtti	+?
+badjilmanni	badjilmanni	+?
+badjilmielat	badjilmielat	+?
+bádnái	bádnái	+?
+bággobargogeatnegas	bággobargogeatnegas	+?
+bággolonistanlágan	bággolonistanlágan	+?
+bággolonistanlágán	bággolonistanlágán	+?
+bahábeakkálmas	bahábeakkálmas	+?
+bahádáhtolaš	bahádáhtolaš	+?
+bahálunddot	bahálunddot	+?
+bahámielat	bahámielat	+?
+bahánálat	bahánálat	+?
+baháneahkkán	baháneahkkán	+?
+bahánihkkán	bahánihkkán	+?
+bahča	bahča	+?
+bahkat	bahkat	+?
+báhkinlaš	báhkinlaš	+?
+báhpárlágan	báhpárlágan	+?
+báidnemeahttun	báidnemeahttun	+?
+báidnimeahttun	báidnimeahttun	+?
+báikkalaš	báikkalaš	+?
+báikkolaš	báikkolaš	+?
+báissas	báissas	+?
+báitevaš	báitevaš	+?
+bajáš	bajáš	+?
+bajásráhkadeaddji	bajásráhkadeaddji	+?
+bajilduslaš	bajilduslaš	+?
+bajit	bajit	+?
+bajitdási	bajitdási	+?
+bakkas	bakkas	+?
+báktefágalaš	báktefágalaš	+?
+báktelágan	báktelágan	+?
+balahahtti	balahahtti	+?
+báldalas	báldalas	+?
+bálddalas	bálddalas	+?
+balddehahtti	balddehahtti	+?
+balddihahtti	balddihahtti	+?
+baleš	baleš	+?
+bálgáheapme	bálgáheapme	+?
+bálggesprojektionála	bálggesprojektionála	+?
+bálggisčuolli	bálggisčuolli	+?
+báljis	báljis	+?
+bállas	bállas	+?
+ballevaš	ballevaš	+?
+bállir	bállir	+?
+bálloheapme	bálloheapme	+?
+balsái	balsái	+?
+baltalaš	baltalaš	+?
+báltalaš	báltalaš	+?
+baluheapme	baluheapme	+?
+balvái	balvái	+?
+báneheapme	báneheapme	+?
+bániheapme	bániheapme	+?
+bánžžas	bánžžas	+?
+báraheapme	báraheapme	+?
+báráhisstávval	báráhisstávval	+?
+báralaš	báralaš	+?
+barbáralaš	barbáralaš	+?
+bárbáralaš	bárbáralaš	+?
+barffas	barffas	+?
+barggeš	barggeš	+?
+bargguheapme	bargguheapme	+?
+barggukeahtes	barggukeahtes	+?
+bargofápmopolitihkalaš	bargofápmopolitihkalaš	+?
+bargogeatnegas	bargogeatnegas	+?
+bargonávccaheapme	bargonávccaheapme	+?
+bargonávccalaš	bargonávccalaš	+?
+báris	báris	+?
+bárrahaš	bárrahaš	+?
+bárrastávval	bárrastávval	+?
+bárššas	bárššas	+?
+bárulágan	bárulágan	+?
+bás	bás	+?
+basakeat	basakeat	+?
+basiheapme	basiheapme	+?
+baskalaš	baskalaš	+?
+bassi	bassi	+?
+bastteheapme	bastteheapme	+?
+basttiheapme	basttiheapme	+?
+basttoheapme	basttoheapme	+?
+báttas	báttas	+?
+bávččasteaddji	bávččasteaddji	+?
+bázahaddan	bázahaddan	+?
+bázahallan	bázahallan	+?
+bážas	bážas	+?
+bážehahtti	bážehahtti	+?
+bážekeat	bážekeat	+?
+bažihahtti	bažihahtti	+?
+bážihahtti	bážihahtti	+?
+beahttemeahttun	beahttemeahttun	+?
+beahttimeahttun	beahttimeahttun	+?
+beailasaš	beailasaš	+?
+beaivejaŋas	beaivejaŋas	+?
+beaivvisealvi	beaivvisealvi	+?
+beakkálmas	beakkálmas	+?
+beakkán	beakkán	+?
+beaktilmeahttun	beaktilmeahttun	+?
+bealát	bealát	+?
+bealátkeahtes	bealátkeahtes	+?
+bealeheapme	bealeheapme	+?
+bealiheapme	bealiheapme	+?
+bealjeheapme	bealjeheapme	+?
+bealjiheapme	bealjiheapme	+?
+beallalas	beallalas	+?
+bealleálás	bealleálás	+?
+bealleatno	bealleatno	+?
+beallečujolaš	beallečujolaš	+?
+beallečuoddjil	beallečuoddjil	+?
+bealleheat	bealleheat	+?
+beallešaddi	beallešaddi	+?
+beallevirggálaš	beallevirggálaš	+?
+beallevuddjii	beallevuddjii	+?
+beallibuoidi	beallibuoidi	+?
+beallišaddi	beallišaddi	+?
+beanaheapme	beanaheapme	+?
+beanttis	beanttis	+?
+bearas	bearas	+?
+bearrašguovdasaš	bearrašguovdasaš	+?
+beasakeat	beasakeat	+?
+beasseheapme	beasseheapme	+?
+beassiheapme	beassiheapme	+?
+beatnagahtes	beatnagahtes	+?
+beatnatlágan	beatnatlágan	+?
+beatnatlágán	beatnatlágán	+?
+beavkkas	beavkkas	+?
+bellolas	bellolas	+?
+benjaminlaš	benjaminlaš	+?
+berošmeahttun	berošmeahttun	+?
+beroštahtti	beroštahtti	+?
+berosteaddji	berosteaddji	+?
+berošteaddji	berošteaddji	+?
+bestiálalaš	bestiálalaš	+?
+bieđđu	bieđđu	+?
+bieđggus	bieđggus	+?
+bieđut	bieđut	+?
+biehčamahtes	biehčamahtes	+?
+biehtalkeahtes	biehtalkeahtes	+?
+biekkus	biekkus	+?
+bielloheapme	bielloheapme	+?
+biellui	biellui	+?
+bierffas	bierffas	+?
+bierggasmeahttun	bierggasmeahttun	+?
+bierggošlái-	bierggošlái-	+?
+bievllus	bievllus	+?
+bihkaheapme	bihkaheapme	+?
+bihkkái	bihkkái	+?
+bihttil	bihttil	+?
+biikái	biikái	+?
+bikŋaleaddjái	bikŋaleaddjái	+?
+biktaseaddjái	biktaseaddjái	+?
+biktil	biktil	+?
+bilabiála	bilabiála	+?
+bilaterála	bilaterála	+?
+biljas	biljas	+?
+bilttas	bilttas	+?
+binára	binára	+?
+binddeheapme	binddeheapme	+?
+binddiheapme	binddiheapme	+?
+binddoheapme	binddoheapme	+?
+bindil	bindil	+?
+binjas	binjas	+?
+biográfalaš	biográfalaš	+?
+biologalaš	biologalaš	+?
+biologálaš	biologálaš	+?
+birasdihtomielalaš	birasdihtomielalaš	+?
+birgehahtti	birgehahtti	+?
+birgemeahttun	birgemeahttun	+?
+birgetmeahttun	birgetmeahttun	+?
+birolaš	birolaš	+?
+birppas	birppas	+?
+birrajagáš	birrajagáš	+?
+birrajahkásaš	birrajahkásaš	+?
+birzzas	birzzas	+?
+birzzehas	birzzehas	+?
+biškat	biškat	+?
+bisovaš	bisovaš	+?
+bissomeahttun	bissomeahttun	+?
+bissovaš	bissovaš	+?
+bistevaš	bistevaš	+?
+bistil	bistil	+?
+bistteheapme	bistteheapme	+?
+bisttiheapme	bisttiheapme	+?
+bisttoheapme	bisttoheapme	+?
+bisttuheapme	bisttuheapme	+?
+bivahahtti	bivahahtti	+?
+bivaheapme	bivaheapme	+?
+bivddehahtti	bivddehahtti	+?
+bivddihahtti	bivddihahtti	+?
+bivdduheapme	bivdduheapme	+?
+bivnnuheapme	bivnnuheapme	+?
+bivnnut	bivnnut	+?
+bivššas	bivššas	+?
+bivvil	bivvil	+?
+bivzzehas	bivzzehas	+?
+boaddit	boaddit	+?
+boađuskeahtes	boađuskeahtes	+?
+boagustahtti	boagustahtti	+?
+boahkas	boahkas	+?
+boahkis	boahkis	+?
+boahtte	boahtte	+?
+boahtteáigásaš	boahtteáigásaš	+?
+boahttevaš	boahttevaš	+?
+boahttil	boahttil	+?
+boaittobeal	boaittobeal	+?
+boakkas	boakkas	+?
+boalbbas	boalbbas	+?
+boalččas	boalččas	+?
+boalddehahtti	boalddehahtti	+?
+boalddihahtti	boalddihahtti	+?
+boaldevaš	boaldevaš	+?
+boandái	boandái	+?
+boaresáigásaš	boaresáigásaš	+?
+boareslágan	boareslágan	+?
+boareslágán	boareslágán	+?
+boaresmállesaš	boaresmállesaš	+?
+boargil	boargil	+?
+boarka	boarka	+?
+boaššumus	boaššumus	+?
+boastto	boastto	+?
+boasttooinnolaš	boasttooinnolaš	+?
+boasttu	boasttu	+?
+boatkanmeahttun	boatkanmeahttun	+?
+boatkatmeahttun	boatkatmeahttun	+?
+boatkkaheapme	boatkkaheapme	+?
+boatkkakeahtes	boatkkakeahtes	+?
+boazoheapme	boazoheapme	+?
+boazojeaddjái	boazojeaddjái	+?
+bođđehahtti	bođđehahtti	+?
+boddosaš	boddosaš	+?
+bohccilágan	bohccilágan	+?
+bohccilágán	bohccilágán	+?
+bohtas	bohtas	+?
+boisbotneheapme	boisbotneheapme	+?
+boisbotniheapme	boisbotniheapme	+?
+bokkas	bokkas	+?
+bolffas	bolffas	+?
+bollui	bollui	+?
+bolttokeat	bolttokeat	+?
+bonju	bonju	+?
+borahahtti	borahahtti	+?
+boranas	boranas	+?
+boreála	boreála	+?
+borggas	borggas	+?
+borril	borril	+?
+boruheapme	boruheapme	+?
+bostta	bostta	+?
+botkái	botkái	+?
+botkkas	botkkas	+?
+botneheapme	botneheapme	+?
+botniheapme	botniheapme	+?
+bovdnái	bovdnái	+?
+brihtalaš	brihtalaš	+?
+brihttalaš	brihttalaš	+?
+buddásaš	buddásaš	+?
+bugo	bugo	+?
+buhtadusgeatnegas	buhtadusgeatnegas	+?
+buhtesoahpalaš	buhtesoahpalaš	+?
+buhtis	buhtis	+?
+buhtismeahttun	buhtismeahttun	+?
+buiccas	buiccas	+?
+buiga	buiga	+?
+bukkas	bukkas	+?
+buktevaš	buktevaš	+?
+bulddas	bulddas	+?
+buleš	buleš	+?
+bulffas	bulffas	+?
+buljas	buljas	+?
+bullas	bullas	+?
+bullječalmmat	bullječalmmat	+?
+bulljičalmmat	bulljičalmmat	+?
+bulssas	bulssas	+?
+bunccas	bunccas	+?
+buohkanas	buohkanas	+?
+buohtalas	buohtalas	+?
+buoiddeheapme	buoiddeheapme	+?
+buoiddiheapme	buoiddiheapme	+?
+buolaheapme	buolaheapme	+?
+buolaš	buolaš	+?
+buolašjaŋas	buolašjaŋas	+?
+buoleheapme	buoleheapme	+?
+buoliheapme	buoliheapme	+?
+buollán	buollán	+?
+buollevaš	buollevaš	+?
+buoloheapme	buoloheapme	+?
+buolvvat	buolvvat	+?
+buolžái	buolžái	+?
+buoŋis	buoŋis	+?
+buore	buore	+?
+buorggos	buorggos	+?
+buoritmeahttun	buoritmeahttun	+?
+buorránmeahttun	buorránmeahttun	+?
+buorredábálaš	buorredábálaš	+?
+buorredáhtolaš	buorredáhtolaš	+?
+buorredohkálaš	buorredohkálaš	+?
+buorrelágan	buorrelágan	+?
+buorrelágán	buorrelágán	+?
+buorremenolaš	buorremenolaš	+?
+buorremielalaš	buorremielalaš	+?
+buorrendoalli	buorrendoalli	+?
+buorreoskkolaš	buorreoskkolaš	+?
+buorrindoalli	buorrindoalli	+?
+buotbeallásaš	buotbeallásaš	+?
+buotborri	buotborri	+?
+buotdiđolaš	buotdiđolaš	+?
+buotdiehtti	buotdiehtti	+?
+buotguoskevaš	buotguoskevaš	+?
+buotlágan	buotlágan	+?
+buotlágán	buotlágán	+?
+buotlágáš	buotlágáš	+?
+buotoaidnevaš	buotoaidnevaš	+?
+buotveagalaš	buotveagalaš	+?
+buozas	buozas	+?
+buresbirgejeaddji	buresbirgejeaddji	+?
+burššas	burššas	+?
+buškkas	buškkas	+?
+byrokráhtalaš	byrokráhtalaš	+?
+čábba	čábba	+?
+čabo	čabo	+?
+čabu	čabu	+?
+čađačalmmat	čađačalmmat	+?
+čađačuovgameahttun	čađačuovgameahttun	+?
+čađačuovgi	čađačuovgi	+?
+čádjidahtti	čádjidahtti	+?
+čadnivaš	čadnivaš	+?
+čaffat	čaffat	+?
+caggameahttun	caggameahttun	+?
+caggasmeahttun	caggasmeahttun	+?
+čáhccái	čáhccái	+?
+čáhcedoallalas	čáhcedoallalas	+?
+čáhcejeahkki	čáhcejeahkki	+?
+čáhcevuoigatvuođalaš	čáhcevuoigatvuođalaš	+?
+čáhcijeahkki	čáhcijeahkki	+?
+čahkas	čahkas	+?
+čáhket	čáhket	+?
+čáhkit	čáhkit	+?
+čáhkitmeahttun	čáhkitmeahttun	+?
+čáhkkejeaddji	čáhkkejeaddji	+?
+čáhkkengeatnegas	čáhkkengeatnegas	+?
+cahkkil	cahkkil	+?
+čáhkkil	čáhkkil	+?
+čáhppesvielgat	čáhppesvielgat	+?
+čáhppes-vielgat	čáhppes-vielgat	+?
+cáiccas	cáiccas	+?
+čaimmahahtti	čaimmahahtti	+?
+čájeheaddji	čájeheaddji	+?
+čájiheaddji	čájiheaddji	+?
+čakčasaš	čakčasaš	+?
+čakčaseavdnjat	čakčaseavdnjat	+?
+cakkadeaddji	cakkadeaddji	+?
+čálakeahtes	čálakeahtes	+?
+čálalaš	čálalaš	+?
+čálaoahppavaš	čálaoahppavaš	+?
+čalas	čalas	+?
+čalbmáičuohcci	čalbmáičuohcci	+?
+čalbmetbeal	čalbmetbeal	+?
+čálekeat	čálekeat	+?
+čalgatmeahttun	čalgatmeahttun	+?
+čálggas	čálggas	+?
+čálgil	čálgil	+?
+čalmmeheapme	čalmmeheapme	+?
+čalmmiheapme	čalmmiheapme	+?
+čalmmus	čalmmus	+?
+čáŋaheapme	čáŋaheapme	+?
+čáppagirjjálaš	čáppagirjjálaš	+?
+čáppat	čáppat	+?
+čáppis	čáppis	+?
+čargálaš	čargálaš	+?
+čártnas	čártnas	+?
+čáskameahttun	čáskameahttun	+?
+čáskil	čáskil	+?
+čatnasmeahttun	čatnasmeahttun	+?
+čázas	čázas	+?
+čázeheapme	čázeheapme	+?
+čázevuloš	čázevuloš	+?
+čáziheapme	čáziheapme	+?
+ceaggái	ceaggái	+?
+čeahkit	čeahkit	+?
+ceahkkálas	ceahkkálas	+?
+čeahpálas	čeahpálas	+?
+ceaikkas	ceaikkas	+?
+ceakkonjuolgat	ceakkonjuolgat	+?
+ceakkus	ceakkus	+?
+čeakŋas	čeakŋas	+?
+čeaktu	čeaktu	+?
+cealkemeahttun	cealkemeahttun	+?
+cealkimeahttun	cealkimeahttun	+?
+čearddalaš	čearddalaš	+?
+čearggus	čearggus	+?
+čearssas	čearssas	+?
+čeaskat	čeaskat	+?
+čeavlái	čeavlái	+?
+čeavžeballalas	čeavžeballalas	+?
+čeavžebalolaš	čeavžebalolaš	+?
+ceavzil	ceavzil	+?
+čemihkalaš	čemihkalaš	+?
+čibmái	čibmái	+?
+čidnái	čidnái	+?
+čiegus	čiegus	+?
+čiehkaraddjái	čiehkaraddjái	+?
+čiekŋaliimanni	čiekŋaliimanni	+?
+čiekŋudeaddji	čiekŋudeaddji	+?
+čielgelámis	čielgelámis	+?
+čielggasmeahttun	čielggasmeahttun	+?
+čielggeheapme	čielggeheapme	+?
+čielggus	čielggus	+?
+čieŋal	čieŋal	+?
+čiergálas	čiergálas	+?
+čierohahtti	čierohahtti	+?
+čierrus	čierrus	+?
+čievrái	čievrái	+?
+čigŋái	čigŋái	+?
+čikŋosaš	čikŋosaš	+?
+čilgemeahttun	čilgemeahttun	+?
+čillas	čillas	+?
+čilssas	čilssas	+?
+čilvvas	čilvvas	+?
+čimaheapme	čimaheapme	+?
+cirkkas	cirkkas	+?
+čirssas	čirssas	+?
+čivhllas	čivhllas	+?
+civnna	civnna	+?
+čivrra	čivrra	+?
+civzza	civzza	+?
+coagis	coagis	+?
+čoahkkat	čoahkkat	+?
+čoalččas	čoalččas	+?
+čoaleheapme	čoaleheapme	+?
+čoaliheapme	čoaliheapme	+?
+čoalttas	čoalttas	+?
+čoaŋkkas	čoaŋkkas	+?
+čoapmas	čoapmas	+?
+čoarvveheapme	čoarvveheapme	+?
+čoarvviheapme	čoarvviheapme	+?
+čoasus	čoasus	+?
+čoavdemeahttun	čoavdemeahttun	+?
+čoavdimeahttun	čoavdimeahttun	+?
+čoavjjeheapme	čoavjjeheapme	+?
+čoavjjiheapme	čoavjjiheapme	+?
+coazzi	coazzi	+?
+čogas	čogas	+?
+cohcas	cohcas	+?
+collas	collas	+?
+coola	coola	+?
+čorgatmeahttun	čorgatmeahttun	+?
+čortnas	čortnas	+?
+čoskái	čoskái	+?
+cuippas	cuippas	+?
+čujolaš	čujolaš	+?
+cuoccaheapme	cuoccaheapme	+?
+cuoccas	cuoccas	+?
+čuoddjil	čuoddjil	+?
+čuođemat	čuođemat	+?
+čuođigeardásaš	čuođigeardásaš	+?
+čuođijahkásaš	čuođijahkásaš	+?
+čuođiproseantasaš	čuođiproseantasaš	+?
+cuohppái	cuohppái	+?
+čuohppil	čuohppil	+?
+čuohtebuddásaš	čuohtebuddásaš	+?
+čuohtegeardásaš	čuohtegeardásaš	+?
+čuohtejahkásaš	čuohtejahkásaš	+?
+čuohteruvdnosaš	čuohteruvdnosaš	+?
+čuoikái	čuoikái	+?
+čuojaheapme	čuojaheapme	+?
+čuojoheapme	čuojoheapme	+?
+čuolmmaheapme	čuolmmaheapme	+?
+čuoris	čuoris	+?
+čuovggaheapme	čuovggaheapme	+?
+čuovggus	čuovggus	+?
+čuovjat	čuovjat	+?
+čuovvovaš	čuovvovaš	+?
+čuožžovaš	čuožžovaš	+?
+curpmas	curpmas	+?
+čurttas	čurttas	+?
+čuvgesfiskat	čuvgesfiskat	+?
+čuvgesruoksat	čuvgesruoksat	+?
+čuvgetmeahttun	čuvgetmeahttun	+?
+cuvkemeahttun	cuvkemeahttun	+?
+cuvzzas	cuvzzas	+?
+dábálašoahpaheaddji	dábálašoahpaheaddji	+?
+dábeheapme	dábeheapme	+?
+dábiheapme	dábiheapme	+?
+dáđas	dáđas	+?
+dáddjil	dáddjil	+?
+dáđggis	dáđggis	+?
+dádjagaš	dádjagaš	+?
+dáhpalaš	dáhpalaš	+?
+dáhpemeahttun	dáhpemeahttun	+?
+dáhtuheapme	dáhtuheapme	+?
+dáidduheapme	dáidduheapme	+?
+dáidemeahttun	dáidemeahttun	+?
+dáidimeahttun	dáidimeahttun	+?
+dáiggas	dáiggas	+?
+dáktái	dáktái	+?
+dalá	dalá	+?
+dálá	dálá	+?
+daláš	daláš	+?
+dalgat	dalgat	+?
+dálkkasdieđalaš	dálkkasdieđalaš	+?
+dálkkaslaš	dálkkaslaš	+?
+dalloš	dalloš	+?
+dálsái	dálsái	+?
+dáluhas	dáluhas	+?
+dálvásaš	dálvásaš	+?
+dálvvas	dálvvas	+?
+dámakeat	dámakeat	+?
+dánáigásaš	dánáigásaš	+?
+dánháváš	dánháváš	+?
+dánjagáš	dánjagáš	+?
+dánlágan	dánlágan	+?
+dannammasaš	dannammasaš	+?
+dánska	dánska	+?
+dánskalaš	dánskalaš	+?
+dánska-norgga	dánska-norgga	+?
+danšlái	danšlái	+?
+dánsullasaš	dánsullasaš	+?
+danveardásaš	danveardásaš	+?
+dárbbašlaš	dárbbašlaš	+?
+dárbbašmeahttun	dárbbašmeahttun	+?
+dárbbuheapme	dárbbuheapme	+?
+dárjil	dárjil	+?
+dárjjaheapme	dárjjaheapme	+?
+dárjjoheapme	dárjjoheapme	+?
+dárki	dárki	+?
+dárkilmeahttun	dárkilmeahttun	+?
+dárogiel	dárogiel	+?
+dárogielalaš	dárogielalaš	+?
+dárogielat	dárogielat	+?
+dárrolaš	dárrolaš	+?
+dárssas	dárssas	+?
+darvvas	darvvas	+?
+dáseheapme	dáseheapme	+?
+dásiheapme	dásiheapme	+?
+daškat	daškat	+?
+dássálas	dássálas	+?
+dassáš	dassáš	+?
+dássáš	dássáš	+?
+dásseárvosaš	dásseárvosaš	+?
+dássedeattoheapme	dássedeattoheapme	+?
+dássedeattokeahtes	dássedeattokeahtes	+?
+dássedeattukeahtes	dássedeattukeahtes	+?
+dássedettolaš	dássedettolaš	+?
+dássegilggat	dássegilggat	+?
+dássejuolggat	dássejuolggat	+?
+dásseliekkas	dásseliekkas	+?
+dásseravddat	dásseravddat	+?
+dássesiiddot	dássesiiddot	+?
+dásset	dásset	+?
+dássi-deattoheapme	dássi-deattoheapme	+?
+dássigilggat	dássigilggat	+?
+dássijuolggat	dássijuolggat	+?
+dássiravddat	dássiravddat	+?
+dássisiiddot	dássisiiddot	+?
+dássit	dássit	+?
+dássitmeahttun	dássitmeahttun	+?
+dáválaš	dáválaš	+?
+dávggas	dávggas	+?
+dávggasmeahttun	dávggasmeahttun	+?
+dávji	dávji	+?
+dávlái	dávlái	+?
+dávŋŋas	dávŋŋas	+?
+davrras	davrras	+?
+dávttas	dávttas	+?
+dávttaskas	dávttaskas	+?
+dávtteheapme	dávtteheapme	+?
+dávttiheapme	dávttiheapme	+?
+davviamerihkálaš	davviamerihkálaš	+?
+davvilaš	davvilaš	+?
+davvinorgalaš	davvinorgalaš	+?
+davviriikkalaš	davviriikkalaš	+?
+davviromsalaš	davviromsalaš	+?
+davvisámegielat	davvisámegielat	+?
+deaddil	deaddil	+?
+deahkeheapme	deahkeheapme	+?
+deahkiheapme	deahkiheapme	+?
+deahtis	deahtis	+?
+deaivil	deaivil	+?
+dearvvas	dearvvas	+?
+dearvvaš	dearvvaš	+?
+dearvvaslaš	dearvvaslaš	+?
+dearvvašlaš	dearvvašlaš	+?
+dearvvašmeahttun	dearvvašmeahttun	+?
+deašši	deašši	+?
+deasttaheapme	deasttaheapme	+?
+deatalaš	deatalaš	+?
+deaŧalaš	deaŧalaš	+?
+deaŧálaš	deaŧálaš	+?
+deatnolaš	deatnolaš	+?
+deatnulaš	deatnulaš	+?
+deattoheapme	deattoheapme	+?
+deavdemeahttun	deavdemeahttun	+?
+deavdimeahttun	deavdimeahttun	+?
+deavis	deavis	+?
+deavkat	deavkat	+?
+deđot	deđot	+?
+definihtta	definihtta	+?
+dehalaš	dehalaš	+?
+dehálaš	dehálaš	+?
+deiktalaš	deiktalaš	+?
+demográfalaš	demográfalaš	+?
+demokráhtalaš	demokráhtalaš	+?
+deonttalaš	deonttalaš	+?
+depressiiva	depressiiva	+?
+derivatiiva	derivatiiva	+?
+deskriptiivalaš	deskriptiivalaš	+?
+destruktiiva	destruktiiva	+?
+detáljalaš	detáljalaš	+?
+deverbála	deverbála	+?
+diagnostalaš	diagnostalaš	+?
+diagonála	diagonála	+?
+diakronalaš	diakronalaš	+?
+dialektála	dialektála	+?
+didákttalaš	didákttalaš	+?
+dieđateorehtalaš	dieđateorehtalaš	+?
+dieđihangeatnegas	dieđihangeatnegas	+?
+dieđuheapme	dieđuheapme	+?
+dieđus	dieđus	+?
+diehpas	diehpas	+?
+diehtemeahttun	diehtemeahttun	+?
+diehtimeahttun	diehtimeahttun	+?
+diehtoáŋgir	diehtoáŋgir	+?
+diehttalas	diehttalas	+?
+diehttelas	diehttelas	+?
+diehttevaš	diehttevaš	+?
+diehttislágan	diehttislágan	+?
+diehttislágán	diehttislágán	+?
+dieiggas	dieiggas	+?
+diekkáraš	diekkáraš	+?
+dielas	dielas	+?
+dielvvis	dielvvis	+?
+diensullasaš	diensullasaš	+?
+dierbi	dierbi	+?
+dievaslaš	dievaslaš	+?
+dievasmeahttun	dievasmeahttun	+?
+dievasválddálaš	dievasválddálaš	+?
+digitála	digitála	+?
+digitálalaš	digitálalaš	+?
+dihto	dihto	+?
+dihtolágan	dihtolágan	+?
+dihtolágán	dihtolágán	+?
+dihtomielalaš	dihtomielalaš	+?
+diibmobeallásaš	diibmobeallásaš	+?
+diibmosaš	diibmosaš	+?
+diidái	diidái	+?
+diihmi	diihmi	+?
+diimmá	diimmá	+?
+diimmádálvváš	diimmádálvváš	+?
+diimmágeasáš	diimmágeasáš	+?
+dikkalčalmmat	dikkalčalmmat	+?
+dikšumeahttun	dikšumeahttun	+?
+dilddas	dilddas	+?
+diliheapme	diliheapme	+?
+dilkui	dilkui	+?
+diplomáhtalaš	diplomáhtalaš	+?
+distrivttapolitihkalaš	distrivttapolitihkalaš	+?
+divas	divas	+?
+divttes	divttes	+?
+doabalaš	doabalaš	+?
+doabmil	doabmil	+?
+doaččis	doaččis	+?
+doadjemeahttun	doadjemeahttun	+?
+doadjimeahttun	doadjimeahttun	+?
+doahppil	doahppil	+?
+doaibmaekonomalaš	doaibmaekonomalaš	+?
+doaibmahehttejuvvon	doaibmahehttejuvvon	+?
+doaibmaváillat	doaibmaváillat	+?
+doaibmevaš	doaibmevaš	+?
+doaimmaheapme	doaimmaheapme	+?
+doaimmahuslaš	doaimmahuslaš	+?
+doaivulas	doaivulas	+?
+doaivvohahtti	doaivvohahtti	+?
+doaivvuheapme	doaivvuheapme	+?
+doalahahtti	doalahahtti	+?
+doallavaš	doallavaš	+?
+doallevaš	doallevaš	+?
+doallil	doallil	+?
+doanda	doanda	+?
+doaŋgat	doaŋgat	+?
+doaŋggas	doaŋggas	+?
+doaŋgi	doaŋgi	+?
+doapmat	doapmat	+?
+doarespolitihkalaš	doarespolitihkalaš	+?
+doarespolitihkkalaš	doarespolitihkkalaš	+?
+doarjaleaddji	doarjaleaddji	+?
+doarssas	doarssas	+?
+doavki	doavki	+?
+doavkkas	doavkkas	+?
+doažžat	doažžat	+?
+doažži	doažži	+?
+dobbelaš	dobbelaš	+?
+dogmáhtalaš	dogmáhtalaš	+?
+dohkkehahtti	dohkkehahtti	+?
+dohkkemeahttun	dohkkemeahttun	+?
+dohkketmeahttun	dohkketmeahttun	+?
+dolá	dolá	+?
+dolaheapme	dolaheapme	+?
+dolbmi	dolbmi	+?
+dolddas	dolddas	+?
+doljas	doljas	+?
+dolkadahtti	dolkadahtti	+?
+dolkkas	dolkkas	+?
+dollaruoksat	dollaruoksat	+?
+dollavulggolaš	dollavulggolaš	+?
+dolos	dolos	+?
+dološáigásaš	dološáigásaš	+?
+dološdárrolaš	dološdárrolaš	+?
+dompil	dompil	+?
+doŋas	doŋas	+?
+dorras	dorras	+?
+dorvvuheapme	dorvvuheapme	+?
+dovdameahttun	dovdameahttun	+?
+dovddalmas	dovddalmas	+?
+dovdduheapme	dovdduheapme	+?
+dovddus	dovddus	+?
+dovdil	dovdil	+?
+dovdomearkkalaš	dovdomearkkalaš	+?
+dovduičuohcci	dovduičuohcci	+?
+dramáhtalaš	dramáhtalaš	+?
+dramatihkalaš	dramatihkalaš	+?
+duđahahtti	duđahahtti	+?
+duđaheapme	duđaheapme	+?
+duđavaš	duđavaš	+?
+duddjojeaddji	duddjojeaddji	+?
+duđuheapme	duđuheapme	+?
+duhátgeardásaš	duhátgeardásaš	+?
+duhtameahttun	duhtameahttun	+?
+duhtatmeahttun	duhtatmeahttun	+?
+duhtavaš	duhtavaš	+?
+duhtávaš	duhtávaš	+?
+duhtivaš	duhtivaš	+?
+duhttivaš	duhttivaš	+?
+duihmi	duihmi	+?
+duippas	duippas	+?
+duiska	duiska	+?
+duiskalaš	duiskalaš	+?
+duiskkalaš	duiskkalaš	+?
+duivvas	duivvas	+?
+dulán	dulán	+?
+dulpegeažat	dulpegeažat	+?
+dulpigeažat	dulpigeažat	+?
+dulppas	dulppas	+?
+dulvvis	dulvvis	+?
+dumpái	dumpái	+?
+dumssas	dumssas	+?
+dumsui	dumsui	+?
+duŋggas	duŋggas	+?
+duobbelaš	duobbelaš	+?
+duođaštuslaš	duođaštuslaš	+?
+duoddil	duoddil	+?
+duoddjái	duoddjái	+?
+duoddomeahttun	duoddomeahttun	+?
+duohkásaš	duohkásaš	+?
+duohpakeahtes	duohpakeahtes	+?
+duohtatmeahttun	duohtatmeahttun	+?
+duojás	duojás	+?
+duojáš	duojáš	+?
+duokkas	duokkas	+?
+duoláš	duoláš	+?
+duolbbas	duolbbas	+?
+duollat	duollat	+?
+duollet	duollet	+?
+duolloheapme	duolloheapme	+?
+duolmmus	duolmmus	+?
+duolvadovdi	duolvadovdi	+?
+duolvil	duolvil	+?
+duorgái	duorgái	+?
+duorššas	duorššas	+?
+duosttaheapme	duosttaheapme	+?
+duosttoheapme	duosttoheapme	+?
+duottaraddjái	duottaraddjái	+?
+dupleaksa	dupleaksa	+?
+duppal	duppal	+?
+duppalgeardásaš	duppalgeardásaš	+?
+durddas	durddas	+?
+durjjas	durjjas	+?
+duskkas	duskkas	+?
+duskkeheapme	duskkeheapme	+?
+duskkiheapme	duskkiheapme	+?
+duššadeaddji	duššadeaddji	+?
+dušši	dušši	+?
+dynamalaš	dynamalaš	+?
+dynámalaš	dynámalaš	+?
+eaddil	eaddil	+?
+eahcálaš	eahcálaš	+?
+eahccil	eahccil	+?
+eahkedis-	eahkedis-	+?
+eahkes-	eahkes-	+?
+eahpeaiddolaš	eahpeaiddolaš	+?
+eahpebassi	eahpebassi	+?
+eahpečuožžovaš	eahpečuožžovaš	+?
+eahpedábálaš	eahpedábálaš	+?
+eahpedárkil	eahpedárkil	+?
+eahpedássit	eahpedássit	+?
+eahpedearvvašlaš	eahpedearvvašlaš	+?
+eahpedievaslaš	eahpedievaslaš	+?
+eahpedohkálaš	eahpedohkálaš	+?
+eahpeduđahahtti	eahpeduđahahtti	+?
+eahpeduhtavaš	eahpeduhtavaš	+?
+eahpeduođalaš	eahpeduođalaš	+?
+eahpeduohta	eahpeduohta	+?
+eahpeformála	eahpeformála	+?
+eahpeformálalaš	eahpeformálalaš	+?
+eahpegáhtavaš	eahpegáhtavaš	+?
+eahpegelbbolaš	eahpegelbbolaš	+?
+eahpegiellaoahpalaš	eahpegiellaoahpalaš	+?
+eahpegorrelaš	eahpegorrelaš	+?
+eahpegovttolaš	eahpegovttolaš	+?
+eahpegulolaš	eahpegulolaš	+?
+eahpeguoktilaš	eahpeguoktilaš	+?
+eahpejáhkehahtti	eahpejáhkehahtti	+?
+eahpekritihkalaš	eahpekritihkalaš	+?
+eahpelihkolaš	eahpelihkolaš	+?
+eahpelogalaš	eahpelogalaš	+?
+eahpelunddolaš	eahpelunddolaš	+?
+eahpeluohtehahtti	eahpeluohtehahtti	+?
+eahpemávssolaš	eahpemávssolaš	+?
+eahpenjuolgat	eahpenjuolgat	+?
+eahpenjuolggaduslaš	eahpenjuolggaduslaš	+?
+eahpenormála	eahpenormála	+?
+eahpeoiddolaš	eahpeoiddolaš	+?
+eahpeoskkolaš	eahpeoskkolaš	+?
+eahpeovttalaš	eahpeovttalaš	+?
+eahpeozolaš	eahpeozolaš	+?
+eahpepolitihkalaš	eahpepolitihkalaš	+?
+eahperealisttalaš	eahperealisttalaš	+?
+eahpe-realisttalaš	eahpe-realisttalaš	+?
+eahperehalaš	eahperehalaš	+?
+eahperehálaš	eahperehálaš	+?
+eahpesegmentálalaš	eahpesegmentálalaš	+?
+eahpesihkar	eahpesihkar	+?
+eahpesihkkar	eahpesihkkar	+?
+eahpestáđis	eahpestáđis	+?
+eahpeustitlaš	eahpeustitlaš	+?
+eahpeveaddji	eahpeveaddji	+?
+eahpevirggálaš	eahpevirggálaš	+?
+eahpevissis	eahpevissis	+?
+eahpevuogálaš	eahpevuogálaš	+?
+eahpevuoiggalaš	eahpevuoiggalaš	+?
+eahpibassi	eahpibassi	+?
+eahpičielggas	eahpičielggas	+?
+eahpidahtti	eahpidahtti	+?
+eahpideaddji	eahpideaddji	+?
+eahpiduđahahtti	eahpiduđahahtti	+?
+eahpigullu	eahpigullu	+?
+eahpijáhkihahtti	eahpijáhkihahtti	+?
+eahpiluohtihahtti	eahpiluohtihahtti	+?
+eahpinormála	eahpinormála	+?
+eahpisealvi	eahpisealvi	+?
+eahpiveaddji	eahpiveaddji	+?
+eahtturuoksat	eahtturuoksat	+?
+eaimmaskas	eaimmaskas	+?
+eaitnaha	eaitnaha	+?
+eakti	eakti	+?
+eaktodáhtolaš	eaktodáhtolaš	+?
+eaktudáhtolaš	eaktudáhtolaš	+?
+ealas	ealas	+?
+ealaskas	ealaskas	+?
+ealihangeatnegas	ealihangeatnegas	+?
+ealit	ealit	+?
+ealjoheapme	ealjoheapme	+?
+eallevaš	eallevaš	+?
+eallinfámolaš	eallinfámolaš	+?
+eallinvulggolaš	eallinvulggolaš	+?
+ealloáŋgir	ealloáŋgir	+?
+ealnnjehas	ealnnjehas	+?
+ealus	ealus	+?
+eambbo	eambbo	+?
+eamiálbmotguoskevaš	eamiálbmotguoskevaš	+?
+eanadieđalaš	eanadieđalaš	+?
+eanadieđálaš	eanadieđálaš	+?
+eanagottálaš	eanagottálaš	+?
+eanalaš	eanalaš	+?
+eanandieđálaš	eanandieđálaš	+?
+eaŋgalas	eaŋgalas	+?
+eaŋgals	eaŋgals	+?
+eaŋkal	eaŋkal	+?
+eaŋkil	eaŋkil	+?
+eannjehas	eannjehas	+?
+earádássásaš	earádássásaš	+?
+earáivdnásaš	earáivdnásaš	+?
+earalágan	earalágan	+?
+earálágan	earálágan	+?
+earalágán	earalágán	+?
+earálágán	earálágán	+?
+earámállet	earámállet	+?
+eareliiggán	eareliiggán	+?
+eareliiggáš	eareliiggáš	+?
+earenoamáš	earenoamáš	+?
+earenomáš	earenomáš	+?
+eartnjehas	eartnjehas	+?
+easkariegádan	easkariegádan	+?
+eassil	eassil	+?
+eastatmeahttun	eastatmeahttun	+?
+easttaheapme	easttaheapme	+?
+eatnandieđalaš	eatnandieđalaš	+?
+eatnanlaš	eatnanlaš	+?
+eatnanvuoles	eatnanvuoles	+?
+eatnatgeardásaš	eatnatgeardásaš	+?
+eatnatlohkosaš	eatnatlohkosaš	+?
+eatneheapme	eatneheapme	+?
+eatniheapme	eatniheapme	+?
+eatnjehas	eatnjehas	+?
+eattas	eattas	+?
+eavas	eavas	+?
+eavttoheapme	eavttoheapme	+?
+eavttuheapme	eavttuheapme	+?
+ebmui	ebmui	+?
+edomlaš	edomlaš	+?
+effektiiva	effektiiva	+?
+egoisttalaš	egoisttalaš	+?
+egyptalaš	egyptalaš	+?
+ehtalaš	ehtalaš	+?
+ekologalaš	ekologalaš	+?
+ekologálaš	ekologálaš	+?
+ekonomalaš	ekonomalaš	+?
+ekonomálaš	ekonomálaš	+?
+ekonomiijapolitihkalaš	ekonomiijapolitihkalaš	+?
+eksklusiiva	eksklusiiva	+?
+eksoforalaš	eksoforalaš	+?
+eksohtalaš	eksohtalaš	+?
+eksosentrihkalaš	eksosentrihkalaš	+?
+eksotihkalaš	eksotihkalaš	+?
+eksperimentála	eksperimentála	+?
+eksplisihtta	eksplisihtta	+?
+ekspressiiva	ekspressiiva	+?
+ekstáhtalaš	ekstáhtalaš	+?
+ekstremisttalaš	ekstremisttalaš	+?
+ekumenalaš	ekumenalaš	+?
+ekvivaleanta	ekvivaleanta	+?
+elastihkalaš	elastihkalaš	+?
+elegánta	elegánta	+?
+elektralaš	elektralaš	+?
+elektrihkalaš	elektrihkalaš	+?
+elektronalaš	elektronalaš	+?
+elementára	elementára	+?
+ellipttalaš	ellipttalaš	+?
+empiralaš	empiralaš	+?
+endena	endena	+?
+endosentrihkalaš	endosentrihkalaš	+?
+eŋgalas	eŋgalas	+?
+eŋgelas	eŋgelas	+?
+enharmonalaš	enharmonalaš	+?
+enklihtalaš	enklihtalaš	+?
+epihkalaš	epihkalaš	+?
+epihka-poehtalaš	epihka-poehtalaš	+?
+epistemalaš	epistemalaš	+?
+erdui	erdui	+?
+ereliiggán	ereliiggán	+?
+ereliiggáš	ereliiggáš	+?
+erenoamán	erenoamán	+?
+erenoamaš	erenoamaš	+?
+erenoamáš	erenoamáš	+?
+erenoamášpedagogalaš	erenoamášpedagogalaš	+?
+erenomáš	erenomáš	+?
+eretcealkkehahtti	eretcealkkehahtti	+?
+eretorru	eretorru	+?
+erohtalaš	erohtalaš	+?
+erotihkalaš	erotihkalaš	+?
+espánjalaš	espánjalaš	+?
+estehtalaš	estehtalaš	+?
+estlándalaš	estlándalaš	+?
+etnalaš	etnalaš	+?
+etnálaš	etnálaš	+?
+etnihkalaš	etnihkalaš	+?
+etnográfalaš	etnográfalaš	+?
+etnologalaš	etnologalaš	+?
+etnosentrihkalaš	etnosentrihkalaš	+?
+etymologalaš	etymologalaš	+?
+eufemisttalaš	eufemisttalaš	+?
+eurohpalaš	eurohpalaš	+?
+eurosentralaš	eurosentralaš	+?
+eváhkkolaš	eváhkkolaš	+?
+evangelalaš	evangelalaš	+?
+fadni	fadni	+?
+fadnil	fadnil	+?
+fágaidgaskasaš	fágaidgaskasaš	+?
+fágalaš	fágalaš	+?
+fáhkka	fáhkka	+?
+fáhkkamohkat	fáhkkamohkat	+?
+fáhkkat	fáhkkat	+?
+fáhkkatlaš	fáhkkatlaš	+?
+fakultehtaidgaskasaš	fakultehtaidgaskasaš	+?
+falli	falli	+?
+fálmmeheapme	fálmmeheapme	+?
+fálmmiheapme	fálmmiheapme	+?
+fálska	fálska	+?
+fámoheapme	fámoheapme	+?
+fámuheapme	fámuheapme	+?
+fanáhtalaš	fanáhtalaš	+?
+fanatihkalaš	fanatihkalaš	+?
+faŋkkas	faŋkkas	+?
+fantastihkalaš	fantastihkalaš	+?
+fantásttalaš	fantásttalaš	+?
+fántásttalaš	fántásttalaš	+?
+fárddaheapme	fárddaheapme	+?
+fargat	fargat	+?
+fašisttalaš	fašisttalaš	+?
+fášisttalaš	fášisttalaš	+?
+faskár	faskár	+?
+fásta	fásta	+?
+fasti	fasti	+?
+fástideaddji	fástideaddji	+?
+fávdnái	fávdnái	+?
+fávdnát	fávdnát	+?
+fávllibuš	fávllibuš	+?
+fávru	fávru	+?
+feaillaheapme	feaillaheapme	+?
+fearalágan	fearalágan	+?
+fearalágán	fearalágán	+?
+feargasaš	feargasaš	+?
+fearggaheapme	fearggaheapme	+?
+federála	federála	+?
+feministtalaš	feministtalaš	+?
+fenomenála	fenomenála	+?
+feodála	feodála	+?
+feodálalaš	feodálalaš	+?
+fiberoptihkalaš	fiberoptihkalaš	+?
+fidnomáhtolaš	fidnomáhtolaš	+?
+fiellái	fiellái	+?
+fierggeheapme	fierggeheapme	+?
+fierggiheapme	fierggiheapme	+?
+fierttos	fierttos	+?
+fievrogollosguovdasaš	fievrogollosguovdasaš	+?
+fievrroguovdasaš	fievrroguovdasaš	+?
+figuratiiva	figuratiiva	+?
+fiinnadovddolaš	fiinnadovddolaš	+?
+fiktiiva	fiktiiva	+?
+filmáhtalaš	filmáhtalaš	+?
+filologalaš	filologalaš	+?
+filosofalaš	filosofalaš	+?
+filosofálaš	filosofálaš	+?
+finála	finála	+?
+finihtta	finihtta	+?
+fioleahtta	fioleahtta	+?
+fiskat	fiskat	+?
+fiskeslágan	fiskeslágan	+?
+fiskeslágán	fiskeslágán	+?
+fitmat	fitmat	+?
+fitnodatekonomálaš	fitnodatekonomálaš	+?
+fitnofágalaš	fitnofágalaš	+?
+fitnolaš	fitnolaš	+?
+fivlat	fivlat	+?
+flegmáhtalaš	flegmáhtalaš	+?
+fleksi	fleksi	+?
+folkloristtalaš	folkloristtalaš	+?
+fonehtalaš	fonehtalaš	+?
+fonemáhtalaš	fonemáhtalaš	+?
+fonemalaš	fonemalaš	+?
+fonologalaš	fonologalaš	+?
+fonologálaš	fonologálaš	+?
+fonotávttalaš	fonotávttalaš	+?
+formála	formála	+?
+formálalaš	formálalaš	+?
+freestyla	freestyla	+?
+freestyle	freestyle	+?
+friddjahápmásaš	friddjahápmásaš	+?
+friija	friija	+?
+friijahápmásaš	friijahápmásaš	+?
+frisalaš	frisalaš	+?
+friskkis	friskkis	+?
+fundamentalisttalaš	fundamentalisttalaš	+?
+funkšonála	funkšonála	+?
+funkšunála	funkšunála	+?
+funktionála	funktionála	+?
+fuođđi	fuođđi	+?
+fuolaheapme	fuolaheapme	+?
+fuollameahttun	fuollameahttun	+?
+fuomášahtti	fuomášahtti	+?
+fuopmášahtti	fuopmášahtti	+?
+fuoras	fuoras	+?
+fuorás	fuorás	+?
+fuorji	fuorji	+?
+fuotni	fuotni	+?
+fysalaš	fysalaš	+?
+fysálaš	fysálaš	+?
+fysikála	fysikála	+?
+fysikálalaš	fysikálalaš	+?
+føderála	føderála	+?
+gabaivdnásaš	gabaivdnásaš	+?
+gabbái	gabbái	+?
+gadnái	gadnái	+?
+gádnosaš	gádnosaš	+?
+gáfat	gáfat	+?
+gággálaš	gággálaš	+?
+gággat	gággat	+?
+gáhcci	gáhcci	+?
+gahci	gahci	+?
+gahperahtes	gahperahtes	+?
+gahpergeahtes	gahpergeahtes	+?
+gahperha	gahperha	+?
+gahperkeahtes	gahperkeahtes	+?
+gáhtameahttun	gáhtameahttun	+?
+gáhtavaš	gáhtavaš	+?
+gáhttenárvosaš	gáhttenárvosaš	+?
+gáibideaddji	gáibideaddji	+?
+gáiccas	gáiccas	+?
+gáiddus	gáiddus	+?
+gáiggas	gáiggas	+?
+gáirras	gáirras	+?
+gaitlágan	gaitlágan	+?
+gaitlágán	gaitlágán	+?
+galbahámat	galbahámat	+?
+galdái	galdái	+?
+gáldoprojektionála	gáldoprojektionála	+?
+galenalaš	galenalaš	+?
+gálggaheapme	gálggaheapme	+?
+gálggus	gálggus	+?
+galkkadeaddji	galkkadeaddji	+?
+gallás	gallás	+?
+gallilágan	gallilágan	+?
+gallilágán	gallilágán	+?
+galljes	galljes	+?
+galljosaš	galljosaš	+?
+gálmmas	gálmmas	+?
+gálos	gálos	+?
+gálššas	gálššas	+?
+gálus	gálus	+?
+gámis	gámis	+?
+gánas	gánas	+?
+gaŋkkas	gaŋkkas	+?
+gánnáhahtti	gánnáhahtti	+?
+gánnihahtti	gánnihahtti	+?
+ganttas	ganttas	+?
+gappas	gappas	+?
+gáppus	gáppus	+?
+garas	garas	+?
+garggas	garggas	+?
+gárka	gárka	+?
+gárkka	gárkka	+?
+gárkkis	gárkkis	+?
+gárkŋas	gárkŋas	+?
+garppas	garppas	+?
+gárrenávdnasvuloš	gárrenávdnasvuloš	+?
+garri	garri	+?
+garril	garril	+?
+garuheapme	garuheapme	+?
+garvemeahttun	garvemeahttun	+?
+garvimeahttun	garvimeahttun	+?
+gárvveheapme	gárvveheapme	+?
+gárvviheapme	gárvviheapme	+?
+gárvvoheaddji	gárvvoheaddji	+?
+gáržžekeahtes	gáržžekeahtes	+?
+gáržžesmielalaš	gáržžesmielalaš	+?
+gaskaáigásaš	gaskaáigásaš	+?
+gaskaárvosaš	gaskaárvosaš	+?
+gaskaboddasaš	gaskaboddasaš	+?
+gaskaboddosaš	gaskaboddosaš	+?
+gaskagielddalaš	gaskagielddalaš	+?
+gaskamahtosaš	gaskamahtosaš	+?
+gaskamearálaš	gaskamearálaš	+?
+gaskanas	gaskanas	+?
+gaskandaga	gaskandaga	+?
+gaskaneas	gaskaneas	+?
+gaskanšatta	gaskanšatta	+?
+gaskariikkalaš	gaskariikkalaš	+?
+gaskkaheapme	gaskkaheapme	+?
+gaskkasaš	gaskkasaš	+?
+gaškkus	gaškkus	+?
+gaskaahkásaš	gaskaahkásaš	+?
+gassat	gassat	+?
+gassosaš	gassosaš	+?
+gastrologalaš	gastrologalaš	+?
+gastronomalaš	gastronomalaš	+?
+gásttas	gásttas	+?
+gávddas	gávddas	+?
+gávdneš	gávdneš	+?
+gavjái	gavjái	+?
+gávnnjas	gávnnjas	+?
+gávohalli	gávohalli	+?
+gávpelaš	gávpelaš	+?
+gávppálaš	gávppálaš	+?
+gavri	gavri	+?
+gávrras	gávrras	+?
+gávvar	gávvar	+?
+gávzzas	gávzzas	+?
+gavžžas	gavžžas	+?
+gažaldatvuloš	gažaldatvuloš	+?
+gážžár	gážžár	+?
+geabbil	geabbil	+?
+geađas	geađas	+?
+geađđat	geađđat	+?
+geađgái	geađgái	+?
+geaffi	geaffi	+?
+geafi	geafi	+?
+geahčálas	geahčálas	+?
+geahčemeahttun	geahčemeahttun	+?
+geahčimeahttun	geahčimeahttun	+?
+geahnoheapme	geahnoheapme	+?
+geahpas	geahpas	+?
+geahpedangelbbolaš	geahpedangelbbolaš	+?
+geahppat	geahppat	+?
+geaiddus	geaiddus	+?
+geailohámat	geailohámat	+?
+geainnoheapme	geainnoheapme	+?
+geaisárlaš	geaisárlaš	+?
+gealbboheapme	gealbboheapme	+?
+geampa	geampa	+?
+geamus	geamus	+?
+geaŋga	geaŋga	+?
+geanoheapme	geanoheapme	+?
+geanuheapme	geanuheapme	+?
+gearddaš	gearddaš	+?
+geargat	geargat	+?
+gearggaheapme	gearggaheapme	+?
+gearggoheapme	gearggoheapme	+?
+gearggus	gearggus	+?
+geargil	geargil	+?
+gearpmus	gearpmus	+?
+gearrat	gearrat	+?
+geaseheapme	geaseheapme	+?
+geasiheapme	geasiheapme	+?
+geasoheapme	geasoheapme	+?
+geasseruonas	geasseruonas	+?
+geassil	geassil	+?
+geassiruonas	geassiruonas	+?
+geasuheaddji	geasuheaddji	+?
+geatkkas	geatkkas	+?
+geatnegas	geatnegas	+?
+geavatlaš	geavatlaš	+?
+geavkái	geavkái	+?
+geavllas	geavllas	+?
+geavrras	geavrras	+?
+geavzzas	geavzzas	+?
+geažehis	geažehis	+?
+geažo	geažo	+?
+geažos	geažos	+?
+gehpeš	gehpeš	+?
+gehppes	gehppes	+?
+gehppeslágan	gehppeslágan	+?
+gehppeslágán	gehppeslágán	+?
+gehppesmielalaš	gehppesmielalaš	+?
+genealogálaš	genealogálaš	+?
+genehtalaš	genehtalaš	+?
+generatiiva	generatiiva	+?
+generealla	generealla	+?
+generella	generella	+?
+geniála	geniála	+?
+genitiivahápmásaš	genitiivahápmásaš	+?
+geologalaš	geologalaš	+?
+geometralaš	geometralaš	+?
+geometrihkalaš	geometrihkalaš	+?
+geosentrála	geosentrála	+?
+geotermihkalaš	geotermihkalaš	+?
+gerelmas	gerelmas	+?
+germána	germána	+?
+germánalaš	germánalaš	+?
+gerolmas	gerolmas	+?
+gerremas	gerremas	+?
+gesii	gesii	+?
+gibuheapme	gibuheapme	+?
+giđđasaš	giđđasaš	+?
+giddat	giddat	+?
+gieđaheapme	gieđaheapme	+?
+giehtaráhpat	giehtaráhpat	+?
+giekcájeaddji	giekcájeaddji	+?
+gielagaskasaš	gielagaskasaš	+?
+gielaheapme	gielaheapme	+?
+gieldalaš	gieldalaš	+?
+gieldasápmelaš	gieldasápmelaš	+?
+gielddus	gielddus	+?
+giellamáhtolaš	giellamáhtolaš	+?
+giellaoahpalaš	giellaoahpalaš	+?
+gierdameahttun	gierdameahttun	+?
+gierdavaš	gierdavaš	+?
+gierddoheapme	gierddoheapme	+?
+gierdevaš	gierdevaš	+?
+gierdil	gierdil	+?
+gierdivaš	gierdivaš	+?
+gieskadaš	gieskadaš	+?
+gievdil	gievdil	+?
+gievvuárvvas	gievvuárvvas	+?
+giimmas	giimmas	+?
+giitemeahttun	giitemeahttun	+?
+giitevaš	giitevaš	+?
+giitimeahttun	giitimeahttun	+?
+giivvis	giivvis	+?
+gilddas	gilddas	+?
+gillámeahttun	gillámeahttun	+?
+gillil	gillil	+?
+gillomaddjái	gillomaddjái	+?
+gilššas	gilššas	+?
+gilvvakeahtes	gilvvakeahtes	+?
+gilvvehahtti	gilvvehahtti	+?
+gilvvihahtti	gilvvihahtti	+?
+girjeloguheapme	girjeloguheapme	+?
+girjiloguheapme	girjiloguheapme	+?
+girjjat	girjjat	+?
+girkat	girkat	+?
+girrat	girrat	+?
+givas	givas	+?
+givrosaš	givrosaš	+?
+givrras	givrras	+?
+givssas	givssas	+?
+givvi	givvi	+?
+globála	globála	+?
+globálalaš	globálalaš	+?
+glottála	glottála	+?
+goabbatbeallásaš	goabbatbeallásaš	+?
+goabmái	goabmái	+?
+goađeheapme	goađeheapme	+?
+goađiheapme	goađiheapme	+?
+goahccelágan	goahccelágan	+?
+goahccelágán	goahccelágán	+?
+goahccelágaš	goahccelágaš	+?
+goahccelágáš	goahccelágáš	+?
+goahkkái	goahkkái	+?
+goaiddus	goaiddus	+?
+goaidi	goaidi	+?
+goakŋet	goakŋet	+?
+goakŋit	goakŋit	+?
+goakšat	goakšat	+?
+goalki	goalki	+?
+goalššas	goalššas	+?
+goalus	goalus	+?
+goalvvas	goalvvas	+?
+goaŋkkas	goaŋkkas	+?
+goanstái	goanstái	+?
+goanzzas	goanzzas	+?
+goappeš	goappeš	+?
+goardu	goardu	+?
+goargat	goargat	+?
+goarkŋohahtti	goarkŋohahtti	+?
+goarpmohahtti	goarpmohahtti	+?
+goarrat	goarrat	+?
+goatnas	goatnas	+?
+goatnjet	goatnjet	+?
+goatnjit	goatnjit	+?
+goattis	goattis	+?
+goattus	goattus	+?
+goavis	goavis	+?
+goavkkas	goavkkas	+?
+goavrras	goavrras	+?
+goavššas	goavššas	+?
+gobas	gobas	+?
+godjat	godjat	+?
+gohccevaš	gohccevaš	+?
+gohpevuđot	gohpevuđot	+?
+gohpivuđot	gohpivuđot	+?
+gohtalaš	gohtalaš	+?
+gohtolaš	gohtolaš	+?
+goiddas	goiddas	+?
+goike	goike	+?
+goikevaš	goikevaš	+?
+goikil	goikil	+?
+goikivaš	goikivaš	+?
+gokčevaš	gokčevaš	+?
+golbmaoktalaš	golbmaoktalaš	+?
+golbmaollil	golbmaollil	+?
+golgil	golgil	+?
+golgoslágan	golgoslágan	+?
+golgoslágán	golgoslágán	+?
+golgu	golgu	+?
+gollas	gollas	+?
+gollil	gollil	+?
+golmmabeaivásaš	golmmabeaivásaš	+?
+golmmaceahkálaš	golmmaceahkálaš	+?
+golmmageardán	golmmageardán	+?
+golmmageardásaš	golmmageardásaš	+?
+golmmagearddáš	golmmagearddáš	+?
+golmmagielat	golmmagielat	+?
+golmma-jahkásaš	golmma-jahkásaš	+?
+golmmajuvllat	golmmajuvllat	+?
+golmmalotjahkásaš	golmmalotjahkásaš	+?
+golmmaoasat	golmmaoasat	+?
+golmmaoktalaš	golmmaoktalaš	+?
+golmmaoktasaš	golmmaoktasaš	+?
+golmmasárgálaš	golmmasárgálaš	+?
+golnnas	golnnas	+?
+golppas	golppas	+?
+gomohalli	gomohalli	+?
+gonagaslaš	gonagaslaš	+?
+gonagasmielalaš	gonagasmielalaš	+?
+goreheapme	goreheapme	+?
+goriheapme	goriheapme	+?
+gorrálas	gorrálas	+?
+gortnas	gortnas	+?
+gotihkalaš	gotihkalaš	+?
+gotteheapme	gotteheapme	+?
+gottiheapme	gottiheapme	+?
+govččoheapme	govččoheapme	+?
+govččolaš	govččolaš	+?
+govdat	govdat	+?
+govddoheapme	govddoheapme	+?
+govddus	govddus	+?
+govdosaš	govdosaš	+?
+govnnas	govnnas	+?
+govttoheapme	govttoheapme	+?
+govttohis	govttohis	+?
+govttolaš	govttolaš	+?
+govttolašmeahttun	govttolašmeahttun	+?
+govvideaddji	govvideaddji	+?
+gozeš	gozeš	+?
+gráfalaš	gráfalaš	+?
+grammáhtalaš	grammáhtalaš	+?
+grámmasaš	grámmasaš	+?
+grammatalaš	grammatalaš	+?
+greikalaš	greikalaš	+?
+greikkalaš	greikkalaš	+?
+groavis	groavis	+?
+groteaska	groteaska	+?
+guččeš	guččeš	+?
+gudneáŋgir	gudneáŋgir	+?
+gudnebalolaš	gudnebalolaš	+?
+gudnedievas	gudnedievas	+?
+gudneheapme	gudneheapme	+?
+gudnidievas	gudnidievas	+?
+gudnidovdi	gudnidovdi	+?
+gudniheapme	gudniheapme	+?
+guhkálmas	guhkálmas	+?
+guhkásoaidnil	guhkásoaidnil	+?
+guhkeáigásaš	guhkeáigásaš	+?
+guhkedáleš	guhkedáleš	+?
+guhkesáigásaš	guhkesáigásaš	+?
+guhkesáiggi	guhkesáiggi	+?
+guhkesmielalaš	guhkesmielalaš	+?
+guhkesvašálaš	guhkesvašálaš	+?
+guhkilmas	guhkilmas	+?
+guhkkosaš	guhkkosaš	+?
+guhkolaš	guhkolaš	+?
+guimmešvuođalágan	guimmešvuođalágan	+?
+gulavaš	gulavaš	+?
+guldalas	guldalas	+?
+gullevaš	gullevaš	+?
+gullivaš	gullivaš	+?
+gullojeaddji	gullojeaddji	+?
+gullomeahttun	gullomeahttun	+?
+gulohaš	gulohaš	+?
+guluheapme	guluheapme	+?
+gululmas	gululmas	+?
+gulus	gulus	+?
+gumpái	gumpái	+?
+guoddevaš	guoddevaš	+?
+guoddinnákcalaš	guoddinnákcalaš	+?
+guohca	guohca	+?
+guohttu	guohttu	+?
+guohttul	guohttul	+?
+guoikái	guoikái	+?
+guoimmuheaddji	guoimmuheaddji	+?
+guokkas	guokkas	+?
+guoktelaš	guoktelaš	+?
+guokteollil	guokteollil	+?
+guoktilaš	guoktilaš	+?
+guoleheapme	guoleheapme	+?
+guolgái	guolgái	+?
+guolgasaš	guolgasaš	+?
+guolggaheapme	guolggaheapme	+?
+guoliheapme	guoliheapme	+?
+guollái	guollái	+?
+guonna	guonna	+?
+guorahallameahttun	guorahallameahttun	+?
+guorbbas	guorbbas	+?
+guoros	guoros	+?
+guorranmeahttun	guorranmeahttun	+?
+guorril	guorril	+?
+guorus	guorus	+?
+guoskameahttun	guoskameahttun	+?
+guoskevaš	guoskevaš	+?
+guoskkaheaddji	guoskkaheaddji	+?
+guossaskas	guossaskas	+?
+guotteheaddji	guotteheaddji	+?
+guovdageaidnolaš	guovdageaidnolaš	+?
+guovdageaidnulaš	guovdageaidnulaš	+?
+guovddáš	guovddáš	+?
+guovddášlaš	guovddášlaš	+?
+guovdil	guovdil	+?
+guovlluguovdasaš	guovlluguovdasaš	+?
+guovllulaš	guovllulaš	+?
+guovllupsykiátralaš	guovllupsykiátralaš	+?
+guovlulaš	guovlulaš	+?
+guovlupolitihkkalaš	guovlupolitihkkalaš	+?
+guovnnjas	guovnnjas	+?
+guovttágaskasaš	guovttágaskasaš	+?
+guovttebealat	guovttebealat	+?
+guovttebealát	guovttebealát	+?
+guovttebeallásaš	guovttebeallásaš	+?
+guovttečilggolaš	guovttečilggolaš	+?
+guovttedássásaš	guovttedássásaš	+?
+guovttegeardán	guovttegeardán	+?
+guovttegeardásaš	guovttegeardásaš	+?
+guovttegearddaš	guovttegearddaš	+?
+guovttegielalaš	guovttegielalaš	+?
+guovttegielat	guovttegielat	+?
+guovtteguolmmat	guovtteguolmmat	+?
+guovttejuolggat	guovttejuolggat	+?
+guovttejuvllat	guovttejuvllat	+?
+guovttelágan	guovttelágan	+?
+guovttelágán	guovttelágán	+?
+guovttemiesat	guovttemiesat	+?
+guovtteoasat	guovtteoasat	+?
+guovtteollil	guovtteollil	+?
+guovttesárgálaš	guovttesárgálaš	+?
+guovttesuorat	guovttesuorat	+?
+guovttigaskasaš	guovttigaskasaš	+?
+guovttiguolmmat	guovttiguolmmat	+?
+guppas	guppas	+?
+gurccas	gurccas	+?
+gurdui	gurdui	+?
+gurggástatguovdasaš	gurggástatguovdasaš	+?
+gurrái	gurrái	+?
+gurranjálmmat	gurranjálmmat	+?
+gurut	gurut	+?
+gurvvas	gurvvas	+?
+guskkolaš	guskkolaš	+?
+gušmmus	gušmmus	+?
+gustojeaddji	gustojeaddji	+?
+gustomeahttun	gustomeahttun	+?
+gustovaš	gustovaš	+?
+gutneheapme	gutneheapme	+?
+gutniheapme	gutniheapme	+?
+guttaheapme	guttaheapme	+?
+guvgesruoksat	guvgesruoksat	+?
+guvhllas	guvhllas	+?
+guvlolaš	guvlolaš	+?
+guvnnas	guvnnas	+?
+guvnnjas	guvnnjas	+?
+guvrras	guvrras	+?
+gužžačuorbi	gužžačuorbi	+?
+gužžaláiki	gužžaláiki	+?
+gælalaš	gælalaš	+?
+habas	habas	+?
+háddjái	háddjái	+?
+hága	hága	+?
+háiggir	háiggir	+?
+háippas	háippas	+?
+háissas	háissas	+?
+háittis	háittis	+?
+hájaheapme	hájaheapme	+?
+haksil	haksil	+?
+hálaheapme	hálaheapme	+?
+hálddahuslaš	hálddahuslaš	+?
+hálddatlaš	hálddatlaš	+?
+háljas	háljas	+?
+hállái	hállái	+?
+hálssas	hálssas	+?
+hálttat	hálttat	+?
+háluheapme	háluheapme	+?
+hámeheapme	hámeheapme	+?
+hámiheapme	hámiheapme	+?
+hápmásaš	hápmásaš	+?
+hápmejámas	hápmejámas	+?
+hápmeoahpalaš	hápmeoahpalaš	+?
+harbmadas	harbmadas	+?
+harbmat	harbmat	+?
+hárččas	hárččas	+?
+hárdoheapme	hárdoheapme	+?
+hárdui	hárdui	+?
+háreheapme	háreheapme	+?
+háriheapme	háriheapme	+?
+hárjánmeahttun	hárjánmeahttun	+?
+hárjjeheapme	hárjjeheapme	+?
+hárjjiheapme	hárjjiheapme	+?
+harmonalaš	harmonalaš	+?
+hármonalaš	hármonalaš	+?
+harmoniijalaš	harmoniijalaš	+?
+harmovnnalaš	harmovnnalaš	+?
+hármovnnalaš	hármovnnalaš	+?
+hárpma	hárpma	+?
+hárpmas	hárpmas	+?
+hárras	hárras	+?
+hárvenaš	hárvenaš	+?
+hárvi	hárvi	+?
+hatteheapme	hatteheapme	+?
+hattiheapme	hattiheapme	+?
+háváš	háváš	+?
+hávdeduođalaš	hávdeduođalaš	+?
+hávri	hávri	+?
+hávrra	hávrra	+?
+hávskái	hávskái	+?
+hávskkes	hávskkes	+?
+heaboheapme	heaboheapme	+?
+heabuheapme	heabuheapme	+?
+heađeheapme	heađeheapme	+?
+heađiheapme	heađiheapme	+?
+headju	headju	+?
+heaggái	heaggái	+?
+heaggaváldi	heaggaváldi	+?
+heahkas	heahkas	+?
+heahpatlaš	heahpatlaš	+?
+heahpatmeahttun	heahpatmeahttun	+?
+heahtahaš	heahtahaš	+?
+heaigomielat	heaigomielat	+?
+heaila	heaila	+?
+heailla	heailla	+?
+heaivvoheapme	heaivvoheapme	+?
+heajoslágan	heajoslágan	+?
+heajoslágán	heajoslágán	+?
+heajosmenolaš	heajosmenolaš	+?
+heajosmielalaš	heajosmielalaš	+?
+heakkadeaŧalaš	heakkadeaŧalaš	+?
+heakkadehálaš	heakkadehálaš	+?
+heakkaheapme	heakkaheapme	+?
+heakkalaš	heakkalaš	+?
+heakkaváralaš	heakkaváralaš	+?
+heakkavárálaš	heakkavárálaš	+?
+healpu	healpu	+?
+heamssas	heamssas	+?
+hearccas	hearccas	+?
+hearddoheapme	hearddoheapme	+?
+hearki	hearki	+?
+hearrákeahtes	hearrákeahtes	+?
+hearvái	hearvái	+?
+heava	heava	+?
+heavnnas	heavnnas	+?
+heavskái	heavskái	+?
+heavskkálaš	heavskkálaš	+?
+hebreagielat	hebreagielat	+?
+hebreálaš	hebreálaš	+?
+hehttejeaddji	hehttejeaddji	+?
+heila	heila	+?
+heilla	heilla	+?
+heittot	heittot	+?
+heivemeahttun	heivemeahttun	+?
+heivetmeahttun	heivetmeahttun	+?
+heivvolaš	heivvolaš	+?
+hektosaš	hektosaš	+?
+helssetlaš	helssetlaš	+?
+hermehtalaš	hermehtalaš	+?
+hermetihkalaš	hermetihkalaš	+?
+herveja	herveja	+?
+heterogena	heterogena	+?
+hevskkálas	hevskkálas	+?
+hevskkálaš	hevskkálaš	+?
+hevssolaš	hevssolaš	+?
+hiđis	hiđis	+?
+hiebanas	hiebanas	+?
+hiegis	hiegis	+?
+hierárkkalaš	hierárkkalaš	+?
+hilbat	hilbat	+?
+hilccas	hilccas	+?
+hilján	hilján	+?
+hillján	hillján	+?
+hillji	hillji	+?
+himuheapme	himuheapme	+?
+hiras	hiras	+?
+hirbmat	hirbmat	+?
+hirbmatlaš	hirbmatlaš	+?
+hirpmus	hirpmus	+?
+hirras	hirras	+?
+historjá-biografiija	historjá-biografiija	+?
+historjálaš	historjálaš	+?
+historjjákeahtes	historjjákeahtes	+?
+historjjálaš	historjjálaš	+?
+hivli	hivli	+?
+hoahpuheapme	hoahpuheapme	+?
+hoalddaheapme	hoalddaheapme	+?
+hoavkkas	hoavkkas	+?
+hoavrras	hoavrras	+?
+hobas	hobas	+?
+hohppil	hohppil	+?
+hollándalaš	hollándalaš	+?
+homogena	homogena	+?
+homoseksuála	homoseksuála	+?
+horbbas	horbbas	+?
+horisontálalaš	horisontálalaš	+?
+hudju	hudju	+?
+huksejeaddji	huksejeaddji	+?
+huksenkeahtes	huksenkeahtes	+?
+humána	humána	+?
+humánalaš	humánalaš	+?
+humanitára	humanitára	+?
+humaniteara	humaniteara	+?
+humoristtalaš	humoristtalaš	+?
+humppas	humppas	+?
+humuheapme	humuheapme	+?
+huncái	huncái	+?
+hurdnji	hurdnji	+?
+hurskkis	hurskkis	+?
+hurvi	hurvi	+?
+hurvvas	hurvvas	+?
+hutkái	hutkái	+?
+huvddaheapme	huvddaheapme	+?
+huvddalaš	huvddalaš	+?
+huvlla	huvlla	+?
+huvvái	huvvái	+?
+hypera	hypera	+?
+hypotehtalaš	hypotehtalaš	+?
+hysteralaš	hysteralaš	+?
+iđalaš	iđalaš	+?
+iddjái	iddjái	+?
+ideála	ideála	+?
+idealaš	idealaš	+?
+idealisttalaš	idealisttalaš	+?
+ideanttalaš	ideanttalaš	+?
+ideationála	ideationála	+?
+iđedaš	iđedaš	+?
+ideologalaš	ideologalaš	+?
+ideologálaš	ideologálaš	+?
+idiomáhtalaš	idiomáhtalaš	+?
+idjasaš	idjasaš	+?
+iehčanas	iehčanas	+?
+iešaddiluvvon	iešaddiluvvon	+?
+iešbeaivválaš	iešbeaivválaš	+?
+iešbirgejeaddji	iešbirgejeaddji	+?
+iešbuorre	iešbuorre	+?
+iešdagolaš	iešdagolaš	+?
+iešdáhtolaš	iešdáhtolaš	+?
+iešgávval	iešgávval	+?
+iešgieđalaš	iešgieđalaš	+?
+iešguđetgelágan	iešguđetgelágan	+?
+iešguđetgelágán	iešguđetgelágán	+?
+iešguđetgelágaš	iešguđetgelágaš	+?
+iešguđetgelágáš	iešguđetgelágáš	+?
+iešguđetlágan	iešguđetlágan	+?
+iešguđetlágán	iešguđetlágán	+?
+iešguhtetlágan	iešguhtetlágan	+?
+iešheanalaš	iešheanalaš	+?
+iešheanálaš	iešheanálaš	+?
+iešlágalaš	iešlágalaš	+?
+iešlágálaš	iešlágálaš	+?
+iešlágan	iešlágan	+?
+iešoaffarušši	iešoaffarušši	+?
+iešoahppan	iešoahppan	+?
+iešoaivválaš	iešoaivválaš	+?
+iešoaivvat	iešoaivvat	+?
+iešráhkaduvvon	iešráhkaduvvon	+?
+iešráhkis	iešráhkis	+?
+iešsihkar	iešsihkar	+?
+iešstivrejeaddji	iešstivrejeaddji	+?
+iešválddálaš	iešválddálaš	+?
+iešvuđot	iešvuđot	+?
+ievttá	ievttá	+?
+ievttáš	ievttáš	+?
+iežálágan	iežálágan	+?
+iežaslágan	iežaslágan	+?
+iežaslágán	iežaslágán	+?
+iežaslaš	iežaslaš	+?
+ihcaválddat	ihcaválddat	+?
+ihcaveaiddat	ihcaveaiddat	+?
+ihtá	ihtá	+?
+ihtáš	ihtáš	+?
+ihttá	ihttá	+?
+iiralaš	iiralaš	+?
+ii-referentiála	ii-referentiála	+?
+ilgadit	ilgadit	+?
+ilgat	ilgat	+?
+illatiivahápmásaš	illatiivahápmásaš	+?
+illudahtti	illudahtti	+?
+iluheapme	iluheapme	+?
+imaginára	imaginára	+?
+imašlaš	imašlaš	+?
+immaneanta	immaneanta	+?
+immateriálalaš	immateriálalaš	+?
+impersonála	impersonála	+?
+implikationála	implikationála	+?
+implisihtta	implisihtta	+?
+impressiiva	impressiiva	+?
+indefinihtta	indefinihtta	+?
+individuála	individuála	+?
+individuálalaš	individuálalaš	+?
+indiviidalaš	indiviidalaš	+?
+indo-fijilaš	indo-fijilaš	+?
+indoiránalaš	indoiránalaš	+?
+industriála	industriála	+?
+industriijalaš	industriijalaš	+?
+infernálalaš	infernálalaš	+?
+infinihta	infinihta	+?
+infinihtta	infinihtta	+?
+inhabiila	inhabiila	+?
+inhabila	inhabila	+?
+inkompeteanta	inkompeteanta	+?
+inkonsekveanta	inkonsekveanta	+?
+innovatiiva	innovatiiva	+?
+instinktiiva	instinktiiva	+?
+instruktiiva	instruktiiva	+?
+inteansa	inteansa	+?
+intellektuála	intellektuála	+?
+intelligeanta	intelligeanta	+?
+intensiiva	intensiiva	+?
+intentionála	intentionála	+?
+interaktiiva	interaktiiva	+?
+interaktiivalaš	interaktiivalaš	+?
+interlegála	interlegála	+?
+internašonála	internašonála	+?
+internaššuvnnalaš	internaššuvnnalaš	+?
+internašunála	internašunála	+?
+internášunála	internášunála	+?
+internašunálalaš	internašunálalaš	+?
+internašuvnnalaš	internašuvnnalaš	+?
+interpsykologalaš	interpsykologalaš	+?
+intertekstuála	intertekstuála	+?
+intrakultuvrralaš	intrakultuvrralaš	+?
+intransitiiva	intransitiiva	+?
+intrapsykologalaš	intrapsykologalaš	+?
+intrusiiva	intrusiiva	+?
+ipmilaš	ipmilaš	+?
+ipmilbalolaš	ipmilbalolaš	+?
+ipmillaš	ipmillaš	+?
+ipmilmeahttun	ipmilmeahttun	+?
+ipmirdahtti	ipmirdahtti	+?
+ipmirdeaddji	ipmirdeaddji	+?
+ipmirmeahttun	ipmirmeahttun	+?
+ironalaš	ironalaš	+?
+ironálaš	ironálaš	+?
+ironiijalaš	ironiijalaš	+?
+irrationála	irrationála	+?
+isitkeahtes	isitkeahtes	+?
+islámalaš	islámalaš	+?
+islamihtalaš	islamihtalaš	+?
+islándalaš	islándalaš	+?
+issoras	issoras	+?
+itkkus	itkkus	+?
+ittis	ittis	+?
+ivdnái	ivdnái	+?
+ivdnásaš	ivdnásaš	+?
+ivnneheapme	ivnneheapme	+?
+ivnniheapme	ivnniheapme	+?
+ivttá	ivttá	+?
+ivttáš	ivttáš	+?
+jádnil	jádnil	+?
+jáffui	jáffui	+?
+jáfofiinnis	jáfofiinnis	+?
+jagŋi	jagŋi	+?
+jagŋil	jagŋil	+?
+jahkas	jahkas	+?
+jáhkaskas	jáhkaskas	+?
+jahkebeallásaš	jahkebeallásaš	+?
+jáhkehahtti	jáhkehahtti	+?
+jáhketmeahttun	jáhketmeahttun	+?
+jáhkihahtti	jáhkihahtti	+?
+jáhkkarámas	jáhkkarámas	+?
+jáhkkemeahttun	jáhkkemeahttun	+?
+jáhkkevaš	jáhkkevaš	+?
+jáhkkil	jáhkkil	+?
+jáhkkimeahttun	jáhkkimeahttun	+?
+jakkas	jakkas	+?
+jalahas	jalahas	+?
+jálddos	jálddos	+?
+jállu	jállu	+?
+jámadeaddji	jámadeaddji	+?
+jámas	jámas	+?
+jámmis	jámmis	+?
+jánas	jánas	+?
+janzzas	janzzas	+?
+jápmán	jápmán	+?
+jápmemeahttun	jápmemeahttun	+?
+jápmimeahttun	jápmimeahttun	+?
+jappas	jappas	+?
+jarffas	jarffas	+?
+jarkŋas	jarkŋas	+?
+jaskatlaš	jaskatlaš	+?
+jassái	jassái	+?
+jáválaš	jáválaš	+?
+jávkameahttun	jávkameahttun	+?
+jávkkus	jávkkus	+?
+jávoheapme	jávoheapme	+?
+jávohisvuođageatnegas	jávohisvuođageatnegas	+?
+jávrreheapme	jávrreheapme	+?
+jávrriheapme	jávrriheapme	+?
+jeagatmeahttun	jeagatmeahttun	+?
+jeageheapme	jeageheapme	+?
+jeageleaddjái	jeageleaddjái	+?
+jeagelgeahtes	jeagelgeahtes	+?
+jeagelha	jeagelha	+?
+jeagelheapme	jeagelheapme	+?
+jeagelkeahtes	jeagelkeahtes	+?
+jeagiheapme	jeagiheapme	+?
+jeagilheapme	jeagilheapme	+?
+jeagoheapme	jeagoheapme	+?
+jeahkalahtes	jeahkalahtes	+?
+jeahkálahtes	jeahkálahtes	+?
+jeahkaleaddjái	jeahkaleaddjái	+?
+jealahas	jealahas	+?
+jearaldatvuloš	jearaldatvuloš	+?
+jearggaheapme	jearggaheapme	+?
+jeavddalaš	jeavddalaš	+?
+jeđđehahtti	jeđđehahtti	+?
+jegolaš	jegolaš	+?
+jerggolaš	jerggolaš	+?
+jiednái	jiednái	+?
+jiegŋái	jiegŋái	+?
+jiekŋagalmmas	jiekŋagalmmas	+?
+jiellis	jiellis	+?
+jienaheapme	jienaheapme	+?
+jieŋas	jieŋas	+?
+jierbmái	jierbmái	+?
+jieris	jieris	+?
+jierpmaskas	jierpmaskas	+?
+jierpmeheapme	jierpmeheapme	+?
+jierpmiheapme	jierpmiheapme	+?
+jiesas	jiesas	+?
+jiessas	jiessas	+?
+jietnadatlágalaš	jietnadatlágalaš	+?
+jietnasaš	jietnasaš	+?
+jietnavuoigadahtton	jietnavuoigadahtton	+?
+jievjái	jievjái	+?
+jievjjaheapme	jievjjaheapme	+?
+jievjjas	jievjjas	+?
+jievlái	jievlái	+?
+jievttá	jievttá	+?
+jievžalas	jievžalas	+?
+joallu	joallu	+?
+joatkevaš	joatkevaš	+?
+joatkkoheapme	joatkkoheapme	+?
+joavdelas	joavdelas	+?
+joavdil	joavdil	+?
+joavggas	joavggas	+?
+joavggus	joavggus	+?
+jođán	jođán	+?
+jođiheapme	jođiheapme	+?
+jođoheapme	jođoheapme	+?
+jođuheapme	jođuheapme	+?
+joggái	joggái	+?
+jognái	jognái	+?
+jogŋái	jogŋái	+?
+jolgat	jolgat	+?
+jolggalaš	jolggalaš	+?
+joliheapme	joliheapme	+?
+joraheapme	joraheapme	+?
+jorgalmeahttun	jorgalmeahttun	+?
+jorgalusdahkki	jorgalusdahkki	+?
+jorggobuiccas	jorggobuiccas	+?
+jorril	jorril	+?
+jotkkolaš	jotkkolaš	+?
+jozzái	jozzái	+?
+judnii	judnii	+?
+jugahahtti	jugahahtti	+?
+jugoslávialaš	jugoslávialaš	+?
+juguheapme	juguheapme	+?
+julbmi	julbmi	+?
+julevsápmelaš	julevsápmelaš	+?
+julgat	julgat	+?
+julggaheapme	julggaheapme	+?
+julggalaš	julggalaš	+?
+juodnái	juodnái	+?
+juogakeahtes	juogakeahtes	+?
+juogehahtti	juogehahtti	+?
+juogihahtti	juogihahtti	+?
+juogoheapme	juogoheapme	+?
+juohkásmeahttun	juohkásmeahttun	+?
+juohkebeaivválaš	juohkebeaivválaš	+?
+juohkebeallásaš	juohkebeallásaš	+?
+juohkelágan	juohkelágan	+?
+juohkemeahttun	juohkemeahttun	+?
+juohkešlái	juohkešlái	+?
+juohkimeahttun	juohkimeahttun	+?
+juoiggalmas	juoiggalmas	+?
+juolggeheapme	juolggeheapme	+?
+juolggiheapme	juolggiheapme	+?
+juollet	juollet	+?
+juorbbas	juorbbas	+?
+juorbbehas	juorbbehas	+?
+juorrudeaddji	juorrudeaddji	+?
+juovvái	juovvái	+?
+juovzzas	juovzzas	+?
+jurddašeaddji	jurddašeaddji	+?
+jurddašmeahttun	jurddašmeahttun	+?
+juridihkalaš	juridihkalaš	+?
+juvdu	juvdu	+?
+juvssahahtti	juvssahahtti	+?
+kapitalisttalaš	kapitalisttalaš	+?
+kardinála	kardinála	+?
+kásttaheapme	kásttaheapme	+?
+kataforalaš	kataforalaš	+?
+katolihkalaš	katolihkalaš	+?
+kaukasialaš	kaukasialaš	+?
+keampa	keampa	+?
+kemihkalaš	kemihkalaš	+?
+kemiijalaš	kemiijalaš	+?
+kievra	kievra	+?
+kilosaš	kilosaš	+?
+kirurgalaš	kirurgalaš	+?
+kivrosaš	kivrosaš	+?
+klassihkalaš	klassihkalaš	+?
+kleaidna	kleaidna	+?
+klimáhtalaš	klimáhtalaš	+?
+klinalaš	klinalaš	+?
+knáhpis	knáhpis	+?
+koaillas	koaillas	+?
+kollegiála	kollegiála	+?
+kollektiiva	kollektiiva	+?
+kollektiivvalaš	kollektiivvalaš	+?
+kolonialisttalaš	kolonialisttalaš	+?
+koltálaš	koltálaš	+?
+komihkalaš	komihkalaš	+?
+kommersiála	kommersiála	+?
+kommersiealla	kommersiealla	+?
+kommunála	kommunála	+?
+kommunikatiiva	kommunikatiiva	+?
+komplementára	komplementára	+?
+konkrehta	konkrehta	+?
+konkrehtalaš	konkrehtalaš	+?
+konsekveanta	konsekveanta	+?
+konseptoála	konseptoála	+?
+konseptuála	konseptuála	+?
+konstitušonála	konstitušonála	+?
+konstitušunála	konstitušunála	+?
+konstitušunealla	konstitušunealla	+?
+konstitutionála	konstitutionála	+?
+konstruktiiva	konstruktiiva	+?
+konstruktiivalaš	konstruktiivalaš	+?
+konstruktiivvalaš	konstruktiivvalaš	+?
+kontinentála	kontinentála	+?
+kontrastiivvalaš	kontrastiivvalaš	+?
+kontroversiealla	kontroversiealla	+?
+koreferentiála	koreferentiála	+?
+korporatiiva	korporatiiva	+?
+kosmehtalaš	kosmehtalaš	+?
+kosovo-albanalaš	kosovo-albanalaš	+?
+kránto	kránto	+?
+kreatiiva	kreatiiva	+?
+kreatiivalaš	kreatiivalaš	+?
+kretalaš	kretalaš	+?
+kristalaš	kristalaš	+?
+kristállačuovgat	kristállačuovgat	+?
+kristállalaš	kristállalaš	+?
+kristtalaš	kristtalaš	+?
+kritihkalaš	kritihkalaš	+?
+kroahtalaš	kroahtalaš	+?
+kroavis	kroavis	+?
+kromáhtalaš	kromáhtalaš	+?
+kronalaš	kronalaš	+?
+kronologalaš	kronologalaš	+?
+kruvdnasaš	kruvdnasaš	+?
+kruvdnosaš	kruvdnosaš	+?
+kula	kula	+?
+kulturpolitihkalaš	kulturpolitihkalaš	+?
+kultuvrralaš	kultuvrralaš	+?
+kuohca	kuohca	+?
+kuonna	kuonna	+?
+kuorus	kuorus	+?
+kurdalaš	kurdalaš	+?
+kursiiva	kursiiva	+?
+kvalitatiivalaš	kvalitatiivalaš	+?
+kvantitatiiva	kvantitatiiva	+?
+kvantitatiivalaš	kvantitatiivalaš	+?
+kyrillalaš	kyrillalaš	+?
+labiála	labiála	+?
+láđas	láđas	+?
+laddjui	laddjui	+?
+láđis	láđis	+?
+láđismeahttun	láđismeahttun	+?
+ladjat	ladjat	+?
+ladnjil	ladnjil	+?
+laestadiána	laestadiána	+?
+láfos	láfos	+?
+lagabuš	lagabuš	+?
+lágafámolaš	lágafámolaš	+?
+lágaheapme	lágaheapme	+?
+lágajegolaš	lágajegolaš	+?
+lágan	lágan	+?
+lágán	lágán	+?
+lagas	lagas	+?
+lagaš	lagaš	+?
+lagat	lagat	+?
+lágavuostásaš	lágavuostásaš	+?
+lágavuosttas	lágavuosttas	+?
+láhkačálakeahtes	láhkačálakeahtes	+?
+láhkafámolaš	láhkafámolaš	+?
+láhkageatnegas	láhkageatnegas	+?
+láhkalágan	láhkalágan	+?
+láhkalágán	láhkalágán	+?
+lahkalas	lahkalas	+?
+lahkanmeahttun	lahkanmeahttun	+?
+lahkaoaidnil	lahkaoaidnil	+?
+lahkkálas	lahkkálas	+?
+láiddoheapme	láiddoheapme	+?
+láitemeahttun	láitemeahttun	+?
+láitimeahttun	láitimeahttun	+?
+láittas	láittas	+?
+láittehahtti	láittehahtti	+?
+láittihahtti	láittihahtti	+?
+lákcái	lákcái	+?
+lamas	lamas	+?
+lámas	lámas	+?
+lámis	lámis	+?
+lánas	lánas	+?
+lappalaš	lappalaš	+?
+láskkonjuolgat	láskkonjuolgat	+?
+lášmat	lášmat	+?
+laššis	laššis	+?
+laššit	laššit	+?
+lastái	lastái	+?
+latenamerihkálaš	latenamerihkálaš	+?
+latnjat	latnjat	+?
+láttas	láttas	+?
+lávccaheapme	lávccaheapme	+?
+lávgalas	lávgalas	+?
+lávgat	lávgat	+?
+lávggaheapme	lávggaheapme	+?
+lávggoheapme	lávggoheapme	+?
+lávgil	lávgil	+?
+lávlleheapme	lávlleheapme	+?
+lávlliheapme	lávlliheapme	+?
+lávlu	lávlu	+?
+lávttas	lávttas	+?
+lavttis	lavttis	+?
+lávvolágan	lávvolágan	+?
+lávvolágán	lávvolágán	+?
+lávžálas	lávžálas	+?
+lávžeballalas	lávžeballalas	+?
+lávžegullil	lávžegullil	+?
+lávžegulolaš	lávžegulolaš	+?
+lávžejorralas	lávžejorralas	+?
+leabbat	leabbat	+?
+leaboheapme	leaboheapme	+?
+leabuheapme	leabuheapme	+?
+leahkemeahttun	leahkemeahttun	+?
+leahkimeahttun	leahkimeahttun	+?
+leaicái	leaicái	+?
+leaikái	leaikái	+?
+leamssas	leamssas	+?
+leanzzas	leanzzas	+?
+leappas	leappas	+?
+leastadialaš	leastadialaš	+?
+leatmeahttun	leatmeahttun	+?
+leavllas	leavllas	+?
+leavvi	leavvi	+?
+legála	legála	+?
+leksikála	leksikála	+?
+leksikálalaš	leksikálalaš	+?
+leksikográfalaš	leksikográfalaš	+?
+lestadiánalaš	lestadiánalaš	+?
+liberála	liberála	+?
+liberálalaš	liberálalaš	+?
+libmii	libmii	+?
+liđbmat	liđbmat	+?
+liđvvas	liđvvas	+?
+liebmái	liebmái	+?
+lieggaváimmolaš	lieggaváimmolaš	+?
+liehmos	liehmos	+?
+liekkus	liekkus	+?
+lievllisteaddji	lievllisteaddji	+?
+lievvil	lievvil	+?
+lihkaheaddji	lihkaheaddji	+?
+lihkkoš	lihkkoš	+?
+lihkoheapme	lihkoheapme	+?
+lihkuheapme	lihkuheapme	+?
+liigeguhkki	liigeguhkki	+?
+liigehearki	liigehearki	+?
+liigiguhkki	liigiguhkki	+?
+liigihearki	liigihearki	+?
+limškkas	limškkas	+?
+linccas	linccas	+?
+liŋkkas	liŋkkas	+?
+lingvistihkalaš	lingvistihkalaš	+?
+lingvisttalaš	lingvisttalaš	+?
+linjas	linjas	+?
+lisas	lisas	+?
+lissu	lissu	+?
+livkat	livkat	+?
+livttis	livttis	+?
+livzzas	livzzas	+?
+loabmái	loabmái	+?
+loaččis	loaččis	+?
+loadtja	loadtja	+?
+loahpalaš	loahpalaš	+?
+loahppameahttun	loahppameahttun	+?
+loahtis	loahtis	+?
+loaitu	loaitu	+?
+loakkas	loakkas	+?
+loaktevaš	loaktevaš	+?
+loamššas	loamššas	+?
+loarffas	loarffas	+?
+loaškkas	loaškkas	+?
+loatni	loatni	+?
+loavdi	loavdi	+?
+loavskkas	loavskkas	+?
+loažžat	loažžat	+?
+lobálaš	lobálaš	+?
+lobiheapme	lobiheapme	+?
+lobmui	lobmui	+?
+lodjumeahttun	lodjumeahttun	+?
+lođuheapme	lođuheapme	+?
+logahahtti	logahahtti	+?
+logaheapme	logaheapme	+?
+logalaš	logalaš	+?
+logihkalaš	logihkalaš	+?
+logoforalaš	logoforalaš	+?
+loguheapme	loguheapme	+?
+lohkameahttun	lohkameahttun	+?
+lohtat	lohtat	+?
+loikil	loikil	+?
+lojála	lojála	+?
+lokála	lokála	+?
+loleš	loleš	+?
+lonjas	lonjas	+?
+loseš	loseš	+?
+losideaddji	losideaddji	+?
+loškkas	loškkas	+?
+lossosaš	lossosaš	+?
+lotkat	lotkat	+?
+lotnjat	lotnjat	+?
+lovttolaš	lovttolaš	+?
+luhteránalaš	luhteránalaš	+?
+luhtolaš	luhtolaš	+?
+luhtteorru	luhtteorru	+?
+lujávrilaš	lujávrilaš	+?
+lujávrrelaš	lujávrrelaš	+?
+lullisápmelaš	lullisápmelaš	+?
+lunddolaš	lunddolaš	+?
+luŋkkas	luŋkkas	+?
+luođaheapme	luođaheapme	+?
+luoddái	luoddái	+?
+luođđái	luođđái	+?
+luodnái	luodnái	+?
+luohkkálaš	luohkkálaš	+?
+luohpi	luohpi	+?
+luohtehahtti	luohtehahtti	+?
+luohtihahtti	luohtihahtti	+?
+luohttevaš	luohttevaš	+?
+luoillas	luoillas	+?
+luoktu	luoktu	+?
+luomus	luomus	+?
+luonddudieđalaš	luonddudieđalaš	+?
+luonddulágan	luonddulágan	+?
+luonddulágán	luonddulágán	+?
+luondduvuostásaš	luondduvuostásaš	+?
+luoskkas	luoskkas	+?
+luoškkas	luoškkas	+?
+luossabiebmanfriija	luossabiebmanfriija	+?
+luossái	luossái	+?
+luotkkus	luotkkus	+?
+luottaheapme	luottaheapme	+?
+luovaskas	luovaskas	+?
+luovddalas	luovddalas	+?
+luovos	luovos	+?
+luovus	luovus	+?
+luovvat	luovvat	+?
+lurffas	lurffas	+?
+lurvvas	lurvvas	+?
+lusabeassameahttun	lusabeassameahttun	+?
+lusttuheapme	lusttuheapme	+?
+luteralaš	luteralaš	+?
+luteránalaš	luteránalaš	+?
+lutherána	lutherána	+?
+lutherlaš	lutherlaš	+?
+luvnnja	luvnnja	+?
+luvnnjas	luvnnjas	+?
+luvvil	luvvil	+?
+lyralaš	lyralaš	+?
+lyrihkalaš	lyrihkalaš	+?
+læstadialaš	læstadialaš	+?
+læstadiolaš	læstadiolaš	+?
+mađáš	mađáš	+?
+máddeleabbo	máddeleabbo	+?
+máddogávvil	máddogávvil	+?
+máđoheapme	máđoheapme	+?
+magihkalaš	magihkalaš	+?
+mágihkalaš	mágihkalaš	+?
+magiijalaš	magiijalaš	+?
+mágiijalaš	mágiijalaš	+?
+magnehtalaš	magnehtalaš	+?
+mágnehtalaš	mágnehtalaš	+?
+máhccevaš	máhccevaš	+?
+mahtásaš	mahtásaš	+?
+mahtosaš	mahtosaš	+?
+máhtuheapme	máhtuheapme	+?
+máihlleheapme	máihlleheapme	+?
+máihlliheapme	máihlliheapme	+?
+máilmmeloga	máilmmeloga	+?
+máilmmiloga	máilmmiloga	+?
+máilmmiviidosaš	máilmmiviidosaš	+?
+máinnalmas	máinnalmas	+?
+máinnašuvvon	máinnašuvvon	+?
+máinneheapme	máinneheapme	+?
+máinniheapme	máinniheapme	+?
+máinnolmas	máinnolmas	+?
+máisttoheapme	máisttoheapme	+?
+máizzas	máizzas	+?
+majestehtalaš	majestehtalaš	+?
+makkáraš	makkáraš	+?
+maksimála	maksimála	+?
+máksingeatnegas	máksingeatnegas	+?
+máksinnávccaheapme	máksinnávccaheapme	+?
+máksinnávccalaš	máksinnávccalaš	+?
+máksoáŋgir	máksoáŋgir	+?
+mállegelbbolaš	mállegelbbolaš	+?
+manahahtti	manahahtti	+?
+mánáheapme	mánáheapme	+?
+mánas	mánas	+?
+mánaskas	mánaskas	+?
+máŋgaholddet	máŋgaholddet	+?
+máŋggabealálaš	máŋggabealálaš	+?
+máŋggabealat	máŋggabealat	+?
+máŋggabeallásaš	máŋggabeallásaš	+?
+máŋggabuolvvat	máŋggabuolvvat	+?
+máŋggačearddalaš	máŋggačearddalaš	+?
+máŋggačuohtejahkásaš	máŋggačuohtejahkásaš	+?
+máŋggadáiddalaš	máŋggadáiddalaš	+?
+máŋggadássásaš	máŋggadássásaš	+?
+máŋggadieđalaš	máŋggadieđalaš	+?
+máŋggafágalaš	máŋggafágalaš	+?
+máŋggageardán	máŋggageardán	+?
+máŋggageardásaš	máŋggageardásaš	+?
+máŋggagielalaš	máŋggagielalaš	+?
+máŋggagielat	máŋggagielat	+?
+máŋggaidgaskasaš	máŋggaidgaskasaš	+?
+máŋggaivdnásaš	máŋggaivdnásaš	+?
+máŋggajahkásaš	máŋggajahkásaš	+?
+máŋggakultuvrralaš	máŋggakultuvrralaš	+?
+máŋggakultuvrrat	máŋggakultuvrrat	+?
+máŋggalágan	máŋggalágan	+?
+máŋggalágán	máŋggalágán	+?
+máŋggasivavuloš	máŋggasivavuloš	+?
+máŋggašlái	máŋggašlái	+?
+máŋggasuorat	máŋggasuorat	+?
+maŋit	maŋit	+?
+maŋitvurrosaš	maŋitvurrosaš	+?
+maŋŋálas	maŋŋálas	+?
+maŋŋelaš	maŋŋelaš	+?
+maŋŋit	maŋŋit	+?
+maŋosmanni	maŋosmanni	+?
+maniheapme	maniheapme	+?
+maniijalaš	maniijalaš	+?
+mannanidjasaš	mannanidjasaš	+?
+manni	manni	+?
+mannosaš	mannosaš	+?
+manuheapme	manuheapme	+?
+marginála	marginála	+?
+maritiibma	maritiibma	+?
+maritiima	maritiima	+?
+márkemearrásaš	márkemearrásaš	+?
+marššas	marššas	+?
+mášaheapme	mášaheapme	+?
+mášiinnalaš	mášiinnalaš	+?
+máškit	máškit	+?
+mášoheapme	mášoheapme	+?
+matemáhtalaš	matemáhtalaš	+?
+materialisttalaš	materialisttalaš	+?
+máŧoheapme	máŧoheapme	+?
+máŧolaš	máŧolaš	+?
+matriarkálalaš	matriarkálalaš	+?
+máttasápmelaš	máttasápmelaš	+?
+máttibuš	máttibuš	+?
+máŧuheapme	máŧuheapme	+?
+mávssoheapme	mávssoheapme	+?
+meaddevaš	meaddevaš	+?
+meaddilmanni	meaddilmanni	+?
+meaddugas	meaddugas	+?
+meađggus	meađggus	+?
+meađmma	meađmma	+?
+meamma	meamma	+?
+meammas	meammas	+?
+meareheapme	meareheapme	+?
+meariheapme	meariheapme	+?
+mearkavuđot	mearkavuđot	+?
+mearkkahahtti	mearkkahahtti	+?
+mearkkaheapme	mearkkaheapme	+?
+mearkkašahtti	mearkkašahtti	+?
+mearkkašeaddji	mearkkašeaddji	+?
+mearkkašmeahttun	mearkkašmeahttun	+?
+mearrasápmelaš	mearrasápmelaš	+?
+mearreáigásaš	mearreáigásaš	+?
+mearrediđolaš	mearrediđolaš	+?
+mearreprojektionála	mearreprojektionála	+?
+mearridanfámolaš	mearridanfámolaš	+?
+mearridanválddálaš	mearridanválddálaš	+?
+mearrideaddji	mearrideaddji	+?
+mearritmeahttun	mearritmeahttun	+?
+meašttárlaš	meašttárlaš	+?
+meavrresgárelágan	meavrresgárelágan	+?
+mediála	mediála	+?
+medisiinnalaš	medisiinnalaš	+?
+megalománalaš	megalománalaš	+?
+mekánalaš	mekánalaš	+?
+meksikána	meksikána	+?
+meksikánalaš	meksikánalaš	+?
+melodramáhtalaš	melodramáhtalaš	+?
+mentála	mentála	+?
+mentálalaš	mentálalaš	+?
+merolaš	merolaš	+?
+mesolihtalaš	mesolihtalaš	+?
+metaforalaš	metaforalaš	+?
+metagielalaš	metagielalaš	+?
+metatehtalaš	metatehtalaš	+?
+meteorologalaš	meteorologalaš	+?
+metodologalaš	metodologalaš	+?
+miđáheapme	miđáheapme	+?
+mieđamánas	mieđamánas	+?
+mieđis	mieđis	+?
+miehtáriikasaš	miehtáriikasaš	+?
+miehtedoaris	miehtedoaris	+?
+miehtidoaris	miehtidoaris	+?
+mieiggus	mieiggus	+?
+mielaevttot	mielaevttot	+?
+mielaheapme	mielaheapme	+?
+mielaidgeassi	mielaidgeassi	+?
+mielčuovvu	mielčuovvu	+?
+mielkkas	mielkkas	+?
+mielkkeheapme	mielkkeheapme	+?
+mielkkiheapme	mielkkiheapme	+?
+miellačájeheaddji	miellačájeheaddji	+?
+miellagiddevaš	miellagiddevaš	+?
+miellahápmásaš	miellahápmásaš	+?
+miellasaš	miellasaš	+?
+miellavádjet	miellavádjet	+?
+miellavádjigat	miellavádjigat	+?
+miellaváillat	miellaváillat	+?
+mielriegádan	mielriegádan	+?
+mielsivalaš	mielsivalaš	+?
+mieseheapme	mieseheapme	+?
+miesiheapme	miesiheapme	+?
+miessái	miessái	+?
+mievkkis	mievkkis	+?
+miháš	miháš	+?
+miholaš	miholaš	+?
+mihtaskas	mihtaskas	+?
+mihtilmas	mihtilmas	+?
+mihtitmeahttun	mihtitmeahttun	+?
+mihtus	mihtus	+?
+militánta	militánta	+?
+militearalaš	militearalaš	+?
+miljovdnasaš	miljovdnasaš	+?
+minerálalaš	minerálalaš	+?
+miniatiirasturrosaš	miniatiirasturrosaš	+?
+minimála	minimála	+?
+minuktasaš	minuktasaš	+?
+mirkkolaš	mirkkolaš	+?
+moaitemeahttun	moaitemeahttun	+?
+moaitimeahttun	moaitimeahttun	+?
+moaittehahtti	moaittehahtti	+?
+moakkas	moakkas	+?
+moalas	moalas	+?
+moalkás	moalkás	+?
+moalkkas	moalkkas	+?
+moallái	moallái	+?
+moarssaskas	moarssaskas	+?
+moattelágan	moattelágan	+?
+moattelágán	moattelágán	+?
+moattevahkkosaš	moattevahkkosaš	+?
+moattilágan	moattilágan	+?
+moattilágán	moattilágán	+?
+mobiila	mobiila	+?
+modearna	modearna	+?
+moderáhta	moderáhta	+?
+mohkeheapme	mohkeheapme	+?
+mohkiheapme	mohkiheapme	+?
+mohkkái	mohkkái	+?
+mohtorkeahtes	mohtorkeahtes	+?
+mohttái	mohttái	+?
+moivvas	moivvas	+?
+molddas	molddas	+?
+molsaeaktolaš	molsaeaktolaš	+?
+molssaektosaš	molssaektosaš	+?
+molssaevttolaš	molssaevttolaš	+?
+molssolaš	molssolaš	+?
+momentána	momentána	+?
+monemušhámat	monemušhámat	+?
+monimušhámat	monimušhámat	+?
+monogámalaš	monogámalaš	+?
+monopollágan	monopollágan	+?
+monopollágán	monopollágán	+?
+morálaheapme	morálaheapme	+?
+moralalaš	moralalaš	+?
+morálalaš	morálalaš	+?
+morálameahttun	morálameahttun	+?
+morašlaš	morašlaš	+?
+morašmielalaš	morašmielalaš	+?
+morašmielat	morašmielat	+?
+morfofonologalaš	morfofonologalaš	+?
+morfologalaš	morfologalaš	+?
+morfologálaš	morfologálaš	+?
+morrái	morrái	+?
+morreš	morreš	+?
+morris	morris	+?
+morrit	morrit	+?
+moskkas	moskkas	+?
+moskkus	moskkus	+?
+mosttas	mosttas	+?
+motoralaš	motoralaš	+?
+movttet	movttet	+?
+muddosaš	muddosaš	+?
+muhtehahtekeahtes	muhtehahtekeahtes	+?
+muhtinlágan	muhtinlágan	+?
+muhtinlágán	muhtinlágán	+?
+muhtinlágaš	muhtinlágaš	+?
+muhtinlágáš	muhtinlágáš	+?
+muhtosaš	muhtosaš	+?
+muhtunlágan	muhtunlágan	+?
+muhtunlágán	muhtunlágán	+?
+muhtunlágaš	muhtunlágaš	+?
+muhtunlágáš	muhtunlágáš	+?
+muidui	muidui	+?
+muittoheapme	muittoheapme	+?
+mukkas	mukkas	+?
+multifunkšunála	multifunkšunála	+?
+multifunktionála	multifunktionála	+?
+multilaterála	multilaterála	+?
+multimedialaš	multimedialaš	+?
+muohtaheapme	muohtaheapme	+?
+muohtavielgat	muohtavielgat	+?
+muoldái	muoldái	+?
+muolddas	muolddas	+?
+muoraheapme	muoraheapme	+?
+muorrái	muorrái	+?
+muoseheapme	muoseheapme	+?
+muosiheapme	muosiheapme	+?
+muosset	muosset	+?
+muossit	muossit	+?
+muosvvis	muosvvis	+?
+murtolas	murtolas	+?
+murtolaš	murtolaš	+?
+musihkkalaš	musihkkalaš	+?
+musikálalaš	musikálalaš	+?
+muttát	muttát	+?
+mystihkalaš	mystihkalaš	+?
+mytologalaš	mytologalaš	+?
+nađaheapme	nađaheapme	+?
+nađđajoatkkalaš	nađđajoatkkalaš	+?
+náddjil	náddjil	+?
+nággár	nággár	+?
+nagirheapme	nagirheapme	+?
+naiiva	naiiva	+?
+náiiva	náiiva	+?
+náitalgeahtes	náitalgeahtes	+?
+náitoslágan	náitoslágan	+?
+nalas	nalas	+?
+náleheapme	náleheapme	+?
+nálggas	nálggas	+?
+náliheapme	náliheapme	+?
+nalttas	nalttas	+?
+namahahtti	namahahtti	+?
+namaheapme	namaheapme	+?
+namakeahtes	namakeahtes	+?
+námas	námas	+?
+nammasaš	nammasaš	+?
+nanadáhtolaš	nanadáhtolaš	+?
+nanaguoddevaš	nanaguoddevaš	+?
+nannehahtti	nannehahtti	+?
+nannemeahttun	nannemeahttun	+?
+nanus	nanus	+?
+nárvvas	nárvvas	+?
+nasála	nasála	+?
+našonála	našonála	+?
+naššuvnnalaš	naššuvnnalaš	+?
+náššuvnnalaš	náššuvnnalaš	+?
+našunála	našunála	+?
+nášunála	nášunála	+?
+nášunálalaš	nášunálalaš	+?
+nášuvnála	nášuvnála	+?
+nášuvnnála	nášuvnnála	+?
+našuvnnalaš	našuvnnalaš	+?
+nášuvnnalaš	nášuvnnalaš	+?
+nationála	nationála	+?
+nautalaš	nautalaš	+?
+návccaheapme	návccaheapme	+?
+navggas	navggas	+?
+navkkas	navkkas	+?
+návvái	návvái	+?
+neagoheapme	neagoheapme	+?
+neaguheapme	neaguheapme	+?
+neagus	neagus	+?
+neahkameahttun	neahkameahttun	+?
+neahtis	neahtis	+?
+nealggas	nealggas	+?
+nealguvaš	nealguvaš	+?
+nearas	nearas	+?
+nearoheapme	nearoheapme	+?
+neavrras	neavrras	+?
+negatiiva	negatiiva	+?
+negatiivalaš	negatiivalaš	+?
+negatiivvalaš	negatiivvalaš	+?
+nenetsalaš	nenetsalaš	+?
+neogrammatihkalaš	neogrammatihkalaš	+?
+neolihtalaš	neolihtalaš	+?
+nepper	nepper	+?
+neutrála	neutrála	+?
+nevvot	nevvot	+?
+niestteheapme	niestteheapme	+?
+niesttiheapme	niesttiheapme	+?
+nievkkas	nievkkas	+?
+nihkkoš	nihkkoš	+?
+nirppas	nirppas	+?
+nirvvas	nirvvas	+?
+nivssas	nivssas	+?
+njabas	njabas	+?
+njáđđi	njáđđi	+?
+njagas	njagas	+?
+njahpit	njahpit	+?
+njáiggas	njáiggas	+?
+njáiggos	njáiggos	+?
+njáikkas	njáikkas	+?
+njákkas	njákkas	+?
+njaláhas	njaláhas	+?
+njálbmugas	njálbmugas	+?
+njálggat	njálggat	+?
+njálggis	njálggis	+?
+njálmmaskas	njálmmaskas	+?
+njálmmeheapme	njálmmeheapme	+?
+njálmmiheapme	njálmmiheapme	+?
+njalppas	njalppas	+?
+njalssas	njalssas	+?
+njameš	njameš	+?
+njaŋggas	njaŋggas	+?
+njáŋggas	njáŋggas	+?
+njárgái	njárgái	+?
+njarttas	njarttas	+?
+njarvvas	njarvvas	+?
+njáškkas	njáškkas	+?
+njattas	njattas	+?
+njavččas	njavččas	+?
+njavgat	njavgat	+?
+njávkkas	njávkkas	+?
+njávval	njávval	+?
+njázos	njázos	+?
+njeaccas	njeaccas	+?
+njeađgi	njeađgi	+?
+njealjegeardán	njealjegeardán	+?
+njealjegeardásaš	njealjegeardásaš	+?
+njealjejuolggat	njealjejuolggat	+?
+njealljejuvllat	njealljejuvllat	+?
+njeaššas	njeaššas	+?
+njeavccas	njeavccas	+?
+njieddji	njieddji	+?
+njielaheapme	njielaheapme	+?
+njieloheapme	njieloheapme	+?
+njieluheapme	njieluheapme	+?
+njiezas	njiezas	+?
+njivlla	njivlla	+?
+njivllas	njivllas	+?
+njoađggas	njoađggas	+?
+njoađvvas	njoađvvas	+?
+njoahppat	njoahppat	+?
+njoahppil	njoahppil	+?
+njoaiddus	njoaiddus	+?
+njoalccas	njoalccas	+?
+njoalokeahtes	njoalokeahtes	+?
+njoalppas	njoalppas	+?
+njoammu	njoammu	+?
+njolvvas	njolvvas	+?
+njuneheapme	njuneheapme	+?
+njuniheapme	njuniheapme	+?
+njuohcci	njuohcci	+?
+njuohpa	njuohpa	+?
+njuokčanvuloš	njuokčanvuloš	+?
+njuokkas	njuokkas	+?
+njuolggaduslaš	njuolggaduslaš	+?
+njuolggadusvuloš	njuolggadusvuloš	+?
+njuolggalaš	njuolggalaš	+?
+njuolggosánálaš	njuolggosánálaš	+?
+njuolggus	njuolggus	+?
+njuolgguslaš	njuolgguslaš	+?
+njuolvvas	njuolvvas	+?
+njuolvves	njuolvves	+?
+njuorradeaddji	njuorradeaddji	+?
+njuorššas	njuorššas	+?
+njuorvvas	njuorvvas	+?
+njuoski	njuoski	+?
+njuoskil	njuoskil	+?
+njuovvi	njuovvi	+?
+njuovžil	njuovžil	+?
+njuovžžas	njuovžžas	+?
+noaiddes	noaiddes	+?
+nohkameahttun	nohkameahttun	+?
+nohkavaš	nohkavaš	+?
+nohkkivaš	nohkkivaš	+?
+nollas	nollas	+?
+nominála	nominála	+?
+nominatiivahápmásaš	nominatiivahápmásaš	+?
+nomotehtalaš	nomotehtalaš	+?
+norgalaš	norgalaš	+?
+norgalaš-ruoššalaš	norgalaš-ruoššalaš	+?
+norkkas	norkkas	+?
+normála	normála	+?
+normatiiva	normatiiva	+?
+norrøna	norrøna	+?
+nubbe	nubbe	+?
+nubbingielat	nubbingielat	+?
+nugohčoduvvon	nugohčoduvvon	+?
+nuohtaheapme	nuohtaheapme	+?
+nuolus	nuolus	+?
+nuommi	nuommi	+?
+nuommir	nuommir	+?
+nuoraidpsykiátralaš	nuoraidpsykiátralaš	+?
+nuortaeatnanlaš	nuortaeatnanlaš	+?
+nuortalaš	nuortalaš	+?
+nuortasápmelaš	nuortasápmelaš	+?
+nuovvas	nuovvas	+?
+nuppáš	nuppáš	+?
+nuppeárvosaš	nuppeárvosaš	+?
+nuppelágan	nuppelágan	+?
+nuppelohjahkásaš	nuppelohjahkásaš	+?
+nuppisadjásaš	nuppisadjásaš	+?
+nurddas	nurddas	+?
+nurrái	nurrái	+?
+nurssas	nurssas	+?
+nurššas	nurššas	+?
+nøytrála	nøytrála	+?
+oabmái	oabmái	+?
+oaččeheapme	oaččeheapme	+?
+oaččiheapme	oaččiheapme	+?
+oaččoheapme	oaččoheapme	+?
+oaddi	oaddi	+?
+oađekeat	oađekeat	+?
+oadjebas	oadjebas	+?
+oahccái	oahccái	+?
+oahcit	oahcit	+?
+oahpahusgeatnegas	oahpahusgeatnegas	+?
+oahpismeahttun	oahpismeahttun	+?
+oahppageatnegas	oahppageatnegas	+?
+oahppameahttun	oahppameahttun	+?
+oahppavaš	oahppavaš	+?
+oahppevaš	oahppevaš	+?
+oahppogeatnegas	oahppogeatnegas	+?
+oahppováillat	oahppováillat	+?
+oaidnemeahttun	oaidnemeahttun	+?
+oaidnil	oaidnil	+?
+oaidnimeahttun	oaidnimeahttun	+?
+oainnoheapme	oainnoheapme	+?
+oainnus	oainnus	+?
+oaivelámis	oaivelámis	+?
+oaivenjuolggaduslaš	oaivenjuolggaduslaš	+?
+oaivilámis	oaivilámis	+?
+oaivugas	oaivugas	+?
+oaivveheapme	oaivveheapme	+?
+oaivvesnaga	oaivvesnaga	+?
+oaivviheapme	oaivviheapme	+?
+oallásahtes	oallásahtes	+?
+oamedovddoheapme	oamedovddoheapme	+?
+oamedovddolaš	oamedovddolaš	+?
+oamidovddoheapme	oamidovddoheapme	+?
+oamivanhurskkis	oamivanhurskkis	+?
+oamivánhurskkis	oamivánhurskkis	+?
+oanehaš	oanehaš	+?
+oanehisáigásaš	oanehisáigásaš	+?
+oapmedaš	oapmedaš	+?
+oaraheapme	oaraheapme	+?
+oardnji	oardnji	+?
+oarjeeurohpálaš	oarjeeurohpálaš	+?
+oartnjas	oartnjas	+?
+oaseheapme	oaseheapme	+?
+oasiheapme	oasiheapme	+?
+oassádalli	oassádalli	+?
+oassálas	oassálas	+?
+oassálaš	oassálaš	+?
+oasseáigásaš	oasseáigásaš	+?
+oassemávssekeahtes	oassemávssekeahtes	+?
+oassesivalaš	oassesivalaš	+?
+oastil	oastil	+?
+oatnelágan	oatnelágan	+?
+oaván	oaván	+?
+oavlái	oavlái	+?
+oavsseheapme	oavsseheapme	+?
+oavssiheapme	oavssiheapme	+?
+oažžul	oažžul	+?
+objektiiva	objektiiva	+?
+objektiivvalaš	objektiivvalaš	+?
+obmui	obmui	+?
+observationála	observationála	+?
+obugralaš	obugralaš	+?
+ođasnuvakeahtes	ođasnuvakeahtes	+?
+ođastanhálolaš	ođastanhálolaš	+?
+ođđaáigásaš	ođđaáigásaš	+?
+ođđaivnnálaš	ođđaivnnálaš	+?
+ođđamállet	ođđamállet	+?
+offensiiva	offensiiva	+?
+offensiivvalaš	offensiivvalaš	+?
+ohcangeatnegas	ohcangeatnegas	+?
+ohcejohkalaš	ohcejohkalaš	+?
+oidduheapme	oidduheapme	+?
+okkasionála	okkasionála	+?
+oktagaslaš	oktagaslaš	+?
+oktageardán	oktageardán	+?
+oktageardásaš	oktageardásaš	+?
+oktalaš	oktalaš	+?
+oktasaš	oktasaš	+?
+oktat	oktat	+?
+oktavuolgganas	oktavuolgganas	+?
+oktiigullevaš	oktiigullevaš	+?
+oktiiheivvolaš	oktiiheivvolaš	+?
+oktiisoahpevaš	oktiisoahpevaš	+?
+oktiisoahppevaš	oktiisoahppevaš	+?
+oktilaš	oktilaš	+?
+oktilis	oktilis	+?
+oktonas	oktonas	+?
+oktoráđálaš	oktoráđálaš	+?
+olatmeahttun	olatmeahttun	+?
+olbmoheapme	olbmoheapme	+?
+olgeš	olgeš	+?
+olggosbuoidi	olggosbuoidi	+?
+olggubuš	olggubuš	+?
+olgguldas	olgguldas	+?
+olggut	olggut	+?
+olgogollát	olgogollát	+?
+olgogullát	olgogullát	+?
+olgoparlamentáralaš	olgoparlamentáralaš	+?
+olgoriikkalaš	olgoriikkalaš	+?
+olgoriikkapolitihkalaš	olgoriikkapolitihkalaš	+?
+ollašuhttingelbbolaš	ollašuhttingelbbolaš	+?
+ollesahkásaš	ollesahkásaš	+?
+ollesáigásaš	ollesáigásaš	+?
+ollesárvosaš	ollesárvosaš	+?
+ollil	ollil	+?
+ollislaš	ollislaš	+?
+ollolvuloš	ollolvuloš	+?
+ollu	ollu	+?
+olmmáilaš	olmmáilaš	+?
+olmmáiváibmil	olmmáiváibmil	+?
+olmmošaddjái	olmmošaddjái	+?
+olmmošárgi	olmmošárgi	+?
+olmmošlaš	olmmošlaš	+?
+olmmošmeahttun	olmmošmeahttun	+?
+olmmošnákkis	olmmošnákkis	+?
+olu	olu	+?
+olympalaš	olympalaš	+?
+onomasiologalaš	onomasiologalaš	+?
+operatiivvalaš	operatiivvalaš	+?
+oppa	oppa	+?
+oppaeurohpálaš	oppaeurohpálaš	+?
+oppalaš	oppalaš	+?
+oppas	oppas	+?
+optimála	optimála	+?
+optimistalaš	optimistalaš	+?
+oranša	oranša	+?
+oránša	oránša	+?
+orččas	orččas	+?
+orči	orči	+?
+ordásaš	ordásaš	+?
+orgánalaš	orgánalaš	+?
+organisatoralaš	organisatoralaš	+?
+organisatovrralaš	organisatovrralaš	+?
+organisatuvrralaš	organisatuvrralaš	+?
+orientála	orientála	+?
+orientálalaš	orientálalaš	+?
+originála	originála	+?
+ortnetgullevaš	ortnetgullevaš	+?
+ortodoksa	ortodoksa	+?
+ortodoksalaš	ortodoksalaš	+?
+ortográfalaš	ortográfalaš	+?
+ortopedalaš	ortopedalaš	+?
+ortopediijalaš	ortopediijalaš	+?
+oruhahtti	oruhahtti	+?
+oskkáldas	oskkáldas	+?
+oskkáldasmeahttun	oskkáldasmeahttun	+?
+otná	otná	+?
+ovdagáttolaš	ovdagáttolaš	+?
+ovdagieđaheapme	ovdagieđaheapme	+?
+ovdahistorjjálaš	ovdahistorjjálaš	+?
+ovdaláiggiriegádan	ovdaláiggiriegádan	+?
+ovdalaš	ovdalaš	+?
+ovdamearkkalaš	ovdamearkkalaš	+?
+ovdánanmielalaš	ovdánanmielalaš	+?
+ovdáneaddji	ovdáneaddji	+?
+ovdánmeahttun	ovdánmeahttun	+?
+ovdaromálaš	ovdaromálaš	+?
+ovdarossái	ovdarossái	+?
+ovddasteaddji	ovddasteaddji	+?
+ovddasvástáduslaš	ovddasvástáduslaš	+?
+ovddasvásttolaš	ovddasvásttolaš	+?
+ovddeš	ovddeš	+?
+ovddetjagáš	ovddetjagáš	+?
+ovddit	ovddit	+?
+ovtta-ahkáhaš	ovtta-ahkáhaš	+?
+ovtta-ahkásaš	ovtta-ahkásaš	+?
+ovttaáigásaš	ovttaáigásaš	+?
+ovttaárvosaš	ovttaárvosaš	+?
+ovttabealálaš	ovttabealálaš	+?
+ovttabealat	ovttabealat	+?
+ovttabealát	ovttabealát	+?
+ovttabeallásaš	ovttabeallásaš	+?
+ovttačilggolaš	ovttačilggolaš	+?
+ovttadássásaš	ovttadássásaš	+?
+ovttadimensionála	ovttadimensionála	+?
+ovttagaslaš	ovttagaslaš	+?
+ovttageardán	ovttageardán	+?
+ovttageardásaš	ovttageardásaš	+?
+ovttagielalaš	ovttagielalaš	+?
+ovttagielat	ovttagielat	+?
+ovttagivrosaš	ovttagivrosaš	+?
+ovttaguhkkosaš	ovttaguhkkosaš	+?
+ovttaguvlosaš	ovttaguvlosaš	+?
+ovttahápmásaš	ovttahápmásaš	+?
+ovttaháválaš	ovttaháválaš	+?
+ovttaháváš	ovttaháváš	+?
+ovttaheapme	ovttaheapme	+?
+ovttaivnnálaš	ovttaivnnálaš	+?
+ovttalágan	ovttalágan	+?
+ovttalaš	ovttalaš	+?
+ovttaluoddasaš	ovttaluoddasaš	+?
+ovttamađu	ovttamađu	+?
+ovttamuottat	ovttamuottat	+?
+ovttanáittuslaš	ovttanáittuslaš	+?
+ovttanammasaš	ovttanammasaš	+?
+ovttaoaivil	ovttaoaivil	+?
+ovttaráđálaš	ovttaráđálaš	+?
+ovttasárgálaš	ovttasárgálaš	+?
+ovttaskas	ovttaskas	+?
+ovttaskaslundosaš	ovttaskaslundosaš	+?
+ovttasorttat	ovttasorttat	+?
+ovttasparggálaš	ovttasparggálaš	+?
+ovttasturrosaš	ovttasturrosaš	+?
+ovttastuvvon	ovttastuvvon	+?
+ovttasullasaš	ovttasullasaš	+?
+ovttavásttolaš	ovttavásttolaš	+?
+ovttaveardásaš	ovttaveardásaš	+?
+ovttilis	ovttilis	+?
+ovttaallosaš	ovttaallosaš	+?
+ožžoš	ožžoš	+?
+pakistána	pakistána	+?
+palestiinnálaš	palestiinnálaš	+?
+palestinalaš	palestinalaš	+?
+paradigmáhtalaš	paradigmáhtalaš	+?
+páraheapme	páraheapme	+?
+parlamentaralaš	parlamentaralaš	+?
+parlamenttalaš	parlamenttalaš	+?
+partiála	partiála	+?
+passiivvalaš	passiivvalaš	+?
+pássiivvalaš	pássiivvalaš	+?
+patriarkálalaš	patriarkálalaš	+?
+peailasaš	peailasaš	+?
+pedagogalaš	pedagogalaš	+?
+pedagogálaš	pedagogálaš	+?
+perbmelaš	perbmelaš	+?
+persovnnaheapme	persovnnaheapme	+?
+persovnnalaš	persovnnalaš	+?
+persovnnálaš	persovnnálaš	+?
+persuvnnaheapme	persuvnnaheapme	+?
+persuvnnalaš	persuvnnalaš	+?
+peršuvnnalaš	peršuvnnalaš	+?
+pivlii	pivlii	+?
+pneumáhtalaš	pneumáhtalaš	+?
+polára	polára	+?
+politihkalaš	politihkalaš	+?
+politihkálaš	politihkálaš	+?
+politihkkalaš	politihkkalaš	+?
+polygámalaš	polygámalaš	+?
+polygamiijalaš	polygamiijalaš	+?
+populára	populára	+?
+populearadieđalaš	populearadieđalaš	+?
+portugisalaš	portugisalaš	+?
+posetiiva	posetiiva	+?
+positiiva	positiiva	+?
+positiivalaš	positiivalaš	+?
+positiivvalaš	positiivvalaš	+?
+potentiála	potentiála	+?
+pragmáhtalaš	pragmáhtalaš	+?
+pragmatihkalaš	pragmatihkalaš	+?
+praktihkalaš	praktihkalaš	+?
+prejudisiála	prejudisiála	+?
+preliminára	preliminára	+?
+prentengárvvis	prentengárvvis	+?
+primára	primára	+?
+primitiiva	primitiiva	+?
+primitiivvalaš	primitiivvalaš	+?
+prinsihpalaš	prinsihpalaš	+?
+prinsihppalaš	prinsihppalaš	+?
+prinsipála	prinsipála	+?
+prinsipiála	prinsipiála	+?
+priváhtarievttálaš	priváhtarievttálaš	+?
+priváhtavuoigatvuođalaš	priváhtavuoigatvuođalaš	+?
+priváhtta	priváhtta	+?
+problemaheapme	problemaheapme	+?
+problemáhtalaš	problemáhtalaš	+?
+produktiiva	produktiiva	+?
+produktiivvalaš	produktiivvalaš	+?
+profehtalaš	profehtalaš	+?
+profešunealla	profešunealla	+?
+proffa	proffa	+?
+profišunealla	profišunealla	+?
+programmáhtalaš	programmáhtalaš	+?
+progressiiva	progressiiva	+?
+projektionála	projektionála	+?
+proklihtalaš	proklihtalaš	+?
+prosálaš	prosálaš	+?
+prosentuála	prosentuála	+?
+prosessuála	prosessuála	+?
+prosessuealla	prosessuealla	+?
+protestánttalaš	protestánttalaš	+?
+psyhkalaš	psyhkalaš	+?
+psyhkálaš	psyhkálaš	+?
+psykalaš	psykalaš	+?
+psykiátralaš	psykiátralaš	+?
+psykihkalaš	psykihkalaš	+?
+psykohtalaš	psykohtalaš	+?
+psykologalaš	psykologalaš	+?
+psykosomáhtalaš	psykosomáhtalaš	+?
+psykososiála	psykososiála	+?
+punktuála	punktuála	+?
+puritánalaš	puritánalaš	+?
+pytagoralaš	pytagoralaš	+?
+rábmái	rábmái	+?
+rábmii	rábmii	+?
+raččas	raččas	+?
+ráččas	ráččas	+?
+ráđas	ráđas	+?
+raddálas	raddálas	+?
+ráđđeaddi	ráđđeaddi	+?
+ráđđejeaddji	ráđđejeaddji	+?
+raddelámis	raddelámis	+?
+ráđđenhálolaš	ráđđenhálolaš	+?
+ráđđiaddi	ráđđiaddi	+?
+ráddjil	ráddjil	+?
+ráđeheapme	ráđeheapme	+?
+ráđiheapme	ráđiheapme	+?
+radikála	radikála	+?
+radioaktiiva	radioaktiiva	+?
+rádioaktiiva	rádioaktiiva	+?
+rádjaguovlluguovdasaš	rádjaguovlluguovdasaš	+?
+rádjálas	rádjálas	+?
+rádjelihkot	rádjelihkot	+?
+rádjilihkot	rádjilihkot	+?
+ráđus	ráđus	+?
+ráfeheapme	ráfeheapme	+?
+ráfiheapme	ráfiheapme	+?
+rageš	rageš	+?
+ráhkaduslaš	ráhkaduslaš	+?
+rahkat	rahkat	+?
+ráhkis	ráhkis	+?
+ráhkislaš	ráhkislaš	+?
+ráhkismeahttun	ráhkismeahttun	+?
+rahkki	rahkki	+?
+rahpas	rahpas	+?
+ráigeoaivvat	ráigeoaivvat	+?
+ráigioaivvat	ráigioaivvat	+?
+ráikkas	ráikkas	+?
+ráilu	ráilu	+?
+ráiskkas	ráiskkas	+?
+rájaheapme	rájaheapme	+?
+rájákeahtes	rájákeahtes	+?
+rajárastá	rajárastá	+?
+rájeheapme	rájeheapme	+?
+rájiheapme	rájiheapme	+?
+rájuheapme	rájuheapme	+?
+rákti	rákti	+?
+rámálmas	rámálmas	+?
+rámppas	rámppas	+?
+rámskkas	rámskkas	+?
+rámškkas	rámškkas	+?
+rámssas	rámssas	+?
+rámššas	rámššas	+?
+ranččas	ranččas	+?
+ránččas	ránččas	+?
+rándolaš	rándolaš	+?
+rándulaš	rándulaš	+?
+ránesruškat	ránesruškat	+?
+raŋggas	raŋggas	+?
+ráŋggáštusvuloš	ráŋggáštusvuloš	+?
+ránis	ránis	+?
+ránskalaš	ránskalaš	+?
+ránto	ránto	+?
+ráseheapme	ráseheapme	+?
+rásiheapme	rásiheapme	+?
+rasisttalaš	rasisttalaš	+?
+rásisttalaš	rásisttalaš	+?
+rássái	rássái	+?
+rastásaš	rastásaš	+?
+rationála	rationála	+?
+ravdameahttun	ravdameahttun	+?
+ravddabuš	ravddabuš	+?
+ravddaheapme	ravddaheapme	+?
+ravddamus	ravddamus	+?
+rávis	rávis	+?
+ravjjas	ravjjas	+?
+rávnnjeheapme	rávnnjeheapme	+?
+rávnnjiheapme	rávnnjiheapme	+?
+rávvejeaddji	rávvejeaddji	+?
+rávžžas	rávžžas	+?
+ražžat	ražžat	+?
+reagaheapme	reagaheapme	+?
+reahalaš	reahalaš	+?
+reahcas	reahcas	+?
+reaktioneara	reaktioneara	+?
+reála	reála	+?
+realistalaš	realistalaš	+?
+reálistalaš	reálistalaš	+?
+realisttalaš	realisttalaš	+?
+reálisttalaš	reálisttalaš	+?
+realssas	realssas	+?
+reanzzas	reanzzas	+?
+reavas	reavas	+?
+reavrras	reavrras	+?
+reavvas	reavvas	+?
+reavžžas	reavžžas	+?
+recessiiva	recessiiva	+?
+reella	reella	+?
+referentiála	referentiála	+?
+refleksiiva	refleksiiva	+?
+regála	regála	+?
+regionála	regionála	+?
+regionálalaš	regionálalaš	+?
+regionálaš	regionálaš	+?
+regiovdnapolitihkalaš	regiovdnapolitihkalaš	+?
+registarguovdasaš	registarguovdasaš	+?
+regiunála	regiunála	+?
+regulára	regulára	+?
+rehálaš	rehálaš	+?
+rehelaš	rehelaš	+?
+rehketdoallogeatnegas	rehketdoallogeatnegas	+?
+rekursiiva	rekursiiva	+?
+relatiiva	relatiiva	+?
+relatiivalaš	relatiivalaš	+?
+relationála	relationála	+?
+relationálalaš	relationálalaš	+?
+relevánta	relevánta	+?
+representatiiva	representatiiva	+?
+restriktiiva	restriktiiva	+?
+retoralaš	retoralaš	+?
+retorihkalaš	retorihkalaš	+?
+retrográdalaš	retrográdalaš	+?
+reumáhtalaš	reumáhtalaš	+?
+revmáhtalaš	revmáhtalaš	+?
+ribiheapme	ribiheapme	+?
+riccas	riccas	+?
+riddolagaš	riddolagaš	+?
+riđvái	riđvái	+?
+riebas	riebas	+?
+riekta	riekta	+?
+riektat	riektat	+?
+riektelaš	riektelaš	+?
+riekteoahppavaš	riekteoahppavaš	+?
+riektevuoimmalaš	riektevuoimmalaš	+?
+rieppis	rieppis	+?
+rievdameahttun	rievdameahttun	+?
+rievdavaš	rievdavaš	+?
+rievdil	rievdil	+?
+rievdiliekkas	rievdiliekkas	+?
+rievssat	rievssat	+?
+rievssatheapme	rievssatheapme	+?
+rievssatkeahtes	rievssatkeahtes	+?
+rievttalaš	rievttalaš	+?
+rihča	rihča	+?
+rihkkasmeahttun	rihkkasmeahttun	+?
+riidduheapme	riidduheapme	+?
+riikkaidgaskasaš	riikkaidgaskasaš	+?
+riikkaidgaskkasaš	riikkaidgaskkasaš	+?
+riikkasaš	riikkasaš	+?
+riikkaviidosaš	riikkaviidosaš	+?
+riiska	riiska	+?
+rikkas	rikkas	+?
+rikkis	rikkis	+?
+rimškkas	rimškkas	+?
+rimssas	rimssas	+?
+rinččas	rinččas	+?
+rinzzas	rinzzas	+?
+riskkaheapme	riskkaheapme	+?
+riššafiskat	riššafiskat	+?
+riššagoikkis	riššagoikkis	+?
+ristagas	ristagas	+?
+ristagaš	ristagaš	+?
+ristaráiddat	ristaráiddat	+?
+ritmái	ritmái	+?
+rittubuš	rittubuš	+?
+rivdal	rivdal	+?
+riviheapme	riviheapme	+?
+rivttesoahpalaš	rivttesoahpalaš	+?
+rivttesoskkolaš	rivttesoskkolaš	+?
+rivzzas	rivzzas	+?
+roađđat	roađđat	+?
+roahkkálas	roahkkálas	+?
+roaibbas	roaibbas	+?
+roaiskkas	roaiskkas	+?
+roakkas	roakkas	+?
+roamssas	roamssas	+?
+roamššas	roamššas	+?
+roanccas	roanccas	+?
+roaŋkkas	roaŋkkas	+?
+roanžžas	roanžžas	+?
+roaškkas	roaškkas	+?
+roassái	roassái	+?
+roastil	roastil	+?
+roattus	roattus	+?
+roava	roava	+?
+roavččas	roavččas	+?
+roavis	roavis	+?
+roavnnjas	roavnnjas	+?
+roavvas	roavvas	+?
+rohčat	rohčat	+?
+rohkkolas	rohkkolas	+?
+rohppái	rohppái	+?
+rohttejeaddji	rohttejeaddji	+?
+rojalisttalaš	rojalisttalaš	+?
+romákatolalaš	romákatolalaš	+?
+romalaš	romalaš	+?
+romálaškatolalaš	romálaškatolalaš	+?
+románalaš	románalaš	+?
+romantalaš	romantalaš	+?
+romantihkalaš	romantihkalaš	+?
+románttalaš	románttalaš	+?
+romis	romis	+?
+ropmi	ropmi	+?
+rossái	rossái	+?
+rožas	rožas	+?
+ruccas	ruccas	+?
+ruččas	ruččas	+?
+ruđaheapme	ruđaheapme	+?
+ruhccái	ruhccái	+?
+ruhtaáŋgir	ruhtaáŋgir	+?
+ruhtahánis	ruhtahánis	+?
+ruhtaváibmil	ruhtaváibmil	+?
+ruhttái	ruhttái	+?
+ruibbas	ruibbas	+?
+ruivvas	ruivvas	+?
+rukseslágan	rukseslágan	+?
+ruksesruoná	ruksesruoná	+?
+rukses-ruoná	rukses-ruoná	+?
+rumašlaš	rumašlaš	+?
+rumašváillat	rumašváillat	+?
+rumššas	rumššas	+?
+ruŋkkas	ruŋkkas	+?
+runta	runta	+?
+runzui	runzui	+?
+ruobbecoagis	ruobbecoagis	+?
+ruobbegoikkis	ruobbegoikkis	+?
+ruogŋái	ruogŋái	+?
+ruohppái	ruohppái	+?
+ruohtis	ruohtis	+?
+ruoinnas	ruoinnas	+?
+ruojus	ruojus	+?
+ruoksájeaddji	ruoksájeaddji	+?
+ruoksat	ruoksat	+?
+ruolla	ruolla	+?
+ruoná	ruoná	+?
+ruonáeatnanlaš	ruonáeatnanlaš	+?
+ruonálágan	ruonálágan	+?
+ruonas	ruonas	+?
+ruoppas	ruoppas	+?
+ruoššabeal	ruoššabeal	+?
+ruossalas	ruossalas	+?
+ruoššaortodoksa	ruoššaortodoksa	+?
+ruošša-ortodoksa	ruošša-ortodoksa	+?
+ruostameahttun	ruostameahttun	+?
+ruosti	ruosti	+?
+ruosttaheapme	ruosttaheapme	+?
+ruosttas	ruosttas	+?
+ruoŧagiel	ruoŧagiel	+?
+ruoŧŧelaš	ruoŧŧelaš	+?
+ruovas	ruovas	+?
+ruovddaheapme	ruovddaheapme	+?
+ruovjjeheapme	ruovjjeheapme	+?
+ruovjjiheapme	ruovjjiheapme	+?
+ruovttoheapme	ruovttoheapme	+?
+ruovttuheapme	ruovttuheapme	+?
+ruskkas	ruskkas	+?
+russolas	russolas	+?
+ruššu	ruššu	+?
+ruttas	ruttas	+?
+ruvdnosaš	ruvdnosaš	+?
+ruvsui	ruvsui	+?
+ruvžái	ruvžái	+?
+ruvžžas	ruvžžas	+?
+rytmálaš	rytmálaš	+?
+sábmái	sábmái	+?
+šaddi	šaddi	+?
+šaddodieđalaš	šaddodieđalaš	+?
+sádnái	sádnái	+?
+sagaheapme	sagaheapme	+?
+ságaheapme	ságaheapme	+?
+saguheapme	saguheapme	+?
+sáhkat	sáhkat	+?
+sáhkaváibmil	sáhkaváibmil	+?
+sáhkkái	sáhkkái	+?
+sáhkkii	sáhkkii	+?
+sáhkkit	sáhkkit	+?
+sahkuheapme	sahkuheapme	+?
+sáhpeheapme	sáhpeheapme	+?
+sáhpiheapme	sáhpiheapme	+?
+sahpit	sahpit	+?
+sáhtehahtti	sáhtehahtti	+?
+sáhtihahtti	sáhtihahtti	+?
+saiggas	saiggas	+?
+sáiggas	sáiggas	+?
+šáigil	šáigil	+?
+šáikkas	šáikkas	+?
+sáissas	sáissas	+?
+sajiheapme	sajiheapme	+?
+sákčil	sákčil	+?
+sákkas	sákkas	+?
+salaheapme	salaheapme	+?
+sálbat	sálbat	+?
+salggas	salggas	+?
+sallái	sallái	+?
+sallalas	sallalas	+?
+sallasaš	sallasaš	+?
+šállošahtti	šállošahtti	+?
+sáltedoallevaš	sáltedoallevaš	+?
+sáltteheapme	sáltteheapme	+?
+sálttiheapme	sálttiheapme	+?
+sálttisis	sálttisis	+?
+sámegiel	sámegiel	+?
+sámegielalaš	sámegielalaš	+?
+sámegielat	sámegielat	+?
+sámepolitihkalaš	sámepolitihkalaš	+?
+sámevulgosaš	sámevulgosaš	+?
+sáneheapme	sáneheapme	+?
+sánekeahtes	sánekeahtes	+?
+sániheapme	sániheapme	+?
+sápmelaš	sápmelaš	+?
+sárdnái	sárdnái	+?
+šarmerejeaddji	šarmerejeaddji	+?
+sarttas	sarttas	+?
+sátneálgosaš	sátneálgosaš	+?
+sátnedárkil	sátnedárkil	+?
+sátnerikkis	sátnerikkis	+?
+sátnesiskkáldas	sátnesiskkáldas	+?
+šatteš	šatteš	+?
+šattoheapme	šattoheapme	+?
+šattot	šattot	+?
+šattuheapme	šattuheapme	+?
+sávahahtti	sávahahtti	+?
+sávaldatguovdásaš	sávaldatguovdásaš	+?
+seađas	seađas	+?
+seađus	seađus	+?
+seagas	seagas	+?
+seagáš	seagáš	+?
+seagus	seagus	+?
+seahkalas	seahkalas	+?
+seahkálas	seahkálas	+?
+seahkalis	seahkalis	+?
+seahkkái	seahkkái	+?
+seaibbeheapme	seaibbeheapme	+?
+seaibbiheapme	seaibbiheapme	+?
+seainnibuš	seainnibuš	+?
+seakkisis	seakkisis	+?
+sealas	sealas	+?
+sealbbus	sealbbus	+?
+sealgálas	sealgálas	+?
+sealgameahttun	sealgameahttun	+?
+šealgat	šealgat	+?
+sealggaheapme	sealggaheapme	+?
+sealggálas	sealggálas	+?
+sealggális	sealggális	+?
+sealgil	sealgil	+?
+sealvi	sealvi	+?
+sealvvas	sealvvas	+?
+seammaárvosaš	seammaárvosaš	+?
+seammadássásaš	seammadássásaš	+?
+seammádássásaš	seammádássásaš	+?
+seammagovdosaš	seammagovdosaš	+?
+seammaguhkkosaš	seammaguhkkosaš	+?
+seammaguvlosaš	seammaguvlosaš	+?
+seammaháltásaš	seammaháltásaš	+?
+seammalágan	seammalágan	+?
+seammálágan	seammálágan	+?
+seammamielalaš	seammamielalaš	+?
+seammanammasaš	seammanammasaš	+?
+seammánammasaš	seammánammasaš	+?
+seammasturrosaš	seammasturrosaš	+?
+seammasullasaš	seammasullasaš	+?
+seammásullásaš	seammásullásaš	+?
+seanas	seanas	+?
+seaŋggabuorre	seaŋggabuorre	+?
+searalaš	searalaš	+?
+searra	searra	+?
+šearrat	šearrat	+?
+šearus	šearus	+?
+searválas	searválas	+?
+seastevaš	seastevaš	+?
+seasttaskas	seasttaskas	+?
+seavagielat	seavagielat	+?
+seavdda	seavdda	+?
+seavdnjat	seavdnjat	+?
+seavnnjus	seavnnjus	+?
+segmentálalaš	segmentálalaš	+?
+seismalaš	seismalaš	+?
+seksuála	seksuála	+?
+seksualálaš	seksualálaš	+?
+seksuálaš	seksuálaš	+?
+sekundára	sekundára	+?
+sekventiála	sekventiála	+?
+selggolas	selggolas	+?
+selggolassii	selggolassii	+?
+semantihkalaš	semantihkalaš	+?
+semanttalaš	semanttalaš	+?
+semánttalaš	semánttalaš	+?
+semasiologalaš	semasiologalaš	+?
+semiohtalaš	semiohtalaš	+?
+seniila	seniila	+?
+senila	senila	+?
+sentimentála	sentimentála	+?
+serbálaš	serbálaš	+?
+serddolaš	serddolaš	+?
+servodatdieđalaš	servodatdieđalaš	+?
+servodatekonomálaš	servodatekonomálaš	+?
+servodatlágan	servodatlágan	+?
+servodatlágán	servodatlágán	+?
+servodatlaš	servodatlaš	+?
+servodatvuostásaš	servodatvuostásaš	+?
+servvolaš	servvolaš	+?
+sexualálaš	sexualálaš	+?
+sibirijálaš	sibirijálaš	+?
+siđas	siđas	+?
+siddjii	siddjii	+?
+sidnui	sidnui	+?
+siđus	siđus	+?
+siđvvas	siđvvas	+?
+sieđas	sieđas	+?
+sieddjái	sieddjái	+?
+sieđgái	sieđgái	+?
+sieđus	sieđus	+?
+šieđvi	šieđvi	+?
+šiega	šiega	+?
+šiegalaš	šiegalaš	+?
+šieguheapme	šieguheapme	+?
+šiehpun	šiehpun	+?
+šiehttanválddálaš	šiehttanválddálaš	+?
+šiehtun	šiehtun	+?
+sieiva	sieiva	+?
+sieloheapme	sieloheapme	+?
+sieluheapme	sieluheapme	+?
+sierra	sierra	+?
+sierralágan	sierralágan	+?
+sierranas	sierranas	+?
+šiervi	šiervi	+?
+šiervvas	šiervvas	+?
+sievssaheapme	sievssaheapme	+?
+signifikánta	signifikánta	+?
+sihkar	sihkar	+?
+sihkkar	sihkkar	+?
+sihtavaš	sihtavaš	+?
+šihttui	šihttui	+?
+siidái	siidái	+?
+siidalodji	siidalodji	+?
+siiddaheapme	siiddaheapme	+?
+siiddalmas	siiddalmas	+?
+siidodoaibmasaš	siidodoaibmasaš	+?
+siidosaš	siidosaš	+?
+šiitemeahttun	šiitemeahttun	+?
+šiitimeahttun	šiitimeahttun	+?
+siivolágan	siivolágan	+?
+siivui	siivui	+?
+siivvuheapme	siivvuheapme	+?
+silbái	silbái	+?
+silbaránis	silbaránis	+?
+silbasaš	silbasaš	+?
+sillat	sillat	+?
+simpal	simpal	+?
+sinas	sinas	+?
+sipirjálaš	sipirjálaš	+?
+sireráhkaduvvon	sireráhkaduvvon	+?
+sirkumpolára	sirkumpolára	+?
+sisbuoidi	sisbuoidi	+?
+siseatnansápmelaš	siseatnansápmelaš	+?
+siskálas	siskálas	+?
+siskálasti	siskálasti	+?
+siskkaldas	siskkaldas	+?
+siskkáldas	siskkáldas	+?
+siskkibuš	siskkibuš	+?
+siskkildas	siskkildas	+?
+siskkit	siskkit	+?
+sisriikkalaš	sisriikkalaš	+?
+sitkat	sitkat	+?
+sitnálaš	sitnálaš	+?
+sivaheapme	sivaheapme	+?
+sivakeahtes	sivakeahtes	+?
+siviila	siviila	+?
+siviilavuoigatvuođalaš	siviilavuoigatvuođalaš	+?
+sivvat	sivvat	+?
+skáddjil	skáddjil	+?
+skáhppái	skáhppái	+?
+skáigil	skáigil	+?
+skalddas	skalddas	+?
+skalddeheapme	skalddeheapme	+?
+skaldil	skaldil	+?
+skálkái	skálkái	+?
+skálvvas	skálvvas	+?
+skámuheapme	skámuheapme	+?
+skandinávalaš	skandinávalaš	+?
+skárbbas	skárbbas	+?
+skárllat	skárllat	+?
+skárllatruoksat	skárllatruoksat	+?
+skárppis	skárppis	+?
+skárttas	skárttas	+?
+skavžžas	skavžžas	+?
+skeartnja	skeartnja	+?
+skeavžžas	skeavžžas	+?
+skehpposaš	skehpposaš	+?
+skemáhtalaš	skemáhtalaš	+?
+skeptihkalaš	skeptihkalaš	+?
+skielggas	skielggas	+?
+skieras	skieras	+?
+skieraskas	skieraskas	+?
+skievaskas	skievaskas	+?
+skievis	skievis	+?
+skievttaheapme	skievttaheapme	+?
+skievttardeaddji	skievttardeaddji	+?
+skievttáris	skievttáris	+?
+skievttideaddji	skievttideaddji	+?
+skihčas	skihčas	+?
+skihkaheapme	skihkaheapme	+?
+skilaheapme	skilaheapme	+?
+skiluheapme	skiluheapme	+?
+skilžžas	skilžžas	+?
+skiŋgil	skiŋgil	+?
+skinjas	skinjas	+?
+skirččas	skirččas	+?
+skirras	skirras	+?
+skivllas	skivllas	+?
+skivnnjas	skivnnjas	+?
+skivžžas	skivžžas	+?
+skjemáhtalaš	skjemáhtalaš	+?
+skoalddas	skoalddas	+?
+skoalmmas	skoalmmas	+?
+skoalppas	skoalppas	+?
+skoarččas	skoarččas	+?
+skoarras	skoarras	+?
+skoavddas	skoavddas	+?
+skoavhllas	skoavhllas	+?
+skohččebealjat	skohččebealjat	+?
+skohččibealjat	skohččibealjat	+?
+skohttalaš	skohttalaš	+?
+skolas	skolas	+?
+skolppas	skolppas	+?
+skolvvas	skolvvas	+?
+skottálaš	skottálaš	+?
+skožas	skožas	+?
+skuđuheapme	skuđuheapme	+?
+skuhttáris	skuhttáris	+?
+skuibbas	skuibbas	+?
+skuittas	skuittas	+?
+skuŋkkas	skuŋkkas	+?
+skuniheapme	skuniheapme	+?
+skuoivvas	skuoivvas	+?
+skuonjas	skuonjas	+?
+skuortnas	skuortnas	+?
+skuortnjas	skuortnjas	+?
+skuožas	skuožas	+?
+skurččas	skurččas	+?
+skurras	skurras	+?
+skurtnjas	skurtnjas	+?
+skurvvas	skurvvas	+?
+skuvlaahkásaš	skuvlaahkásaš	+?
+skuvnnjas	skuvnnjas	+?
+skužas	skužas	+?
+šláddjás	šláddjás	+?
+šlárvvas	šlárvvas	+?
+slávalaš	slávalaš	+?
+šlávalaš	šlávalaš	+?
+šlávas	šlávas	+?
+šleaiddos	šleaiddos	+?
+šleaippas	šleaippas	+?
+šleanccas	šleanccas	+?
+šliđas	šliđas	+?
+šliettas	šliettas	+?
+šlihttui	šlihttui	+?
+šlihtu	šlihtu	+?
+šliktu	šliktu	+?
+šlimppas	šlimppas	+?
+šlinccas	šlinccas	+?
+šlinzzas	šlinzzas	+?
+šlivggas	šlivggas	+?
+šloanccas	šloanccas	+?
+šluđas	šluđas	+?
+šluhttui	šluhttui	+?
+šluhtu	šluhtu	+?
+šlunddas	šlunddas	+?
+šlundi	šlundi	+?
+šluŋkkas	šluŋkkas	+?
+šluohkis	šluohkis	+?
+šluppas	šluppas	+?
+šlurvvas	šlurvvas	+?
+smáđáhkes	smáđáhkes	+?
+smađáhkis	smađáhkis	+?
+smáđáhkis	smáđáhkis	+?
+smáiti	smáiti	+?
+smarffas	smarffas	+?
+smarvvas	smarvvas	+?
+smávis	smávis	+?
+smávislágan	smávislágan	+?
+smávislágaš	smávislágaš	+?
+smiđis	smiđis	+?
+smierru	smierru	+?
+smierus	smierus	+?
+smilččas	smilččas	+?
+smoahtis	smoahtis	+?
+smoalddas	smoalddas	+?
+smokkas	smokkas	+?
+smolgat	smolgat	+?
+smolggus	smolggus	+?
+smulkkas	smulkkas	+?
+smurtačáhppat	smurtačáhppat	+?
+smurvvas	smurvvas	+?
+snáhpis	snáhpis	+?
+snáhppil	snáhppil	+?
+snárkkas	snárkkas	+?
+snarras	snarras	+?
+snárri	snárri	+?
+snavggas	snavggas	+?
+sneavvar	sneavvar	+?
+snielis	snielis	+?
+snirkkas	snirkkas	+?
+šnjalččas	šnjalččas	+?
+šnjalžžas	šnjalžžas	+?
+šnjarvvas	šnjarvvas	+?
+šnjirggas	šnjirggas	+?
+šnjoalccas	šnjoalccas	+?
+šnjuokkas	šnjuokkas	+?
+snoađas	snoađas	+?
+snoakkis	snoakkis	+?
+snoalus	snoalus	+?
+snogas	snogas	+?
+snolkkas	snolkkas	+?
+snoras	snoras	+?
+snorras	snorras	+?
+snuolggas	snuolggas	+?
+snuorddas	snuorddas	+?
+soabalaš	soabalaš	+?
+soabatgorálaš	soabatgorálaš	+?
+soabatmeahttun	soabatmeahttun	+?
+soaččas	soaččas	+?
+soaddjái	soaddjái	+?
+soađemaŋáš	soađemaŋáš	+?
+soađiáigásaš	soađiáigásaš	+?
+soadjas	soadjas	+?
+soadjelámis	soadjelámis	+?
+soadjeorddálaš	soadjeorddálaš	+?
+soahkkái	soahkkái	+?
+soahpameahttun	soahpameahttun	+?
+soahpavaš	soahpavaš	+?
+soahppevaš	soahppevaš	+?
+soahppi	soahppi	+?
+soahppil	soahppil	+?
+soahtegiivvis	soahtegiivvis	+?
+soahtelámis	soahtelámis	+?
+soahtigiivvis	soahtigiivvis	+?
+soahttevaš	soahttevaš	+?
+soaiggus	soaiggus	+?
+soajáheapme	soajáheapme	+?
+soajeheapme	soajeheapme	+?
+soajiheapme	soajiheapme	+?
+soalddas	soalddas	+?
+soalssas	soalssas	+?
+soamálaš	soamálaš	+?
+šoambái	šoambái	+?
+soameheapme	soameheapme	+?
+soameslágan	soameslágan	+?
+soamiheapme	soamiheapme	+?
+soarppas	soarppas	+?
+soarvveheapme	soarvveheapme	+?
+soarvviheapme	soarvviheapme	+?
+šoavkat	šoavkat	+?
+soavllas	soavllas	+?
+šoavllas	šoavllas	+?
+šoavvat	šoavvat	+?
+soažžumeahttun	soažžumeahttun	+?
+sođas	sođas	+?
+šođbat	šođbat	+?
+sodjavaš	sodjavaš	+?
+soft-gun	soft-gun	+?
+sogaheapme	sogaheapme	+?
+sohkabealguoskevaš	sohkabealguoskevaš	+?
+sohkenis	sohkenis	+?
+soiddas	soiddas	+?
+soidnáris	soidnáris	+?
+sojaheapme	sojaheapme	+?
+sojankeahtes	sojankeahtes	+?
+sojavaš	sojavaš	+?
+sojuheapme	sojuheapme	+?
+sokkibuš	sokkibuš	+?
+soktái	soktái	+?
+solidáralaš	solidáralaš	+?
+somá	somá	+?
+somáhtalaš	somáhtalaš	+?
+sonas	sonas	+?
+sonjas	sonjas	+?
+soras	soras	+?
+sorjankeahtes	sorjankeahtes	+?
+sorjavaš	sorjavaš	+?
+sorjjakeahtes	sorjjakeahtes	+?
+sorjjas	sorjjas	+?
+sorjjaskeahtes	sorjjaskeahtes	+?
+sorjjasmeahttun	sorjjasmeahttun	+?
+sosiala	sosiala	+?
+sosiála	sosiála	+?
+sosiálademokráhtalaš	sosiálademokráhtalaš	+?
+sosiálalaš	sosiálalaš	+?
+sosiálapolitihkalaš	sosiálapolitihkalaš	+?
+sosiáldarwinistalaš	sosiáldarwinistalaš	+?
+sosialisttalaš	sosialisttalaš	+?
+sosioekonomálaš	sosioekonomálaš	+?
+sosiokultuvrralaš	sosiokultuvrralaš	+?
+sosio-kultuvrralaš	sosio-kultuvrralaš	+?
+sosiologalaš	sosiologalaš	+?
+sovjehtalaš	sovjehtalaš	+?
+sovkkenis	sovkkenis	+?
+sovttas	sovttas	+?
+spáhkis	spáhkis	+?
+spáigil	spáigil	+?
+spáitil	spáitil	+?
+spáittas	spáittas	+?
+spáitteheapme	spáitteheapme	+?
+spakkas	spakkas	+?
+spalccas	spalccas	+?
+spálččas	spálččas	+?
+spálžžas	spálžžas	+?
+spanas	spanas	+?
+spanjas	spanjas	+?
+spánska	spánska	+?
+spánskalaš	spánskalaš	+?
+spárkkas	spárkkas	+?
+spásmmalaš	spásmmalaš	+?
+spatnat	spatnat	+?
+spažas	spažas	+?
+speaččas	speaččas	+?
+speallansorjavaš	speallansorjavaš	+?
+spealnnjas	spealnnjas	+?
+speanta	speanta	+?
+spesiála	spesiála	+?
+spesiálapedagogalaš	spesiálapedagogalaš	+?
+spesifalaš	spesifalaš	+?
+spesifihkka	spesifihkka	+?
+spiehčas	spiehčas	+?
+spiehkkaseaddji	spiehkkaseaddji	+?
+spiertačáhppat	spiertačáhppat	+?
+spiinnelágan	spiinnelágan	+?
+spildarođas	spildarođas	+?
+spinjas	spinjas	+?
+spirelaš	spirelaš	+?
+spoadnái	spoadnái	+?
+spoanas	spoanas	+?
+spontána	spontána	+?
+spuŋggas	spuŋggas	+?
+sráŋggaheapme	sráŋggaheapme	+?
+sreaŋggis	sreaŋggis	+?
+sroaŋggis	sroaŋggis	+?
+stábat	stábat	+?
+stáččas	stáččas	+?
+stađaheapme	stađaheapme	+?
+stađđil	stađđil	+?
+stáđismeahttun	stáđismeahttun	+?
+stađuheapme	stađuheapme	+?
+stáhppái	stáhppái	+?
+stáhtaeanádatlaš	stáhtaeanádatlaš	+?
+staigil	staigil	+?
+stáippas	stáippas	+?
+stáleheapme	stáleheapme	+?
+stáliheapme	stáliheapme	+?
+stánžžas	stánžžas	+?
+stargat	stargat	+?
+starggas	starggas	+?
+statihkalaš	statihkalaš	+?
+statistalaš	statistalaš	+?
+stávrras	stávrras	+?
+steaččas	steaččas	+?
+steanžžas	steanžžas	+?
+steavdda	steavdda	+?
+steavžžas	steavžžas	+?
+stereotiippalaš	stereotiippalaš	+?
+steriila	steriila	+?
+stiivvis	stiivvis	+?
+stilistalaš	stilistalaš	+?
+stilistihkalaš	stilistihkalaš	+?
+stirddas	stirddas	+?
+stirddus	stirddus	+?
+stivrraheapme	stivrraheapme	+?
+stoaiddas	stoaiddas	+?
+stoaljas	stoaljas	+?
+stohkas	stohkas	+?
+stožas	stožas	+?
+stráilu	stráilu	+?
+strategalaš	strategalaš	+?
+streaŋga	streaŋga	+?
+streaŋggis	streaŋggis	+?
+stroaŋggis	stroaŋggis	+?
+strukturála	strukturála	+?
+strukturalisttalaš	strukturalisttalaš	+?
+struktuvrralaš	struktuvrralaš	+?
+stuibmái	stuibmái	+?
+stukkis	stukkis	+?
+stulkkas	stulkkas	+?
+stumppas	stumppas	+?
+stuorebuš	stuorebuš	+?
+stuorralágan	stuorralágan	+?
+sturccas	sturccas	+?
+sturrodatjalla	sturrodatjalla	+?
+sturrosaš	sturrosaš	+?
+subjektiiva	subjektiiva	+?
+subjektiivvalaš	subjektiivvalaš	+?
+subsidiára	subsidiára	+?
+subsidiáralaš	subsidiáralaš	+?
+subtropalaš	subtropalaš	+?
+suddil	suddil	+?
+suddugas	suddugas	+?
+sudnii	sudnii	+?
+sudnjui	sudnjui	+?
+suhkkes	suhkkes	+?
+suhkkolhámat	suhkkolhámat	+?
+suhppái	suhppái	+?
+suhtas	suhtas	+?
+suivat	suivat	+?
+suivit	suivit	+?
+sujaheapme	sujaheapme	+?
+suksii	suksii	+?
+sullalas	sullalas	+?
+sullasaš	sullasaš	+?
+sullásaš	sullásaš	+?
+sulttas	sulttas	+?
+šumppas	šumppas	+?
+suoddjái	suoddjái	+?
+suodnái	suodnái	+?
+suohkanlaš	suohkanlaš	+?
+suohkkul	suohkkul	+?
+suohpáheapme	suohpáheapme	+?
+suoibmamohkat	suoibmamohkat	+?
+suojeheapme	suojeheapme	+?
+suojiheapme	suojiheapme	+?
+suokkis	suokkis	+?
+suoksái	suoksái	+?
+suollemas	suollemas	+?
+suomagiel	suomagiel	+?
+suomagielat	suomagielat	+?
+suomapermalaš	suomapermalaš	+?
+suoma-permalaš	suoma-permalaš	+?
+suomaugralaš	suomaugralaš	+?
+suoma-ugralaš	suoma-ugralaš	+?
+suomavolgalaš	suomavolgalaš	+?
+suoma-volgalaš	suoma-volgalaš	+?
+suonttas	suonttas	+?
+suopmaniidgaskasaš	suopmaniidgaskasaš	+?
+suopmat	suopmat	+?
+suopmelašugralaš	suopmelašugralaš	+?
+suopmelaš-ugralaš	suopmelaš-ugralaš	+?
+suorgái	suorgái	+?
+suorgejoatkkalaš	suorgejoatkkalaš	+?
+suorggatlaš	suorggatlaš	+?
+suorggiguovdasaš	suorggiguovdasaš	+?
+suorttas	suorttas	+?
+suosttas	suosttas	+?
+suovat	suovat	+?
+suovggas	suovggas	+?
+suovrras	suovrras	+?
+suovvil	suovvil	+?
+super-čáppat	super-čáppat	+?
+superristtalaš	superristtalaš	+?
+surgat	surgat	+?
+surgatlaš	surgatlaš	+?
+surolaš	surolaš	+?
+suruheapme	suruheapme	+?
+suttuheapme	suttuheapme	+?
+suvdi	suvdi	+?
+suvdil	suvdil	+?
+šuvgil	šuvgil	+?
+syklihkalaš	syklihkalaš	+?
+symbolalaš	symbolalaš	+?
+symbolihkalaš	symbolihkalaš	+?
+symmehtralaš	symmehtralaš	+?
+symmetrihkalaš	symmetrihkalaš	+?
+symptomáhtalaš	symptomáhtalaš	+?
+synkronalaš	synkronalaš	+?
+synonymalaš	synonymalaš	+?
+synsemánttalaš	synsemánttalaš	+?
+syntagmáhtalaš	syntagmáhtalaš	+?
+syntávsslaš	syntávsslaš	+?
+syntávttalaš	syntávttalaš	+?
+syntehtalaš	syntehtalaš	+?
+systemahtalaš	systemahtalaš	+?
+systemáhtalaš	systemáhtalaš	+?
+táhpalaš	táhpalaš	+?
+táhpemeahttun	táhpemeahttun	+?
+taktiila	taktiila	+?
+teahtis	teahtis	+?
+teatrálalaš	teatrálalaš	+?
+teknalaš	teknalaš	+?
+teknihkalaš	teknihkalaš	+?
+teknihkkalaš	teknihkkalaš	+?
+teknologalaš	teknologalaš	+?
+tekstuála	tekstuála	+?
+telihkalaš	telihkalaš	+?
+temáhtalaš	temáhtalaš	+?
+tematalaš	tematalaš	+?
+temporála	temporála	+?
+teologalaš	teologalaš	+?
+teorehtalaš	teorehtalaš	+?
+termála	termála	+?
+territoriála	territoriála	+?
+tibehtalaš	tibehtalaš	+?
+tiibmosaš	tiibmosaš	+?
+toleránta	toleránta	+?
+topográfalaš	topográfalaš	+?
+tragihkalaš	tragihkalaš	+?
+transitiiva	transitiiva	+?
+transitiivvalaš	transitiivvalaš	+?
+traumáhtalaš	traumáhtalaš	+?
+tribunála	tribunála	+?
+triviála	triviála	+?
+trohpalaš	trohpalaš	+?
+trolahis	trolahis	+?
+tropalaš	tropalaš	+?
+tuiska	tuiska	+?
+tuljánis	tuljánis	+?
+tullut	tullut	+?
+tuolloheapme	tuolloheapme	+?
+tupaan	tupaan	+?
+turkalaš	turkalaš	+?
+tuvalaš	tuvalaš	+?
+typihkalaš	typihkalaš	+?
+tøffa	tøffa	+?
+udju	udju	+?
+ugralaš	ugralaš	+?
+uhcagielagaš	uhcagielagaš	+?
+uhcánaš	uhcánaš	+?
+uhcis	uhcis	+?
+uidni	uidni	+?
+ulbmálaš	ulbmálaš	+?
+ulbmállaš	ulbmállaš	+?
+ulbmildiđolaš	ulbmildiđolaš	+?
+ulbmillaš	ulbmillaš	+?
+ulbmilmeahttun	ulbmilmeahttun	+?
+ulddas	ulddas	+?
+ultramariidna	ultramariidna	+?
+umáhttu	umáhttu	+?
+umas	umas	+?
+umassi	umassi	+?
+uminddet	uminddet	+?
+universála	universála	+?
+unohas	unohas	+?
+urálalaš	urálalaš	+?
+urbmi	urbmi	+?
+urdni	urdni	+?
+urdnji	urdnji	+?
+ussel	ussel	+?
+ussil	ussil	+?
+ustitlaš	ustitlaš	+?
+ustitmeahttun	ustitmeahttun	+?
+utnoheapme	utnoheapme	+?
+utnolaš	utnolaš	+?
+utnuheapme	utnuheapme	+?
+uvjái	uvjái	+?
+uvjjaheapme	uvjjaheapme	+?
+vácceš	vácceš	+?
+vádjitválddálaš	vádjitválddálaš	+?
+vadni	vadni	+?
+vadnil	vadnil	+?
+váfi	váfi	+?
+vahátilolaš	vahátilolaš	+?
+vahátlaš	vahátlaš	+?
+vahccái	vahccái	+?
+váhčči	váhčči	+?
+vahkat	vahkat	+?
+vahkosaš	vahkosaš	+?
+váhnemahtes	váhnemahtes	+?
+váhnengeahtes	váhnengeahtes	+?
+váibameahttun	váibameahttun	+?
+váibi	váibi	+?
+váibil	váibil	+?
+váibmoláđis	váibmoláđis	+?
+váibmoláđismeahttun	váibmoláđismeahttun	+?
+váibmolittat	váibmolittat	+?
+váibmolittis	váibmolittis	+?
+váibmoreađahahtti	váibmoreađahahtti	+?
+váidalahtti	váidalahtti	+?
+váigat	váigat	+?
+váiggas	váiggas	+?
+váikkuhanfámolaš	váikkuhanfámolaš	+?
+váikkuhanválddálaš	váikkuhanválddálaš	+?
+váilevaš	váilevaš	+?
+váillat	váillat	+?
+váimmobávččas	váimmobávččas	+?
+váimmoheapme	váimmoheapme	+?
+váimmuheapme	váimmuheapme	+?
+váivváš	váivváš	+?
+valanis	valanis	+?
+válddeheapme	válddeheapme	+?
+válddiheapme	válddiheapme	+?
+váldegottálaš	váldegottálaš	+?
+váldeváillat	váldeváillat	+?
+váldiváillat	váldiváillat	+?
+váldodoaibmasaš	váldodoaibmasaš	+?
+váldosaš	váldosaš	+?
+válgadohkálaš	válgadohkálaš	+?
+válidahkan	válidahkan	+?
+valljái	valljái	+?
+valljogas	valljogas	+?
+valljugas	valljugas	+?
+válljugas	válljugas	+?
+válmmas	válmmas	+?
+válmmaš	válmmaš	+?
+vánat	vánat	+?
+váŋká	váŋká	+?
+váŋkái	váŋkái	+?
+vaŋkkas	vaŋkkas	+?
+vanhurskkis	vanhurskkis	+?
+vánhurskkis	vánhurskkis	+?
+vanhurskkismeahttun	vanhurskkismeahttun	+?
+vánhurskkismeahttun	vánhurskkismeahttun	+?
+vánta	vánta	+?
+vánttaheapme	vánttaheapme	+?
+vánttalaš	vánttalaš	+?
+varaheapme	varaheapme	+?
+váraheapme	váraheapme	+?
+várddus	várddus	+?
+vardil	vardil	+?
+váreheapme	váreheapme	+?
+váribuš	váribuš	+?
+váriheapme	váriheapme	+?
+varrái	varrái	+?
+varraruškat	varraruškat	+?
+varraváldi	varraváldi	+?
+várrogas	várrogas	+?
+várrugas	várrugas	+?
+vártnuheapme	vártnuheapme	+?
+váruheapme	váruheapme	+?
+várutmeahttun	várutmeahttun	+?
+várveš	várveš	+?
+vašán	vašán	+?
+vásedin	vásedin	+?
+vaššái	vaššái	+?
+vássevaš	vássevaš	+?
+vástesaš	vástesaš	+?
+vástevaš	vástevaš	+?
+vástideaddji	vástideaddji	+?
+vástitmeahttun	vástitmeahttun	+?
+vásttolaš	vásttolaš	+?
+vásttuheapme	vásttuheapme	+?
+vátnanávccalaš	vátnanávccalaš	+?
+vátnečalmmat	vátnečalmmat	+?
+vátničalmmat	vátničalmmat	+?
+váttis	váttis	+?
+vávjjaskas	vávjjaskas	+?
+vávjjehahtti	vávjjehahtti	+?
+vávjjihahtti	vávjjihahtti	+?
+vázzi	vázzi	+?
+veađar	veađar	+?
+veađas	veađas	+?
+veaddjil	veaddjil	+?
+veadjemeahttun	veadjemeahttun	+?
+veadjetmeahttun	veadjetmeahttun	+?
+veadnái	veadnái	+?
+veagaheapme	veagaheapme	+?
+veahkat	veahkat	+?
+veahkaválddálaš	veahkaválddálaš	+?
+veahkiheapme	veahkiheapme	+?
+veahkkái	veahkkái	+?
+veahkkálas	veahkkálas	+?
+veahtas	veahtas	+?
+veaidaláđas	veaidaláđas	+?
+veaittalas	veaittalas	+?
+veaittalis	veaittalis	+?
+veajitmeahttun	veajitmeahttun	+?
+veajuheapme	veajuheapme	+?
+vealččas	vealččas	+?
+vealggeheapme	vealggeheapme	+?
+vealggiheapme	vealggiheapme	+?
+vealgugas	vealgugas	+?
+vealtameahttun	vealtameahttun	+?
+veanzzas	veanzzas	+?
+veara	veara	+?
+veardásaš	veardásaš	+?
+vearddeheapme	vearddeheapme	+?
+vearddiheapme	vearddiheapme	+?
+veardidangelbbolaš	veardidangelbbolaš	+?
+vearditmeahttun	vearditmeahttun	+?
+vearjjoheapme	vearjjoheapme	+?
+vearjjuheapme	vearjjuheapme	+?
+vearjogeatnegas	vearjogeatnegas	+?
+vearjogelbbolaš	vearjogelbbolaš	+?
+vearoheapme	vearoheapme	+?
+vearokeahtes	vearokeahtes	+?
+vearrái	vearrái	+?
+vearrasaš	vearrasaš	+?
+vearreoahpalaš	vearreoahpalaš	+?
+vearrioahpalaš	vearrioahpalaš	+?
+vearrogeatnegas	vearrogeatnegas	+?
+veartasaš	veartasaš	+?
+vearuheapme	vearuheapme	+?
+veasttabuš	veasttabuš	+?
+vehkkii	vehkkii	+?
+vehttui	vehttui	+?
+vepsalaš	vepsalaš	+?
+vepselaš	vepselaš	+?
+verbála	verbála	+?
+vertikálalaš	vertikálalaš	+?
+viđageardán	viđageardán	+?
+viđageardásaš	viđageardásaš	+?
+viedni	viedni	+?
+viednil	viednil	+?
+viehkis	viehkis	+?
+viehkki	viehkki	+?
+viepmat	viepmat	+?
+vierggeheapme	vierggeheapme	+?
+vierggiheapme	vierggiheapme	+?
+vieriseatnanlaš	vieriseatnanlaš	+?
+vierrogiel	vierrogiel	+?
+vierrovulggolaš	vierrovulggolaš	+?
+vierttos	vierttos	+?
+viesas	viesas	+?
+viessi	viessi	+?
+viessil	viessil	+?
+vigat	vigat	+?
+vigiheapme	vigiheapme	+?
+vihkkái	vihkkái	+?
+vihkosaš	vihkosaš	+?
+viiddisis	viiddisis	+?
+viidnegierdil	viidnegierdil	+?
+viidnejuhkki	viidnejuhkki	+?
+viidneváibmil	viidneváibmil	+?
+viidosaš	viidosaš	+?
+viinnevuloš	viinnevuloš	+?
+viivvuheapme	viivvuheapme	+?
+viivvurteapme	viivvurteapme	+?
+vilddas	vilddas	+?
+vilddus	vilddus	+?
+vilgesáissat	vilgesáissat	+?
+villas	villas	+?
+vilppas	vilppas	+?
+vilššas	vilššas	+?
+viŋkilnjuolgat	viŋkilnjuolgat	+?
+violeahtta	violeahtta	+?
+virgái	virgái	+?
+virggeheapme	virggeheapme	+?
+virggiheapme	virggiheapme	+?
+virkui	virkui	+?
+virttis	virttis	+?
+virtuála	virtuála	+?
+viso	viso	+?
+visot	visot	+?
+viššalaš	viššalaš	+?
+vissismeahttun	vissismeahttun	+?
+vistteheapme	vistteheapme	+?
+visttiheapme	visttiheapme	+?
+visuála	visuála	+?
+višuheapme	višuheapme	+?
+vitmat	vitmat	+?
+vokálaidgaskasaš	vokálaidgaskasaš	+?
+vuddjii	vuddjii	+?
+vuđolaš	vuđolaš	+?
+vuktii	vuktii	+?
+vulgára	vulgára	+?
+vulkánalaš	vulkánalaš	+?
+vuobmái	vuobmái	+?
+vuoddjái	vuoddjái	+?
+vuoddji	vuoddji	+?
+vuoddjiguovdasaš	vuoddjiguovdasaš	+?
+vuoddjul	vuoddjul	+?
+vuođđojurddalaš	vuođđojurddalaš	+?
+vuođđonjuolggaduslaš	vuođđonjuolggaduslaš	+?
+vuođđoskandinávalaš	vuođđoskandinávalaš	+?
+vuodjagoalki	vuodjagoalki	+?
+vuodjudanoaivvat	vuodjudanoaivvat	+?
+vuodnái	vuodnái	+?
+vuođoheapme	vuođoheapme	+?
+vuođuheapme	vuođuheapme	+?
+vuogádatlaš	vuogádatlaš	+?
+vuogeheapme	vuogeheapme	+?
+vuogiheapme	vuogiheapme	+?
+vuohkkái	vuohkkái	+?
+vuohttil	vuohttil	+?
+vuohtus	vuohtus	+?
+vuoiddasaddjái	vuoiddasaddjái	+?
+vuoigat	vuoigat	+?
+vuoigatlaš	vuoigatlaš	+?
+vuoigatmeahttun	vuoigatmeahttun	+?
+vuoiggalaš	vuoiggalaš	+?
+vuoiggameahttun	vuoiggameahttun	+?
+vuoiggus	vuoiggus	+?
+vuoimmalaš	vuoimmalaš	+?
+vuoimmeheapme	vuoimmeheapme	+?
+vuoimmiheapme	vuoimmiheapme	+?
+vuoitemeahttun	vuoitemeahttun	+?
+vuoiti	vuoiti	+?
+vuoitil	vuoitil	+?
+vuoitosihkar	vuoitosihkar	+?
+vuoitteheapme	vuoitteheapme	+?
+vuoittiheapme	vuoittiheapme	+?
+vuoittoheapme	vuoittoheapme	+?
+vuoittuheapme	vuoittuheapme	+?
+vuojaheapme	vuojaheapme	+?
+vuojuheapme	vuojuheapme	+?
+vuojus	vuojus	+?
+vuoksái	vuoksái	+?
+vuoktái	vuoktái	+?
+vuolit	vuolit	+?
+vuolitárvosaš	vuolitárvosaš	+?
+vuollálas	vuollálas	+?
+vuollálasti	vuollálasti	+?
+vuolláneaddji	vuolláneaddji	+?
+vuollánmeahttun	vuollánmeahttun	+?
+vuolleahkahaš	vuolleahkahaš	+?
+vuolleahkáhaš	vuolleahkáhaš	+?
+vuolleahkásaš	vuolleahkásaš	+?
+vuolleárvosaš	vuolleárvosaš	+?
+vuollegaš	vuollegaš	+?
+vuollis	vuollis	+?
+vuonabuš	vuonabuš	+?
+vuoŋis	vuoŋis	+?
+vuonjas	vuonjas	+?
+vuopmat	vuopmat	+?
+vuorddálmas	vuorddálmas	+?
+vuorddehahtti	vuorddehahtti	+?
+vuordemeahttun	vuordemeahttun	+?
+vuordetmeahttun	vuordetmeahttun	+?
+vuordevaš	vuordevaš	+?
+vuordimeahttun	vuordimeahttun	+?
+vuordnásadahkan	vuordnásadahkan	+?
+vuorji	vuorji	+?
+vuorukeahtes	vuorukeahtes	+?
+vuostáčuožžomeahttun	vuostáčuožžomeahttun	+?
+vuostálas	vuostálas	+?
+vuostedoaris	vuostedoaris	+?
+vuostefápmoadversatiiva	vuostefápmoadversatiiva	+?
+vuostehágolaš	vuostehágolaš	+?
+vuostidoaris	vuostidoaris	+?
+vuosttašluohkkálaš	vuosttašluohkkálaš	+?
+vuosttašriegádan	vuosttašriegádan	+?
+vuotnaheapme	vuotnaheapme	+?
+vuotnalaš	vuotnalaš	+?
+vuovdái	vuovdái	+?
+vuovdi	vuovdi	+?
+vuovdnái	vuovdnái	+?
+vuovssaheapme	vuovssaheapme	+?
+vurrolas	vurrolas	+?
+økonomálaš	økonomálaš	+?

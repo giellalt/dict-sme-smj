@@ -15,7 +15,6 @@ appason
 ba
 ban
 bat
-dat
 eaigga
 eiddo
 eigga
@@ -26,7 +25,6 @@ galhal
 ge
 ges
 gis
-go
 goit
 goittot
 goittotge
@@ -38,4 +36,3 @@ na
 nai
 no
 noa
-son
