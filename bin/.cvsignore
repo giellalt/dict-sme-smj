@@ -1,3 +1,4 @@
+*.lexc
 *.bin
 *.save
 *.fst
