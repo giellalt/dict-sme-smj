@@ -21,6 +21,7 @@ XFST = xfst -utf8
 	@./smesmjpairs.sh
 	@echo "*** Calling xfst to compile lexc ***"
 	@printf "read lexc < ../bin/smesmj.lexc \n\
+	save ../bin/smjsme.fst \n\
 	invert net \n\
 	save ../bin/smesmj.fst\n" > ../tmp/smesmj-lexc-script
 	$(XFST) < ../tmp/smesmj-lexc-script
