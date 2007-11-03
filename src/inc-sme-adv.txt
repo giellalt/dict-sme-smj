@@ -150,7 +150,6 @@ bealatkeahttá
 beald
 beallalaga
 beallalagaid
-bealle
 bealledagus
 bealledahkui
 beallegealdagis
@@ -545,7 +544,6 @@ diehttelasas
 diehttelasge
 diehttevassii
 dieiggo
-dieigo
 dieinnalágiin
 dieinnán
 dieinnánaga
@@ -630,7 +628,6 @@ dulppil
 dumis
 duŋgadassii
 duo
-duobbelaš
 duobbelii
 duobbeliidda
 duobbelis
@@ -715,7 +712,6 @@ dáđimielde
 dádjat
 dáhtul
 dáiggo
-dáigo
 dáigá
 dáinnánaga
 dájis
@@ -943,7 +939,6 @@ gaskii
 gaskka
 gaskkahaga
 gaskkaid
-gaskkas
 gaskkohagaid
 gasku
 gassagasas
@@ -1390,7 +1385,6 @@ jagá
 jagáš
 jahkeviissaid
 jahkásaččat
-jalga
 jaril
 jarkŋil
 jaska
@@ -1505,7 +1499,6 @@ lihpadjái
 lihpajis
 lihpebadjái
 lihpebajis
-liige
 liiggás
 liikka
 liikká
@@ -1704,7 +1697,6 @@ maŋážussii
 manin
 maninge
 manješ
-manne
 mannege
 mannes
 mannolagas
@@ -1843,7 +1835,6 @@ máddin
 máddinnuortan
 máddinoarjin
 máddugit
-mágaš
 máhccagasas
 máhccagassii
 máhccevaččat
@@ -1893,7 +1884,6 @@ nie
 niehkabealde
 niehkabeale
 niehkabeallai
-nieiddaš
 nievt
 nirvut
 nirvvil
@@ -2060,7 +2050,6 @@ oaivveheamet
 oaivvesnaga
 oaivvát
 oalil
-oalle
 oalleláhkai
 oallásahttá
 oaláhii
@@ -2071,7 +2060,6 @@ oanekassii
 oanit
 oapmet
 oapmit
-oappáš
 oarjelačča
 oarjelaččas
 oarjelaš
@@ -2106,7 +2094,6 @@ oarjjáslulás
 oarpmenbeleš
 oassálagaid
 oatnebotta
-oavdu
 oavnnjil
 oažžunsadjái
 oažžunsajis
@@ -2470,7 +2457,6 @@ sierra
 sierraláhkai
 sierralaga
 sierranassii
-siesáš
 sihkkarit
 siidolagaid
 sikkarit
@@ -2810,7 +2796,6 @@ vuogálaččat
 vuohččan
 vuohkkasit
 vuohon
-vuohpaš
 vuohten
 vuoiddasnaga
 vuoiga
@@ -2958,7 +2943,6 @@ vátneviša
 áddemeahttumit
 áhčeš
 áhkkorat
-áhkoš
 áhkáš
 áibbas
 áiddo
@@ -2968,7 +2952,6 @@ vátneviša
 áigges
 áiggil
 áiggokeahttá
-áigi
 áigovaččat
 áigá
 áigálii
@@ -2991,7 +2974,6 @@ vátneviša
 álgogeahčai
 álgogeahčen
 álgoálggos
-álgu
 álguige
 álgáge
 áli
