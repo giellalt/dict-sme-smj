@@ -2399,7 +2399,8 @@ rentedit	renttidit	v
 rentehit	renttidit	v
 rentedit	renttidit	v
 rentehit	renttidit	v
-riccagit	rittsagit	vx
+ribihit	ribádit	vw
+riccagit	rittsagit	vx have to check
 ridnahit	riddnadit	v
 riehkadit	riehkadit	v
 riehkidit	riehkedit	v
@@ -2425,8 +2426,8 @@ rihkustit	rihkostit	v
 rihpastit	rihpastit	v
 rihpašit	rihpatjit	v
 rihpihit	rihpedit	v
-rihppasit	rihppasit	v
-rihppulit	rihppolit	v
+rihppasit	rihppasit	vw
+rihppulit	rihppolit	vw
 rihđiidit	rihtjijdit	v
 riiddáskit	rijdáskit	v
 riimmostit	rijmustit	v
@@ -2440,8 +2441,8 @@ rimškkagit	rimsjkagit	v
 rinđđagit	rinttjagit	v
 rinđđistit	rinttjestit	v
 rinžžistit	rintjestit	v
-risttahit	ristadit	v
-risttašit	ristatjit	v
+risttahit	risstadit	vw
+risttašit	ristatjit	vw
 ritnudit	ridnodit	v
 rivdnjalit	rivnnjalit	v
 rivnnjuhit	rivnjodit	v
@@ -2450,14 +2451,14 @@ rizagit	ritságit	v
 rizihit	ritsedit	v
 riđeštit	ridisjtit	v
 riđđudit	riddodit	v
-riŋgestit	riŋggistit	v
-rišadit	risjádit	v
-rišaidit	risjájdit	v
-rišihit	risjedit	v
-riškalit	rissjkalit	v
-riškkihit	risjkedit	v
-riškkuhit	risjkodit	v
-riššudit	rissjodit	v
+riŋgestit	riŋŋgustit	vw
+rišadit	risjádit	vw
+rišaidit	risjijdit	vw
+rišihit	risjedit	vx have to check
+riškalit	rissjkalit	vx have to check
+riškkihit	risjkedit	vx have to check
+riškkuhit	risjkodit	vx have to check
+riššudit	rissjodit	vx have to check
 roabihit	roabedit	v
 roahkadit	roahkadit	v
 roahkasmit	roahkasmit	v
@@ -2518,8 +2519,8 @@ rullehit	rullidit	v
 rumššagit	rumsjagit	v
 runaidit	runájdit	v
 runddihit	rundedit	v
-runiidit	runijdit	v
-runodit	runudit	v
+runiidit	ruonudit	vw
+runodit	ruonudit	vw
 ruodjadit	ruodjadit	v
 ruohkkasit	ruohkkasit	v
 ruohte7stit	ruohtestit	v
@@ -2530,7 +2531,7 @@ ruoidnadit	ruojnnadit	v
 ruoinnašit	ruojnatjit	v
 ruoiusmit	ruojosmit	v
 ruoksahit	ruoksadit	v
-ruonihit	ruonedit	v
+ruonihit	ruonádit	v
 ruossanit	ruossanit	v
 ruossuhit	ruossodit	v
 ruovddástit	ruovdástit	v
@@ -2563,11 +2564,11 @@ ruššudit	russjodit	v
 rábastit	rábástit	v
 rábidit	rábedit	v
 rábmehit	rábbmidit	v
-rábo7stit	rábostit	v
+rábo7stit	rábostit	vw
 rábustit	rábostit	v
-rábo7stit	rábostit	v
+rábo7stit	rábostit	vw
 rábustit	rábostit	v
-rábádit	rábádit	v
+rábádit	rábádit	vx
 ráfuhit	ráfodit	v
 ráfáidit	ráfájdit	v
 rágadit	rágádit	v
