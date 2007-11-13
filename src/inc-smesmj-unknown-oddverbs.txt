@@ -2399,7 +2399,6 @@ rentedit	renttidit	v
 rentehit	renttidit	v
 rentedit	renttidit	v
 rentehit	renttidit	v
-ribihit	ribádit	vw
 riccagit	rittsagit	vx have to check
 ridnahit	riddnadit	v
 riehkadit	riehkadit	v
@@ -2426,8 +2425,6 @@ rihkustit	rihkostit	v
 rihpastit	rihpastit	v
 rihpašit	rihpatjit	v
 rihpihit	rihpedit	v
-rihppasit	rihppasit	vw
-rihppulit	rihppolit	vw
 rihđiidit	rihtjijdit	v
 riiddáskit	rijdáskit	v
 riimmostit	rijmustit	v
@@ -2441,8 +2438,6 @@ rimškkagit	rimsjkagit	v
 rinđđagit	rinttjagit	v
 rinđđistit	rinttjestit	v
 rinžžistit	rintjestit	v
-risttahit	risstadit	vw
-risttašit	ristatjit	vw
 ritnudit	ridnodit	v
 rivdnjalit	rivnnjalit	v
 rivnnjuhit	rivnjodit	v
@@ -2451,9 +2446,6 @@ rizagit	ritságit	v
 rizihit	ritsedit	v
 riđeštit	ridisjtit	v
 riđđudit	riddodit	v
-riŋgestit	riŋŋgustit	vw
-rišadit	risjádit	vw
-rišaidit	risjijdit	vw
 rišihit	risjedit	vx have to check
 riškalit	rissjkalit	vx have to check
 riškkihit	risjkedit	vx have to check
@@ -2519,8 +2511,6 @@ rullehit	rullidit	v
 rumššagit	rumsjagit	v
 runaidit	runájdit	v
 runddihit	rundedit	v
-runiidit	ruonudit	vw
-runodit	ruonudit	vw
 ruodjadit	ruodjadit	v
 ruohkkasit	ruohkkasit	v
 ruohte7stit	ruohtestit	v
@@ -2564,9 +2554,7 @@ ruššudit	russjodit	v
 rábastit	rábástit	v
 rábidit	rábedit	v
 rábmehit	rábbmidit	v
-rábo7stit	rábostit	vw
 rábustit	rábostit	v
-rábo7stit	rábostit	vw
 rábustit	rábostit	v
 rábádit	rábádit	vx
 ráfuhit	ráfodit	v
