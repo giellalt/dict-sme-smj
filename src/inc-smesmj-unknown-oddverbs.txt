@@ -2667,18 +2667,18 @@ seaguhit	siegodit	v
 seagáskit	sægáskit	v
 seahkanit	sehkanit	vw
 seahkidit	siehkedit	v
-seahkánit	sæhkánit	vx
+seahkánit	sehkanit	vw
 seailluhit	siejllodit	v
 seailudit	siejlodit	v
 seaivalit	siejvvalit	v
-seaivvuhit	siejvodit	v
-seaivvádit	sæjvádit	v
+seaivvuhit	sæjvodit	vw
+seaivvádit	sæjvádit	vw
 seakkášit	sækkátjit	v
 seakŋudit	siegŋodit	v
 sealgadit	sielggadit	v
 sealggahit	sielgadit	v
 sealgádit	sælggádit	v
-seallasit	siellasit	v
+seallasit	sellasit	vw
 seanadit	sienadit	v
 searggihit	siergedit	v
 searvidit	siervvedit	v
@@ -2687,17 +2687,17 @@ seatnadit	siednadit	v
 seavadit	sievadit	v
 seavašit	sievatjit	v
 seavddagit	sievdagit	v
-seavnnjahit	sievnjadit	v
-seavnnjašit	sievnjatjit	v
-seavnnjihit	sievnjedit	v
-seavnnjuhit	sievnjodit	v
-seavnnjášit	sævnjátjit	v
+seavnnjahit	sjevnjudit	vw
+seavnnjašit	sjevnjatjit	vx have to check
+seavnnjihit	sjevnjudit	vx have to check
+seavnnjuhit	sjevnjudahttet	vw
+seavnnjášit	sævnjátjit	vx have to check
 segodit	segudit	v
 selehit	selidit	v
 selvehit	selvvidit	v
 sepmohit	sebmudit	v
 sevddiidit	sevdijdit	v
-sevnnjodit	sevnjudit	v
+sevnnjodit	sjevnjudit	vw
 sevttodit	sevtudit	v
 sibildit	sibeldit	v
 sibirdit	siberdit	v
@@ -2706,9 +2706,9 @@ siedjudit	siedjodit	v
 siektadit	siektadit	v
 sierkŋadit	sierŋadit	v
 sievttastit	sievtastit	v
-sihke7stit	sihkestit	v
-sihkkasit	sihkkasit	v
-siiddastit	sijdastit	v
+sihke7stit	sihkastit	vw
+sihkkasit	sihkasit	vx have to check
+siiddastit	sijdastit	vw
 siivvosmit	sijvusmit	v
 sikkildit	sikkeldit	v
 silášit	silátjit	v
@@ -2719,9 +2719,9 @@ siđgŋadit	sirŋŋadit	v
 sisa#fievrre7dit	sisafievredit	v
 sisa#fievrridit	sisafievredit	v
 sisa#fievrre7dit	sisafievredit	v
-sisa#fievrridit	sisafievredit	v
-sisa#gáibidit	sisagájbbedit	v
-sisa#đálihit	sisatjáledit	v
+sisa#fievrridit	tjáledibme	vw
+sisa#gáibidit	sisagájbbedit	vx check out
+sisa#đálihit	sisatjáledit	vx check out
 ciskkihit	tsiskedit	v
 siskkidit	siskedit	v
 siskkildit	siskeldit	v
@@ -2730,9 +2730,9 @@ siskánit	sisskánit	v
 sitnjasit	sidnjasit	v
 sittardit	sittardit	v
 sivahit	sivádit	v
-bures#sivdnidit	burissivnnedit	v
-sivdnidit	sivnnedit	v
-sivjjogastalit	sivjugastalit	v
+bures#sivdnidit	buorissjivnnjedit	vw
+sivdnidit	sjivnnjedit	vw
+sivjjogastalit	sjivnjugastalit	vx check out
 sivladit	sivlladit	v
 siđasmit	sidásmit	v
 sirgŋadit	sirŋŋadit	v
