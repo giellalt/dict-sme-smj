@@ -268,7 +268,7 @@ desideret:desiderit v ;
 designet:designit v ;
 desimeret:desimerit v ;
 detacheret:detacherit v ;
-detaljstivret:detaljstivrit v ;
+detaljstivret:detaljstivrrit v ;
 detasjeret:detasjerit v ;
 detašeret:detasjerit v ;
 determineret:determinerit v ;
