@@ -2556,9 +2556,6 @@ rábidit	rábedit	v
 rábmehit	rábbmidit	v
 rábustit	rábostit	v
 rábustit	rábostit	v
-rábádit	rábastit	vw
-ráfuhit	ráfodit	vw
-ráfáidit	ráfedit	vw
 rágadit	rágádit	v
 rágádit	rágádit	v
 rágeštit	rágisjtit	v
@@ -2576,22 +2573,15 @@ ráhkásmit	ráhkásmit	v
 ráhpásmit	ráhpásmit	v
 ráhpášit	ráhpátjit	v
 ráhtalit	ráhtalit	v
-ráiddostit	rájdustit	vw
-ráiggidit	rájggodit	vw
 ráikidit	rájkkedit	v
 ráillistit	rájllestit	v
 stráillistit	strájllestit	v
-ráinnodit	rájnnedit	vw
 ráiskkagit	rájskagit	v
 ráiskkidit	rájskedit	v
 ráiskkiidit	rájskijdit	v
 ráiskkistit	rájskestit	v
 ráiskudit	rájsskodit	v
 ráivvastit	rájvastit	v
-ráiadit	rájadit	vw
-ráiahit	rájadit	vw
-ráiadit	rájadit	vw
-ráiahit	rájadit	vw
 rákkášit	rákkátjit	v
 rámmehit	rámmidit	v
 rámidit	rámedit	v
@@ -2628,17 +2618,10 @@ ortnet#ráŋggáštit	årnitráŋgásjtit	v
 ráŋggáštit	ráŋgásjtit	v
 ráškalit	rássjkalit	v
 ráškkihit	rásjkedit	v
-rášudit	rássjodit	vw
 rážžadit	rádtjadit	v
 saddjehit	sadjedit	vx have to check - få til å slutte å gi melk(ku) 
 cagahit	tsagádit	v
-sagadit	tsahkadit	vw
-sagahit	sahkkidit	vw
 cagahit	tsagádit	v
-sagadit	tsahkadit	vw
-sagahit	sahkkidit	vw
-cahkiidit	tsahkkijdit	vw
-sahkiidit	sahkkijdit	vw
 saidnadit	sajnnadit	v
 sainnahit	sajnadit	v
 saiustit	sajostit	v
@@ -2651,34 +2634,25 @@ salkkuhit	salkodit	v
 salodit	saludit	v
 salodit	saludit	v
 saluhit	salodit	v
-samaidit	tsamádit	vw
 sartudit	sarttodit	v
 satnjasit	sadnjasit	v
 savdadit	savddadit	v
-savdnjilit	sjavnnjelit	vw
 savkalit	savkkalit	vx have to check
 savkkuhit	savkodit	v
-savnnjašit	sjavnjatjit	vw
-savnnjihit	sjavnjedit	vw
 ciebahit	tsiebadit	v
 seabadit	siebadit	v
 seaggudit	sieggodit	v
 seaguhit	siegodit	v
 seagáskit	sægáskit	v
-seahkanit	sehkanit	vw
 seahkidit	siehkedit	v
-seahkánit	sehkanit	vw
 seailluhit	siejllodit	v
 seailudit	siejlodit	v
 seaivalit	siejvvalit	v
-seaivvuhit	sæjvodit	vw
-seaivvádit	sæjvádit	vw
 seakkášit	sækkátjit	v
 seakŋudit	siegŋodit	v
 sealgadit	sielggadit	v
 sealggahit	sielgadit	v
 sealgádit	sælggádit	v
-seallasit	sellasit	vw
 seanadit	sienadit	v
 searggihit	siergedit	v
 searvidit	siervvedit	v
@@ -2687,17 +2661,14 @@ seatnadit	siednadit	v
 seavadit	sievadit	v
 seavašit	sievatjit	v
 seavddagit	sievdagit	v
-seavnnjahit	sjevnjudit	vw
 seavnnjašit	sjevnjatjit	vx have to check
 seavnnjihit	sjevnjudit	vx have to check
-seavnnjuhit	sjevnjudahttet	vw
 seavnnjášit	sævnjátjit	vx have to check
 segodit	segudit	v
 selehit	selidit	v
 selvehit	selvvidit	v
 sepmohit	sebmudit	v
 sevddiidit	sevdijdit	v
-sevnnjodit	sjevnjudit	vw
 sevttodit	sevtudit	v
 sibildit	sibeldit	v
 sibirdit	siberdit	v
@@ -2706,9 +2677,7 @@ siedjudit	siedjodit	v
 siektadit	siektadit	v
 sierkŋadit	sierŋadit	v
 sievttastit	sievtastit	v
-sihke7stit	sihkastit	vw
 sihkkasit	sihkasit	vx have to check
-siiddastit	sijdastit	vw
 siivvosmit	sijvusmit	v
 sikkildit	sikkeldit	v
 silášit	silátjit	v
@@ -2719,7 +2688,6 @@ siđgŋadit	sirŋŋadit	v
 sisa#fievrre7dit	sisafievredit	v
 sisa#fievrridit	sisafievredit	v
 sisa#fievrre7dit	sisafievredit	v
-sisa#fievrridit	tjáledibme	vw
 sisa#gáibidit	sisagájbbedit	vx check out
 sisa#đálihit	sisatjáledit	vx check out
 ciskkihit	tsiskedit	v
@@ -2730,8 +2698,6 @@ siskánit	sisskánit	v
 sitnjasit	sidnjasit	v
 sittardit	sittardit	v
 sivahit	sivádit	v
-bures#sivdnidit	buorissjivnnjedit	vw
-sivdnidit	sjivnnjedit	vw
 sivjjogastalit	sjivnjugastalit	vx check out
 sivladit	sivlladit	v
 siđasmit	sidásmit	v
