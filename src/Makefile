@@ -13,7 +13,7 @@ XFST = xfst -utf8
 # and let xfst read that file
 # problem is, this looks more like a shell script than like a makefile
 
-../bin/smesmj.fst: smesmj.xml
+../bin/smesmj.fst: smesmj.txt
 	@echo
 	@echo "*** Building smesmj.fst ***" 
 	@echo
@@ -25,6 +25,19 @@ XFST = xfst -utf8
 	invert net \n\
 	save ../bin/smesmj.fst\n" > ../tmp/smesmj-lexc-script
 	$(XFST) < ../tmp/smesmj-lexc-script
+
+smesmj.xml: smesmj.txt smesmj2xml.pl
+	@echo
+	@echo "*** Building $@ ***" 
+	@echo
+	@echo "*** Reading perlscript smesmj2xml.pl ***"
+	@echo
+	@echo "*** Calling perl to compile xml ***"
+	@echo
+	@perl smesmj2xml.pl
+	@echo
+	@echo "*** Done. ***"
+	@echo
 
 
 
