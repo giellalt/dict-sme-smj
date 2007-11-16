@@ -301,7 +301,7 @@ ja/dahje	ja/dahje	cc
 vai	vaj	cc
 de	de	pcle
 gal	gal	pcle
-ai	aj% pcle
+ai	aj	pcle
 nibba	nibba	n
 gaiba	gajbba	n
 galba	galbba	n
