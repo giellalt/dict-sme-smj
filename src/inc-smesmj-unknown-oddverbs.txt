@@ -689,8 +689,6 @@ viidáset#fievrridit	vijddásetfievredit	v
 hoavridit	hoavrredit	v
 gásidit	gásedit	v
 veaisidit	viejssedit	v
-soalsidit	soalsedit	vw
-soalssidit	soalsedit	vw
 busidit	busedit	v
 veašidit	vietjedit	v
 geaktidit	giektedit	v
@@ -709,10 +707,7 @@ rievidit	rievedit	v
 huovidit	huovedit	v
 searvidit	siervvedit	vx
 skievvidit	skievvedit	v
-šliivvidit	slijvedit	vw
 duivvidit	dujvedit	vx
-duolvvidit	duolvadit	vw
-suovvidit	suovadit	vw
 hárvvidit	hárvedit	v
 šlárvvidit	slárvedit	v
 šiervvidit	sjiervedit	v
@@ -726,11 +721,8 @@ hánddaldit	hándaldit	v
 meađaldit	miedaldit	v
 duođaldit	duodaldit	v
 muđaldit	mudáldit	v
-čuoiggaldit	tjuojgadit	vw
-váialdit	vájáldit	vw
 jakkaldit	jakkaldit	v
 ávnnaldit	ávnaldit	v
-čuohpaldit	tjuohpadit	vw
 čoppaldit	tjåppåldit	v
 čoppaldit	tjåppåldit	v
 joppaldit	jåppåldit	v
@@ -745,7 +737,6 @@ vuorddildit	vuordeldit	v
 soavddildit	soavdeldit	v
 bivddildit	bivdeldit	v
 vieđđildit	viettjeldit	v
-spálđđildit	spáltjeldit	vw
 spálđđildit	spáltjeldit	v
 vielggildit	vielgeldit	v
 čuovggildit	tjuovgeldit	v
