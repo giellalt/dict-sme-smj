@@ -884,7 +884,7 @@ lydisoleret:lydisolerit v ;
 maskineret:maskinerit v ;
 magasineret:magasinerit v ;
 magnetiseret:magnetiserit v ;
-mailet:mailit v ;
+mailet:miejllit v ;
 makadamiseret:makadamiserit v ;
 maksimaliseret:maksimaliserit v ;
 maksimeret:maksimerit v ;
