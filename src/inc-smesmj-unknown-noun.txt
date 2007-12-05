@@ -1,142 +1,146 @@
-adjektijvva	adjektijvva
-adnobiergas	adnobiergas
-adnobivtas	adnobivtas
-adnogálvvo	adnogálvvo
-agurkka	agurkka
-ahkelasse	ahkelasse
+adjektijvva	adjektijvva	w
+adnobiergas	adnobiergas	w
+adnobivtas	adnobivtas	w
+adnogálvvo	adnogálvvo	w
+agurkka	agurkka	w	
+ahkelasse	ahkelasse	
 ahkelasádus	ahkelasádus
-allabasse	allabasse
-allagåhttse	allagåhttse
-allalávla	allalávla
-allatjoarvve	allatjoarvve
-allavierro	allavierro
-allaájgge	allaájgge
-almebálges	almebálges
-almeguovllo	almeguovllo
-almenáhkke	almenáhkke
-almerijkka	almerijkka
-almetjuollda	almetjuollda
-almevierttsa	almevierttsa
-almmailmme	almmailmme
-almmaråbme	almmaråbme
-almmasuojgge	almmasuojgge
-almmaš	almasj
-almmenáhkke	almmenáhkke
-arvvebalvva	arvvebalvva
-arvvebivtas	arvvebivtas
-arvvebålås	arvvebålås
-arvvedálkke	arvvedálkke
-arvvemierre	arvvemierre
-arvvesuodje	arvvesuodje
-arvvetjalmme	arvvetjalmme
-arvvevuovdde	arvvevuovdde
-asebielle	asebielle
-asstobiejvve	asstobiejvve
-asstoájgebivdde	asstoájgebivdde
-asstoájgedoajmma	asstoájgedoajmma
-asstoájgge	asstoájgge
-astoájgge	astoájgge
+allabasse	allabasse	w
+allagåhttse	allagåhttse	w
+allalávla	allalávla	w
+allatjoarvve	allatjoarvve	w
+allavierro	allavierro	w
+allaájgge	allaájgge	w
+almebálges	almebálges	w
+almeguovllo	almeguovllo	w
+almenáhkke	almenáhkke	
+almerijkka	almerijkka	w
+almetjuollda	almetjuollda	w
+almevierttsa	almevierttsa	w
+almmailmme	almmailmme	w
+almmaråbme	almmaråbme	w
+almmasuojgge	almmasuojgge	w
+almmaš	almasj	w
+almmenáhkke	almmenáhkke	w
+arvvebalvva	harvvebalvva	w
+arvvebivtas	harvvebivtas	w
+arvvebålås	harvvebålås	w
+arvvedálkke	harvvedálkke	w
+arvvemierre	harvvemierre	w
+arvvesuodje	harvvesuodje	w
+arvvetjalmme	harvvetjalmme	w
+arvvevuovdde	harvvevuovdde	w
+asebielle	asebielle	w
+asstobiejvve	asstobiejvve	w
+asstoájgebivdde	asstoájggebivdde	w
+asstoájgedoajmma	asstoájggedoajmma	w
+asstoájgge	asstoájgge	w
+astoájgge	astoájgge	w
 astoájggedoajmma	astoájggedoajmma
-avijssa	avijssa
-avijssadiedádus	avijssadiedádus
-avijssaålmåj	avijssaålmåj
-badjebahta	badjebahta
-badjebielle	badjebielle
-badjebádne	badjebádne
-badjebárnne	badjebárnne
-badjebátsa	badjebátsa
-badjedille	badjedille
-badjedásse	badjedásse
-badjegierdde	badjegierdde
-badjegoahte	badjegoahte
-badjegájbbe	badjegájbbe
-badjelassta	badjelassta
-badjeluobma	badjeluobma
-badjelájgge	badjelájgge
-badjemadda	badjemadda
-badjeniejdda	badjeniejdda
-badjeriessjme	badjeriessjme
-badjerádje	badjerádje
-badjerádjemierre	badjerádjemierre
-badjesijdda	badjesijdda
-badjesábme	badjesábme
-badjetjála	badjetjála
-badjeviesso	badjeviesso
-badjevuovdda	badjevuovdda
-badjeváhkká	badjeváhkká
-badjeålmåj	badjeålmåj
-bahtagiesse	bahtagiesse
-bahtaliehkko	bahtaliehkko
-bahtaluovdde	bahtaluovdde
-bahtarájgge	bahtarájgge
-bahtasihkko	bahtasihkko
-bahtačalbmi	bahtatjalmme
-bahtačoalli	bahtatjoalle
-bahádahkke	bahádahkke
-bahádahko	bahádahko
-bahádáhpi	bahádáhpe
-bahálaš	bahálasj
-bahávuohta	bahávuohta
-balvvadálkke	balvvadálkke
-barggoahke	barggoahke
-barggobiejvve	barggobiejvve
+avijssa	avijssa	w
+avijssadiedádus	avijssadiedádus	w
+avijssaålmåj	avijssaålmåj	w
+badjebahta	badjebahta	w
+badjebielle	badjebielle	w
+badjebádne	badjebádne	w
+badjebárnne	badjebárnne	w
+badjebátsa	badjebátsa	w
+badjedille	badjedille	w
+badjedásse	badjedásse	w
+badjegierdde	badjegierdde	w
+badjegoahte	badjegoahte	w
+badjegájbbe	badjegájbbe	w
+badjelassta	badjelassta	w
+badjeluobma	badjeluobma	w
+badjelájgge	badjelájgge	w
+badjemadda	badjemadda	w
+badjeniejdda	badjeniejdda	w
+badjeriessjme	badjeriessjme	w
+badjerádje	badjerádje	w
+badjerádjemierre	badjerádjemierre	w
+badjesijdda	badjesijdda	w
+badjesábme	badjesábme	w
+badjetjála	badjetjála	w
+badjeviesso	badjeviesso	w
+badjevuovdda	badjevuovdda	w
+badjeváhkká	badjeváhkká	w
+badjeålmåj	badjeålmåj	w
+bahtagiesse	bahtagiesse	w
+bahtaliehkko	bahtasliehkko	w
+bahtaluovdde	bahtaluovdde	w
+bahtarájgge	bahtarájgge	w
+bahtasihkko	bahtasihkko	w
+bahtačalbmi	bahtatjalmme	w
+bahtačoalli	bahtatjoalle	w
+bahádahkke	bahádahkke	w
+bahádahko	bahádahko w
+bahádáhpi	bahádáhpe	w
+bahálaš	bahálasj 	w
+bahávuohta	bahávuohta	w
+balvvadálkke	balvvadálkke	w
+barggoahke	barggoahke	
+barggobiejvve	barggobiejvve	w
 barggobihttá	barggobihttá
-barggobirásláhka	barggobirásláhka
+barggobihttá	barggobiehkke	w
+barggobirásláhka	barggobirásláhka	w
 barggobiráslávddegådde	barggobiráslávddegådde
-barggobivtas	barggobivtas
-barggobájkke	barggobájkke
-barggodille	barggodille
-barggodoajmma	barggodoajmma
-barggofábmo	barggofábmo
-barggogirjje	barggogirjje
-barggoguojmme	barggoguojmme
-barggogådde	barggogådde
-barggogåvvå	barggogåvvå
-barggoielle	barggoielle
-barggojuohko	barggojuohko
+barggobiráslávddegådde	barggobirásnammadus	w
+barggobivtas	barggobivtas	w
+barggobájkke	barggobájkke	w
+barggodille	barggodille	w
+barggodoajmma	barggodoajmma	w
+barggofábmo	barggofábmo	w
+barggogirjje	barggogirjje	w
+barggoguojmme	barggoguojmme	w
+barggogådde	barggogådde	w
+barggogåvvå	barggogåvvå	w
+barggoielle	barggoielle	w
+barggojuohko	barggojuohko	w
 barggolávddegådde	barggolávddegådde
-barggomiella	barggomiella
-barggomálle	barggomálle
-barggonjuolgadus	barggonjuolgadus
-barggorájddo	barggorájddo
-barggosadje	barggosadje
-barggosjiehtadus	barggosjiehtadus
-barggosuodjalus	barggosuodjalus
-barggosuorgge	barggosuorgge
-barggovuohke	barggovuohke
-barggovuorro	barggovuorro
-barggoájgge	barggoájgge
-barggoålmåj	barggoålmåj
-barggoš	bargusj
-baskesoajvve	baskesoajvve
-bassebiejvve	bassebiejvve
-basseålmåj	basseålmåj
-bassteoajvve	bassteoajvve
-baste	bassti
-bejbusjtsihtse	bejbusjtsihtse
-berealasj	berealasj
-biddojuolgge	biddojuolgge
+barggolávddegådde	barggonammadus	w	
+barggomiella	barggomiella	w
+barggomálle	barggomálle	w
+barggonjuolgadus	barggonjuolgadus	w
+barggorájddo	barggorájddo	w
+barggosadje	barggosadje	w
+barggosjiehtadus	barggosjiehtadus	w
+barggosuodjalus	barggosuodjalus	w
+barggosuorgge	barggosuorgge	w
+barggovuohke	barggovuohke	w
+barggovuorro	barggovuorro	w
+barggoájgge	barggoájgge	w
+barggoålmåj	barggoålmåj	w
+barggoš	bargusj	w
+baskesoajvve	baskesoajvve	w
+bassebiejvve	bassebiejvve	w
+basseålmåj	basseålmåj	w
+bassteoajvve	bassteoajvve	
+baste	bassti w
+bejbusjtsihtse	bejbusjtsihtse	w
+berealasj	berealasj	w
+biddojuolgge	biddojuolgge	w
 biebbmobihttá	biebbmobihttá
-biebbmobuvta	biebbmobuvta
-biebbmobárnne	biebbmobárnne
-biebbmodille	biebbmodille
-biebbmoieddne	biebbmoieddne
-biebbmoielle	biebbmoielle
-biebbmolådde	biebbmolådde
-biebbmománná	biebbmománná
-biebbmoniejdda	biebbmoniejdda
-biebbmosládja	biebbmosládja
-biebbmosállte	biebbmosállte
-biebbmovádne	biebbmovádne
-biebbmoáhttje	biebbmoáhttje
-biedjonjálmme	biedjonjálmme
-bieggadávdda	bieggadávdda
-bieggafiello	bieggafiello
-bieggafálle	bieggafálle
-bieggagadtsa	bieggagadtsa
-bieggajårre	bieggajårre
-bieggamillo	bieggamillo
-bieggaoajvve	bieggaoajvve
+biebbmobihttá	biebbmobiehhke	w
+biebbmobuvta	biebbmobuvta	w
+biebbmobárnne	biebbmobárnne	w
+biebbmodille	biebbmodille	w
+biebbmoieddne	biebbmoieddne	w
+biebbmoielle	biebbmoielle	w
+biebbmolådde	biebbmolådde	w
+biebbmománná	biebbmománná	w
+biebbmoniejdda	biebbmoniejdda	w
+biebbmosládja	biebbmosládja	w
+biebbmosállte	biebbmosállte	w
+biebbmovádne	biebbmovádne	w
+biebbmoáhttje	biebbmoáhttje	w
+biedjonjálmme	biedjonjálmme	w
+bieggadávdda	bieggadávdda	w
+bieggafiello	bieggafiello	w
+bieggafálle	bieggafálle	
+bieggagadtsa	bieggagadtsa	w
+bieggajårre	bieggajårre	w
+bieggamillo	bieggamillo	w
+bieggaoajvve	bieggaoajvve	xxx til hit
 bieggaskierro	bieggaskierro
 bieggaullo	bieggaullo
 bieggaålmåj	bieggaålmåj
