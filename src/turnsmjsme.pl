@@ -41,13 +41,13 @@ while(<>) {
     if ( m/^\S+\t\S*[cčđšŧžz]/ ||
          m/^\S*[äæå]\S*\t/   ||
          m/^[ts]j/           ) {
-        print $FH3 $_ ; # print error pairs to file smesmj_error.txt
+        print $FH1 $_ ; # print error pairs to file smesmj_error.txt
     } elsif ( m/^\S*[cčđšŧžz]\S*\t/ ||
               m/^\S+\t\S*[äæå]/     ||
               m/^\S+\t[ts]j/           ) {
         print $FH2 $_ ; # print certainly good ones to file smesmj_clean.txt
     } else {
-        print $FH1 $_ ; # print potentially bad ones to file smesmj_dirty.txt
+        print $FH3 $_ ; # print the rest to file smesmj_uncertain.txt
     }
 }
 
