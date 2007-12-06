@@ -4,7 +4,7 @@ adnobivtas	adnobivtas	w
 adnogálvvo	adnogálvvo	w
 agurkka	agurkka	w	
 ahkelasse	ahkelasse	
-ahkelasádus	ahkelasádus
+ahkelasádus	ahkelasádus	
 allabasse	allabasse	w
 allagåhttse	allagåhttse	w
 allalávla	allalávla	w
@@ -36,7 +36,7 @@ asstoájgebivdde	asstoájggebivdde	w
 asstoájgedoajmma	asstoájggedoajmma	w
 asstoájgge	asstoájgge	w
 astoájgge	astoájgge	w
-astoájggedoajmma	astoájggedoajmma
+astoájggedoajmma	astoájggedoajmma	
 avijssa	avijssa	w
 avijssadiedádus	avijssadiedádus	w
 avijssaålmåj	avijssaålmåj	w
@@ -80,10 +80,10 @@ bahávuohta	bahávuohta	w
 balvvadálkke	balvvadálkke	w
 barggoahke	barggoahke	
 barggobiejvve	barggobiejvve	w
-barggobihttá	barggobihttá
+barggobihttá	barggobihttá	
 barggobihttá	barggobiehkke	w
 barggobirásláhka	barggobirásláhka	w
-barggobiráslávddegådde	barggobiráslávddegådde
+barggobiráslávddegådde	barggobiráslávddegådde	
 barggobiráslávddegådde	barggobirásnammadus	w
 barggobivtas	barggobivtas	w
 barggobájkke	barggobájkke	w
@@ -96,7 +96,7 @@ barggogådde	barggogådde	w
 barggogåvvå	barggogåvvå	w
 barggoielle	barggoielle	w
 barggojuohko	barggojuohko	w
-barggolávddegådde	barggolávddegådde
+barggolávddegådde	barggolávddegådde	
 barggolávddegådde	barggonammadus	w	
 barggomiella	barggomiella	w
 barggomálle	barggomálle	w
@@ -119,7 +119,7 @@ baste	bassti w
 bejbusjtsihtse	bejbusjtsihtse	w
 berealasj	berealasj	w
 biddojuolgge	biddojuolgge	w
-biebbmobihttá	biebbmobihttá
+biebbmobihttá	biebbmobihttá	
 biebbmobihttá	biebbmobiehhke	w
 biebbmobuvta	biebbmobuvta	w
 biebbmobárnne	biebbmobárnne	w
@@ -140,308 +140,312 @@ bieggafálle	bieggafálle
 bieggagadtsa	bieggagadtsa	w
 bieggajårre	bieggajårre	w
 bieggamillo	bieggamillo	w
-bieggaoajvve	bieggaoajvve	xxx til hit
-bieggaskierro	bieggaskierro
-bieggaullo	bieggaullo
-bieggaålmåj	bieggaålmåj
-bieggačoalli	bieggatjoalle
-biehtselådde	biehtselådde
-biehtsemihttár	biehtsemihttár
-biehtsesjaddo	biehtsesjaddo
-biehtsevuovdde	biehtsevuovdde
-biejvebarggo	biejvebarggo
-biejvvebielle	biejvvebielle
-biejvvebájta	biejvvebájta
-biejvvebåddå	biejvvebåddå
-biejvvegirjje	biejvvegirjje
-biejvvelahkke	biejvvelahkke
-biejvveláhtto	biejvveláhtto
-biejvvelådde	biejvvelådde
-biejvvelåttåsj	biejvvelåttåsj
-biejvvemåhkke	biejvvemåhkke
-biejvvetjalmme	biejvvetjalmme
-biejvvetjalmmesjaddo	biejvvetjalmmesjaddo
-biekkanjuolla	biekkanjuolla
-bielggelådde	bielggelådde
-biellebiejvvedoajmma	biellebiejvvedoajmma
-biellemuddo	biellemuddo
-biellemuorra	biellemuorra
-bielletjuokkes	bielletjuokkes
-bielljebágge	bielljebágge
-bielljediehppe	bielljediehppe
-bielljegoahte	bielljegoahte
-bielljegoarvve	bielljegoarvve
-bielljeguoppar	bielljeguoppar
-bielljegáhttje	bielljegáhttje
-bielljegásse	bielljegásse
-bielljelassta	bielljelassta
-bielljemátta	bielljemátta
-bielljemáttatjårro	bielljemáttatjårro
-bielljenáhkkesoadje	bielljenáhkkesoadje
-bielljerájgge	bielljerájgge
-bielljerástes	bielljerástes
-bielljesuodje	bielljesuodje
-bielljetsuodtsa	bielljetsuodtsa
-biellodaŋássjaddo	biellodaŋássjaddo
-bielloguodde	bielloguodde
-biellorásse	biellorásse
-biellosjaddo	biellosjaddo
-biellotsitsásj	biellotsitsásj
-bierbbedákte	bierbbedákte
-bierbbeladás	bierbbeladás
-bierggobihttá	bierggobihttá
-bierggobillda	bierggobillda
-bierggobuvta	bierggobuvta
-bierggobállo	bierggobállo
-bierggodájgge	bierggodájgge
-bierggogáhkko	bierggogáhkko
-bierggohadde	bierggohadde
-bierggojielle	bierggojielle
-bierggoliebma	bierggoliebma
-bierggomihtto	bierggomihtto
-bierggomálle	bierggomálle
-bierŋesdoavnnje	bierŋesdoavnnje
-biessegadna	biessegadna
-biessegáhkko	biessegáhkko
-biessenjalle	biessenjalle
-bietna	biedna
-bietsegarra	bietsegarra
-bievddegiehtje	bievddegiehtje
-bievddegirjje	bievddegirjje
-bievddeguorra	bievddeguorra
-bievddelijnne	bievddelijnne
-bievddenijbbe	bievddenijbbe
-bievddevierro	bievddevierro
-bievllajahke	bievllajahke
-bijlarábma	bijlarábma
-bijlavuoddje	bijlavuoddje
-bijnnovahkko	bijnnovahkko
-bilkádus	bilkkádus
-birratjuohpadus	birratjuohpadus
-birásbargge	birásbargge
-birásbuojdde	birásbuojdde
-biráslassta	biráslassta
-biráslavnnje	biráslavnnje
-birásládde	birásládde
-birásperspektijvva	birásperspektijvva
-birásresurssa	birásresurssa
-birástsuodtsa	birástsuodtsa
-birásviesso	birásviesso
+bieggaoajvve	bieggaoajvve	w
+bieggaskierro	bieggaskierro	w
+bieggaullo	bieggaullo	w
+bieggaålmåj	bieggaålmåj	w
+bieggačoalli	bieggatjoalle	w
+biehtselådde	biehtselådde	w
+biehtsemihttár	biehtsemihttár	w
+biehtsesjaddo	biehtsesjaddo	w
+biehtsevuovdde	biehtsevuovdde	w
+biejvebarggo	biejvebarggo	w
+biejvvebielle	biejvvebielle	w
+biejvvebájta	biejvvebájta	w
+biejvvebåddå	biejvvebåddå	w
+biejvvegirjje	biejvvegirjje	w
+biejvvelahkke	biejvvelahkke	w
+biejvveláhtto	biejvveláhtto	w
+biejvvelådde	biejvvelådde	w
+biejvvelåttåsj	biejvvelåttåsj	w
+biejvvemåhkke	biejvvemåhkke	w
+biejvvetjalmme	biejvvetjalmme	w
+biejvvetjalmmesjaddo	biejvvetjalmmesjaddo	w
+biekkanjuolla	biekkanjuolla	w
+bielggelådde	bielggelådde	w
+biellebiejvvedoajmma	biellebiejvvedoajmma	w
+biellemuddo	biellemuddo	w
+biellemuorra	biellemuorra	w
+bielletjuokkes	bielletjuokkes	w
+bielljebágge	bielljebágge	w
+bielljediehppe	bielljediehppe	w
+bielljegoahte	bielljegoahte	w
+bielljegoarvve	bielljegoarvve	w
+bielljeguoppar	bielljeguoppar	w
+bielljegáhttje	bielljegáhttje	
+bielljegásse	bielljegásse	w
+bielljelassta	bielljelassta	w
+bielljemátta	bielljemátta	w
+bielljemáttatjårro	bielljemáttatjårro	w
+bielljenáhkkesoadje	bielljenáhkkesoadje	w
+bielljerájgge	bielljerájgge	w
+bielljerástes	bielljerástes	w
+bielljesuodje	bielljesuodje	w
+bielljetsuodtsa	bielljetsuodtsa	w
+biellodaŋássjaddo	biellodaŋássjaddo	w
+bielloguodde	bielloguodde	w
+biellorásse	biellorásse	w
+biellosjaddo	biellosjaddo	w
+biellotsitsásj	biellotsitsásj	w
+bierbbedákte	bierbbedákte	w
+bierbbeladás	bierbbeladás	w
+bierggobihttá	bierggobihttá		
+bierggobihttá	bierggobiehkke	w	
+bierggobillda	bierggobillda	w
+bierggobuvta	bierggobuvta	w
+bierggobállo	bierggobállo	w
+bierggodájgge	bierggodájgge	w
+bierggogáhkko	bierggogáhkko	w
+bierggohadde	bierggohadde	w
+bierggojielle	bierggojielle	w
+bierggoliebma	bierggoliebma	w
+bierggomihtto	bierggomihtto	w
+bierggomálle	bierggomálle	w
+bierŋesdoavnnje	bierŋesdoavnnje	w
+biessegadna	biessegadna	w
+biessegáhkko	biessegáhkko	w
+biessenjalle	biessenjalle	w
+bietna	biedna	w
+bietsegarra	bietsegarra	w
+bievddegiehtje	bievddegiehtje	w
+bievddegirjje	bievddegirjje	w
+bievddeguorra	bievddeguorra	w
+bievddelijnne	bievddelijnne	w
+bievddenijbbe	bievddenijbbe	w
+bievddevierro	bievddevierro	
+bievllajahke	bievllajahke	w
+bijlarábma	bijlarábma	w
+bijlavuoddje	bijllavuoddje	w	
+bijnnovahkko	bijnnovahkko	w
+bilkádus	bilkkádus	w
+birratjuohpadus	birratjuohpadus	w
+birásbargge	birásbargge	w
+birásbuojdde	birásbuojdde	w
+biráslassta	biráslassta	w
+biráslavnnje	biráslavnnje	w
+birásládde	birásládde	w
+birásperspektijvva	birásperspektijvva	w
+birásresurssa	birásresurssa	w
+birástsuodtsa	birástsuodtsa	w
+birásviesso	birásviesso	w
 bissobiergas	bissobiergas
 bissonjálmme	bissonjálmme
-bivddobiergas	bivddobiergas
-bivddobádde	bivddobádde
-bivddobájkke	bivddobájkke
-bivddodille	bivddodille
-bivddogoartta	bivddogoartta
-bivddojuolgge	bivddojuolgge
-bivddoláhka	bivddoláhka
-bivddomåhkke	bivddomåhkke
-bivddorågge	bivddorågge
-bivddosadje	bivddosadje
-bivddovahtsa	bivddovahtsa
-bivddovuohke	bivddovuohke
-bivddoájgge	bivddoájgge
-bivddoålmåj	bivddoålmåj
-bivddár	bivdár
-bivtasbassta	bivtasbassta
-bivtasgoarro	bivtasgoarro
-boahkkebierggo	boahkkebierggo
-boahkkeguolle	boahkkeguolle
-boahkkodávdda	boahkkodávdda
-boahkkosadje	boahkkosadje
-boahtogálldo	boahtogálldo
-boahtoárvvo	boahtoárvvo
-boahtteájgge	boahtteájgge
-boallobievdde	boallobievdde
-boallodákte	boallodákte
-boallogálla	boallogálla
+bivddobiergas	bivddobiergas	w
+bivddobádde	bivddobádde	w
+bivddobájkke	bivddobájkke	w
+bivddodille	bivddodille	w
+bivddogoartta	bivddogoartta	w
+bivddojuolgge	bivddojuolgge	w
+bivddoláhka	bivddoláhka	w
+bivddomåhkke	bivddomåhkke	w
+bivddorågge	bivddorågge	w
+bivddosadje	bivddosadje	w
+bivddovahtsa	bivddovahtsa	w
+bivddovuohke	bivddovuohke	w
+bivddoájgge	bivddoájgge	w
+bivddoålmåj	bivddoålmåj	w
+bivddár	bivdár	w
+bivtasbassta	bivtasbassta	w
+bivtasgoarro	bivtasgoarro	w
+boahkkebierggo	boahkkebierggo	w
+boahkkeguolle	boahkkeguolle	w
+boahkkodávdda	boahkkodávdda	w
+boahkkosadje	boahkkosadje	w
+boahtogálldo	boahtogálldo	w
+boahtoárvvo	boahtoárvvo	w
+boahtteájgge	boahtteájgge	w
+boallobievdde	boallobievdde	w
+boallodákte	boallodákte	w
+boallogálla	boallogálla	w
 boallonjuktja	boallonjuktja
-boallooajvve	boallooajvve
-boallorásse	boallorásse
-boallorávdde	boallorávdde
-boaresbárnne	boaresbárnne
-boaresdárogiella	boaresdárogiella
-boaresgállárásse	boaresgállárásse
-boaresmánno	boaresmánno
-boaresniejdda	boaresniejdda
-boassjobiellje	boassjobiellje
-boassjotsagge	boassjotsagge
-boastoadno	boastoadno
-brånssåájgge	brånssåájgge
-bujtteguolle	bujtteguolle
-buoddojávrre	buoddojávrre
-buoddosadje	buoddosadje
-buoddotsuodtsa	buoddotsuodtsa
-buohttsesadje	buohttsesadje
+boallonjuktja	boallosnjuktja	w
+boallooajvve	boallooajvve	w
+boallorásse	boallorásse	w
+boallorávdde	boallorávdde	w
+boaresbárnne	boaresbárnne	w
+boaresdárogiella	boaresdárogiella	w
+boaresgállárásse	boaresgállárásse	w
+boaresmánno	boaresmánno	w
+boaresniejdda	boaresniejdda	w
+boassjobiellje	boassjobiellje	w
+boassjotsagge	boassjotsagge	w
+boastoadno	boastoadno	w
+brånssåájgge	brånssåájgge	w
+bujtteguolle	bujtteguolle	w
+buoddojávrre	buodojávrre	w	
+buoddosadje	buodosadje	w
+buoddotsuodtsa	buodotsuodtsa	w
+buohttsesadje	buohttsesadje	
 buohttsesáhtto	buohttsesáhtto
 buohttseviesso	buohttseviesso
-buohča	buohtja
-buojddedågge	buojddedågge
-buojddetsitsásj	buojddetsitsásj
-buorredahkke	buorredahkke
-buorredahko	buorredahko
-buorredille	buorredille
-buorremiella	buorremiella
-burssarásse	burssarásse
-buvtta	buvta
-bádatjoarvve	bádatjoarvve
-bádnedákte	bádnedákte
-bádnegarra	bádnegarra
-bádnegasska	bádnegasska
-bádnegielas	bádnegielas
-bádnegárdde	bádnegárdde
-bádnejiegŋa	bádnejiegŋa
-bádnemátta	bádnemátta
-bádneruovdde	bádneruovdde
-bádnetjuomas	bádnetjuomas
-bádnetjårro	bádnetjårro
-bádnevierkka	bádnevierkka
-bádnevárkka	bádnevárkka
-bággodoajmma	bággodoajmma
-bággovuohke	bággovuohke
-báhkkadávdda	báhkkadávdda
+buohča	buohtja	w
+buojddedågge	buojddedågge	w
+buojddetsitsásj	buojddetsitsásj	w
+buorredahkke	buorredahkke	w
+buorredahko	buorredahko	w
+buorredille	buorredille	w
+buorremiella	buorremiella	w
+burssarásse	burssarásse	w	
+buvtta	buvta	w
+bádatjoarvve	bádatjoarvve	
+bádnedákte	bádnedákte	w
+bádnegarra	bádnegarra	w
+bádnegasska	bádnegasska	w
+bádnegielas	bádnegielas	w
+bádnegárdde	bádnegárdde	w
+bádnejiegŋa	bádnejiegŋa	w
+bádnemátta	bádnemátta	w
+bádneruovdde	bádneruovdde	w
+bádnetjuomas	bádnetjuomas	w
+bádnetjårro	bádnetjårro	w
+bádnevierkka	bádnevierkka	w
+bádnevárkka	bádnevárkke	w	
+bággodoajmma	bággodoajmma	w
+bággovuohke	bággovuohke	w
+báhkkadávdda	báhkkadávdda	w
 báhkkebåsso	báhkkebåsso
-báhkkegijssá	báhkkegijssá
-báhpatjiebet	báhpatjiebet
-báhpavirgge	báhpavirgge
-báhppagådde	báhppagådde
-bájkeiset	bájkeiset
-bájkekásus	bájkekásus
-bájkesadje	bájkesadje
-bájkkegådde	bájkkegådde
-bájkkenamma	bájkkenamma
-bájkkenammaláhka	bájkkenammaláhka
-bájnarásse	bájnarásse
-bájnnorásse	bájnnorásse
-báktedoajmma	báktedoajmma
-báktefálle	báktefálle
-báktegoarvve	báktegoarvve
-báktehárjje	báktehárjje
-bákteladnja	bákteladnja
-bákteláhka	bákteláhka
-báktesládja	báktesládja
-báktesállte	báktesállte
-báldesgiergge	báldesgiergge
-bálgessuorgge	bálgessuorgge
-bálgessuorre	bálgessuorre
-bálgestjuolle	bálgestjuolle
-bálgestjuovgga	bálgestjuovgga
-bálkkábargge	bálkkábargge
-bálkkábivddo	bálkkábivddo
-bálkkágållo	bálkkágållo
-bálkkálissta	bálkkálissta
-bálkkálissto	bálkkálissto
-bálkkásjiehtadus	bálkkásjiehtadus
-bálkkátsiehkke	bálkkátsiehkke
-bálkkávállde	bálkkávállde
-bálloburssa	bálloburssa
-bálloskuohppo	bálloskuohppo
-bálloskuvddo	bálloskuvddo
-bállosuodna	bállosuodna
-bállotjalmme	bállotjalmme
-bárddebiejvve	bárddebiejvve
-bárdderuovdde	bárdderuovdde
-bárkkodávdda	bárkkodávdda
-bárnnebielle	bárnnebielle
-bárnneålmåj	bárnneålmåj
-bárragådde	bárragådde
-bárralåhkojahke	bárralåhkojahke
-bárrogiera	bárrogiera
+báhkkegijssá	báhkkegijssá 	w
+báhpatjiebet	báhpatjiebet	w
+báhpavirgge	báhpavirgge	w
+báhppagådde	báhppagådde	w
+bájkeiset	bájkeiset	w
+bájkekásus	bájkekásus	w
+bájkesadje	bájkesadje	w
+bájkkegådde	bájkkegådde	w
+bájkkenamma	bájkkenamma	w
+bájkkenammaláhka	bájkkenammaláhka	w
+bájnarásse	bájnarásse	
+bájnnorásse	bájnnorásse	w
+báktedoajmma	báktedoajmma	w
+báktefálle	báktefálle	
+báktegoarvve	báktegoarvve	w
+báktehárjje	báktehárjje	
+bákteladnja	bákteladnja	w
+bákteláhka	bákteláhka	w
+báktesládja	báktesládja	w
+báktesállte	báktesállte	w
+báldesgiergge	báldesgiergge	w
+bálgessuorgge	bálgessuorgge	w
+bálgessuorre	bálgessuorre	w
+bálgestjuolle	bálgestjuolle	w
+bálgestjuovgga	bálgestjuovgga	w
+bálkkábargge	bálkkábargge	w
+bálkkábivddo	bálkkábivddo	w
+bálkkágållo	bálkkágållo	w
+bálkkálissta	bálkkálissta	w
+bálkkálissto	bálkkálissto	w
+bálkkásjiehtadus	bálkkásjiehtadus	w
+bálkkátsiehkke	bálkkátsiehkke	w
+bálkkávállde	bálkkávállde	w
+bálloburssa	bálloburssa	w
+bálloskuohppo	bálloskuohppo	w	
+bálloskuvddo	bálloskuvddo	w
+bállosuodna	bállosuodna	w
+bállotjalmme	bállotjalmme	w
+bárddebiejvve	bárddebiejvve	w
+bárdderuovdde	bárdderuovdde	w
+bárkkodávdda	bárkkodávdda	w
+bárnnebielle	bárnnebielle	w
+bárnneålmåj	bárnneålmåj	w
+bárragådde	bárragådde	
+bárralåhkojahke	bárralåhkojahke	
+bárrogiera	bárrogiera	w
 bárrohárjje	bárrohárjje
-bárroruohto	bárroruohto
+bárroruohto	bárroruohto	
 bárrosáhtso	bárrosáhtso
-båddnejiegŋa	båddnejiegŋa
-båddneskártta	båddneskártta
-båddnesuossa	båddnesuossa
+båddnejiegŋa	båddnejiegŋa	w
+båddneskártta	båddneskártta	w
+båddnesuossa	båddnesuossa	w
 båddneullo	båddneullo
+båddneullo	båddnehullo	
 bådneniehko	bådneniehko
 båhkårásse	båhkårásse
 båhkåskálltjo	båhkåskálltjo
-båhttjegussa	båhttjegussa
-båhtålrabán	båhtålrabán
-båksårabán	båksårabán
-bårggeduollje	bårggeduollje
-bårggemánno	bårggemánno
-bårrenoajdde	bårrenoajdde
-bårssjogiergge	bårssjogiergge
-båsskålávkke	båsskålávkke
-båssotjålggå	båssotjålggå
-båssoárppo	båssoárppo
-bæjvásjgådde	bæjvásjgådde
-bællájjuohkke	bællájjuohkke
-bæssásjbasse	bæssásjbasse
-bæssásjbiejvve	bæssásjbiejvve
-bæssásjruohtta	bæssásjruohtta
-dadneárppo	dadneárppo
-dahkojuolgge	dahkojuolgge
+båhttjegussa	båhttjegussa	w
+båhtålrabán	båhtålrabán	w
+båksårabán	båksårabán	w
+bårggeduollje	bårggeduollje	w
+bårggemánno	bårggemánno		w
+bårrenoajdde	bårrenoajdde	w
+bårssjogiergge	bårssjogiergge	w
+båsskålávkke	båsskålávkke	w
+båssotjålggå	båssotjålggå	w
+båssoárppo	båssohárppo	w
+bæjvásjgådde	bæjvásjgådde	w
+bællájjuohkke	bællájjuohkke	
+bæssásjbasse	bæssásjbasse	w
+bæssásjbiejvve	bæssásjbiejvve	w
+bæssásjruohtta	bæssásjruohtta	w
+dadneárppo	dadnehárppo	w
+dahkojuolgge	dahkojuolgge	w
 dahkojávrre	dahkojávrre
 dahkoladás	dahkoladás
 dahkolahtto	dahkolahtto
 dahkonamma	dahkonamma
 dahkosájggo	dahkosájggo
 dahkovuovdde	dahkovuovdde
-darffeboallo	darffeboallo
-darffegoahte	darffegoahte
-darffejiegge	darffejiegge
-davvebiegga	davvebiegga
-davveguovllo	davveguovllo
-davvelådde	davvelådde
-davvenuortta	davvenuortta
-davvenuortte	davvenuortte
-davveoalgge	davveoalgge
-davveoarjje	davveoarjje
-davverijkka	davverijkka
-davveruhtarásse	davveruhtarásse
-davvesijdda	davvesijdda
-davvesábme	davvesábme
-davvesámesijdda	davvesámesijdda
-daŋásdarffe	daŋásdarffe
-daŋásruvsso	daŋásruvsso
-daŋássiergga	daŋássiergga
-daŋássjaddo	daŋássjaddo
-diedagådde	diedagådde
-diedasuorgge	diedasuorgge
-diedaålmåj	diedaålmåj
-diehppebágge	diehppebágge
-diehppegálla	diehppegálla
+darffeboallo	darffeboallo	
+darffegoahte	darffegoahte	
+darffejiegge	darffejiegge	w
+davvebiegga	davvebiegga	w
+davveguovllo	davveguovllo	w
+davvelådde	davvelådde	w
+davvenuortta	davvenuortta	w
+davvenuortte	davvenuortte	w
+davveoalgge	davveoalgge	w
+davveoarjje	davveoarjje	w
+davverijkka	davverijkka	w
+davveruhtarásse	davveruhtarásse	w
+davvesijdda	davvesijdda	w
+davvesábme	davvesábme	w
+davvesámesijdda	davvesámesijdda	w
+daŋásdarffe	daŋásdarffe	w
+daŋásruvsso	daŋásruvsso	w
+daŋássiergga	daŋássiergga	w
+daŋássjaddo	daŋássjaddo	w
+diedagådde	diedagådde	
+diedasuorgge	diedasuorgge	w
+diedaålmåj	diedaålmåj	w
+diehppebágge	diehppebágge	w
+diehppegálla	diehppegálla	
 diehpperásse	diehpperásse
-diehtodásse	diehtodásse
-diehtogirjje	diehtogirjje
-diehtogálldo	diehtogálldo
-diehtojuohkke	diehtojuohkke
-dievdobielle	dievdobielle
-diggebievdde	diggebievdde
-diggebájkke	diggebájkke
-diggegirjje	diggegirjje
-diggegådde	diggegådde
-diggeviesso	diggeviesso
-diggeášši	diggeássje
-dihkkerásse	dihkkerásse
-dijddagoanssta	dijddagoanssta
-dijddaåssko	dijddaåssko
-diktafiguvrra	diktafiguvrra
-diktagirjje	diktagirjje
-diktalávllo	diktalávllo
-diktamihtto	diktamihtto
-diktatjálle	diktatjálle
-diktáhtta	diktáhtta
+diehtodásse	diehtodásse	w
+diehtogirjje	diehtogirjje	w
+diehtogálldo	diehtogálldo	w
+diehtojuohkke	diehtojuohke
+dievdobielle	dievddobielle	w
+diggebievdde	diggebievdde	w
+diggebájkke	diggebájkke	w
+diggegirjje	diggegirjje	w
+diggegådde	diggegådde	
+diggeviesso	diggehuonaj	w
+diggeášši	diggeássje	w
+dihkkerásse	dihkkerásse	w
+dijddagoanssta	dijddagoanssta	w
+dijddaåssko	dijddaåssko	w
+diktafiguvrra	diktafiguvrra w
+diktafiguvrra	diktagåvås	w
+diktagirjje	diktagirjje	w
+diktalávllo	diktalávllo	w
+diktamihtto	diktamihtto	w
+diktatjálle	diktatjálle	w
+diktáhtta	diktáhtta	
 diktár	diktár
-dikŋa	digŋa
-divggahielmme	divggahielmme
-doajmmadoalle	doajmmadoalle
-doajmmaguovllo	doajmmaguovllo
-doajmmagådde	doajmmagådde
-doajmmagållo	doajmmagållo
-doajmmajahke	doajmmajahke
-doajmmasuorgge	doajmmasuorgge
-doajmmaájgge	doajmmaájgge
-doajmmaålmåj	doajmmaålmåj
-doalleristieddne	doalleristieddne
+dikŋa	digŋa	w
+divggahielmme	divggahielmme	w
+doajmmadoalle	doajmmadoalle	w
+doajmmaguovllo	doajmmaguovllo	w
+doajmmagådde	doajmmagådde	
+doajmmagållo	doajmmagållo	w
+doajmmajahke	doajmmajahke	w
+doajmmasuorgge	doajmmasuorgge	w
+doajmmaájgge	doajmmaájgge	w
+doajmmaålmåj	doajmmaålmåj	w
+doalleristieddne	doalleristieddne	
 doalleristáhttje	doalleristáhttje
 doallogådde	doallogådde
-doallostruktuvrra	doallostruktuvrra
-doallovuohke	doallovuohke
+doallostruktuvrra	doallostruktuvrra	w
+doallovuohke	doallovuohke	xxx til hit
 doaresbiegga	doaresbiegga
 doaresbielle	doaresbielle
 doaresbálges	doaresbálges
