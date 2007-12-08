@@ -92,7 +92,7 @@ barggodoajmma	barggodoajmma	w
 barggofábmo	barggofábmo	w
 barggogirjje	barggogirjje	w
 barggoguojmme	barggoguojmme	w
-barggogådde	barggogådde	w
+barggogådde	barggogådde
 barggogåvvå	barggogåvvå	w
 barggoielle	barggoielle	w
 barggojuohko	barggojuohko	w
@@ -307,11 +307,11 @@ báhkkebåsso	báhkkebåsso
 báhkkegijssá	báhkkegijssá 	w
 báhpatjiebet	báhpatjiebet	w
 báhpavirgge	báhpavirgge	w
-báhppagådde	báhppagådde	w
+báhppagådde	báhppagådde	
 bájkeiset	bájkeiset	w
 bájkekásus	bájkekásus	w
 bájkesadje	bájkesadje	w
-bájkkegådde	bájkkegådde	w
+bájkkegådde	bájkkegådde
 bájkkenamma	bájkkenamma	w
 bájkkenammaláhka	bájkkenammaláhka	w
 bájnarásse	bájnarásse	
@@ -371,7 +371,7 @@ bårssjogiergge	bårssjogiergge	w
 båsskålávkke	båsskålávkke	w
 båssotjålggå	båssotjålggå	w
 båssoárppo	båssohárppo	w
-bæjvásjgådde	bæjvásjgådde	w
+bæjvásjgådde	bæjvásjgådde
 bællájjuohkke	bællájjuohkke	
 bæssásjbasse	bæssásjbasse	w
 bæssásjbiejvve	bæssásjbiejvve	w
@@ -445,59 +445,59 @@ doalleristieddne	doalleristieddne
 doalleristáhttje	doalleristáhttje
 doallogådde	doallogådde
 doallostruktuvrra	doallostruktuvrra	w
-doallovuohke	doallovuohke	xxx til hit
-doaresbiegga	doaresbiegga
-doaresbielle	doaresbielle
-doaresbálges	doaresbálges
-doaresgáma	doaresgáma
-doaresmuorra	doaresmuorra
-doaressiejnne	doaressiejnne
-doarestjuollda	doarestjuollda
-doarjjastivrra	doarjjastivrra
-doarrogievrra	doarrogievrra
-doavnnjeielle	doavnnjeielle
-doavnnjelassta	doavnnjelassta
-dudnaguolle	dudnaguolle
-dulppobiehtse	dulppobiehtse
-dulveájgge	dulveájgge
-duobmobiejvve	duobmobiejvve
-duobmogirjje	duobmogirjje
-duobmoreferáhtta	duobmoreferáhtta
-duobmosådnåbiejvve	duobmosådnåbiejvve
-duobmovállde	duobmovállde
-duodjebiergas	duodjebiergas
-duodjedoajmma	duodjedoajmma
-duodjekurssa	duodjekurssa
-duodjeladnja	duodjeladnja
-duodjelávkka	duodjelávkka
-duodjeprográmma	duodjeprográmma
-duodjerádde	duodjerádde
-duolbbabassta	duolbbabassta
-duolbbabievdde	duolbbabievdde
-duolbbadaŋás	duolbbadaŋás
-duolbbaskierro	duolbbaskierro
-duolbbasuojnne	duolbbasuojnne
-duolbbár	duolbár
-duolljebággo	duolljebággo
-duorggoielle	duorggoielle
-duottarhávvar	duottarhávvar
-duottarrijkka	duottarrijkka
-duottarsjaddogierdde	duottarsjaddogierdde
+doallovuohke	doallovuohke
+doaresbiegga	doaresbiegga	w
+doaresbielle	doaresbielle	w
+doaresbálges	doaresbálges	w
+doaresgáma	doaresgáma	w
+doaresmuorra	doaresmuorra	w
+doaressiejnne	doaressiejnne	w
+doarestjuollda	doarestjuollda	w
+doarjjastivrra	doarjjastivrra	w
+doarrogievrra	doarrogievrra	w
+doavnnjeielle	doavnnjeielle	w
+doavnnjelassta	doavnnjelassta	w
+dudnaguolle	dudnaguolle	
+dulppobiehtse	dulppobiehtse	w
+dulveájgge	dulveájgge	w
+duobmobiejvve	duobmobiejvve	w
+duobmogirjje	duobmogirjje	w
+duobmoreferáhtta	duobmoreferáhtta	w
+duobmosådnåbiejvve	duobmosådnåbiejvve	w
+duobmovállde	duobmovállde	w
+duodjebiergas	duodjebiergas	w
+duodjedoajmma	duodjedoajmma	w
+duodjekurssa	duodjekurssa	w
+duodjeladnja	duodjeladnja	w
+duodjelávkka	duodjelávkka	w
+duodjeprográmma	duodjeprográmma	w
+duodjerádde	duodjerádde	w
+duolbbabassta	duolbbabassta	w
+duolbbabievdde	duolbbabievdde	w
+duolbbadaŋás	duolbbadaŋás	w
+duolbbaskierro	duolbbaskierro	w
+duolbbasuojnne	duolbbasuojnne	w
+duolbbár	duolbár	w
+duolljebággo	duolljebággo	w
+duorggoielle	duorggoielle	w
+duottarhávvar	duottarhávvar	w
+duottarrijkka	duottarrijkka	w
+duottarsjaddogierdde	duottarsjaddogierdde	w
 duottarvirusj	duottarvirusj
-duvdajuolgge	duvdajuolgge
-duvdatjanás	duvdatjanás
+duvdajuolgge	duvdajuolgge	w
+duvdatjanás	duvdatjanás	w
 duvnnerásse	duvnnerásse
-dájdabarggo	dájdabarggo
+dájdabarggo	dájdabarggo	w
 dájdadoajmmagådde	dájdadoajmmagådde
-dájdadáhpádus	dájdadáhpádus
-dájdamusea	dájdamusea
-dájdasuorgge	dájdasuorgge
-dájggegárre	dájggegárre
-dáktebierggo	dáktebierggo
-dákteguodde	dákteguodde
-dákteguolle	dákteguolle
-dákterigge	dákterigge
-dálkasbuvdda	dálkasbuvdda
+dájdadáhpádus	dájdadáhpádus	w
+dájdamusea	dájdamusea	w
+dájdasuorgge	dájdasuorgge	w
+dájggegárre	dájggegárre	w
+dáktebierggo	dáktebierggo	w
+dákteguodde	dákteguodde	w
+dákteguolle	dákteguolle	w
+dákterigge	dákterigge	w
+dálkasbuvdda	dálkasbuvdda	xxx
 dálkasgiehta	dálkasgiehta
 dálkasnállo	dálkasnállo
 dálkkediedádus	dálkkediedádus
