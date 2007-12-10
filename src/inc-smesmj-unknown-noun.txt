@@ -497,27 +497,27 @@ dáktebierggo	dáktebierggo	w
 dákteguodde	dákteguodde	w
 dákteguolle	dákteguolle	w
 dákterigge	dákterigge	w
-dálkasbuvdda	dálkasbuvdda	xxx
-dálkasgiehta	dálkasgiehta
-dálkasnállo	dálkasnállo
-dálkkediedádus	dálkkediedádus
-dálkkedille	dálkkedille
-dálveguolle	dálveguolle
-dálveájgge	dálveájgge
-dálvvebájkke	dálvvebájkke
-dálvvedigge	dálvvedigge
-dálvveidja	dálvveidja
-dálvvejahke	dálvvejahke
-dálvvejáhpe	dálvvejáhpe
-dálvvelassta	dálvvelassta
-dálvvelådde	dálvvelådde
-dálvvemuorra	dálvvemuorra
-dálvvenager	dálvvenager
-dálvvesijdda	dálvvesijdda
-dálvvetjårgge	dálvvetjårgge
-dálvveurbbe	dálvveurbbe
-dálvveájmmo	dálvveájmmo
-dánskagiella	dánsskagiella
+dálkasbuvdda	dálkasbuvdda	w
+dálkasgiehta	dálkasgiehta	w
+dálkasnállo	dálkasnállo	w
+dálkkediedádus	dálkkediedádus	w
+dálkkedille	dálkkedille	w
+dálveguolle	dálveguolle	w
+dálveájgge	dálveájgge	w
+dálvvebájkke	dálvvebájkke	w
+dálvvedigge	dálvvedigge	w
+dálvveidja	dálvveidja	w
+dálvvejahke	dálvvejahke	w
+dálvvejáhpe	dálvvejáhpe	w
+dálvvelassta	dálvvelassta	w
+dálvvelådde	dálvvelådde	w
+dálvvemuorra	dálvvemuorra	w
+dálvvenager	dálvvenager	w
+dálvvesijdda	dálvvesijdda	w
+dálvvetjårgge	dálvvetjårgge	w
+dálvveurbbe	dálvveurbbe	w
+dálvveájmmo	dálvveájmmo	w
+dánskagiella	dánsskagiella	xxx
 dárogiella	dárogiella
 dásegierdde	dásegierdde
 dássegierdde	dássegierdde
