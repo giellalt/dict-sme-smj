@@ -28,8 +28,8 @@ loaiddadit	loajdadit	v
 vavddadit	vavdadit	v
 lávddadit	lávdadit	v
 lávddadit	lávdadit	v
-govddadit	båhtånit	vx have to check
-beaidadit	biejddadit	v
+govddadit	båhtånit	v	x have to check
+beaidadit	biejddadit	v	x
 eaidadit	iejddadit	v
 sneaidadit	sniejddadit	v
 sneaidadit	sniejddadit	v
@@ -41,19 +41,19 @@ nuondadit	nuonddadit	v
 ravdadit	ravddadit	v
 savdadit	savddadit	v
 vavdadit	vavddadit	v
-lávdadit	gæjvvadit	vx
+lávdadit	gæjvvadit	v	x
 lávdadit	lávddadit	v
 rávdadit	rávddadit	v
 govdadit	gåvddådit	v
 govdadit	gåvddådit	v
-nađđadit	lamadit	vx
+nađđadit	lamadit	v	x
 suođđadit	suoddadit	v
 gávččadit	gávtjadit	v
 šnjalčadit	snjalttjadit	v
 gáiffadit	gájfadit	v
 čágadit	tjágádit	v
-rágadit	rágádit	vx
-rágadit	rágádit	vx
+rágadit	rágádit	v	x
+rágadit	rágádit	v	x
 ággadit	ággadit	v
 guoiggadit	guojgadit	v
 jolggadit	jålgådit	v
@@ -95,18 +95,18 @@ riehkadit	riehkadit	v
 lihkadit	lihkadit	v
 lihkadit	lihkadit	v
 stihkadit	stihkadit	v
-čohkadit	tjåhkådit	vx
-čohkadit	tjåhkådit	vx
+čohkadit	tjåhkådit	v	x
+čohkadit	tjåhkådit	v	x
 vuohkadit	vuohkadit	v
 čahkkadit	tjahkkadit	v
 bihkkadit	bihkkadit	v
 dihkkadit	dihkkadit	v
-stohkkadit	stuohkkodit	vx
-stohkkadit	ståhkkådit	vx
+stohkkadit	stuohkkodit	v	x
+stohkkadit	ståhkkådit	v	x
 galkkadit	galkadit	v
 galkkadit	galkadit	v
 haskkadit	haskadit	v
-čáskkadit	tjaskadit	vx
+čáskkadit	tjaskadit	v	x
 iskkadit	iskadit	v
 iskkadit	iskadit	v
 gietkkadit	gietkkadit	v
@@ -120,7 +120,7 @@ láŋkadit	láŋkkadit	v
 spárkadit	spárkkadit	v
 haskadit	hasskadit	v
 haskadit	hasskadit	v
-čáskadit	tjasskadit	vx
+čáskadit	tjasskadit	v	x
 gieškadit	giessjkadit	v
 davkadit	davkkadit	v
 daiahaladit	dajáhaladit	v
@@ -142,8 +142,8 @@ fuoladit	fuoladit	v
 fuoladit	fuoladit	v
 jievladit	jievlladit	v
 sivladit	sivlladit	v
-čalbmadit	tjalmmadit	vx
-njálbmadit	njálmmadit	vx
+čalbmadit	tjalmmadit	v	x
+njálbmadit	njálmmadit	v	x
 lárbmadit	lármmadit	v
 šlárbmadit	slármmadit	v
 šlárbmadit	slármmadit	v
@@ -220,12 +220,12 @@ smiehtadit	smiehtadit	v
 smiehtadit	smiehtadit	v
 buhtadit	buhtadit	v
 oasse7#ruhtadit	oasseruhtadit	v
-riektadit	riektadit	vx
+riektadit	riektadit	v	x
 siektadit	siektadit	v
 giktadit	giktadit	v
 vealtadit	vielltadit	v
 njartadit	njarttadit	v
-gártadit	gárttadit	vx
+gártadit	gárttadit	v	x
 eastadit	iesstadit	v
 goastadit	goasstadit	v
 šliettadit	sliettadit	v
@@ -254,7 +254,7 @@ máizadit	májttsadit	v
 bánžadit	bánttjadit	v
 spánžadit	spánttjadit	v
 rávžadit	rávttjadit	v
-loažžadit	loadtjadit	vx
+loažžadit	loadtjadit	v	x
 rážžadit	rádtjadit	v
 lozzadit	lådtsådit	v
 dávžžadit	dávtjadit	v
@@ -270,7 +270,7 @@ buohccádit	buohttsádit	v
 ginccádit	gintsádit	v
 gavccádit	gavttsádit	v
 givccádit	givttsádit	v
-meaddádit	mæddádit	vx
+meaddádit	mæddádit	v	x
 gáidádit	gájddádit	v
 šlundádit	slunddádit	v
 luovdádit	luovddádit	v
@@ -282,7 +282,7 @@ rágádit	rágádit	v
 rágádit	rágádit	v
 geađgádit	gærggádit	v
 biegádit	biegádit	v
-ceaggádit	tsæggádit	vx
+ceaggádit	tsæggádit	v	x
 ceaggádit	tsæggádit	v
 šleađggádit	slærgádit	v
 spáiggádit	spájgádit	v
@@ -370,7 +370,7 @@ njunnádit	njunnádit	v
 čuonádit	tjuonádit	v
 bátnádit	bádnádit	v
 sátnádit	sádnádit	v
-sártnádit	sjuddidit	vx
+sártnádit	sjuddidit	v	x
 dáhpádit	dáhpádit	v
 stáhpádit	stáhpádit	v
 vuohpádit	vuohpádit	v
@@ -378,17 +378,17 @@ vuohpádit	vuohpádit	v
 háppádit	háppádit	v
 háppádit	háppádit	v
 áhppádit	áhppádit	v
-čáhppádit	tjáhppádit	vx
+čáhppádit	tjáhppádit	v	x
 čáhppádit	tjáhppádit	v
 stohppádit	ståhppådit	v
 suohppádit	suohppádit	v
 duhppádit	duhppádit	v
 fáippádit	fájpádit	v
-váippádit	gæjvádit	vx
+váippádit	gæjvádit	v	x
 vilppádit	vilpádit	v
 čahrádit	tjahrádit	v
-stávrádit	stávrrádit	vx
-stávrádit	stávrrádit	vx
+stávrádit	stávrrádit	v	x
+stávrádit	stávrrádit	v	x
 vuoissádit	vuojsádit	v
 guissádit	gujsádit	v
 hámssádit	hámsádit	v
@@ -422,16 +422,16 @@ viidáset#gárgedit	vijddásetgárggidit	v
 viidáset#gárgedit	vijddásetgárggidit	v
 ladnjedit	laddnjidit	v
 tennjedit	tennjidit	v
-guhkedit	guhkedit	vx
+guhkedit	guhkedit	v	x
 reikedit	rejkkidit	v
 bahkkedit	bahkkidit	v
-dihkkedit	dihkkidit	vx
+dihkkedit	dihkkidit	v	x
 fávledit	fávllidit	v
 fávledit	fávllidit	v
 lubmedit	lubbmidit	v
 skáidnedit	skájnnidit	v
 devdnedit	devnnidit	v
-tevdnedit	tieŋnidit	vx
+tevdnedit	tieŋnidit	v	x
 čegŋedit	tjeggŋidit	v
 liktedit	liktidit	v
 hiltedit	hilltidit	v
@@ -445,7 +445,7 @@ lađaidit	ladájdit	v
 moađaidit	mådajdit	v
 šuđaidit	sjudájdit	v
 báfaidit	báfájdit	v
-njigaidit	njigájdit	vx
+njigaidit	njigájdit	v	x
 gáiaidit	gájájdit	v
 skáiaidit	skájájdit	v
 čuoiaidit	tjuojadit	v
@@ -471,7 +471,7 @@ humaidit	humájdit	v
 jumaidit	jumájdit	v
 runaidit	runájdit	v
 daraidit	darájdit	v
-haraidit	haradit	vx
+haraidit	haradit	v	x
 snaraidit	snarájdit	v
 šnjoaraidit	snjårajdit	v
 skoaraidit	skårajdit	v
@@ -497,7 +497,7 @@ diraidit	dirájdit	v
 ásaidit	ásájdit	v
 gisaidit	gisájdit	v
 hušaidit	husjájdit	v
-ovttaidit	åvtåjdit	vx
+ovttaidit	åvtåjdit	v	x
 joavaidit	jåvajdit	v
 šoavaidit	sjåvajdit	v
 šoavaidit	sjåvajdit	v
@@ -508,18 +508,18 @@ skuvaidit	skuvájdit	v
 šleažaidit	slietjajdit	v
 spažaidit	spatjájdit	v
 smiezaidit	smietsajdit	v
-virgáidit	virggájdit	vx
+virgáidit	virggájdit	v	x
 čoahkáidit	tjoahkájdit	v
 sánáidit	sánájdit	v
 rábidit	rábedit	v
-sisa#gáibidit	sisagájbbedit	vx check out
+sisa#gáibidit	sisagájbbedit	v	x check out
 gealbidit	gielbbedit	v
 spalccidit	spaltsedit	v
 spalccidit	spaltsedit	v
 leaicidit	liejttsedit	v
 šlánddidit	slándedit	v
 durddidit	durdedit	v
-šuddidit	sjuddidit	vx
+šuddidit	sjuddidit	v	x
 veardidit	vierddedit	v
 soardidit	soarddedit	v
 dierdidit	dierddedit	v
@@ -551,7 +551,7 @@ lađggiidit	largijdit	v
 biđggiidit	birgijdit	v
 staiggiidit	stajgijdit	v
 geiggiidit	gejgijdit	v
-njalggiidit	njalgijdit	vx
+njalggiidit	njalgijdit	v	x
 smolggiidit	smålgijdit	v
 šolggiidit	sjålgijdit	v
 njaŋggiidit	njaŋgijdit	v
@@ -560,10 +560,10 @@ heŋggiidit	heŋgijdit	v
 gárggiidit	gárgijdit	v
 gávggiidit	gávgijdit	v
 njovggiidit	njåvgijdit	v
-luvnnjiidit	luvnjijdit	vx
+luvnnjiidit	luvnjijdit	v	x
 skertnjiidit	skernjijdit	v
 jahkiidit	jahkijdit	v
-čohkiidit	tjåhkijdit	vx
+čohkiidit	tjåhkijdit	v	x
 likkiidit	likkijdit	v
 cilkkiidit	tsilkijdit	v
 ráiskkiidit	rájskijdit	v
@@ -591,7 +591,7 @@ hovrriidit	håvrijdit	v
 rohtiidit	råhtijdit	v
 bártiidit	bárttijdit	v
 spáittiidit	spájtijdit	v
-sálttiidit	sálltijdit	vx
+sálttiidit	sálltijdit	v	x
 bottiidit	båttijdit	v
 lusttiidit	lustijdit	v
 dolvviidit	dålvijdit	v
@@ -697,7 +697,7 @@ oktii#vástidit	åktijvásstedit	v
 guittidit	gujtedit	v
 reanttidit	rientedit	v
 koasttidit	koastedit	v
-rasttidit	rasstedit	vx have to check
+rasttidit	rasstedit	v	x have to check
 lásttidit	lástedit	v
 givšttidit	givsjtedit	v
 ruttidit	ruttedit	v
@@ -705,15 +705,15 @@ skievttidit	skievtedit	v
 rievidit	rievedit	v
 šliividit	slijvvedit	v
 huovidit	huovedit	v
-searvidit	siervvedit	vx
+searvidit	siervvedit	v	x
 skievvidit	skievvedit	v
-duivvidit	dujvedit	vx
+duivvidit	dujvedit	v	x
 hárvvidit	hárvedit	v
 šlárvvidit	slárvedit	v
 šiervvidit	sjiervedit	v
 huvvidit	huvvedit	v
 solžidit	sålltjedit	v
-gižžidit	gidtjedit	vx
+gižžidit	gidtjedit	v	x
 jozzidit	jådtsedit	v
 mozzidit	mådtsedit	v
 gimbbaldit	gimbaldit	v
@@ -727,7 +727,7 @@ jakkaldit	jakkaldit	v
 čoppaldit	tjåppåldit	v
 joppaldit	jåppåldit	v
 vuosttaldit	vuostaldit	v
-dábildit	dábeldit	vx
+dábildit	dábeldit	v	x
 bearbbildit	bierbeldit	v
 sibildit	sibeldit	v
 kuohcildit	kuohtseldit	v
@@ -744,37 +744,37 @@ vuoiildit	vuojjldit	v
 vuorjjildit	vuorjeldit	v
 jievjjildit	jievjeldit	v
 báljildit	báljjeldit	v
-finjildit	vinjeldit	vx
-vinjildit	vinjeldit	vx
+finjildit	vinjeldit	v	x
+vinjildit	vinjeldit	v	x
 oavnnjildit	oavnjeldit	v
-juhkildit	juhkeldit	vxxx
+juhkildit	juhkeldit	v
 ceakkildit	tsiekkeldit	v
 čoakkildit	tjoakkeldit	v
 sikkildit	sikkeldit	v
-siskkildit	siskeldit	v
+siskkildit	sisŋedit	vw
 davkkildit	davkeldit	v
 vuolildit	vuoleldit	v
-sámildit	sámeldit	v
+sámildit	sæmoldit	v	x	hav e to check
 čáhpildit	tjáhpeldit	v
 eaippildit	iejpeldit	v
 goaippildit	goajpeldit	v
 gávppildit	gávpeldit	v
 rasildit	raseldit	v
 ruovssildit	ruovseldit	v
-suovssildit	suovseldit	v
+suovssildit	suovsedit	v
 busildit	buseldit	v
 šliettildit	slietteldit	v
 gottildit	gåtteldit	v
 guottildit	guotteldit	v
-rasttildit	rasteldit	vx have to check
+rasttildit	rasteldit	v	x have to check
 gávildit	gáveldit	v
 njuovildit	njuoveldit	v
 spálžžildit	spáltjeldit	v
 spálžžildit	spáltjeldit	v
 rávžžildit	rávtjeldit	v
 čukkoldit	tjukkuldit	v
-ožoldit	åtjuldit	vx have to check
-váiuldit	vájoldit	v
+ožoldit	åtjuldit	v	x have to check
+vájuldit	vájaldit	v	w
 šođbbodit	sjårbudit	v
 šođbbodit	sjårbudit	v
 hilbbodit	hilbudit	v
@@ -782,12 +782,12 @@ hilbbodit	hilbudit	v
 dirbbodit	dirbudit	v
 durbbodit	durbudit	v
 gaccodit	gattsudit	v
-njeccodit	njettsudit	v
+njeccodit	vejmudit	v	w
 canccodit	tsantsudit	v
 gavccodit	gavttsudit	v
 civccodit	tsivttsudit	v
 givccodit	givttsudit	v
-buiddodit	bujdudit	v
+buiddodit	buojdudit	v	w
 onddodit	åndudit	v
 hávddodit	hávdudit	v
 govddodit	gåvdudit	v
@@ -800,25 +800,25 @@ buđodit	bududit	v
 ruđodit	rududit	v
 jađgodit	jarggudit	v
 jađgodit	jarggudit	v
-segodit	segudit	v
-laiggodit	lajgudit	v
+segodit	buodudit	v	w
+laiggodit	lajgudit	v	w
 veiggodit	vejgudit	v
 cuiggodit	tsujgudit	v
 dalggodit	dalgudit	v
 šelggodit	sjelgudit	v
 ilggodit	ilgudit	v
-vilggodit	vilgudit	v
-vilggodit	vilgudit	v
-njulggodit	njulgudit	v
+vilggodit	vielgudit	v	w
+vilggodit	vielgudit	v	w
+njulggodit	njuolgudit	v	w
 mulggodit	mulgudit	v
 šleŋggodit	sleŋgudit	v
 fiŋggodit	fiŋgudit	v
-sárggodit	sárgudit	v
+sárggodit	sárgodit	v	w
 čorggodit	tjårgudit	v
 čurggodit	tjurgudit	v
 snávggodit	snávgudit	v
 šlivggodit	slivgudit	v
-čuvggodit	tjuvgudit	v
+čuvggodit	tjuovgudit	v	w
 olgodit	ålggudit	v
 giŋgodit	giŋggudit	v
 giŋgodit	giŋggudit	v
@@ -838,26 +838,26 @@ sávnnjodit	sávnjudit	v
 lonjodit	lånjudit	v
 bunjodit	bunjudit	v
 spihkodit	spihkudit	v
-čohkodit	tjåhkudit	v
+čohkodit	tjåhkudit	v	w
 láhkkodit	láhkkudit	v
-cohkkodit	tsåhkkudit	v
-cohkkodit	tsåhkkudit	v
+cohkkodit	tsoahkodit	v	w
+cohkkodit	tsoahkodit	v	w
 šikkodit	sjikkudit	v
 njuikkodit	njujkudit	v
-skulkkodit	skulkudit	v
+skulkkodit	skulkudit	v	x
 čiŋkkodit	tjiŋkudit	v
-lokkodit	njalludit	v
+lokkodit	njalludit	v	w
 smokkodit	småkkudit	v
 dárkkodit	dárkudit	v
 ferkkodit	ferkudit	v
-girkkodit	girkudit	v
+girkkodit	girkudit	v	w
 virkkodit	virkudit	v
-vurkkodit	vurkudit	v
-faskkodit	faskudit	v
+vurkkodit	vuorkudit	v	w
+faskkodit	skáhppidit	v	w
 českkodit	tjeskudit	v
-fiskkodit	fiskudit	v
+fiskkodit	viskudit	v	w
 friskkodit	friskudit	v
-čuskkodit	tjuskudit	v
+čuskkodit	tjuoskudit	v
 divskkodit	divskudit	v
 dovskkodit	dåvskudit	v
 daškkodit	dasjkudit	v
@@ -865,20 +865,20 @@ deškkodit	desjkudit	v
 biškkodit	bisjkudit	v
 diškkodit	disjkudit	v
 rámškkodit	rámsjkudit	v
-doškkodit	dåsjkudit	v
+doškkodit	dåskudit	v	w
 šetkkodit	sjetkkudit	v
 botkkodit	båtkkudit	v
 lotkkodit	låtkkudit	v
 mutkkodit	mutkkudit	v
 čukkodit	tjukkudit	v
-jávkkodit	jávkudit	v
+jávkkodit	jávkodit	v	x have to check
 devkkodit	devkudit	v
 šovkkodit	sjåvkudit	v
 náskodit	násskudit	v
-salodit	saludit	v
-salodit	saludit	v
+salodit	saludit	v	x have to check
+salodit	saludit	v	x have to check
 melodit	meludit	v
-dallodit	dalludit	v
+dallodit	dalludit	v	xxx
 heillodit	hejlludit	v
 heillodit	hejlludit	v
 illodit	illudit	v
@@ -1200,7 +1200,7 @@ jiessudit	jiessodit	v
 vuolšudit	vuolssjodit	v
 áššudit	ássjodit	v
 ráššudit	rássjodit	v
-riššudit	rissjodit	vx have to check
+riššudit	rissjodit	v	x have to check
 vuoššudit	vuossjodit	v
 ruššudit	russjodit	v
 veahtudit	viehtodit	v
@@ -1249,9 +1249,9 @@ ruoibbagit	ruojbagit	v
 skuibbagit	skujbagit	v
 ruibbagit	rujbagit	v
 gobagit	gåbågit	v
-njeaccagit	njiettsagit	vx have to check!
+njeaccagit	njiettsagit	v	x have to check!
 cáiccagit	tsájtsagit	v
-riccagit	rittsagit	vx have to check
+riccagit	rittsagit	v	x have to check
 njoalccagit	njoaltsagit	v
 šnjoalccagit	snjoaltsagit	v
 šnjoalccagit	snjoaltsagit	v
@@ -1583,7 +1583,7 @@ luobbahit	luobbadit	v
 šlubbahit	slubbadit	v
 ciebahit	tsiebadit	v
 skuibahit	skujbbadit	v
-njeaccahit	njiettsadit	vx have to check!
+njeaccahit	njiettsadit	v	x have to check!
 váccahit	váttsadit	v
 linccahit	lintsadit	v
 áhcahit	áhtsadit	v
@@ -1670,7 +1670,7 @@ buollahit	buolladit	v
 golahit	gålådit	v
 lolahit	lålådit	v
 olahit	ålådit	v
-olahit	ålådit	vx have to check
+olahit	ålådit	v	x have to check
 fuolahit	fuoladit	v
 fuolahit	fuoladit	v
 gulahit	guládit	v
@@ -1787,7 +1787,7 @@ lálláhit	lálládit	v
 čilláhit	tjilládit	v
 culláhit	tsulládit	v
 oláhit	ålådit	v
-oláhit	ålådit	vx have to check
+oláhit	ålådit	v	x have to check
 eannáhit	ænnádit	v
 gánnáhit	gánnádit	v
 stávráhit	stávrrádit	v
@@ -1824,7 +1824,7 @@ birgehit	birggidit	v
 njirgehit	njirggidit	v
 surgehit	surggidit	v
 lehehit	lehidit	v
-saddjehit	sadjedit	vx have to check - få til å slutte å gi melk(ku) 
+saddjehit	sadjedit	v	x have to check - få til å slutte å gi melk(ku) 
 gavjehit	gavjjidit	v
 veahkehit	viehkidit	v
 leikehit	lejkkidit	v
@@ -1981,7 +1981,7 @@ vuoiihit	vuojjdit	v
 jievjjihit	jievjedit	v
 buljihit	buljjedit	v
 šlienjihit	slienjedit	v
-seavnnjihit	sjevnjudit	vx have to check
+seavnnjihit	sjevnjudit	v	x have to check
 skunjihit	skunjedit	v
 hahkihit	hahkedit	v
 nahkihit	nahkedit	v
@@ -2051,7 +2051,7 @@ ráškkihit	rásjkedit	v
 lieškkihit	liesjkedit	v
 fiškkihit	fisjkedit	v
 liškkihit	lisjkedit	v
-riškkihit	risjkedit	vx have to check
+riškkihit	risjkedit	v	x have to check
 rámškkihit	rámsjkedit	v
 doarškkihit	doarsjkedit	v
 buškkihit	busjkedit	v
@@ -2064,7 +2064,7 @@ jávkkihit	jávkedit	v
 njivkkihit	njivkedit	v
 nuvkkihit	nuvkedit	v
 skoalihit	skoaledit	v
-sisa#đálihit	sisatjáledit	vx check out
+sisa#đálihit	sisatjáledit	v	x check out
 skálihit	skáledit	v
 cielihit	tsieledit	v
 cuhlihit	tsuhledit	v
@@ -2148,12 +2148,12 @@ viesihit	viesedit	v
 vuoissihit	vuojsedit	v
 leamssihit	liemsedit	v
 roamssihit	roamsedit	v
-ramssihit	rimssodit	vx have to check
+ramssihit	rimssodit	v	x have to check
 havssihit	havsedit	v
 nivssihit	nivsedit	v
 dovssihit	dåvsedit	v
 ruovssihit	ruovsedit	v
-rišihit	risjedit	vx have to check
+rišihit	risjedit	v	x have to check
 nurššihit	nursjedit	v
 navššihit	navsjedit	v
 bivššihit	bivsjedit	v
@@ -2392,7 +2392,7 @@ roaškkuhit	roasjkodit	v
 njáškkuhit	njásjkodit	v
 biškkuhit	bisjkodit	v
 diškkuhit	disjkodit	v
-riškkuhit	risjkodit	vx have to check
+riškkuhit	risjkodit	v	x have to check
 rámškkuhit	rámsjkodit	v
 ruoškkuhit	ruosjkodit	v
 šeatkkuhit	sjietkkodit	v
@@ -2680,7 +2680,7 @@ njáškalit	njássjkalit	v
 ráškalit	rássjkalit	v
 diškalit	dissjkalit	v
 fiškalit	fissjkalit	v
-riškalit	rissjkalit	vx have to check
+riškalit	rissjkalit	v	x have to check
 rámškalit	rámssjkalit	v
 ruoškalit	ruossjkalit	v
 doarškalit	doarssjkalit	v
@@ -2690,7 +2690,7 @@ botkalit	båtkålit	v
 skoavkalit	skoavkkalit	v
 noavkalit	noavkkalit	v
 stoavkalit	stoavkkalit	v
-savkalit	savkkalit	vx have to check
+savkalit	savkkalit	v	x have to check
 snievkalit	snievkkalit	v
 civkalit	tsivkkalit	v
 nivkalit	nivkkalit	v
@@ -2745,7 +2745,7 @@ eamidastalit	iemedastalit	v
 beastalit	bessadit	v
 eastalit	iesstalit	v
 ođđa#đalmmagastalit	åddåtjalmagastalit	v
-sivjjogastalit	sjivnjugastalit	vx check out
+sivjjogastalit	sjivnjugastalit	v	x check out
 uhcahastalit	uhtsahastalit	v
 daiahastalit	dajáhastalit	v
 bállahastalit	bállahastalit	v
@@ -2884,7 +2884,7 @@ suoiásmit	suojásmit	v
 ráhkásmit	ráhkásmit	v
 šluohkásmit	sluohkásmit	v
 snielásmit	snielásmit	v
-oamásmit	oamásmit	vx have to check
+oamásmit	oamásmit	v	x have to check
 vuoŋásmit	vuoŋásmit	v
 linásmit	linásmit	v
 oahpásmit	oahpásmit	v
@@ -3118,7 +3118,7 @@ váhkkasit	váhkkasit	v
 spiehkkasit	spiehkkasit	v
 lihkkasit	lihkkasit	v
 rihkkasit	rihkkasit	v
-sihkkasit	sihkasit	vx have to check
+sihkkasit	sihkasit	v	x have to check
 ruohkkasit	ruohkkasit	v
 moalkasit	moalkkasit	v
 salkasit	salkkasit	v
@@ -3239,7 +3239,7 @@ njuvddašit	njuvdatjit	v
 fáđašit	fádatjit	v
 bahđašit	bahtjatjit	v
 čiđašit	tjidatjit	v
-ođašit	ådåtjit	vx have to check
+ođašit	ådåtjit	v	x have to check
 čáđggašit	tjárgatjit	v
 vielggašit	vielgatjit	v
 áŋggašit	áŋgatjit	v
@@ -3249,7 +3249,7 @@ caiašit	tsajatjit	v
 doaiašit	dåjatjit	v
 iiašit	ijatjit	v
 vávjjašit	vávjatjit	v
-seavnnjašit	sjevnjatjit	vx have to check
+seavnnjašit	sjevnjatjit	v	x have to check
 coahkašit	tsoahkatjit	v
 báhkašit	báhkatjit	v
 šuohkašit	sjuohkatjit	v
@@ -3336,7 +3336,7 @@ fuorjjášit	fuorjátjit	v
 vuorjjášit	vuorjátjit	v
 valjášit	valjjátjit	v
 hiljášit	hiljjátjit	v
-seavnnjášit	sævnjátjit	vx have to check
+seavnnjášit	sævnjátjit	v	x have to check
 nahkášit	nahkátjit	v
 šluohkášit	sluohkátjit	v
 seakkášit	sækkátjit	v
@@ -3667,7 +3667,7 @@ njivžžastit	njivtjastit	v
 livžžastit	livtjastit	v
 dábástit	dábástit	v
 buohccástit	buohttsástit	v
-noaiddástit	noajdástit	vx have to check
+noaiddástit	noajdástit	v	x have to check
 ruovddástit	ruovdástit	v
 čuvddástit	tjuvdástit	v
 noađástit	noadástit	v
