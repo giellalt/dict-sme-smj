@@ -751,7 +751,6 @@ juhkildit	juhkeldit	v
 ceakkildit	tsiekkeldit	v
 čoakkildit	tjoakkeldit	v
 sikkildit	sikkeldit	v
-siskkildit	sisŋedit	vw
 davkkildit	davkeldit	v
 vuolildit	vuoleldit	v
 sámildit	sæmoldit	v	x	hav e to check
@@ -774,7 +773,6 @@ spálžžildit	spáltjeldit	v
 rávžžildit	rávtjeldit	v
 čukkoldit	tjukkuldit	v
 ožoldit	åtjuldit	v	x have to check
-vájuldit	vájaldit	v	w
 šođbbodit	sjårbudit	v
 šođbbodit	sjårbudit	v
 hilbbodit	hilbudit	v
@@ -782,12 +780,10 @@ hilbbodit	hilbudit	v
 dirbbodit	dirbudit	v
 durbbodit	durbudit	v
 gaccodit	gattsudit	v
-njeccodit	vejmudit	v	w
 canccodit	tsantsudit	v
 gavccodit	gavttsudit	v
 civccodit	tsivttsudit	v
 givccodit	givttsudit	v
-buiddodit	buojdudit	v	w
 onddodit	åndudit	v
 hávddodit	hávdudit	v
 govddodit	gåvdudit	v
@@ -800,25 +796,18 @@ buđodit	bududit	v
 ruđodit	rududit	v
 jađgodit	jarggudit	v
 jađgodit	jarggudit	v
-segodit	buodudit	v	w
-laiggodit	lajgudit	v	w
 veiggodit	vejgudit	v
 cuiggodit	tsujgudit	v
 dalggodit	dalgudit	v
 šelggodit	sjelgudit	v
 ilggodit	ilgudit	v
-vilggodit	vielgudit	v	w
-vilggodit	vielgudit	v	w
-njulggodit	njuolgudit	v	w
 mulggodit	mulgudit	v
 šleŋggodit	sleŋgudit	v
 fiŋggodit	fiŋgudit	v
-sárggodit	sárgodit	v	w
 čorggodit	tjårgudit	v
 čurggodit	tjurgudit	v
 snávggodit	snávgudit	v
 šlivggodit	slivgudit	v
-čuvggodit	tjuovgudit	v	w
 olgodit	ålggudit	v
 giŋgodit	giŋggudit	v
 giŋgodit	giŋggudit	v
@@ -838,24 +827,16 @@ sávnnjodit	sávnjudit	v
 lonjodit	lånjudit	v
 bunjodit	bunjudit	v
 spihkodit	spihkudit	v
-čohkodit	tjåhkudit	v	w
 láhkkodit	láhkkudit	v
-cohkkodit	tsoahkodit	v	w
-cohkkodit	tsoahkodit	v	w
 šikkodit	sjikkudit	v
 njuikkodit	njujkudit	v
 skulkkodit	skulkudit	v	x
 čiŋkkodit	tjiŋkudit	v
-lokkodit	njalludit	v	w
 smokkodit	småkkudit	v
 dárkkodit	dárkudit	v
 ferkkodit	ferkudit	v
-girkkodit	girkudit	v	w
 virkkodit	virkudit	v
-vurkkodit	vuorkudit	v	w
-faskkodit	skáhppidit	v	w
 českkodit	tjeskudit	v
-fiskkodit	viskudit	v	w
 friskkodit	friskudit	v
 čuskkodit	tjuoskudit	v
 divskkodit	divskudit	v
@@ -865,7 +846,6 @@ deškkodit	desjkudit	v
 biškkodit	bisjkudit	v
 diškkodit	disjkudit	v
 rámškkodit	rámsjkudit	v
-doškkodit	dåskudit	v	w
 šetkkodit	sjetkkudit	v
 botkkodit	båtkkudit	v
 lotkkodit	låtkkudit	v
