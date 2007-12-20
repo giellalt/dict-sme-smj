@@ -21,23 +21,6 @@ duolba	duolbba
 rimba	rimbba
 gámba	gámbba
 jámba	jámbba
-vearba	vierbba
-kopula#vearba	kåpula#vierbba
-habituála#vearba	habetuála#vierbba
-modála#vearba	mådåla#vierbba
-pro^grešuvdna#vearba	pro^gresjuvnna#vierbba
-finihtta#vearba	finehtta#vierbba
-infinihtta#vearba	infenihtta#vierbba
-passiiva#vearba	passijva#vierbba
-de^transitiiva#vearba	de^transsetijva#vierbba
-in^transitiiva#vearba	in^transsetijva#vierbba
-kuratiiva#vearba	kurátijva#vierbba
-orientašuvdnaad#vearba	årientasjuvnnaad#vierbba
-oaive#vearba	oajvve#vierbba
-bárahis#stávval#vearba	báráhis#stávval#vierbba
-gieldin#vearba	giellden#vierbba
-resi^prohka#vearba	rese^pråhkå#vierbba
-u-vearba	u-vierbba
 virba	virbba
 árba	árbba
 skárba	skárbba
@@ -56,7 +39,7 @@ guolbba	guolba
 guossa#guolbba	guossa#guolba
 daŋas#guolbba	daŋás#guolba
 homofoba	håmufoba
-konvearba	kånvvearba
+konvearba	konvearba
 soagŋo#gába	soaggŋo#gába
 doaba	dåba
 čoavdda#doaba	tjoavda#dåba
@@ -139,36 +122,6 @@ luovas#siida	luovas#sijdda
 tiida	tijdda
 ruoida	ruojdda
 skáida	skájdda
-rocke#banda	råcke#bandda
-boanda	boandda
-foanda	foandda
-filbma#foanda	filmma#foandda
-vuovde#foanda	vuovdde#foandda
-vuovdi#foanda	vuovdde#foandda
-kultur#guovddáš#foanda	kulltur#guovdásj#foandda
-ovddidan#foanda	åvdedan#foandda
-boazo#doallo#ovddidan#foanda	boatso#doallo#åvdedan#foandda
-ovdanahttin#foanda	åvddånahttin#foandda
-ovdánahttin#foanda	åvddånahttin#foandda
-boazo#doallo#foanda	boatso#doallo#foandda
-fápmo#foanda	fábmo#foandda
-kultur#foanda	kulltur#foandda
-ealáhus#foanda	æláhus#foandda
-sáme#álbmot#foanda	sáme#álmmut#foandda
-sámi#álbmot#foanda	sáme#álmmut#foandda
-lobby-foanda	låbby-foandda
-roanda	roandda
-feanda	fiendda
-treanda	triendda
-trenda	trendda
-rinda	rindda
-ravda#rinda	ravdda#rindda
-dáhkke#rinda	dáhkke#rindda
-punda	pundda
-rock#bánda	råck#bándda
-gánda	gándda
-nuorra#gánda	nuorra#gándda
-stánda	stándda
 luođđa	luodda
 biila#luodda	bijla#luodda
 meahcce#biila#luodda	miehttse#bijla#luodda
@@ -207,7 +160,7 @@ hoavda	hoavdda
 gieldda#hoavda	gielda#hoavdda
 bargo#veahka#hoavda	barggo#viehka#hoavdda
 skuvla#hoavda	skuvlla#hoavdda
-sosiála#hoavda	såsiála#hoavdda
+sosiála#hoavda	sosial#hoavdda
 etáhta#hoavda	etáhta#hoavdda
 arkiiva#hoavda	arkkijva#hoavdda
 fylkka#vuovde#hoavda	fylka#vuovdde#hoavdda
@@ -231,7 +184,7 @@ kino#hoavda	kino#hoavdda
 geaidno#hoavda	giejnno#hoavdda
 vearro#hoavda	vierro#hoavdda
 byro#hoavda	byro#hoavdda
-kultur#hoavda	kulltur#hoavdda
+kultur#hoavda	kultur#hoavdda
 hálddahus#hoavda	háldahus#hoavdda
 doaimmahus#hoavda	doajmahus#hoavdda
 ealáhus#hoavda	æláhus#hoavdda
@@ -448,7 +401,7 @@ deavdda	dievda
 bivdda	bivda
 duovdda	duovda
 fága#duovdda	fága#duovda
-kultur#duovdda	kulltur#duovda
+kultur#duovdda	kultur#duovda
 duvdda	duvda
 hávdda	hávda
 báhkka#hávdda	báhkka#hávda
@@ -588,7 +541,7 @@ fylkka#eana#doallo#stivrra#válga	fylka#iena#doallo#stivra#válgga
 boazo#doallo#stivrra#válga	boatso#doallo#stivra#válgga
 fylkka#boazo#doallo#stivrra#válga	fylka#boatso#doallo#stivra#válgga
 guovllu#stivrra#válga	guovlo#stivra#válgga
-kultur#stivrra#válga	kulltur#stivra#válgga
+kultur#stivrra#válga	kultur#stivra#válgga
 orohat#stivrra#válga	åruhat#stivra#válgga
 álbmot#stivrra#válga	álmmut#stivra#válgga
 gávpot#stivrra#válga	gávpput#stivra#válgga
@@ -679,49 +632,6 @@ ovda#roaŋga	åvddå#roaŋgga
 po^eŋga	po^eŋgga
 po^eaŋga	po^ieŋgga
 geaŋga	gieŋgga
-jeaŋga	jieŋgga
-duolba#jeaŋga	duolbba#jieŋgga
-fiidna#jeaŋga	fijnna#jieŋgga
-trapesa#jeaŋga	trapesa#jieŋgga
-bohcce#jeaŋga	båhttse#jieŋgga
-njealje#čiegat#jeaŋga	njieljje#tjiegat#jieŋgga
-dumá#jeaŋga	dumá#jieŋgga
-leaŋga	lieŋgga
-reaŋga	rieŋgga
-irge#reaŋga	irgge#rieŋgga
-sreaŋga	srieŋgga
-biika#sreaŋga	bijkka#srieŋgga
-áhcagas#sreaŋga	áhtsagas#srieŋgga
-streaŋga	strieŋgga
-seaŋga	sieŋgga
-buohcan#seaŋga	buohtsan#sieŋgga
-jápmin#seaŋga	jábmen#sieŋgga
-náittos#seaŋga	nájtus#sieŋgga
-mánná#seaŋga	mánná#sieŋgga
-veaŋga	vieŋgga
-diŋga	diŋgga
-seahke#diŋga	siehke#diŋgga
-atnu#diŋga	adno#diŋgga
-bivttas#diŋga	bivtas#diŋgga
-riŋga	riŋgga
-tiŋga	tiŋgga
-seahke#tiŋga	siehke#tiŋgga
-swiŋga	swiŋgga
-šluoŋga	sluoŋgga
-stuŋga	stuŋgga
-fáŋga	fáŋgga
-bánta#fáŋga	bántta#fáŋgga
-soahte#fáŋga	soahte#fáŋgga
-háldo#fáŋga	hálldo#fáŋgga
-gáŋga	gáŋgga
-ruovde#gáŋga	ruovdde#gáŋgga
-stálle#gáŋga	stálle#gáŋgga
-spáŋga	spáŋgga
-sráŋga	sráŋgga
-biika#sráŋga	bijkka#sráŋgga
-stráŋga	stráŋgga
-fadni#stráŋga	faddne#stráŋgga
-stáŋga	stáŋgga
 vuoste#ágga	vuosste#ágga
 oaive#ágga	oajvve#ágga
 mahkáš#ágga	mahkásj#ágga
@@ -748,22 +658,8 @@ njeađgga	njierga
 šleađgga	slierga
 sárgga	sárga
 sentrifuga	sentrefuga
-gene^aloga	gene^aluga
-geologa	geoluga
-váldo#geologa	válldo#geoluga
-biologa	bioluga
-resursa#biologa	resursa#bioluga
-sáiva#cáhce#biologa	sájvva#tsáhtse#bioluga
-zoologa	tsooluga
-diáloga	diáluga
-te^ologa	te^åluga
-tri^ologa	tri^åluga
-røntgen^ologa	røntgen^åluga
-prologa	pråluga
 joavgga	joavga
 kardaŋga	karddaŋga
-vikiŋga	vikeŋga
-festniŋga	festneŋga
 kavriŋga	kavrreŋga
 gávriŋga	gávrreŋga
 šárgoŋga	sjárgguŋga
@@ -771,12 +667,10 @@ balkoŋga	balkkuŋga
 balloŋga	balluŋga
 betoŋga	betuŋga
 asfálta#betoŋga	asfálta#betuŋga
-diftoŋga	diftuŋga
-kartoŋga	karttuŋga
 dearvvašvuođa#fága	diervasjvuoda#fága
 musihkka#fága	musehkka#fága
 gaska#fága	gasska#fága
-sosiála#fága	såsiála#fága
+sosiála#fága	sosial#fága
 oahppo#suorge#fága	oahppo#suorgge#fága
 sosial#fága	såsial#fága
 eŋgelas#giel#fága	eŋggelas#giel#fága
@@ -785,7 +679,7 @@ vuođđo#fága	vuoddo#fága
 váldo#fága	válldo#fága
 luonddu#fága	luondo#fága
 boazo#doallo#fága	boatso#doallo#fága
-kultur#muito#fága	kulltur#mujtto#fága
+kultur#muito#fága	kultur#mujtto#fága
 biras#fága	birás#fága
 servodat#fága	servvudat#fága
 varjága	varjjága
@@ -860,374 +754,9 @@ njuorjo#šládja	njuorjjo#sládja
 biebmo#šládja	biebbmo#sládja
 fuođar#šládja	fuodar#sládja
 veaja	vieja
-myhtologija	myhtulogija
-profetija	pråfetija
-akleija	aklejja
-esseija	essejja
-timoteija	timutejja
 sáme#timoteija	sáme#timutejja
-etu^iija	eto^ijja
-alibiija	alebijja
-fobiija	fåbijja
-abbediija	abbedijja
-tragediija	tragedijja
-mediija	medijja
-komediija	kåmedijja
-ensyklopediija	enssyklopedijja
-logopediija	lågupedijja
-melodiija	meludijja
-parodiija	parudijja
-rapsodiija	rapsudijja
-prosodiija	pråsudijja
-nevro#^grafiija	nevrro#^grafijja
-tele^grafiija	tele^grafijja
-kalli^grafiija	kalle^grafijja
-kemi^grafiija	keme^grafijja
-seri^grafiija	sere^grafijja
-geo^grafiija	geo^grafijja
-paleo^grafiija	paleo^grafijja
-koreo^grafiija	kåreo^grafijja
-bio^grafiija	bio^grafijja
-ieš#bio^grafiija	iesj#bio^grafijja
-auto#bio^grafiija	auto#bio^grafijja
-biblio^grafiija	biblio^grafijja
-leksiko^grafiija	lekseko^grafijja
-meta^leksiko^grafiija	meta^lekseko^grafijja
-disko^grafiija	dissko^grafijja
-xy^lo^grafiija	xy^lo^grafijja
-demo^grafiija	demo^grafijja
-mammo^grafiija	mammo^grafijja
-pomo^grafiija	påmo^grafijja
-ose^ano^grafiija	åse^ano^grafijja
-etno^grafiija	edno^grafijja
-steno^grafiija	steno^grafijja
-porno^grafiija	pårno^grafijja
-mono^grafiija	måno^grafijja
-typo^grafiija	typo^grafijja
-topo^grafiija	tåpo^grafijja
-xe^ro^grafiija	xe^ro^grafijja
-petro^grafiija	petro^grafijja
-lito^grafiija	lito^grafijja
-orto^grafiija	årtto^grafijja
-foto^grafiija	fåto^grafijja
-scenografiija	scenugrafijja
-amfiija	amfijja
-antroposofiija	antruposofijja
-filosofiija	filusofijja
-deahkke#atrofiija	diehkke#atrufijja
-deahkke#dystrofiija	diehkke#dystrufijja
-te^osofiija	te^åsufijja
-biblio^gráfiija	biblio^gráfijja
-leksiko^gráfiija	lekseko^gráfijja
-meta^leksiko^gráfiija	meta^lekseko^gráfijja
-topo^gráfiija	tåpo^gráfijja
-elegiija	elegijja
-kollegiija	kållegijja
-kolegiija	kålegijja
-regiija	regijja
-strategiija	strategijja
-hálddašan#strategiija	háldatjan#strategijja
-gulahallan#strategiija	guláhallan#strategijja
-váldo#strategiija	válldo#strategijja
-strátegiija	strátegijja
-kardi^algiija	kardde^alggijja
-my^algiija	my^alggijja
-nevralgiija	nevrralgijja
-neuralgiija	neuralgijja
-nostalgiija	nåsstålgijja
-mineralogiija	mineralogijja
-metodologiija	metudologijja
-ideologiija	ideologijja
-arkeologiija	arkkeologijja
-teleologiija	teleologijja
-fraseologiija	fraseologijja
-radiologiija	radiologijja
-bakteriologiija	bakteriologijja
-glasiologiija	glasiologijja
-fysiologiija	fysiologijja
-nevro#fysiologiija	nevrro#fysiologijja
-semasiologiija	semásiologijja
-sosiologiija	såsiologijja
-farmakologiija	farmakologijja
-gynekologiija	gynekologijja
-leksikologiija	leksekologijja
-etymologiija	etymologijja
-loatna#etymologiija	loadna#etymologijja
-kriminologiija	krimenologijja
-terminologiija	termenologijja
-fága#terminologiija	fága#termenologijja
-davvi#sáme#giel#terminologiija	davve#sáme#giel#termenologijja
-bioteknologiija	bioteknologijja
-morfofonologiija	mårffufonologijja
-immunologiija	immunologijja
-antropologiija	antrupologijja
-sosi^al#antropologiija	såse^al#antrupologijja
-kultur#antropologiija	kulltur#antrupologijja
-meterologiija	meterologijja
-eskatologiija	esskatologijja
-ornitologiija	årnetologijja
-paleontologiija	paleontologijja
-odontologiija	åduntologijja
-grafologiija	grafulogijja
-morfologiija	mårffulogijja
-ekologiija	ekulogijja
-etno#ekologiija	edno#ekulogijja
-psikologiija	psikulogijja
-onkologiija	ånkulogijja
-mykologiija	mykulogijja
-psykologiija	psykulogijja
-gestalt#psykologiija	gesstalt#psykulogijja
-filologiija	filulogijja
-etnologiija	ednulogijja
-frenologiija	frenulogijja
-teknologiija	teknulogijja
-giella#teknologiija	giella#teknulogijja
-kárta#teknologiija	kártta#teknulogijja
-ođđa#áigge#teknologiija	åddå#ájge#teknulogijja
-gulahallan#teknologiija	guláhallan#teknulogijja
-diehto#juohkin#teknologiija	diehto#juohken#teknulogijja
-bivdo#teknologiija	bivddo#teknulogijja
-dihtor#teknologiija	dihtur#teknulogijja
-guolástus#teknologiija	guolástus#teknulogijja
-hymnologiija	hymnulogijja
-fonologiija	fånulogijja
-kronologiija	krånulogijja
-lappologiija	lappulogijja
-typologiija	typulogijja
-arologiija	arulogijja
-astrologiija	astrulogijja
-patologiija	patulogijja
-sitologiija	situlogijja
-dia^lektologiija	dia^lektulogijja
-antologiija	anttulogijja
-ontologiija	ånttulogijja
-tautologiija	tautulogijja
-mytologiija	mytulogijja
-analogiija	análogijja
-allergiija	allergijja
-energiija	energijja
-lihkkan#energiija	lihkkan#energijja
-orru#energiija	årro#energijja
-liekkas#energiija	liekkas#energijja
-čanus#energiija	tjanus#energijja
-synergiija	synergijja
-metallurgiija	metállurgijja
-kirurgiija	kirurgijja
-liturgiija	liturgijja
-dramaturgiija	dramáturgijja
-gene^alogiija	gene^alugijja
-geologiija	geolugijja
-biologiija	biolugijja
-resursa#biologiija	resursa#biolugijja
-sáiva#cáhce#biologiija	sájvva#tsáhtse#biolugijja
-zoologiija	tsoolugijja
-te^ologiija	te^ålugijja
-tri^ologiija	tri^ålugijja
-røntgen^ologiija	røntgen^ålugijja
-nevro#logiija	nevrro#lågijja
-lo^sjiija	lo^sjijja
-olig^arkiija	åleg^arkkijja
-an^arkiija	an^arkkijja
-mon^arkiija	mån^arkkijja
-hi^er^arkiija	hi^er^arkkijja
-aut^arkiija	aut^arkkijja
-krokiija	kråkijja
-alkaliija	alkkalijja
-staffeliija	staffelijja
-evangeliija	evángelijja
-similiija	simelijja
-filateliija	filátelijja
-pedofiliija	pedufilijja
-homofiliija	håmufilijja
-kanselliija	kanssellijja
-kansliija	kanslijja
-tivoliija	tivulijja
-monogamiija	månugamijja
-eksogamiija	eksugamijja
-polygamiija	pålygamijja
-akademiija	akádemijja
-kemiija	kemijja
-biokemiija	biokemijja
-leukemiija	leukemijja
-anemiija	anemijja
-premiija	premijja
-fysiognomiija	fysiognomijja
-ergonomiija	erggunomijja
-ekonomiija	ekunomijja
-márkan#ekonomiija	márkkan#ekunomijja
-ieš#birgen#ekonomiija	iesj#birggen#ekunomijja
-oppanas#ekonomiija	åppånas#ekunomijja
-økonomiija	økunomijja
-astronomiija	astrunomijja
-taksonomiija	taksunomijja
-autonomiija	autunomijja
-dikotomiija	dikutomijja
-anatomiija	anátomijja
-guohkkinymiija	guohkkenymijja
-homonymiija	håmunymijja
-synonymiija	synunymijja
-metonymiija	metunymijja
-bigamiija	bigámijja
-kapellaniija	kapellanijja
-geniija	genijja
-universal#geniija	uneversal#genijja
-schizo^freniija	schitso^frenijja
-tyranniija	tyránnijja
-hegemoniija	hegemonijja
-seremoniija	seremonijja
-koloniija	kålunijja
-harmoniija	harmunijja
-deponiija	depunijja
-baroniija	barunijja
-polygyniija	pålygynijja
-litaniija	litánijja
-kompaniija	kåmppånijja
-maskepiija	masskepijja
-olympiija	ålympijja
-daguerreo#typiija	dagoerreo#typijja
-terapiija	terápijja
-ergo#terapiija	erggo#terápijja
-fysio#terapiija	fysio#terápijja
-kopiija	kåpijja
-colono^skopiija	tsåluno^skåpijja
-čuovga#mikro^skopiija	tjuovgga#mikro^skåpijja
-psyki^ariija	psyke^arijja
-barbariija	barbbarijja
-poly^andriija	påly^andrijja
-mei^eriija	mej^erijja
-raffinaderiija	raffenaderijja
-knaderiija	knaderijja
-kameraderiija	kameraderijja
-skredderiija	skredderijja
-krydderiija	krydderijja
-rederiija	rederijja
-fogderiija	fågderijja
-broderiija	bråderijja
-periferiija	pereferijja
-drogeriija	drågerijja
-mena^sjeriija	mena^sjerijja
-oran^sjeriija	årån^sjerijja
-maleriija	malerijja
-plafond#maleriija	plafund#malerijja
-fresko#maleriija	fressko#malerijja
-fidus#maleriija	fidus#malerijja
-kobleriija	kåblerijja
-galleriija	gallerijja
-na^sjonal#galleriija	na^sjånål#gallerijja
-person#galleriija	perssun#gallerijja
-kunst#galleriija	kunst#gallerijja
-artilleriija	arttellerijja
-goua^chemaleriija	goua^chemálerijja
-kavaleriija	kaválerijja
-gendarmeriija	genddarmerijja
-parfymeriija	parffymerijja
-flaneriija	flanerijja
-sceneriija	scenerijja
-raffineriija	raffenerijja
-ma^skineriija	ma^skinerijja
-gartneriija	garnerijja
-raseriija	raserijja
-fiksfakseriija	fiksfakserijja
-tapisseriija	tapesserijja
-presseriija	presserijja
-rotisseriija	råtesserijja
-karosseriija	karusserijja
-trakasseriija	trakásserijja
-koseriija	kåserijja
-kriteriija	kriterijja
-bakteriija	bakterijja
-infanteriija	infanterijja
-dilettanteriija	dilettanterijja
-pedanteriija	pedánterijja
-pikanteriija	pikánterijja
-galanteriija	galánterijja
-fantasteriija	fanttasterijja
-sofisteriija	såfesterijja
-ministeriija	minesterijja
-stáhta#ruhta#ministeriija	stáhta#ruhta#minesterijja
-sis#áššiid#ministeriija	sis#ássjijd#minesterijja
-eana#doallo#ministeriija	iena#doallo#minesterijja
-oahpahus#ministeriija	oahpahus#minesterijja
-papisteriija	papesterijja
-artisteriija	arttesterijja
-hysteriija	hyssterijja
-batteriija	batterijja
-anode#batteriija	anude#batterijja
-akkumulator#batteriija	akkumulator#batterijja
-koketteriija	kåketterijja
-lotteriija	låtterijja
-bijouteriija	bijouterijja
-allegoriija	allegorijja
-kategoriija	kategorijja
-laboratoriija	laburatorijja
-oahpahan#laboratoriija	oahpahan#laburatorijja
-nagir#laboratoriija	nager#laburatorijja
-vahát#laboratoriija	vahát#laburatorijja
-govva#laboratoriija	gåvvå#laburatorijja
-loboratoriija	låburatorijja
-konditoriija	kånddetorijja
-auditoriija	audetorijja
-territoriija	terretorijja
-porteeeepotpurriija	pårtteeeepotpurrijja
-pedi^atriija	pede^atrijja
-psyki^atriija	psyke^atrijja
-geri^atriija	gere^atrijja
-telemetriija	telemetrijja
-symmetriija	symmetrijja
-asymmetriija	asymmetrijja
-geometriija	geometrijja
-trigonometriija	trigunometrijja
-dosametriija	dåsåmetrijja
-industriija	inddustrijja
-kaloriija	kalurijja
-faktoriija	fakturijja
-havariija	havárijja
-te^oriija	te^årijja
-farmasiija	farmasijja
-servvodat#farmasiija	servudat#farmasijja
-servodat#farmasiija	servvudat#farmasijja
-fantasiija	fanttasijja
-po^esiija	po^esijja
-anestesiija	anestesijja
-dysleksiija	dysleksijja
-biopsiija	biopsijja
-suprematiija	suprematijja
-diplomatiija	diplumatijja
-telepatiija	telepatijja
-homeopatiija	håmeopatijja
-empatiija	emppatijja
-sympatiija	symppatijja
-te^o^kratiija	te^o^kratijja
-demo^kratiija	demo^kratijja
-timo^kratiija	timo^kratijja
-tekno^kratiija	tekno^kratijja
-byro^kratiija	byro^kratijja
-merito^kratiija	mereto^kratijja
-aristo^kratiija	aresto^kratijja
-auto^kratiija	auto^kratijja
-pluto^kratiija	pluto^kratijja
-byrå^kratiija	byrå^kratijja
-buletiija	buletijja
-politiija	påletijja
-rihkus#politiija	rihkus#påletijja
-dementiija	dementijja
-amnestiija	amnestijja
-sakristiija	sakrestijja
-prostiija	pråsstijja
-dynastiija	dynástijja
-partiija	parttijja
-agrar#partiija	agrar#parttijja
-kader#partiija	kader#parttijja
-ko^ali^sjons#partiija	ko^ale^sjåns#parttijja
-opposi^sjons#partiija	åppuse^sjåns#parttijja
-sosi^alist#partiija	såse^alest#parttijja
-fløy#partiija	fløy#parttijja
-despotiija	dessputijja
-salviija	salvvijja
 skuolja	skuoljja
-pulja	puljja
 gálja	gáljja
-válja	váljja
 fearja	fierjja
 šuorja	sjuorjja
 árja	árjja
@@ -1251,39 +780,14 @@ káija	kájja
 govdo#káija	gåvddo#kájja
 spráija	sprájja
 gerilja	gerelja
-skuvla#viellja	skuvlla#viellja
-oalge#viellja	oalgge#viellja
-osku#viellja	åssko#viellja
-vanillja	vanellja
-silba#medállja	silbba#medállja
-golle#medállja	gålle#medállja
-bronsa#medállja	brånsså#medállja
 šállja	sjállja
-latnja	ladnja
-válga#latnja	válgga#ladnja
-seaŋga#latnja	sieŋgga#ladnja
-okta#seaŋga#latnja	åktå#sieŋgga#ladnja
-njuoska#latnja	njuosska#ladnja
-galbma#latnja	galmma#ladnja
-obdukšuvdna#latnja	åbduktjuvnna#ladnja
+okta#seaŋga#latnja	akta#sæŋŋga#ladnja
 cuohppa#latnja	tsuohppa#ladnja
-klássa#latnja	klássa#ladnja
 lakta#latnja	lakta#ladnja
-oahppiid#latnja	oahppijd#ladnja
-ohppiid#latnja	åhppijd#ladnja
-duodje#latnja	duodje#ladnja
-girje#latnja	girjje#ladnja
-jahke#latnja	jahke#ladnja
-bákte#latnja	bákte#ladnja
 searve#gotte#latnja	siervve#gåtte#ladnja
 duppal#latnja	duppal#ladnja
-boradan#latnja	bårådan#ladnja
-oađđen#latnja	oadden#ladnja
-røntgen#latnja	røntgen#ladnja
 mášen#latnja	másjen#ladnja
 mášin#latnja	másjen#ladnja
-diehto#juohkin#latnja	diehto#juohken#ladnja
-čoahkkin#latnja	tjoahkken#ladnja
 šálten#latnja	sjállten#ladnja
 širan#latnja	sjirán#ladnja
 rádjo#latnja	rádjo#ladnja
@@ -1332,7 +836,7 @@ sierra#doarjja	sierra#doarja
 preassa#doarjja	priessa#doarja
 ruhta#doarjja	ruhta#doarja
 stáhta#doarjja	stáhta#doarja
-prošeakta#doarjja	pråsjeakta#doarja
+prošeakta#doarjja	prosjækta#doarja
 hadde#doarjja	hadde#doarja
 mánáid#gárde#doarjja	mánájd#gárdde#doarja
 liige#doarjja	lijgge#doarja
@@ -1358,7 +862,7 @@ mánná#dikšun#doarjja	mánná#diksjun#doarja
 vuođđo#doarjja	vuoddo#doarja
 oahppo#doarjja	oahppo#doarja
 buvttadan#vuoito#doarjja	buvtadan#vuojtto#doarja
-kultur#doarjja	kulltur#doarja
+kultur#doarjja	kultur#doarja
 lágádus#doarjja	lágádus#doarja
 girje#lágádus#doarjja	girjje#lágádus#doarja
 oahpahus#doarjja	oahpahus#doarja
@@ -1595,7 +1099,7 @@ luopmo#láhka	luobmo#láhka
 olgo#áibmo#láhka	ålggo#ájmmo#láhka
 geaidno#láhka	giejnno#láhka
 vearro#láhka	vierro#láhka
-kultur#muito#láhka	kulltur#mujtto#láhka
+kultur#muito#láhka	kultur#mujtto#láhka
 dásse#árvo#láhka	dásse#árvvo#láhka
 topp#láhka	tåpp#láhka
 dearvvašvuođa#registtar#láhka	diervasjvuoda#regestar#láhka
@@ -1735,7 +1239,7 @@ olgo#riika#politihkka	ålggo#rijkka#påletihkka
 giella#politihkka	giella#påletihkka
 skuvla#politihkka	skuvlla#påletihkka
 re^ála#politihkka	re^ála#påletihkka
-sosiála#politihkka	såsiála#påletihkka
+sosiála#politihkka	sosial#påletihkka
 regionála#politihkka	regionála#påletihkka
 nissona#politihkka	nissuna#påletihkka
 preassa#politihkka	priessa#påletihkka
@@ -1766,9 +1270,9 @@ davve#guovlo#politihkka	davve#guovllo#påletihkka
 davvi#guovlo#politihkka	davve#guovllo#påletihkka
 guovllo#politihkka	guovlo#påletihkka
 etno#politihkka	edno#påletihkka
-kultur#muito#politihkka	kulltur#mujtto#påletihkka
+kultur#muito#politihkka	kultur#mujtto#påletihkka
 dásse#árvo#politihkka	dásse#árvvo#påletihkka
-kultur#politihkka	kulltur#påletihkka
+kultur#politihkka	kultur#påletihkka
 rekrutterings#politihkka	rekrutterings#påletihkka
 oahpahus#politihkka	oahpahus#påletihkka
 ealáhus#politihkka	æláhus#påletihkka
@@ -1906,7 +1410,7 @@ aistton#mearka	ajstun#mierkka
 vuođđo#mearka	vuoddo#mierkka
 oavdu#mearka	oavddo#mierkka
 dovdo#mearka	dåvddo#mierkka
-kultur#dovdo#mearka	kulltur#dåvddo#mierkka
+kultur#dovdo#mearka	kultur#dåvddo#mierkka
 boaldu#mearka	boalldo#mierkka
 váldo#mearka	válldo#mierkka
 boazo#mearka	boatso#mierkka
@@ -2384,7 +1888,7 @@ fidno#skuvla	fiddno#skuvlla
 gávpe#oahppo#skuvla	gávppe#oahppo#skuvlla
 ruovtto#skuvla	ruovto#skuvlla
 ruovttu#skuvla	ruovto#skuvlla
-kultur#skuvla	kulltur#skuvlla
+kultur#skuvla	kultur#skuvlla
 gohttehat#skuvla	gåhttehat#skuvlla
 rekrutt#skuvla	rekrutt#skuvlla
 álbmot#skuvla	álmmut#skuvlla
@@ -2614,54 +2118,9 @@ modema	mådema
 morfema	mårffema
 zero-morfema	tsero-mårffema
 problema	pråblema
-muslima	muslema
-minima	minema
-fonema	fånema
-tonema	tånema
 te^orema	te^årema
 krysantema	krysántema
-systema	sysstema
-dia#systema	dia#sysstema
-jura#systema	jura#sysstema
-decca#systema	dettsa#sysstema
-ko^ordináhta#systema	ko^årddenáhta#sysstema
-ko^ordináhtta#systema	ko^årddenáhtta#sysstema
-lymfe#systema	lymfe#sysstema
-logeš#systema	lågesj#sysstema
-truck#systema	truck#sysstema
-inerti^al#systema	inerte^al#sysstema
-desimal#systema	desemal#sysstema
-seksagesimal#systema	seksagesimal#sysstema
-signal#systema	signal#sysstema
-vokal#systema	våkål#sysstema
-perm#systema	perm#sysstema
-alarm#systema	alárm#sysstema
-kambri^um#systema	kambre^um#sysstema
-ordovici^um#systema	årdduvitse^um#sysstema
-karbon#systema	karbbun#sysstema
-immun#systema	immun#sysstema
-person#systema	perssun#sysstema
-devon#systema	devun#sysstema
-flip#systema	flip#sysstema
-chiffer#systema	chiffer#sysstema
-meter#systema	meter#sysstema
-silur#systema	silur#sysstema
-tertiær#systema	terttiær#sysstema
-kvartær#systema	kvarttær#sysstema
-tri^as#systema	tri^as#sysstema
-lodde#ráidalas#systema	lådde#rájddalas#sysstema
-ko^ordinat#systema	ko^årddenat#sysstema
-kritt#systema	kritt#sysstema
-arkiv#systema	arkkev#sysstema
-prohibitiv#systema	pråhebitiv#sysstema
-touch-systema	touch-sysstema
-ekosystema	ekusystema
-økosystema	økusystema
-anatema	anátema
-totema	tåtema
-paradigma	parádigma
 giimma	gijma
-synoniima	synunijma
 galmma	galma
 nieidda#namma	niejda#namma
 cuovka#namma	tsuovkka#namma
@@ -2782,7 +2241,7 @@ rákto#doaibma	rákto#doajmma
 dásse#árvo#doaibma	dásse#árvvo#doajmma
 kapillar#doaibma	kapellar#doajmma
 mohtor#doaibma	måhtur#doajmma
-kultur#doaibma	kulltur#doajmma
+kultur#doaibma	kultur#doajmma
 lotnolas#doaibma	lådnulas#doajmma
 lágádus#doaibma	lágádus#doajmma
 girje#lágádus#doaibma	girjje#lágádus#doajmma
@@ -2878,421 +2337,16 @@ alarbma	alármma
 alárbma	alármma
 šlárbma	slármma
 nárbma	nármma
-minikumma	minekumma
-basilikumma	baselikumma
-kardemumma	karddemumma
-cumma	tsumma
-depositumma	depusitumma
-doarjja#rámma	doarja#rámma
-bušeahtta#rámma	busjeahtta#rámma
-áige#rámma	ájgge#rámma
-váldo#rámma	válldo#rámma
-gollo#rámma	gållo#rámma
-gollu#rámma	gållo#rámma
-šiehtadus#rámma	sjiehtadus#rámma
-bálká#rámma	bálkká#rámma
-govva#rámma	gåvvå#rámma
-milli#grámma	mille#grámma
-čuolda#di^a^grámma	tjuollda#di^a^grámma
-penta^grámma	pentta^grámma
-kondolanse#tele^grámma	kånddulanse#tele^grámma
-epi^grámma	epe^grámma
-desi^grámma	dese^grámma
-centi^grámma	tsentte^grámma
-kardio^grámma	karddio^grámma
-elektro#kardio^grámma	elektro#karddio^grámma
-oscillo^grámma	åscello^grámma
-parallello^grámma	parállello^grámma
-holo^grámma	hålo^grámma
-seismo^grámma	sejssmo^grámma
-doaibma#pro^grámma	doajmma#pro^grámma
-veahkke#pro^grámma	viehkke#pro^grámma
-earre#pro^grámma	ierre#pro^grámma
-árvo#buvttadan#pro^grámma	árvvo#buvtadan#pro^grámma
-geahččaladdan#pro^grámma	giehttjaladdan#pro^grámma
-ovddidan#pro^grámma	åvdedan#pro^grámma
-lonohallan#pro^grámma	lånuhallan#pro^grámma
-čállin#dárkkistan#pro^grámma	tjállen#dárkestan#pro^grámma
-vitaliseren#pro^grámma	vitáliseren#pro^grámma
-ovdánahttin#pro^grámma	åvddånahttin#pro^grámma
-guovlu#pro^grámma	guovllo#pro^grámma
-dihtor#pro^grámma	dihtur#pro^grámma
-ealáhus#pro^grámma	æláhus#pro^grámma
-eami#álbmot#pro^grámma	ieme#álmmut#pro^grámma
-álgo#álbmot#pro^grámma	álggo#álmmut#pro^grámma
-karto^grámma	kartto^grámma
-flora^grámma	flårå^grámma
-paralleallográmma	parálleallográmma
-sosionoma	såsionoma
-ekonoma	ekunoma
-sivil#ekonoma	sivel#ekunoma
-agronoma	agrunoma
-sivil#agronoma	sivel#agrunoma
-boazo#doallo#agronoma	boatso#doallo#agrunoma
-boazo#doallo#ágronoma	boatso#doallo#ágrunoma
-astronoma	astrunoma
-autonoma	autunoma
-polynoma	pålynoma
-kromosoma	kråmusoma
-x-kromosoma	x-kråmusoma
-y-kromosoma	y-kråmusoma
-mesonatoma	mesunatoma
-fall^skjearpma	fall^skjierma
-ikonoklasma	ikunoklasma
-snobbisma	snåbbesma
-kubisma	kubesma
-sadisma	sadesma
-nordisma	nårddesma
-nudisma	nudesma
-antropo#morfisma	antrupo#mårffesma
-georgisma	georggesma
-logisma	lågesma
-trotskisma	tråtskesma
-ide^alisma	ide^alesma
-koloni^alisma	kålune^alesma
-re^alisma	re^alesma
-sosi^al#re^alisma	såse^al#re^alesma
-neo#re^alisma	neo#re^alesma
-imperi^alisma	imppere^alesma
-anti#imperi^alisma	antte#imppere^alesma
-kultur#imperi^alisma	kulltur#imppere^alesma
-seri^alisma	sere^alesma
-materi^alisma	matere^alesma
-immateri^alisma	immatere^alesma
-surre^alisma	surre^alesma
-industri^alisma	inddustre^alesma
-eksistensi^alisma	eksestense^alesma
-kommersi^alisma	kåmmerse^alesma
-sosi^alisma	såse^alesma
-na^sjonal#sosi^alisma	na^sjånål#såse^alesma
-seksu^alisma	sekso^alesma
-sensu^alisma	sensso^alesma
-du^alisma	du^alesma
-individu^alisma	inddevidu^alesma
-spiritu^alisma	spiretu^alesma
-intellektu^alisma	inttellektu^alesma
-føy^dalisma	føy^dalesma
-bilisma	bilesma
-privat#bilisma	privát#bilesma
-snillisma	snillesma
-gaullisma	gaullesma
-thomisma	thåmesma
-bromisma	bråmesma
-læstadi^anisma	læsstade^anesma
-grundtvigi^anisma	grundtvege^anesma
-haugi^anisma	hauge^anesma
-hegeli^anisma	hegele^anesma
-vegetari^anisma	vegetare^anesma
-wagneri^anisma	wagnere^anesma
-konfusi^anisma	kånfuse^anesma
-kanti^anisma	kantte^anesma
-nanisma	nanesma
-sunnisma	sunnesma
-sionisma	sionesma
-anti#sionisma	antte#sionesma
-kynisma	kynesma
-isola^sjonisma	isula^sjånesma
-ekshibi^sjonisma	ekshebe^sjånesma
-profe^sjonisma	pråfe^sjånesma
-im^pre^sjonisma	im^pre^sjånesma
-eks^pre^sjonisma	eks^pre^sjånesma
-perfek^sjonisma	perffek^sjånesma
-protek^sjonisma	pråtek^sjånesma
-reduk^sjonisma	reduk^sjånesma
-illu^sjonisma	illo^sjånesma
-evolu^sjonisma	evulu^sjånesma
-monisma	månesma
-syn#kronisma	syn#krånesma
-papisma	papesma
-tropisma	tråpesma
-helio#tropisma	helio#tråpesma
-geo^tropisma	geo^tråpesma
-foto^tropisma	fåto^tråpesma
-verisma	veresma
-sentrisma	sentresma
-turisma	turesma
-eko#turisma	eko#turesma
-nasisma	nasesma
-rasisma	rasesma
-sto^isisma	sto^isesma
-narsisma	narssesma
-parsisma	parssesma
-nazisma	natsesma
-pi^etisma	pi^etesma
-syn#kretisma	syn#kretesma
-defa^itisma	defa^itesma
-baptisma	baptesma
-autisma	autesma
-sosio^lingvisma	såsio^lingvesma
-na^ivisma	na^ivesma
-fauvisma	fauvesma
-marxisma	marxesma
-austro#marxisma	austro#marxesma
-metodisma	metudisma
-nomadisma	nåmådisma
-pasifisma	pasefisma
-isomorfisma	isumorfisma
-dimorfisma	dimurfisma
-imagisma	imágisma
-norvagisma	nårvvågisma
-anarkisma	anárkisma
-itakisma	itákisma
-verbalisma	verbbalisma
-kannibalisma	kannebalisma
-vandalisma	vanddalisma
-radikalisma	radekalisma
-kultur#radikalisma	kulltur#radekalisma
-syndikalisma	synddekalisma
-anarko#syndikalisma	anárko#synddekalisma
-klerikalisma	klerekalisma
-animalisma	anemalisma
-nominalisma	nåmenalisma
-konvenšuvdnalisma	kånvventjuvnnalisma
-našunalisma	nasjunalisma
-sosi^al#liberalisma	såse^al#liberalisma
-universalisma	uneversalisma
-kapitalisma	kapetalisma
-monopol#kapitalisma	månupol#kapetalisma
-sen#kapitalisma	sen#kapetalisma
-sein#kapitalisma	sejn#kapetalisma
-stats#kapitalisma	stats#kapetalisma
-privat#kapitalisma	privát#kapetalisma
-fundamentalisma	funddamentalisma
-bilingvalisma	bilengvalisma
-nihilisma	nihelisma
-parallelisma	parállelisma
-utilisma	utelisma
-merkantilisma	merkkantilisma
-pointillisma	påjntellisma
-anabolisma	anábolisma
-metabolisma	metábolisma
-alkoholisma	alkkuholisma
-somn#ambulisma	såmn#ambbulisma
-symbolisma	symbbulisma
-mongolisma	mångulisma
-populisma	påpulisma
-botulisma	båtulisma
-tribalisma	tribálisma
-pluralisma	plurálisma
-fatalisma	fatálisma
-vitalisma	vitálisma
-rojalisma	råjålisma
-vokalisma	våkålisma
-formalisma	fårmålisma
-na^sjonalisma	na^sjånålisma
-ra^sjonalisma	ra^sjånålisma
-tradi^sjonalisma	trade^sjånålisma
-konfe^sjonalisma	kånfe^sjånålisma
-profe^sjonalisma	pråfe^sjånålisma
-funk^sjonalisma	funk^sjånålisma
-konven^sjonalisma	kånvven^sjånålisma
-moralisma	mårålisma
-totalisma	tåtålisma
-akademisma	akádemisma
-muslimisma	muslemisma
-animisma	anemisma
-pessimisma	pessemisma
-optimisma	åptemisma
-ut#viklings#optimisma	ut#viklengs#åptemisma
-uniformisma	uneformisma
-reformisma	refurmisma
-konformisma	kånfurmisma
-non#konformisma	nån#kånfurmisma
-atomisma	atumisma
-dynamisma	dynámisma
-urbanisma	urbbanisma
-muhammedanisma	muhámmedanisma
-muhamedanisma	muhámedanisma
-leastadianisma	liesstadianisma
-vulkanisma	vulkkanisma
-puritanisma	puretanisma
-galvanisma	galvvanisma
-rabbinisma	rabbenisma
-albinisma	albbenisma
-morfinisma	mårffenisma
-vaginisma	vagenisma
-stalinisma	stalenisma
-feminisma	femenisma
-leninisma	lenenisma
-marxisma-leninisma	marxesma-lenenisma
-alpinisma	alppenisma
-kalvinisma	kalvvenisma
-sjåvinisma	sjåvenisma
-manns#sjåvinisma	manns#sjåvenisma
-darwinisma	darwenisma
-sosiál#darwinisma	såsiál#darwenisma
-antagonisma	anttagonisma
-parkinsonisma	parkkensonisma
-modernisma	mådernisma
-hedonisma	hedunisma
-revišunisma	revetjunisma
-eurokommunisma	eurukommunisma
-kommunisma	kåmmunisma
-anti#kommunisma	antte#kåmmunisma
-krypto#kommunisma	krypto#kåmmunisma
-mormonisma	mårmunisma
-platonisma	platunisma
-opportunisma	åppurtunisma
-plutonisma	plutunisma
-paganisma	pagánisma
-mekanisma	mekánisma
-gidden#mekanisma	gidden#mekánisma
-sjamanisma	sjamánisma
-šamanisma	sjamánisma
-bramanisma	bramánisma
-humanisma	humánisma
-satanisma	satánisma
-organisma	årggånisma
-spontanisma	spånttånisma
-eskapisma	esskapisma
-partikularisma	parttekularisma
-seminarisma	semenarisma
-militarisma	miletarisma
-anti#militarisma	antte#miletarisma
-unitarisma	unetarisma
-monetarisma	månetarisma
-utilitarisma	utelitarisma
-totalitarisma	tåtålitarisma
-dokumentarisma	dåkumentarisma
-empirisma	empperisma
-behaviorisma	beháviorisma
-aforisma	afurisma
-rigorisma	rigurisma
-terrorisma	terrurisma
-historisma	hissturisma
-cæsarisma	tsæsárisma
-amatørisma	amátørisma
-klassisisma	klassesisma
-neo#klassisisma	neo#klassesisma
-wiener#klassisisma	wiener#klassesisma
-kritisisma	kritesisma
-e^klektisisma	e^klektesisma
-skeptisisma	skeptesisma
-mystisisma	mysstesisma
-gnostisisma	gnåsstesisma
-a^gnostisisma	a^gnåsstesisma
-katolisisma	katulisisma
-solipsisma	sålepsisma
-eksorsisma	eksursisma
-narsissisma	narssessisma
-animatisma	anematisma
-astigmatisma	asstegmatisma
-separatisma	sepáratisma
-konservatisma	kånsservatisma
-analfabetisma	análfabetisma
-spiritisma	spiretisma
-konkretisma	kånkretisma
-kosmopolitisma	kåssmupolitisma
-okkultisma	åkkultisma
-konsonantisma	kånssunantisma
-protestantisma	pråtestantisma
-indifferentisma	inddefferentisma
-gigantisma	gigántisma
-ob^skurantisma	åb^skurántisma
-lokal#patriotisma	låkål#patriotisma
-herma^frodittisma	herma^frådettisma
-semittisma	semettisma
-anti#semittisma	antte#semettisma
-parasittisma	parásittisma
-absolutisma	absulutisma
-hypnotisma	hypnutisma
-nepotisma	neputisma
-despotisma	dessputisma
-eksotisma	eksutisma
-skjematisma	skjemátisma
-fanatisma	fanátisma
-dogmatisma	dågmåtisma
-skandinavisma	skanddenavisma
-nativisma	natevisma
-aktivisma	aktevisma
-kon^struktivisma	kån^struktevisma
-bilingvisma	bilengvisma
-korporativisma	kårppurativisma
-primitivisma	primetivisma
-positivisma	påsetivisma
-objektivisma	åbjektivisma
-kollektivisma	kållektivisma
-negativisma	negátivisma
-relativisma	relátivisma
-atavisma	atávisma
-mccarthyisma	mccarthyjsma
-entusi^asma	enttuse^assma
-plasma	plassma
-tele^plasma	tele^plassma
-cyto^plasma	tsyto^plassma
-proto^plasma	pråto^plassma
-dada^isma	dada^issma
-juda^isma	juda^issma
-lama^isma	lama^issma
-brama^isma	brama^issma
-de^isma	de^issma
-manike^isma	maneke^issma
-epikure^isma	epekure^issma
-farise^isma	farese^issma
-te^isma	te^issma
-ate^isma	ate^issma
-pante^isma	pantte^issma
-monote^isma	månute^issma
-polyte^isma	pålyte^issma
-mao^isma	mao^issma
-tao^isma	tao^issma
-hindu^isma	hinddo^issma
-ego^isma	ego^issma
-jingo^isma	jingo^issma
-hero^isma	hero^issma
-tito^isma	tito^issma
-shinto^isma	shintto^issma
-tru^isma	tru^issma
-al^tru^isma	al^tru^issma
-loby^isma	låby^issma
-mosa^isma	måså^issma
-bisma	bissma
-árka#bisma	árkka#bissma
-earke#bisma	ierkke#bissma
-fa^scisma	fa^scissma
-maso^chisma	maso^chissma
-sado#maso^chisma	sado#maso^chissma
-bud^dhisma	bud^dhissma
-zen#bud^dhisma	tsen#bud^dhissma
-feti^sjisma	fete^sjissma
-revan^sjisma	reván^sjissma
-skisma	skissma
-prisma	prissma
-čiehka#prisma	tjiehka#prissma
+
 sjiisma	sjijssma
 orgasma	årggåsma
-orgásma	årggåsma
 algoritma	algguritma
 petrole^uma	petrule^uma
 kondoma	kåndduma
-karborunduma	karbburunduma
-perigeuma	peregeuma
-apogeuma	apugeuma
-karbolineuma	karbbulineuma
-trakoma	trakuma
-sarkoma	sarkkuma
-diploma	dipluma
-voluma	våluma
-kontinuma	kånttenuma
-binoma	binuma
-trinoma	trinuma
-monoma	månuma
-nikroma	nikruma
-atoma	atuma
-symptoma	symptuma
-abstinens#symptoma	abstenens#symptuma
-fantoma	fanttuma
-xantoma	xanttuma
-parfyma	parffyma
-pseudonyma	pseudunyma
-synonyma	synunyma
 kostyma	kåsstyma
 biika#gáma	bijkka#gáma
 geahppa#gáma	giehppa#gáma
-heastta#gáma	hiesta#gáma
-ruovde#gáma	ruovdde#gáma
 gummi#gáma	gumme#gáma
-siste#gáma	sisste#gáma
 stohpo#gáma	ståhpo#gáma
 njáhco#gáma	njáhtso#gáma
 amalgáma	amálgáma
@@ -3709,340 +2763,16 @@ skorpiuvdna	skårppiuvnna
 spiuvdna	spiuvnna
 skorpijuvdna	skårppijuvnna
 bataljuvdna	batáljuvnna
-vari^ašuvdna	vare^asjuvnna
-eks^propri^ašuvdna	eks^pråpre^asjuvnna
-assosi^ašuvdna	assuse^asjuvnna
-akkommodašuvdna	akkummodasjuvnna
-obligašuvdna	åblegasjuvnna
-delegašuvdna	delegasjuvnna
-navigašuvdna	navegasjuvnna
-affiliašuvdna	affeliasjuvnna
-publikašuvdna	publekasjuvnna
-oblikašuvdna	åblekasjuvnna
-reaida#oblikašuvdna	riejdda#åblekasjuvnna
-applikašuvdna	applekasjuvnna
-en^klitihkašuvdna	en^klitehkasjuvnna
-kvalifikašuvdna	kvalefikasjuvnna
-spesifikašuvdna	spesefikasjuvnna
-klassifikašuvdna	klassefikasjuvnna
-ratifikašuvdna	ratefikasjuvnna
-identifikašuvdna	identifikasjuvnna
-kommunikašuvdna	kåmmunikasjuvnna
-provokašuvdna	pråvukasjuvnna
-ventilašuvdna	venttelasjuvnna
-de^flašuvdna	de^flasjuvnna
-in^flašuvdna	in^flasjuvnna
-allimilašuvdna	allemilasjuvnna
-assimilašuvdna	assemilasjuvnna
-installašuvdna	insstallasjuvnna
-video#installašuvdna	video#insstallasjuvnna
-appellašuvdna	appellasjuvnna
-interpellašuvdna	intterpellasjuvnna
-konstellašuvdna	kånsstellasjuvnna
-spekulašuvdna	spekulasjuvnna
-artikulašuvdna	arttekulasjuvnna
-populašuvdna	påpulasjuvnna
-sáhpán#populašuvdna	sáhpán#påpulasjuvnna
-isolašuvdna	isulasjuvnna
-reklamašuvdna	reklamasjuvnna
-akklamašuvdna	akklamasjuvnna
-animašuvdna	anemasjuvnna
-konfirmašuvdna	kånfermasjuvnna
-reformašuvdna	refurmasjuvnna
-informašuvdna	infurmasjuvnna
-transformašuvdna	transfurmasjuvnna
-automašuvdna	autumasjuvnna
-proklamašuvdna	pråklåmasjuvnna
-našovdna	nasjuvnna
-našuvdna	nasjuvnna
-kombinašuvdna	kåmbbenasjuvnna
-vokal#kombinašuvdna	våkål#kåmbbenasjuvnna
-objeakta#sub^ordinašuvdna	åbjeakta#sub^årddenasjuvnna
-ko^ordinašuvdna	ko^årddenasjuvnna
-geminašuvdna	gemenasjuvnna
-nominašuvdna	nåmenasjuvnna
-supinašuvdna	supenasjuvnna
-subordinašuvdna	suburdinasjuvnna
-intonašuvdna	inttunasjuvnna
-pašuvdna	pasjuvnna
-okkupašuvdna	åkkupasjuvnna
-federašuvdna	federasjuvnna
-operašuvdna	åperasjuvnna
-identifiseren#operašuvdna	identifiseren#åperasjuvnna
-alliterašuvdna	alleterasjuvnna
-allitterašuvdna	alletterasjuvnna
-inte^grašuvdna	intte^grasjuvnna
-dovdda#inte^grašuvdna	dåvdå#intte^grasjuvnna
-konsentrašuvdna	kånssentrasjuvnna
-illu^strašuvdna	illo^strasjuvnna
-administrašuvdna	admenistrasjuvnna
-demonstrašuvdna	demunstrasjuvnna
-akkulturašuvdna	akkulturasjuvnna
-separašuvdna	sepárasjuvnna
-komparašuvdna	kåmppårasjuvnna
-sosialisašuvdna	såsialisasjuvnna
-grammatikalisašuvdna	grammatikalisasjuvnna
-sivilisašuvdna	sivelisasjuvnna
-nasalisašuvdna	nasálisasjuvnna
-kolonisašuvdna	kålunisasjuvnna
-organisašuvdna	årggånisasjuvnna
-orgánisašuvdna	årggånisasjuvnna
-dearvvašvuođa#organisašuvdna	diervasjvuoda#årggånisasjuvnna
-riikka#organisašuvdna	rijka#årggånisasjuvnna
-bargiid#organisašuvdna	barggijd#årggånisasjuvnna
-fidno#suorge#organisašuvdna	fiddno#suorgge#årggånisasjuvnna
-duodje#organisašuvdna	duodje#årggånisasjuvnna
-veahkke#organisašuvdna	viehkke#årggånisasjuvnna
-searve#organisašuvdna	siervve#årggånisasjuvnna
-nisson#organisašuvdna	nissun#årggånisasjuvnna
-váldo#organisašuvdna	válldo#årggånisasjuvnna
-boazo#doallo#organisašuvdna	boatso#doallo#årggånisasjuvnna
-oahppo#organisašuvdna	oahppo#årggånisasjuvnna
-kultur#organisašuvdna	kulltur#årggånisasjuvnna
-dáiddár#organisašuvdna	dájdár#årggånisasjuvnna
-ealáhus#organisašuvdna	æláhus#årggånisasjuvnna
-almmos#organisašuvdna	almus#årggånisasjuvnna
-álgo#álbmot#organisašuvdna	álggo#álmmut#årggånisasjuvnna
-ámmát#organisašuvdna	ámmát#årggånisasjuvnna
-linearisašuvdna	linearisasjuvnna
-autorisašuvdna	auturisasjuvnna
-dulka#autorisašuvdna	dulkka#auturisasjuvnna
-improvisašuvdna	impruvisasjuvnna
-kompensašuvdna	kåmppensasjuvnna
-dispensašuvdna	disspensasjuvnna
-vegetašuvdna	vegetasjuvnna
-kavitašuvdna	kavetasjuvnna
-gravitašuvdna	gravetasjuvnna
-konsultašuvdna	kånssultasjuvnna
-dokumeantašuvdna	dåkumeantasjuvnna
-dokumentašuvdna	dåkumentasjuvnna
-presentašuvdna	presentasjuvnna
-re^presentašuvdna	re^presentasjuvnna
-representašuvdna	representasjuvnna
-adaptašuvdna	adáptasjuvnna
-dissertašuvdna	dissertasjuvnna
-stašuvdna	stasjuvnna
-dearvvašvuođa#stašuvdna	diervasjvuoda#stasjuvnna
-totála#stašuvdna	tåtåla#stasjuvnna
-diskeahtta#stašuvdna	disskeahtta#stasjuvnna
-bumpe#stašuvdna	bumppe#stasjuvnna
-totál#stašuvdna	tåtål#stasjuvnna
-čáskadan#stašuvdna	tjásskadan#stasjuvnna
-vuostái#váldin#stašuvdna	vuosstáj#vállden#stasjuvnna
-bensin#stašuvdna	benssen#stasjuvnna
-manifestašuvdna	manefestasjuvnna
-permutašuvdna	permutasjuvnna
-denotašuvdna	denutasjuvnna
-konnotašuvdna	kånnutasjuvnna
-deputašuvdna	deputasjuvnna
-derivašuvdna	derevasjuvnna
-motivašuvdna	måtevasjuvnna
-innovašuvdna	innuvasjuvnna
-tran^skribšuvdna	tran^skribsjuvnna
-re^grešuvdna	re^gresjuvnna
-pro^grešuvdna	pro^gresjuvnna
-kom^prešuvdna	kåm^presjuvnna
-sešuvdna	sesjuvnna
-ekspedišuvdna	ekspedisjuvnna
-mišovdna	misjuvnna
-mišuvdna	misjuvnna
-definišuvdna	defenisjuvnna
-rekvisišuvdna	rekvesisjuvnna
-adposišuvdna	adpusisjuvnna
-preposišuvdna	prepusisjuvnna
-apposišuvdna	appusisjuvnna
-anaforalaš#apposišuvdna	anáforalasj#appusisjuvnna
-presiseren#apposišuvdna	preseseren#appusisjuvnna
-kvantifiseren#apposišuvdna	kvanttefiseren#appusisjuvnna
-identifiseren#apposišuvdna	identifiseren#appusisjuvnna
-ekvaliseren#apposišuvdna	ekvaliseren#appusisjuvnna
-komposišuvdna	kåmppusisjuvnna
-opposišuvdna	åppusisjuvnna
-disposišuvdna	disspusisjuvnna
-postposišuvdna	påstpusisjuvnna
-proposišuvdna	pråpusisjuvnna
-láhka#proposišuvdna	láhka#pråpusisjuvnna
-stuora#digge#proposišuvdna	stuora#digge#pråpusisjuvnna
-stuorra#digge#proposišuvdna	stuorra#digge#pråpusisjuvnna
-repetišuvdna	repetisjuvnna
-višuvdna	visjuvnna
-televišuvdna	televisjuvnna
-akšuvdna	aksjuvnna
-politi#akšuvdna	pålete#aksjuvnna
-vásedin#akšuvdna	vásedin#aksjuvnna
-álbmot#akšuvdna	álmmut#aksjuvnna
-re^akšuvdna	re^aksjuvnna
-váimmus#re^akšuvdna	vájmus#re^aksjuvnna
-rekre^akšuvdna	rekre^aksjuvnna
-trakšuvdna	traksjuvnna
-sub^trakšuvdna	sub^traksjuvnna
-interjekšuvdna	intterjeksjuvnna
-lekšuvdna	leksjuvnna
-re^flekšuvdna	re^fleksjuvnna
-introspekšuvdna	intruspeksjuvnna
-rekšuvdna	reksjuvnna
-sekšuvdna	seksjuvnna
-jurisdikšuvdna	juresdiksjuvnna
-kontradikšuvdna	kåntrådiksjuvnna
-fikšuvdna	fiksjuvnna
-funkšuvdna	funksjuvnna
-nuppi#poteansa#funkšuvdna	nuppe#påteansa#funksjuvnna
-in^strukšuvdna	in^struksjuvnna
-dekon^strukšuvdna	dekun^struksjuvnna
-kon^strukšuvdna	kån^struksjuvnna
-re^kon^strukšuvdna	re^kån^struksjuvnna
-rekonstrukšuvdna	rekunstruksjuvnna
-ákšuvdna	áksjuvnna
-penšuvdna	pensjuvnna
-maŋis#báhcciid#penšuvdna	maŋes#báhttsijd#pensjuvnna
-boarrásiid#penšuvdna	boarrásijd#pensjuvnna
-pre^skripšuvdna	pre^skripsjuvnna
-tran^skripšuvdna	tran^skripsjuvnna
-miššovdna	missjuvnna
-miššuvdna	missjuvnna
-sáme#miššuvdna	sáme#missjuvnna
-peršovdna	perssjuvnna
-peršuvdna	perssjuvnna
-váldo#peršovdna	válldo#perssjuvnna
-veršuvdna	verssjuvnna
-alfa#veršuvdna	alffa#verssjuvnna
-beta#veršuvdna	beta#verssjuvnna
-pro#poršuvdna	pro#pårssjuvnna
-náššuvdna	nássjuvnna
-distribušuvdna	distrebusjuvnna
-suopman#distribušuvdna	suobman#distrebusjuvnna
-resolušuvdna	resulusjuvnna
-eanan#vuovdin#resolušuvdna	ienan#vuovdden#resulusjuvnna
-evolušuvdna	evulusjuvnna
-revolušuvdna	revulusjuvnna
-dearvvašvuođa#institušuvdna	diervasjvuoda#insstetusjuvnna
-stáhta#institušuvdna	stáhta#insstetusjuvnna
-duodje#institušuvdna	duodje#insstetusjuvnna
-oahppo#institušuvdna	oahppo#insstetusjuvnna
-kultur#institušuvdna	kulltur#insstetusjuvnna
-oahpahus#institušuvdna	oahpahus#insstetusjuvnna
-prostitušuvdna	pråsstetusjuvnna
-nášuvdna	násjuvnna
-konsultášuvdna	kånssultásjuvnna
-stášuvdna	stásjuvnna
-negašuvdna	negatjuvnna
-multi^plikašuvdna	mullte^plikatjuvnna
-im^plikašuvdna	im^plikatjuvnna
-relašuvdna	relatjuvnna
-de^klamašuvdna	de^klamatjuvnna
-de^klarašuvdna	de^klaratjuvnna
-a^spirašuvdna	a^spiratjuvnna
-in^spirašuvdna	in^spiratjuvnna
-frustrašuvdna	frustratjuvnna
-kassašuvdna	kassatjuvnna
-sensašuvdna	senssatjuvnna
-mutašuvdna	mutatjuvnna
-transkribšuvdna	transkrebtjuvnna
-ambišuvdna	ambbetjuvnna
-tradišuvdna	tradetjuvnna
-addišuvdna	addetjuvnna
-profešuvdna	pråfetjuvnna
-supplešuvdna	suppletjuvnna
-emišuvdna	emetjuvnna
-pearbmišuvdna	piermmetjuvnna
-kommišuvdna	kåmmetjuvnna
-lappe#kommišuvdna	lappe#kåmmetjuvnna
-meahcce#kommišuvdna	miehttse#kåmmetjuvnna
-soabadan#kommišuvdna	såbadan#kåmmetjuvnna
-eana#vuovdin#kommišuvdna	iena#vuovdden#kåmmetjuvnna
-boazo#guohton#kommišuvdna	boatso#guohtun#kåmmetjuvnna
-boazo#guohtun#kommišuvdna	boatso#guohtun#kåmmetjuvnna
-duottar#kommišuvdna	duottar#kåmmetjuvnna
-pearmišuvdna	piermetjuvnna
-permišuvdna	permetjuvnna
-trasmišuvdna	trassmetjuvnna
-komišuvdna	kåmetjuvnna
-kognišuvdna	kågnetjuvnna
-segrešuvdna	segretjuvnna
-digrešuvdna	digretjuvnna
-transišuvdna	transsetjuvnna
-konsešuvdna	kånssetjuvnna
-doaibma#konsešuvdna	doajmma#kånssetjuvnna
-industri#konsešuvdna	inddustre#kånssetjuvnna
-guovllo#konsešuvdna	guovlo#kånssetjuvnna
-guovllu#konsešuvdna	guovlo#kånssetjuvnna
-posišuvdna	påsetjuvnna
-revišuvdna	revetjuvnna
-riikka#revišuvdna	rijka#revetjuvnna
-riika#revišuvdna	rijkka#revetjuvnna
-divišuvdna	divetjuvnna
-provišuvdna	pråvetjuvnna
-kássa#kredihtta#provišuvdna	kássa#kredehtta#pråvetjuvnna
-álggahan#provišuvdna	álgahan#pråvetjuvnna
-bearran#provišuvdna	bierran#pråvetjuvnna
-intuišuvdna	inttujtjuvnna
-substrakšuvdna	substraktjuvnna
-erohus#substrakšuvdna	eruhus#substraktjuvnna
-infekšuvdna	infektjuvnna
-des^infekšuvdna	des^infektjuvnna
-moro#reakšuvdna	måro#riektjuvnna
-bijekšuvdna	bijektjuvnna
-projekšuvdna	pråjektjuvnna
-kollekšuvdna	kållektjuvnna
-restrikšuvdna	restrektjuvnna
-subjunkšuvdna	subjunktjuvnna
-konjunkšuvdna	kånjunktjuvnna
-disjunkšuvdna	disjunktjuvnna
-obdukšuvdna	åbduktjuvnna
-indukšuvdna	indduktjuvnna
-redukšuvdna	reduktjuvnna
-produkšuvdna	pråduktjuvnna
-redakšuvdna	redáktjuvnna
-kontrakšuvdna	kåntråktjuvnna
-nž-kontrakšuvdna	ntj-kåntråktjuvnna
-asfálta#emulšuvdna	asfálta#emultjuvnna
-subsumšuvdna	subsumtjuvnna
-presumšuvdna	presumtjuvnna
-ekspanšuvdna	ekspantjuvnna
-dimenšuvdna	dimentjuvnna
-eami#álbmot#dimenšuvdna	ieme#álmmut#dimentjuvnna
-suspenšuvdna	susspentjuvnna
-ekstenšuvdna	ekstentjuvnna
-intenšuvdna	inttentjuvnna
-prevenšuvdna	preventjuvnna
-konvenšuvdna	kånvventjuvnna
-bio#girjáivuođa#konvenšuvdna	bio#girjjájvuoda#kånvventjuvnna
-rámma#konvenšuvdna	rámma#kånvventjuvnna
-sáme#konvenšuvdna	sáme#kånvventjuvnna
-boazo#guohton#konvenšuvdna	boatso#guohtun#kånvventjuvnna
-boazo#guohtun#konvenšuvdna	boatso#guohtun#kånvventjuvnna
-bio#konvenšuvdna	bio#kånvventjuvnna
-eami#álbmot#konvenšuvdna	ieme#álmmut#kånvventjuvnna
-resepšuvdna	reseptjuvnna
-persepšuvdna	persseptjuvnna
-presumpšuvdna	presumptjuvnna
-adopšuvdna	aduptjuvnna
-kaušuvdna	kautjuvnna
-refušuvdna	refutjuvnna
-transfušuvdna	transfutjuvnna
-konklušuvdna	kånklutjuvnna
-loahppa#konklušuvdna	loahppa#kånklutjuvnna
-erošuvdna	erutjuvnna
-korrošuvdna	kårrutjuvnna
-sub^stitušuvdna	sub^stitutjuvnna
-jietnadat#sub^stitušuvdna	jiednadat#sub^stitutjuvnna
-in^stitušuvdna	in^stitutjuvnna
-kon^stitušuvdna	kån^stitutjuvnna
-relášuvdna	relátjuvnna
-de^klarášuvdna	de^klarátjuvnna
-pronašuvdna	prånåtjuvnna
-notašuvdna	nåtåtjuvnna
-melovdna	meluvnna
-kommuvdna	kåmmuvnna
-hormovdna	hårmuvnna
-kanovdna	kanuvnna
+peršovdna	persåvnnå
+peršuvdna	persåvnnå
+váldo#peršovdna	válldo#persåvnnå
 ruvdna	ruvnna
 kruvdna	kruvnna
-natrovdna	natruvnna
-sitrovdna	sitruvnna
-sitruvdna	sitruvnna
-elektruvdna	elektruvnna
-makaruvdna	makáruvnna
+natrovdna	natrovnna
+sitrovdna	sitrovnna
+sitruvdna	sitrovnna
+elektruvdna	elektrovnna
+makaruvdna	makárovnna
 persovdna	perssuvnna
 persuvdna	perssuvnna
 váldo#persovdna	válldo#perssuvnna
@@ -4072,10 +2802,10 @@ strategiija#plána	strategijja#plána
 riikka#plána	rijka#plána
 fylka#plána	fylkka#plána
 fylkka#plána	fylka#plána
-sosiála#plána	såsiála#plána
+sosiála#plána	sosial#plána
 doaibma#plána	doajmma#plána
 dásse#árvo#doaibma#plána	dásse#árvvo#doajmma#plána
-prošeakta#plána	pråsjeakta#plána
+prošeakta#plána	prosjækta#plána
 nuoraid#plána	nuorajd#plána
 bargiid#plána	barggijd#plána
 áige#plána	ájgge#plána
@@ -4095,11 +2825,11 @@ boazo#doallo#plána	boatso#doallo#plána
 guovlo#plána	guovllo#plána
 diibmo#plána	dijmmo#plána
 geaidno#plána	giejnno#plána
-kultur#viesso#plána	kulltur#viesso#plána
-kultur#muito#plána	kulltur#mujtto#plána
+kultur#viesso#plána	kultur#viesso#plána
+kultur#muito#plána	kultur#mujtto#plána
 konto#plána	kåntto#plána
 dásse#árvo#plána	dásse#árvvo#plána
-kultur#plána	kulltur#plána
+kultur#plána	kultur#plána
 ealáhus#plána	æláhus#plána
 mátkkoštus#ealáhus#plána	mátkkusjtus#æláhus#plána
 mátkkoštus#plána	mátkkusjtus#plána
@@ -4111,31 +2841,31 @@ marsipána	marssepána
 tulpána	tulppána
 altána	alltána
 selvána	selvvána
-orgána	årggåna
-váidda#orgána	vájda#årggåna
-fága#orgána	fága#årggåna
-doarjja#orgána	doarja#årggåna
-giella#orgána	giella#årggåna
-doaibma#orgána	doajmma#årggåna
-embehta#orgána	embbehta#årggåna
-stáhta#orgána	stáhta#årggåna
-suorge#orgána	suorgge#årggåna
-gulaskuddan#orgána	guláskuddan#årggåna
-mearridan#orgána	mierredan#årggåna
-hálddašan#orgána	háldatjan#årggåna
-eana#hálddašan#orgána	iena#háldatjan#årggåna
-eanan#hálddašan#orgána	ienan#háldatjan#årggåna
-bearrái#geahččan#orgána	bærráj#giehttjan#årggåna
-eana#vuovdin#orgána	iena#vuovdden#årggåna
-vihkken#orgána	vihkken#årggåna
-stivren#orgána	stivrren#årggåna
-fuođđo#orgána	fuoddo#årggåna
-fuođđu#orgána	fuoddo#årggåna
-ovttas#bargo#orgána	åvtås#barggo#årggåna
-hálddahus#orgána	háldahus#årggåna
-váidalus#orgána	vájddalus#årggåna
-ovddastus#orgána	åvdåstus#årggåna
-lobby#orgána	låbby#årggåna
+orgána	organa
+váidda#orgána	vájda#organa
+fága#orgána	fága#organa
+doarjja#orgána	doarja#organa
+giella#orgána	giella#organa
+doaibma#orgána	doajmma#organa
+embehta#orgána	embbehta#organa
+stáhta#orgána	stáhta#organa
+suorge#orgána	suorgge#organa
+gulaskuddan#orgána	guláskuddan#organa
+mearridan#orgána	mierredan#organa
+hálddašan#orgána	háldatjan#organa
+eana#hálddašan#orgána	iena#háldatjan#organa
+eanan#hálddašan#orgána	ienan#háldatjan#organa
+bearrái#geahččan#orgána	bærráj#giehttjan#organa
+eana#vuovdin#orgána	iena#vuovdden#organa
+vihkken#orgána	vihkken#organa
+stivren#orgána	stivrren#organa
+fuođđo#orgána	fuoddo#organa
+fuođđu#orgána	fuoddo#organa
+ovttas#bargo#orgána	åvtås#barggo#organa
+hálddahus#orgána	háldahus#organa
+váidalus#orgána	vájddalus#organa
+ovddastus#orgána	åvdåstus#organa
+lobby#orgána	lobby#organa
 orkána	årkkåna
 romána	råmåna
 krim#romána	krim#råmåna
@@ -4173,19 +2903,12 @@ má#ilmmi#loahppa	má#ilme#loahppa
 vahku#loahppa	vahko#loahppa
 čiehppa	tjiehppa
 gistta#liehppa	gista#liehppa
-prinsihppa	prinssehppa
-sorjjasvuođa#prinsihppa	sårjåsvuoda#prinssehppa
-ekosystema#prinsihppa	ekusystema#prinssehppa
-soaittáhta#prinsihppa	soajtáhta#prinssehppa
-riekte#prinsihppa	riekte#prinssehppa
-njuolggo#duođaštallan#prinsihppa	njuolgo#duodasjtallan#prinssehppa
-ráfáiduhttin#prinsihppa	ráfájduhttin#prinssehppa
-vuođđo#prinsihppa	vuoddo#prinssehppa
-váldo#prinsihppa	válldo#prinssehppa
-vuostálas#prinsihppa	vuosstálas#prinssehppa
-konsensus#prinsihppa	kånssensus#prinssehppa
-dássádat#hivvodat#prinsihppa	dássádat#hivvudat#prinssehppa
-partisihppa	parttesihppa
+sorjjasvuođa#prinsihppa	sårjåsvuoda#prinsihppa
+soaittáhta#prinsihppa	soajtáhta#prinsihppa
+njuolggo#duođaštallan#prinsihppa	njuolgo#duodasjtallan#prinsihppa
+ráfáiduhttin#prinsihppa	ráfájduhttin#prinsihppa
+vuostálas#prinsihppa	vuosstálas#prinsihppa
+dássádat#hivvodat#prinsihppa	dássádat#hivvudat#prinsihppa
 cihppa	tsihppa
 cuohppa	tsuohppa
 olmmoš#áhppa	ålmusj#áhppa
@@ -4253,7 +2976,6 @@ várpa	várppa
 bispa	bisspa
 dispa	disspa
 ráspa	rásspa
-biotopa	biotupa
 miljoneara	miljjuneara
 mišuneara	misjuneara
 višuneara	visjuneara
@@ -4262,8 +2984,6 @@ kommišuneara	kåmmetjuneara
 offiseara	åffeseara
 militeara	mileteara
 para#militeara	para#mileteara
-algebra	alggebra
-karri^era	karre^era
 brigadera	brigádera
 grenadera	grenádera
 safira	safera
@@ -4446,7 +3166,7 @@ fylkka#boazo#doallo#stivra	fylka#boatso#doallo#stivrra
 guovllo#stivra	guovlo#stivrra
 guovllu#stivra	guovlo#stivrra
 ruovttu#stivra	ruovto#stivrra
-kultur#stivra	kulltur#stivrra
+kultur#stivra	kultur#stivrra
 orohat#stivra	åruhat#stivrra
 álbmot#stivra	álmmut#stivrra
 gávpot#stivra	gávpput#stivrra
@@ -4473,21 +3193,8 @@ bismárra	bissmárra
 proletárra	pråletárra
 heakka#várra	hiekka#várra
 jánovárra	jánuvárra
-pedi^atra	pede^atra
-psyki^atra	psyke^atra
-fosfora	fåsfura
-sigora	sigura
-majora	majura
-general#majora	general#majura
-marmora	marmura
-pomora	påmura
-sponsora	spånssura
-tastatura	tasstatura
-aktora	aktura
-faktora	faktura
-ambassadevra	ambbassadevra
-kommandevra	kåmmåndevra
-bajimuš#kommandevra	bajemusj#kåmmåndevra
+pedi^atra	pedi^atra
+psyki^atra	psyki^atra
 inšenevra	insjenevra
 sivil#inšenevra	sivel#insjenevra
 rešissevra	resjessevra
@@ -4538,41 +3245,41 @@ boazo#doallo#kultuvra	boatso#doallo#kulltuvra
 vuolit#kultuvra	vuolet#kulltuvra
 dosentuvra	dåsentuvra
 kvestuvra	kvesstuvra
-kantovra	kanttuvra
-kantuvra	kanttuvra
-gieldda#kantuvra	gielda#kanttuvra
-válga#kantuvra	válgga#kanttuvra
-giella#kantuvra	giella#kanttuvra
-skuvla#kantuvra	skuvlla#kanttuvra
-personála#kantuvra	perssunála#kanttuvra
-poasta#kantuvra	poassta#kanttuvra
-riekte#veahkke#kantuvra	riekte#viehkke#kanttuvra
-leans#mánne#kantuvra	liens#mánne#kanttuvra
-leans#mánni#kantuvra	liens#mánne#kanttuvra
-personal#kantuvra	perssunal#kanttuvra
-sosiál#kantovra	såsiál#kanttuvra
-sosiál#kantuvra	såsiál#kanttuvra
-eana#vuovdin#kantuvra	iena#vuovdden#kanttuvra
-eanan#vuovdin#kantuvra	ienan#vuovdden#kanttuvra
-vuodjen#kantuvra	vuodjen#kanttuvra
-vuodjin#kantuvra	vuodjen#kanttuvra
-váráiduhttin#kantuvra	várájduhttin#kanttuvra
-váldo#kantuvra	válldo#kanttuvra
-bargo#kantuvra	barggo#kanttuvra
-oadjo#kantuvra	oadjo#kanttuvra
-eanan#doallo#kantuvra	ienan#doallo#kanttuvra
-boazo#doallo#kantuvra	boatso#doallo#kanttuvra
-guovllo#kantuvra	guovlo#kanttuvra
-guovllu#kantuvra	guovlo#kanttuvra
-doavttir#kantuvra	doavter#kanttuvra
-doaktár#kantuvra	doaktár#kanttuvra
-hálddahus#kantuvra	háldahus#kanttuvra
-oahpahus#kantuvra	oahpahus#kanttuvra
-ealáhus#kantuvra	æláhus#kanttuvra
-bálvalus#kantuvra	bálvvalus#kanttuvra
-ossodat#kantuvra	åssudat#kanttuvra
-livnnet#kantuvra	livnet#kanttuvra
-ovda#kantuvra	åvddå#kanttuvra
+kantovra	kåntåvrrå
+kantuvra	kåntåvrrå
+gieldda#kantuvra	gielda#kåntåvrrå
+válga#kantuvra	válgga#kåntåvrrå
+giella#kantuvra	giella#kåntåvrrå
+skuvla#kantuvra	skuvlla#kåntåvrrå
+personála#kantuvra	perssunála#kåntåvrrå
+poasta#kantuvra	poassta#kåntåvrrå
+riekte#veahkke#kantuvra	riekte#viehkke#kåntåvrrå
+leans#mánne#kantuvra	liens#mánne#kåntåvrrå
+leans#mánni#kantuvra	liens#mánne#kåntåvrrå
+personal#kantuvra	perssunal#kåntåvrrå
+sosiál#kantovra	såsiál#kåntåvrrå
+sosiál#kantuvra	såsiál#kåntåvrrå
+eana#vuovdin#kantuvra	iena#vuovdden#kåntåvrrå
+eanan#vuovdin#kantuvra	ienan#vuovdden#kåntåvrrå
+vuodjen#kantuvra	vuodjen#kåntåvrrå
+vuodjin#kantuvra	vuodjen#kåntåvrrå
+váráiduhttin#kantuvra	várájduhttin#kåntåvrrå
+váldo#kantuvra	válldo#kåntåvrrå
+bargo#kantuvra	barggo#kåntåvrrå
+oadjo#kantuvra	oadjo#kåntåvrrå
+eanan#doallo#kantuvra	ienan#doallo#kåntåvrrå
+boazo#doallo#kantuvra	boatso#doallo#kåntåvrrå
+guovllo#kantuvra	guovlo#kåntåvrrå
+guovllu#kantuvra	guovlo#kåntåvrrå
+doavttir#kantuvra	doavter#kåntåvrrå
+doaktár#kantuvra	doaktár#kåntåvrrå
+hálddahus#kantuvra	háldahus#kåntåvrrå
+oahpahus#kantuvra	oahpahus#kåntåvrrå
+ealáhus#kantuvra	æláhus#kåntåvrrå
+bálvalus#kantuvra	bálvvalus#kåntåvrrå
+ossodat#kantuvra	åssudat#kåntåvrrå
+livnnet#kantuvra	livnet#kåntåvrrå
+ovda#kantuvra	åvddå#kåntåvrrå
 gántuvra	gánttuvra
 kántuvra	kánttuvra
 gieldda#kántuvra	gielda#kánttuvra
@@ -4598,7 +3305,7 @@ honorára	hånurára
 cára	tsára
 sitara	sitára
 kommentára	kåmmentára
-dokumentára	dåkumentára
+dokumentára	dokumentára
 inventára	invventára
 riikka#arkivára	rijka#arkkevára
 antikvára	anttekvára
@@ -5025,63 +3732,7 @@ olgeš#giehta	ålggesj#giehta
 vuoššan#giehta	vuossjan#giehta
 dahku#giehta	dahko#giehta
 dálkkas#giehta	dálkas#giehta
-ovda#giehta	åvddå#giehta
-latnja#ovda#giehta	ladnja#åvddå#giehta
-guhkes#áige#bušehta	guhkes#ájgge#busjehta
-elihta	elehta
-komehta	kåmehta
-dahku#magnehta	dahko#magnehta
-internehta	intternehta
-trumpehta	trumppehta
-trompehta	tråmppehta
-re^alitehta	re^aletehta
-seksu^alitehta	sekso^aletehta
-habitu^alitehta	habetu^aletehta
-prioritehta	prioretehta
-entitehta	enttetehta
-ánnu^itehta	ánno^itehta
-maŋŋe#ánnu^itehta	maŋŋe#ánno^itehta
-ovda#ánnu^itehta	åvddå#ánno^itehta
-validitehta	valeditehta
-likviditehta	likveditehta
-invaliditehta	invvaliditehta
-kriminalitehta	krimenalitehta
-originalitehta	åreginalitehta
-našunalitehta	nasjunalitehta
-habilitehta	habelitehta
-stabilitehta	stabelitehta
-fleksibilitehta	fleksebilitehta
-modalitehta	mådålitehta
-lojalitehta	låjålitehta
-formalitehta	fårmålitehta
-formálitehta	fårmålitehta
-legitimitehta	legetimitehta
-feminitehta	femenitehta
-maskulinitehta	masskulinitehta
-femininitehta	femeninitehta
-ansiennitehta	anssiennitehta
-modernitehta	mådernitehta
-solidaritehta	såledaritehta
-majoritehta	majuritehta
-minoritehta	minuritehta
-autoritehta	auturitehta
-subsidiáritehta	subsediáritehta
-etnisitehta	ednesitehta
-intensitehta	inttensitehta
-universitehta	uneversitehta
-geasse#universitehta	giesse#uneversitehta
-viskositehta	visskusitehta
-velositehta	velusitehta
-kultur#identitehta	kulltur#identitehta
-passivitehta	passevitehta
-kre^ativitehta	kre^atevitehta
-aktivitehta	aktevitehta
-sensitivitehta	senssetivitehta
-produktivitehta	pråduktivitehta
-relativitehta	relátivitehta
-sierra#iešvuohta	sierra#iessjvoohta
-ráhkadus#iešvuohta	ráhkadus#iessjvoohta
-dearvvuohta	diervoohta
+dearvvuohta	diervuohta
 njáhcu#muohta	njáhtso#muohta
 čuomiras#muohta	tjuomeras#muohta
 guovlu#gullevaš#vuohta	guovllo#gullevasj#vuohta
@@ -5180,7 +3831,7 @@ sámi#gelbbolašvuohta	sáme#gelbulasjvuohta
 sáme#giel#gelbbolašvuohta	sáme#giel#gelbulasjvuohta
 dutkan#gelbbolašvuohta	dutkan#gelbulasjvuohta
 lohkan#gelbbolašvuohta	låhkån#gelbulasjvuohta
-kultur#gelbbolašvuohta	kulltur#gelbulasjvuohta
+kultur#gelbbolašvuohta	kultur#gelbulasjvuohta
 sirdolašvuohta	sirddulasjvuohta
 aiddolašvuohta	ajdulasjvuohta
 sirddolašvuohta	sirdulasjvuohta
@@ -5618,7 +4269,7 @@ bargguhisvuođa#ruhta	barguhisvuoda#ruhta
 guovtte#gielatvuođa#ruhta	guovte#gielatvuoda#ruhta
 doarjja#ruhta	doarja#ruhta
 doaibma#ruhta	doajmma#ruhta
-prošeakta#ruhta	pråsjeakta#ruhta
+prošeakta#ruhta	prosjækta#ruhta
 reasta#ruhta	riessta#ruhta
 boarrásiid#ruhta	boarrásijd#ruhta
 liige#ruhta	lijgge#ruhta
@@ -5633,7 +4284,7 @@ geavahan#ruhta	gievahan#ruhta
 speallan#ruhta	spiellan#ruhta
 mánná#oažžun#ruhta	mánná#oadtjun#ruhta
 luopmo#ruhta	luobmo#ruhta
-kultur#ruhta	kulltur#ruhta
+kultur#ruhta	kultur#ruhta
 šiehtadus#ruhta	sjiehtadus#ruhta
 dutkiid#rekruhta	dutkijd#rekruhta
 ceakko#symptohta	tsiekko#symptuhta
@@ -5714,50 +4365,9 @@ perfeakta	perffeakta
 imperfeakta	impperfeakta
 pronomen#subjeakta	prånumen#subjeakta
 objeakta	åbjeakta
-prošeakta	pråsjeakta
-dearvvašvuođa#prošeakta	diervasjvuoda#pråsjeakta
-terminologiija#prošeakta	termenologijja#pråsjeakta
-giella#prošeakta	giella#pråsjeakta
-sosiála#prošeakta	såsiála#pråsjeakta
-báike#namma#prošeakta	bájkke#namma#pråsjeakta
-tearbma#prošeakta	tiermma#pråsjeakta
-oarje#vuona#prošeakta	oarjje#vuona#pråsjeakta
-pilohta#prošeakta	piluhta#pråsjeakta
-nuoraid#prošeakta	nuorajd#pråsjeakta
-girje#prošeakta	girjje#pråsjeakta
-oasse#prošeakta	oasse#pråsjeakta
-ovddidan#prošeakta	åvdedan#pråsjeakta
-dutkan#prošeakta	dutkan#pråsjeakta
-geahččalan#prošeakta	giehttjalan#pråsjeakta
-čállin#dárkkistan#prošeakta	tjállen#dárkestan#pråsjeakta
-diehto#juohkin#prošeakta	diehto#juohken#pråsjeakta
-čohkken#prošeakta	tjåhkken#pråsjeakta
-registreren#prošeakta	regestreren#pråsjeakta
-giella#revitaliseren#prošeakta	giella#revetaliseren#pråsjeakta
-huksen#prošeakta	huksen#pråsjeakta
-ovdánahttin#prošeakta	åvddånahttin#pråsjeakta
-miššun#prošeakta	missjun#pråsjeakta
-nisson#prošeakta	nissun#pråsjeakta
-váldo#prošeakta	válldo#pråsjeakta
-ovttas#bargo#prošeakta	åvtås#barggo#pråsjeakta
-nisu#prošeakta	niso#pråsjeakta
-kultur#viesso#prošeakta	kulltur#viesso#pråsjeakta
-kultur#muito#prošeakta	kulltur#mujtto#pråsjeakta
-oahppo#neavvo#prošeakta	oahppo#nievvo#pråsjeakta
-oahppo#neavvu#prošeakta	oahppo#nievvo#pråsjeakta
-eami#álbmot#prošeakta	ieme#álmmut#pråsjeakta
-ovda#prošeakta	åvddå#pråsjeakta
-projeakta	pråjeakta
 gái#vuon#dialeakta	gáj#vuon#dialeakta
-kolleakta	kålleakta
-aspeakta	asspeakta
-respeakta	resspeakta
-indireakta	inddereakta
-inseakta	insseakta
-arkiteakta	arkketeakta
 gátnes#lakta	gádnes#lakta
 njeahcet#jiekta	njiehtset#jiekta
-dia^leakta	dia^liekta
 kneakta	kniekta
 reakta	riekta
 kreakta	kriekta
@@ -5791,116 +4401,12 @@ kulta	kullta
 smulta	smullta
 málta	mállta
 spálta	spállta
-presideanta	presedeanta
-stuorra#digge#presideanta	stuorra#digge#presedeanta
-sáme#digge#presideanta	sáme#digge#presedeanta
-sáme#dikke#presideanta	sáme#dikke#presedeanta
-várre#presideanta	várre#presedeanta
-miel#presideanta	miel#presedeanta
-kodependeanta	kådependeanta
-stuđeanta	studeanta
-váldo#fága#studeanta	válldo#fága#studeanta
-oahpaheaddji#studeanta	oahpaheaddje#studeanta
-eami#álbmot#studeanta	ieme#álmmut#studeanta
-dirigeanta	diregeanta
-kontingeanta	kånttengeanta
-kotangeanta	kåtångeanta
-konsuleanta	kånssuleanta
-giella#konsuleanta	giella#kånssuleanta
-sosiála#konsuleanta	såsiála#kånssuleanta
-personála#konsuleanta	perssunála#kånssuleanta
-ekonomi#konsuleanta	ekunome#kånssuleanta
-vuosttaš#konsuleanta	vuostasj#kånssuleanta
-vuosttas#konsuleanta	vuostas#kånssuleanta
-eami#álbmot#parlameanta	ieme#álmmut#parlameanta
-testameanta	tesstameanta
-senil#demeanta	senel#demeanta
-sedimeanta	sedemeanta
-musihkka#elemeanta	musehkka#elemeanta
-komplemeanta	kåmplemeanta
-abonnemeanta	abunnemeanta
-endos#semeanta	enddus#semeanta
-fápmudus#endos#semeanta	fábmudus#enddus#semeanta
-konnos#semeanta	kånnus#semeanta
-departemeanta	depártemeanta
-gieldda#departemeanta	gielda#depártemeanta
-gielda#departemeanta	giellda#depártemeanta
-dearvvašvuođa#departemeanta	diervasjvuoda#depártemeanta
-dearvvasvuođa#departemeanta	diervasvuoda#depártemeanta
-fága#departemeanta	fága#depártemeanta
-energiija#departemeanta	energijja#depártemeanta
-olgo#riikka#departemeanta	ålggo#rijka#depártemeanta
-olgo#riika#departemeanta	ålggo#rijkka#depártemeanta
-justiisa#departemeanta	jusstijsa#depártemeanta
-energi#departemeanta	energe#depártemeanta
-gávpe#departemeanta	gávppe#depártemeanta
-industri#departemeanta	inddustre#depártemeanta
-politi#departemeanta	pålete#depártemeanta
-bearaš#departemeanta	bierasj#depártemeanta
-dutkan#departemeanta	dutkan#depártemeanta
-guolástan#departemeanta	guolástan#depártemeanta
-searvadahttin#departemeanta	siervvadahttin#depártemeanta
-region#departemeanta	region#depártemeanta
-riddo#departemeanta	riddo#depártemeanta
-bargo#departemeanta	barggo#depártemeanta
-girko#departemeanta	girkko#depártemeanta
-girku#departemeanta	girkko#depártemeanta
-eana#doallo#departemeanta	iena#doallo#depártemeanta
-eanan#doallo#departemeanta	ienan#doallo#depártemeanta
-guovlo#departemeanta	guovllo#depártemeanta
-guovlu#departemeanta	guovllo#depártemeanta
-guovllo#departemeanta	guovlo#depártemeanta
-guovllu#departemeanta	guovlo#depártemeanta
-biebmo#departemeanta	biebbmo#depártemeanta
-máhtto#departemeanta	máhtto#depártemeanta
-kultur#departemeanta	kulltur#depártemeanta
-justis#departemeanta	jusstes#depártemeanta
-sis#departemeanta	sis#depártemeanta
-finans#departemeanta	fináns#depártemeanta
-hálddahus#departemeanta	háldahus#depártemeanta
-fuolahus#departemeanta	fuolahus#depártemeanta
-oahpahus#departemeanta	oahpahus#depártemeanta
-suodjalus#departemeanta	suodjalus#depártemeanta
-johtalus#departemeanta	jåhtålus#depártemeanta
-guolástus#departemeanta	guolástus#depártemeanta
-johtolat#departemeanta	jåhtulat#depártemeanta
-gierdo#segmeanta	gierddo#segmeanta
-kommeanta	kåmmeanta
-argumeanta	arggumeanta
-dokumeanta	dåkumeanta
-plána#dokumeanta	plána#dåkumeanta
-ášše#dokumeanta	ássje#dåkumeanta
-ášši#dokumeanta	ássje#dåkumeanta
-stivren#dokumeanta	stivrren#dåkumeanta
-vuođđo#dokumeanta	vuoddo#dåkumeanta
-váldo#dokumeanta	válldo#dåkumeanta
-bargo#dokumeanta	barggo#dåkumeanta
-momeanta	måmeanta
-kontineanta	kåntteneanta
-komponeanta	kåmppuneanta
-opponeanta	åppuneanta
-eksponeanta	ekspuneanta
-disponeanta	disspuneanta
-korefereanta	kårefereanta
-endosseanta	enddusseanta
-produseanta	pråduseanta
-doseanta	dåseanta
-proseanta	pråseanta
-penšun#proseanta	pensjun#pråseanta
-assisteanta	assesteanta
-remitteanta	remetteanta
-konsulenta	kånssulenta
-testamenta	tesstamenta
-departementa	depártementa
-guovlo#departementa	guovllo#depártementa
-guovlu#departementa	guovllo#depártementa
-lasse#argumenta	lasse#arggumenta
-dokumenta	dåkumenta
-arkiiva#dokumenta	arkkijva#dåkumenta
+
+lasse#argumenta	lasse#argumænnta
 momenta	måmenta
 korinta	kårenta
 hy^asinta	hy^asenta
-konstituenta	kånsstetuenta
+konstituenta	kånstituenta
 labirinta	laberinta
 kommandánta	kåmmåndánta
 seršánta	serssjánta
@@ -5935,7 +4441,7 @@ gehppes#jogurta	gehppes#jågurta
 šattos#jogurta	sjattus#jågurta
 raporta	rapurta
 loahppa#raporta	loahppa#rapurta
-prošeakta#raporta	pråsjeakta#rapurta
+prošeakta#raporta	prosjækta#rapurta
 jahke#raporta	jahke#rapurta
 árvvoštallan#raporta	árvusjtallan#rapurta
 evalueren#raporta	eválueren#rapurta
@@ -6151,28 +4657,7 @@ vuoste#deatta	vuosste#dietta
 vuollegis#deatta	vuollegis#dietta
 learretta	lierretta
 lassi#budjeahtta	lasse#budjeahtta
-ašeahtta	asjeahtta
-manšeahtta	mansjeahtta
-bušeahtta	busjeahtta
-stáda#bušeahtta	stáda#busjeahtta
-nationála#bušeahtta	nationála#busjeahtta
-našunála#bušeahtta	nasjunála#busjeahtta
-doaibma#bušeahtta	doajmma#busjeahtta
-rámma#bušeahtta	rámma#busjeahtta
-stáhta#bušeahtta	stáhta#busjeahtta
-guhkes#áigge#bušeahtta	guhkes#ájge#busjeahtta
-nationál#bušeahtta	nationál#busjeahtta
-našunál#bušeahtta	nasjunál#busjeahtta
-jođihan#bušeahtta	jådehan#busjeahtta
-huksen#bušeahtta	huksen#busjeahtta
-siskkáldas#bušeahtta	siskáldas#busjeahtta
-bálká#bušeahtta	bálkká#busjeahtta
-etikeahtta	etekeahtta
-diskeahtta	disskeahtta
 čitna#tableahtta	tjidna#tableahtta
-omeleahtta	åmeleahtta
-komeahtta	kåmeahtta
-kabineahtta	kabeneahtta
 gásse#kabineahtta	gásse#kabeneahtta
 interneahtta	intterneahtta
 soneahtta	såneahtta
@@ -6189,7 +4674,7 @@ kvaliteahtta	kvaleteahtta
 validiteahtta	valediteahtta
 universiteahtta	uneversiteahtta
 kapasiteahtta	kapásiteahtta
-kultur#identiteahtta	kulltur#identiteahtta
+kultur#identiteahtta	kultur#identiteahtta
 relativiteahtta	relátiviteahtta
 opportunisteahtta	åppurtunisteahtta
 kvinteahtta	kvintteahtta
@@ -6224,7 +4709,7 @@ inte^gritehtta	intte^gritehtta
 minoritehtta	minuritehtta
 kapasitehtta	kapásitehtta
 ášše#meannudan#kapasitehtta	ássje#miennudan#kapásitehtta
-kultur#identitehtta	kulltur#identitehtta
+kultur#identitehtta	kultur#identitehtta
 kontinuitehtta	kånttenujtehtta
 levihtta	levehtta
 inu^ihtta	ino^ihtta
@@ -6258,7 +4743,7 @@ konfaluhtta	kånfåluhtta
 doavdnje#konfaluhtta	doavnnje#kånfåluhtta
 jienastan#lihppo#konfaluhtta	jienastan#lihppo#kånfåluhtta
 konvaluhtta	kånvvåluhtta
-duodje#instituhtta	duodje#insstetuhtta
+duodje#instituhtta	duodje#instituhtta
 servituhtta	servvetuhtta
 proselyhtta	pråselyhtta
 trombocyhtta	tråmbbutsyhtta
@@ -6277,25 +4762,18 @@ oalga#háhtta	oalgga#háhtta
 proletariáhtta	pråletariáhtta
 sáme#guovllu#plakáhtta	sáme#guovlo#plakáhtta
 affrikáhtta	affrekáhtta
-advokáhtta	advukáhtta
 bealle#marakáhtta	bielle#marákáhtta
 endiva#saláhtta	enddeva#saláhtta
 ráiggas#pláhtta	rájgas#pláhtta
-unduláhtta	undduláhtta
-automáhtta	autumáhtta
-telefon#automáhtta	telefon#autumáhtta
-ordináhtta	årddenáhtta
 ko^ordináhtta	ko^årddenáhtta
-gemináhtta	gemenáhtta
-internáhtta	intternáhtta
-skuvla#internáhtta	skuvlla#intternáhtta
+
 váikkuhan#gaska#oapme#apparáhtta	vájkuhan#gasska#oabme#apparáhtta
 hálddašan#apparáhtta	háldatjan#apparáhtta
 pulvvar#apparáhtta	pulvar#apparáhtta
 bálvalus#apparáhtta	bálvvalus#apparáhtta
 čitna#hydráhtta	tjidna#hydráhtta
 duopmo#referáhtta	duobmo#referáhtta
-sosiála#demo^kráhtta	såsiála#demo^kráhtta
+sosiála#demo^kráhtta	sosial#demo^kráhtta
 sáme#demokráhtta	sáme#demukráhtta
 professoráhtta	pråfessoráhtta
 preparáhtta	prepáráhtta
@@ -6351,7 +4829,7 @@ joavdo#barta	joavddo#bartta
 ealáhus#barta	æláhus#bartta
 doarta	doartta
 goarta	goartta
-identifikašuvdna#goarta	identifikasjuvnna#goartta
+identifikašuvdna#goarta	identifikasjåvnnå#goartta
 guolle#goarta	guolle#goartta
 girdin#goarta	girdden#goartta
 vuodjin#goarta	vuodjen#goartta
@@ -6455,128 +4933,6 @@ standárd#breava	standdárd#brieva
 jođánis#breava	jådånis#brieva
 doaivva	doajva
 seaivva	siejva
-arkiiva	arkkijva
-riikka#arkiiva	rijka#arkkijva
-stáhta#arkiiva	stáhta#arkkijva
-gáiddus#arkiiva	gájdus#arkkijva
-árkiiva	árkkijva
-oliiva	ålijva
-possesiiva	påssesijva
-ekstensiiva	ekstensijva
-diehto#intensiiva	diehto#inttensijva
-passiiva	passijva
-essiiva	essijva
-in^essiiva	in^essijva
-abessiiva	abessijva
-vearba#abessiiva	vierbba#abessijva
-adessiiva	adessijva
-eks^pressiiva	eks^pressijva
-possessiiva	påssessijva
-initi^atiiva	inete^atijva
-datiiva	datijva
-interrogatiiva	intterrogatijva
-indikatiiva	inddekatijva
-predikatiiva	predekatijva
-infinihtta#predikatiiva	infenihtta#predekatijva
-latiiva	latijva
-ablatiiva	ablatijva
-allatiiva	allatijva
-appellatiiva	appellatijva
-illatiiva	illatijva
-superlatiiva	superlatijva
-translatiiva	translatijva
-regulatiiva	regulatijva
-mátkke#regulatiiva	mátkke#regulatijva
-mátke#regulatiiva	mátke#regulatijva
-buhtadus#regulatiiva	buhtadus#regulatijva
-fárren#buhtadus#regulatiiva	fárren#buhtadus#regulatijva
-kopulatiiva	kåpulatijva
-informatiiva	infurmatijva
-terminatiiva	termenatijva
-nominatiiva	nåmenatijva
-alternatiiva	allternatijva
-inkoatiiva	inkoatijva
-deliberatiiva	deleberatijva
-desideratiiva	desederatijva
-imperatiiva	impperatijva
-demonstratiiva	demunstratijva
-komparatiiva	kåmppåratijva
-kausatiiva	kausatijva
-akkusatiiva	akkusatijva
-dubitatiiva	dubetatijva
-kvalitatiiva	kvaletatijva
-limitatiiva	limetatijva
-komitatiiva	kåmetatijva
-frekventatiiva	frekventatijva
-kontinuatiiva	kånttenuatijva
-konservatiiva	kånsservatijva
-innovatiiva	innuvatijva
-habitiiva	habetijva
-additiiva	addetijva
-genetiiva	genetijva
-genitiiva	genetijva
-vearba#genetiiva	vierbba#genetijva
-kognitiiva	kågnetijva
-initiiva	inetijva
-partitiiva	parttetijva
-priváhtiiva	priváhtijva
-fortu^itiiva	fårtto^itijva
-totalitiiva	tåtålitijva
-infinitiiva	infenitijva
-aktiiva	aktijva
-sub^traktiiva	sub^traktijva
-adjektiiva	adjektijva
-kollektiiva	kållektijva
-konnektiiva	kånnektijva
-peršpektiiva	persjpektijva
-per^spektiiva	per^spektijva
-ovtta#dássásašvuođa#per^spektiiva	åvtå#dássásasjvuoda#per^spektijva
-eami#álbmoga#per^spektiiva	ieme#álmmuga#per^spektijva
-nissona#per^spektiiva	nissuna#per^spektijva
-guhkes#áigge#per^spektiiva	guhkes#ájge#per^spektijva
-guhkes#áiggi#per^spektiiva	guhkes#ájge#per^spektijva
-oppalaš#per^spektiiva	åppålasj#per^spektijva
-sohka#beal#per^spektiiva	såhkå#biel#per^spektijva
-ovddidan#per^spektiiva	åvdedan#per^spektijva
-nisson#per^spektiiva	nissun#per^spektijva
-váldo#per^spektiiva	válldo#per^spektijva
-nisu#per^spektiiva	niso#per^spektijva
-dásse#árvo#per^spektiiva	dásse#árvvo#per^spektijva
-biras#per^spektiiva	birás#per^spektijva
-eami#álbmot#per^spektiiva	ieme#álmmut#per^spektijva
-rektiiva	rektijva
-direktiiva	direktijva
-adjunktiiva	adjunktijva
-refereansa#adjunktiiva	refereansa#adjunktijva
-kommeanta#adjunktiiva	kåmmeanta#adjunktijva
-deduktiiva	deduktijva
-substantiiva	substantijva
-pro#substantiiva	pro#substantijva
-attentiiva	attentijva
-lokomotiiva	låkumotijva
-reseptiiva	reseptijva
-de^skriptiiva	de^skriptijva
-distributiiva	distrebutijva
-oblikutiiva	åblekutijva
-subjeakta#oblikutiiva	subjeakta#åblekutijva
-konsekutiiva	kånssekutijva
-deminutiiva	demenutijva
-diminutiiva	dimenutijva
-statutiiva	statutijva
-possessor#statutiiva	påssessor#statutijva
-multi^plikatiiva	mullte^plikátijva
-im^plikatiiva	im^plikátijva
-elatiiva	elátijva
-eks^klamatiiva	eks^klamátijva
-duratiiva	durátijva
-sitatiiva	sitátijva
-privatiiva	privátijva
-lokatiiva	låkåtijva
-vokatiiva	våkåtijva
-prolatiiva	prålåtijva
-motiiva	måtijva
-álgo#motiiva	álggo#måtijva
-konatiiva	kånåtijva
 suoivva	suojva
 oblikva	åblekva
 gilvva	gilva
@@ -6803,7 +5159,7 @@ gurgadas#urbi	gurggadas#urbbe
 álás#urbi	álás#urbbe
 árbi	árbbe
 giella#árbi	giella#árbbe
-kultur#árbi	kulltur#árbbe
+kultur#árbi	kultur#árbbe
 njárbe	njárbbe
 gubbi	gubbe
 čábbe	tjábbe
@@ -6966,7 +5322,7 @@ noađđe#guoddi	noadde#guodde
 dákte#guoddi	dákte#guodde
 biello#guoddi	biello#guodde
 vearro#guoddi	vierro#guodde
-kultur#guoddi	kulltur#guodde
+kultur#guoddi	kultur#guodde
 ruođđi	ruodde
 dardi	dardde
 soardi	soardde
@@ -7277,9 +5633,9 @@ váhnen#ráđđi	váhnen#rádde
 huksen#ráđđi	huksen#rádde
 girko#ráđđi	girkko#rádde
 kirko#ráđđi	kirkko#rádde
-kultur#muito#ráđđi	kulltur#mujtto#rádde
+kultur#muito#ráđđi	kultur#mujtto#rádde
 ministtar#ráđđi	minestar#rádde
-kultur#ráddi	kulltur#rádde
+kultur#ráddi	kultur#rádde
 máles#ráđđi	máles#rádde
 hálddahus#ráđđi	háldahus#rádde
 ovttas#ráđđi	åvtås#rádde
@@ -7298,7 +5654,7 @@ válga#namma#goddi	válgga#namma#gådde
 doaibma#goddi	doajmma#gådde
 dáidda#doaibma#goddi	dájda#doajmma#gådde
 gili#doaibma#goddi	gile#doajmma#gådde
-sosiála#oadjo#doaibma#goddi	såsiála#oadjo#doajmma#gådde
+sosiála#oadjo#doaibma#goddi	sosial#oadjo#doajmma#gådde
 báhppa#goddi	báhppa#gådde
 bearra#goddi	bierra#gådde
 bárra#goddi	bárra#gådde
@@ -7324,7 +5680,7 @@ eana#vuovdin#láhka#lávde#goddi	iena#vuovdden#láhka#lávdde#gådde
 boazo#doallo#láhka#lávde#goddi	boatso#doallo#láhka#lávdde#gådde
 giella#lávde#goddi	giella#lávdde#gådde
 skuvla#lávde#goddi	skuvlla#lávdde#gådde
-sosiála#lávde#goddi	såsiála#lávdde#gådde
+sosiála#lávde#goddi	sosial#lávdde#gådde
 boazo#doallo#plána#lávde#goddi	boatso#doallo#plána#lávdde#gådde
 dispa#lávde#goddi	disspa#lávdde#gådde
 vádjolus#luossa#lávde#goddi	vádjulus#luossa#lávdde#gådde
@@ -7373,7 +5729,7 @@ boazo#doallo#lávde#goddi	boatso#doallo#lávdde#gådde
 oahppo#lávde#goddi	oahppo#lávdde#gådde
 dásse#árvo#lávde#goddi	dásse#árvvo#lávdde#gådde
 dihtor#lávde#goddi	dihtur#lávdde#gådde
-kultur#lávde#goddi	kulltur#lávdde#gådde
+kultur#lávde#goddi	kultur#lávdde#gådde
 justis#lávde#goddi	jusstes#lávdde#gådde
 válga#njuolggadus#lávde#goddi	válgga#njuolgadus#lávdde#gådde
 fápmudus#lávde#goddi	fábmudus#lávdde#gådde
@@ -7546,7 +5902,7 @@ eanan#doallo#eise#váldi	ienan#doallo#ejsse#vállde
 boazo#doallo#eise#váldi	boatso#doallo#ejsse#vállde
 bargo#fápmo#eise#váldi	barggo#fábmo#ejsse#vállde
 geaidno#eise#váldi	giejnno#ejsse#vállde
-kultur#muito#eise#váldi	kulltur#mujtto#ejsse#vállde
+kultur#muito#eise#váldi	kultur#mujtto#ejsse#vállde
 guolástus#eise#váldi	guolástus#ejsse#vállde
 livnnet#eise#váldi	livnet#ejsse#vállde
 dásse#váldi	dásse#vállde
@@ -7902,7 +6258,7 @@ dearvvašvuođa#bargi	diervasjvuoda#bargge
 fáŋga#bargi	fáŋgga#bargge
 fága#bargi	fága#bargge
 giella#bargi	giella#bargge
-sosiála#bargi	såsiála#bargge
+sosiála#bargi	sosial#bargge
 suohkana#bargi	suohkana#bargge
 eana#bargi	iena#bargge
 stáhta#bargi	stáhta#bargge
@@ -7919,7 +6275,7 @@ bohcce#bargi	båhttse#bargge
 sadjásaš#bargi	sadjásasj#bargge
 miel#bargi	miel#bargge
 giella#miel#bargi	giella#miel#bargge
-prošeakta#miel#bargi	pråsjeakta#miel#bargge
+prošeakta#miel#bargi	prosjækta#miel#bargge
 fievrredan#bargi	fievredan#bargge
 suohkan#bargi	suohkan#bargge
 eanan#bargi	ienan#bargge
@@ -7929,7 +6285,7 @@ geaidno#bargi	giejnno#bargge
 boazo#bargi	boatso#bargge
 rákto#bargi	rákto#bargge
 te^áhter#bargi	te^áhter#bargge
-kultur#bargi	kulltur#bargge
+kultur#bargi	kultur#bargge
 ámmáhis#bargi	ámmáhis#bargge
 hálddahus#bargi	háldahus#bargge
 fuolahus#bargi	fuolahus#bargge
@@ -7994,9 +6350,9 @@ gilvo#irgi	gilvvo#irgge
 virgi	virgge
 fága#virgi	fága#virgge
 báhpa#virgi	báhpa#virgge
-prošeakta#virgi	pråsjeakta#virgge
-konsuleanta#virgi	kånssuleanta#virgge
-giella#konsuleanta#virgi	giella#kånssuleanta#virgge
+prošeakta#virgi	prosjækta#virgge
+konsuleanta#virgi	konsulænnta#virgge
+giella#konsuleanta#virgi	giella#konsulænnta#virgge
 assisteanta#virgi	assesteanta#virgge
 stipendiáhtta#virgi	stipendiáhtta#virgge
 ráđđe#addi#virgi	rádde#adde#virgge
@@ -8020,7 +6376,7 @@ fága#suorgi	fága#suorgge
 media#suorgi	media#suorgge
 politihkka#suorgi	påletihkka#suorgge
 stiila#suorgi	stijla#suorgge
-sosiála#suorgi	såsiála#suorgge
+sosiála#suorgi	sosial#suorgge
 doaibma#suorgi	doajmma#suorgge
 rámma#suorgi	rámma#suorgge
 pro^grámma#suorgi	pro^grámma#suorgge
@@ -8044,7 +6400,7 @@ fidno#suorgi	fiddno#suorgge
 oahppo#suorgi	oahppo#suorgge
 oahppo#neavvo#suorgi	oahppo#nievvo#suorgge
 oahppo#neavvu#suorgi	oahppo#nievvo#suorgge
-kultur#suorgi	kulltur#suorgge
+kultur#suorgi	kultur#suorgge
 bálgges#suorgi	bálges#suorgge
 lágádus#suorgi	lágádus#suorgge
 ovddas#vástádus#suorgi	åvdås#vásstádus#suorgge
@@ -8268,7 +6624,7 @@ eahpe#buvttadeaddji	iehpe#buvtadeaddje
 el-fápmo#buvttadeaddji	el-fábmo#buvtadeaddje
 oahppo#neavvo#buvttadeaddji	oahppo#nievvo#buvtadeaddje
 oahppo#neavvu#buvttadeaddji	oahppo#nievvo#buvtadeaddje
-sosiála#oaivadeaddji	såsiála#oajvvadeaddje
+sosiála#oaivadeaddji	sosial#oajvvadeaddje
 ekonomi#oaivadeaddji	ekunome#oajvvadeaddje
 eana#doallo#oaivadeaddji	iena#doallo#oajvvadeaddje
 vearro#gáibideaddji	vierro#gájbbedeaddje
@@ -8335,7 +6691,7 @@ oahpaheaddji	oahpaheaddje
 te^oriija#oahpaheaddji	te^årijja#oahpaheaddje
 ovda#skuvla#oahpaheaddji	åvddå#skuvlla#oahpaheaddje
 dievdo#ovda#skuvla#oahpaheaddji	dievddo#åvddå#skuvlla#oahpaheaddje
-sosiála#oahpaheaddji	såsiála#oahpaheaddje
+sosiála#oahpaheaddji	sosial#oahpaheaddje
 sierra#oahpaheaddji	sierra#oahpaheaddje
 gursa#oahpaheaddji	gurssa#oahpaheaddje
 johtti#oahpaheaddji	jåhtte#oahpaheaddje
@@ -8356,14 +6712,14 @@ sága#jođiheaddji	sága#jådeheaddje
 várre#sága#jođiheaddji	várre#sága#jådeheaddje
 panela#jođiheaddji	panela#jådeheaddje
 skuvla#jođiheaddji	skuvlla#jådeheaddje
-sosiála#jođiheaddji	såsiála#jådeheaddje
+sosiála#jođiheaddji	sosial#jådeheaddje
 skuvla#doaimma#jođiheaddji	skuvlla#doajma#jådeheaddje
 doaibma#jođiheaddji	doajmma#jådeheaddje
 koarra#jođiheaddji	koarra#jådeheaddje
 stivra#jođiheaddji	stivrra#jådeheaddje
 stivrra#jođiheaddji	stivra#jådeheaddje
 etáhta#jođiheaddji	etáhta#jådeheaddje
-prošeakta#jođiheaddji	pråsjeakta#jådeheaddje
+prošeakta#jođiheaddji	prosjækta#jådeheaddje
 nubbe#jođiheaddji	nubbe#jådeheaddje
 nubbi#jođiheaddji	nubbe#jådeheaddje
 mánáid#gárde#jođiheaddji	mánájd#gárdde#jådeheaddje
@@ -8408,7 +6764,7 @@ váldo#guođoheaddji	válldo#guoduheaddje
 boazo#guođoheaddji	boatso#guoduheaddje
 tomta#láigoheaddji	tåmtå#lájgguheaddje
 velggoheaddji	velguheaddje
-kultur#seailluheaddji	kulltur#siejlluheaddje
+kultur#seailluheaddji	kultur#siejlluheaddje
 namuheaddji	namuheaddje
 seamma#namuheaddji	siemma#namuheaddje
 ieš#guđet#namuheaddji	iesj#gudet#namuheaddje
@@ -9104,7 +7460,7 @@ vuojáhat#vihki	vuojáhat#vihke
 duohki	duohke
 sealgge#duohki	sielge#duohke
 váre#duohki	váre#duohke
-kultur#duohki	kulltur#duohke
+kultur#duohki	kultur#duohke
 oahpahus#duohki	oahpahus#duohke
 čuohki	tjuohke
 ruohki	ruohke
@@ -9301,10 +7657,10 @@ veahkki	viehkke
 viehkki	viehkke
 dearvvašvuođa#veahkki	diervasjvuoda#viehkke
 giella#veahkki	giella#viehkke
-sosiála#veahkki	såsiála#viehkke
+sosiála#veahkki	sosial#viehkke
 ruhta#veahkki	ruhta#viehkke
 duppal#ruhta#veahkki	duppal#ruhta#viehkke
-konsuleanta#veahkki	kånssuleanta#viehkke
+konsuleanta#veahkki	konsulænnta#viehkke
 liige#veahkki	lijgge#viehkke
 heahte#veahkki	hiehte#viehkke
 riekte#veahkki	riekte#viehkke
@@ -9850,7 +8206,7 @@ boaitto#bealli	boajto#bielle
 gátto#bealli	gátto#bielle
 lávvo#bealli	lávvo#bielle
 čip#bealle	tjip#bielle
-kultur#bealli	kulltur#bielle
+kultur#bealli	kultur#bielle
 šipmár#bealle	sjibmár#bielle
 doares#bealle	doares#bielle
 doares#bealli	doares#bielle
@@ -9923,7 +8279,7 @@ ekonomiija#dilli	ekunomijja#dille
 gaska#dilli	gasska#dille
 giella#dilli	giella#dille
 skuvla#dilli	skuvlla#dille
-sosiála#dilli	såsiála#dille
+sosiála#dilli	sosial#dille
 doaibma#dilli	doajmma#dille
 eana#dilli	iena#dille
 sierra#dilli	sierra#dille
@@ -10128,8 +8484,8 @@ hálli	hálle
 sáme#giel#hálli	sáme#giel#hálle
 dáro#giel#hálli	dáro#giel#hálle
 čálli	tjálle
-sosiála#čálli	såsiála#tjálle
-rekvisišuvdna#čálli	rekvesisjuvnna#tjálle
+sosiála#čálli	sosial#tjálle
+rekvisišuvdna#čálli	rekvesisjåvnnå#tjálle
 sisa#čálli	sisa#tjálle
 stáhta#čálli	stáhta#tjálle
 dikta#čálli	dikta#tjálle
@@ -10140,7 +8496,7 @@ vuolil#čálli	vuolel#tjálle
 váldo#čálli	válldo#tjálle
 eana#doallo#čálli	iena#doallo#tjálle
 guovlo#čálli	guovllo#tjálle
-kultur#čálli	kulltur#tjálle
+kultur#čálli	kultur#tjálle
 málli	málle
 vuoigatvuođa#málle	vuojggatvuoda#málle
 doaibma#málle	doajmma#málle
@@ -10161,8 +8517,8 @@ johtin#málle	jåhten#málle
 bargo#málle	barggo#málle
 ovttas#bargo#málle	åvtås#barggo#málle
 biergo#málli	bierggo#málle
-kultur#muito#málle	kulltur#mujtto#málle
-kultur#málle	kulltur#málle
+kultur#muito#málle	kultur#mujtto#málle
+kultur#málle	kultur#málle
 guolmmas#málli	guolmas#málle
 nálli	nálle
 šákša#nálli	sjáksja#nálle
@@ -10553,7 +8909,7 @@ bálvalus#buvttadeapmi	bálvvalus#buvtadeapme
 ođđa#buvttadeapmi	åddå#buvtadeapme
 oaivvadeapmi	oajvadeapme
 deaivvadeapmi	diejvadeapme
-kultur#deaivvadeapmi	kulltur#diejvadeapme
+kultur#deaivvadeapmi	kultur#diejvadeapme
 njuovadeapmi	njuovadeapme
 oaivadeapmi	oajvvadeapme
 dulvadeapmi	dulvvadeapme
@@ -10618,7 +8974,7 @@ el-rávdnje#dálkkodeapmi	el-rávnnje#dálkudeapme
 roahta#čoaskudeapmi	roahta#tjoasskudeapme
 rámma#juolludeapmi	rámma#juolludeapme
 ruhta#juolludeapmi	ruhta#juolludeapme
-prošeakta#ruhta#juolludeapmi	pråsjeakta#ruhta#juolludeapme
+prošeakta#ruhta#juolludeapmi	prosjækta#ruhta#juolludeapme
 áimmudeapmi	ájmudeapme
 suolbmudeapmi	suolmmudeapme
 deaksta#meannudeapmi	dieksta#miennudeapme
@@ -10787,7 +9143,7 @@ fuođđo#hálddašeapmi	fuoddo#háldatjeapme
 fuođđu#hálddašeapmi	fuoddo#háldatjeapme
 luonddu#hálddašeapmi	luondo#háldatjeapme
 boazo#doallo#hálddašeapmi	boatso#doallo#háldatjeapme
-kultur#muito#hálddašeapmi	kulltur#mujtto#háldatjeapme
+kultur#muito#hálddašeapmi	kultur#mujtto#háldatjeapme
 guolástus#hálddašeapmi	guolástus#háldatjeapme
 biras#hálddašeapmi	birás#háldatjeapme
 opmodat#hálddašeapmi	åbmudat#háldatjeapme
@@ -10815,7 +9171,7 @@ vuovdi#suodjaleapmi	vuovdde#suodjaleapme
 riekte#suodjaleapmi	riekte#suodjaleapme
 buhtadan#suodjaleapmi	buhtadan#suodjaleapme
 luonddu#suodjaleapmi	luondo#suodjaleapme
-kultur#muito#suodjaleapmi	kulltur#mujtto#suodjaleapme
+kultur#muito#suodjaleapmi	kultur#mujtto#suodjaleapme
 biras#suodjaleapmi	birás#suodjaleapme
 geahččaleapmi	giehttjaleapme
 máhtolašvuođa#geahččaleapmi	máhtulasjvuoda#giehttjaleapme
@@ -10865,7 +9221,7 @@ ovdáneapmi	åvddåneapme
 giella#ovdáneapmi	giella#åvddåneapme
 riekte#ovdáneapmi	riekte#åvddåneapme
 riekti#ovdáneapmi	riekte#åvddåneapme
-kultur#ovdáneapmi	kulltur#åvddåneapme
+kultur#ovdáneapmi	kultur#åvddåneapme
 ealáhus#ovdáneapmi	æláhus#åvddåneapme
 luohkká#biras#ovdáneapmi	luohkká#birás#åvddåneapme
 servvodat#ovdáneapmi	servudat#åvddåneapme
@@ -10911,7 +9267,7 @@ buhtisteapmi	buhtesteapme
 buonjusteapmi	buonjusteapme
 čuojusteapmi	tjuojusteapme
 gaskkusteapmi	gaskusteapme
-kultur#gaskkusteapmi	kulltur#gaskusteapme
+kultur#gaskkusteapmi	kultur#gaskusteapme
 čalmmusteapmi	tjalmusteapme
 njoarosteapmi	njoarusteapme
 bárusteapmi	bárusteapme
@@ -10951,7 +9307,7 @@ ieš#áddejupmi	iesj#áddejupme
 luonddu#áddejupmi	luondo#áddejupme
 boastto#áddejupmi	boasto#áddejupme
 boasttu#áddejupmi	boasto#áddejupme
-kultur#áddejupmi	kulltur#áddejupme
+kultur#áddejupmi	kultur#áddejupme
 ráđđejupmi	ráddejupme
 eaiggáduššan#ráđđejupmi	æjgádussjan#ráddejupme
 báhcán#ráđđejupmi	báhtsán#ráddejupme
@@ -10980,7 +9336,7 @@ hearvásmahttojupmi	hærvvásmahttojupme
 bahkašupmi	bahkatjupme
 juohkašupmi	juohkatjupme
 bálkkašupmi	bálkatjupme
-kultur#bálkkašupmi	kulltur#bálkatjupme
+kultur#bálkkašupmi	kultur#bálkatjupme
 spelle^manns^bálkkašupmi	spelle^manns^bálkatjupme
 mearkkašupmi	mierkatjupme
 sierra#mearkkašupmi	sierra#mierkatjupme
@@ -11032,7 +9388,7 @@ váidin#beroštupmi	vájdden#berusjtupme
 olgunastin#beroštupmi	ålggunastin#berusjtupme
 eana#doallo#beroštupmi	iena#doallo#berusjtupme
 boazo#doallo#beroštupmi	boatso#doallo#berusjtupme
-kultur#muito#beroštupmi	kulltur#mujtto#berusjtupme
+kultur#muito#beroštupmi	kultur#mujtto#berusjtupme
 ealáhus#beroštupmi	æláhus#berusjtupme
 guolástus#beroštupmi	guolástus#berusjtupme
 servodat#beroštupmi	servvudat#berusjtupme
@@ -11659,7 +10015,7 @@ mievri	mievrre
 neavri	nievrre
 reavri	rievrre
 revre	revrre
-infiltrašuvdna#revre	infeltrasjuvnna#revrre
+infiltrašuvdna#revre	infeltrasjåvnnå#revrre
 liige#gása#revre	lijgge#gása#revrre
 rufe#revre	rufe#revrre
 čáhce#revre	tjáhtse#revrre
@@ -12181,7 +10537,7 @@ doarjja#ohcci	doarja#åhttse
 golle#ohcci	gålle#åhttse
 bohcci	båhttse
 dipma#bohcci	dibma#båhttse
-infiltrašuvdna#bohcci	infeltrasjuvnna#båhttse
+infiltrašuvdna#bohcci	infeltrasjåvnnå#båhttse
 vuokta#bohcci	vuokta#båhttse
 suovva#bohcci	suovva#båhttse
 beallje#bohcci	biellje#båhttse
@@ -13625,7 +11981,7 @@ kommando#guovddáš	kåmmåndo#guovdásj
 oahppo#neavvo#guovddáš	oahppo#nievvo#guovdásj
 registtar#guovddáš	regestar#guovdásj
 doavtter#guovddáš	doavter#guovdásj
-kultur#guovddáš	kulltur#guovdásj
+kultur#guovddáš	kultur#guovdásj
 ruovddáš	ruovdásj
 heađáš	hædásj
 gáđffáš	gádffásj
@@ -13743,7 +12099,7 @@ olbmáš	ålmmåsj
 otnáš	ådnåsj
 moraš	måråsj
 ovddas#moraš	åvdås#måråsj
-sosiála#ovddas#moraš	såsiála#åvdås#måråsj
+sosiála#ovddas#moraš	sosial#åvdås#måråsj
 losáš	låsåsj
 dálve#losáš	dálvve#låsåsj
 lottáš	låttåsj
@@ -13963,7 +12319,7 @@ stalin#orgel	stalen#årggel
 gávgil	gávggel
 eŋgel	eŋggel
 juŋgel	juŋggel
-prošeakta#juŋgel	pråsjeakta#juŋggel
+prošeakta#juŋgel	prosjækta#juŋggel
 háŋgil	háŋggel
 triáŋgel	triáŋggel
 hiŋggil	hiŋgel
@@ -14143,400 +12499,6 @@ philoso^phicum	philuso^phitsum
 facultatum	fatsultatum
 CD-rom	CD-råm
 cd-rom	cd-råm
-ovdamadda	åvddåmadda	n
-biilaluodda	bijlaluodda	n
-gierisluodda	gieresluodda	n
-láhkadieđa	láhkadieda	n
-gielladieđa	gielladieda	n
-stáhtadieđa	stáhtadieda	n
-luonddudieđa	luondodieda	n
-dálkkasdieđa	dálkasdieda	n
-sámimusea	sámemusea	n
-sámimusea	sámemusea	n
-beaivvášbiegga	bæjvásjbiegga	n
-civnnahádja	tsivnahádja	n
-guohcahádja	guohtsahádja	n
-silbamedállja	silbbamedállja	n
-bronsamedállja	brånssåmedállja	n
-duolbačiehka	duolbbatjiehka	n
-ruossačiehka	ruossatjiehka	n
-vinjučiehka	vinjotjiehka	n
-jorbačiehka	jårbbåtjiehka	n
-gielddaláhka	gieldaláhka	n
-gieldaláhka	gielldaláhka	n
-válgaláhka	válggaláhka	n
-giellaláhka	giellaláhka	n
-nammaláhka	nammaláhka	n
-sierraláhka	sierraláhka	n
-luossaláhka	luossaláhka	n
-vuovdiláhka	vuovddeláhka	n
-vuovdiláhka	vuovddeláhka	n
-sámiláhka	sámeláhka	n
-sámiláhka	sámeláhka	n
-suohkanláhka	suohkanláhka	n
-luondduláhka	luondoláhka	n
-olgoáibmoláhka	ålggoájmmoláhka	n
-jápmasáhka	jábmasáhka	n
-duohtasáhka	duohtasáhka	n
-illusáhka	illosáhka	n
-ovdasáhka	åvddåsáhka	n
-báinnasmáhkka	bájnasmáhkka	n
-hebreagiella	hebreagiella	n
-vádjagiella	vádjagiella	n
-ruoššagiella	ruossjagiella	n
-riikkagiella	rijkagiella	n
-duiskkagiella	dujskagiella	n
-dánskkagiella	dánskagiella	n
-dánsskagiella	dánskagiella	n
-fránskkagiella	fránskagiella	n
-suomagiella	suomagiella	n
-latiinnagiella	latijnagiella	n
-golligiella	gållegiella	n
-golligiella	gållegiella	n
-sámigiella	sámegiella	n
-sámigiella	sámegiella	n
-gielddasámegiella	gieldasámegiella	n
-máttasámegiella	máttasámegiella	n
-máttasámegiella	máttasámegiella	n
-lullisámegiella	lullesámegiella	n
-davvisámegiella	davvesámegiella	n
-ánarsámegiella	ánársámegiella	n
-eatnigiella	iednegiella	n
-vuosttašgiella	vuostasjgiella	n
-gárjilgiella	gárjjelgiella	n
-dološdárogiella	dålusjdárogiella	n
-vierisgiella	vieresgiella	n
-sohkagiella	såhkågiella	n
-gussamiella	gussamiella	n
-buorimiella	buoremiella	n
-buorimiella	buoremiella	n
-lossametálla	låssåmetálla	n
-garravuola	garravuola	n
-giehtačála	giehtatjála	n
-vuolláičála	vuollájtjála	n
-vinjučála	vinjotjála	n
-johtučála	jåhtotjála	n
-čuokkisčála	tjuokkestjála	n
-nieiddanamma	niejdanamma	n
-cuovkanamma	tsuovkkanamma	n
-fiilanamma	fijlanamma	n
-gásttanamma	gástanamma	n
-gilinamma	gilenamma	n
-luonddunamma	luondonamma	n
-museadoaibma	museadoajmma	n
-gielladoaibma	gielladoajmma	n
-stivradoaibma	stivrradoajmma	n
-gássadoaibma	gássadoajmma	n
-vuovdidoaibma	vuovddedoajmma	n
-vuovdidoaibma	vuovddedoajmma	n
-guovddášdoaibma	guovdásjdoajmma	n
-ámmátdoaibma	ámmátdoajmma	n
-lossadoaibma	låssådoajmma	n
-videofilbma	videofilmma	n
-ruoššačuolbma	ruossjatjuolmma	n
-suotnačuolbma	suodnatjuolmma	n
-varračuolbma	varratjuolmma	n
-mánnáčuolbma	mánnátjuolmma	n
-gaskasuorbma	gasskasuormma	n
-ruhtarámma	ruhtarámma	n
-diagrámma	diagrámma	n
-diagrámma	diagrámma	n
-čuoldadiagrámma	tjuolldadiagrámma	n
-videográmma	videográmma	n
-radiográmma	radiográmma	n
-doaibmaprográmma	doajmmaprográmma	n
-rámmaprográmma	rámmaprográmma	n
-radioprográmma	radioprográmma	n
-guovluprográmma	guovlloprográmma	n
-gollurámma	gållorámma	n
-gollurámma	gållorámma	n
-šiehtadusrámma	sjiehtadusrámma	n
-bálkárámma	bálkkárámma	n
-govvarámma	gåvvårámma	n
-muohtagáma	muohtagáma	n
-muorraguhpa	muorraguhpa	n
-ruhtaguhpa	ruhtaguhpa	n
-giellaoahppa	giellaoahppa	n
-vuohkeoahppa	vuohkeoahppa	n
-hápmeoahppa	hábmeoahppa	n
-vearreoahppa	vierreoahppa	n
-vearreoahppa	vierreoahppa	n
-muorragiera	muorragiera	n
-muohtagiera	muohtagiera	n
-sisgiera	sisgiera	n
-jogagiera	jågågiera	n
-johkagiera	jåhkågiera	n
-jápmavarra	jábmavarra	n
-luoddaguorra	luoddaguorra	n
-giellamuorra	giellamuorra	n
-ruossamuorra	ruossamuorra	n
-giehtamuorra	giehtamuorra	n
-jiellimuorra	jiellemuorra	n
-jiellimuorra	jiellemuorra	n
-čiehkagoahtemuorra	tjiehkagoahtemuorra	n
-čivttasmuorra	tjivtasmuorra	n
-sohkamuorra	såhkåmuorra	n
-vuoksábárra	vuoksábárra	n
-áideuksa	ájddeuksa	n
-gárdeuksa	gárddeuksa	n
-soadjeuksa	soadjeuksa	n
-goahteuksa	goahteuksa	n
-ávvouksa	ávvouksa	n
-luonddugássa	luondogássa	n
-siidakássa	sijddakássa	n
-siiddakássa	sijdakássa	n
-stáhtakássa	stáhtakássa	n
-bieggalássa	bieggalássa	n
-monnilássa	månnelássa	n
-monnilássa	månnelássa	n
-suotnacuozza	suodnatsuodtsa	n
-vuohččicuozza	vuohttjetsuodtsa	n
-vuohččicuozza	vuohttjetsuodtsa	n
-luondducuozza	luondotsuodtsa	n
-govvacuozza	gåvvåtsuodtsa	n
-suorbmafáhcca	suormmafáhttsa	n
-vuotnabahta	vuodnabahta	n
-luoktabahta	luoktabahta	n
-dahkugiehta	dahkogiehta	n
-ovdagiehta	åvddågiehta	n
-silbaruhta	silbbaruhta	n
-giellaruhta	giellaruhta	n
-doaibmaruhta	doajmmaruhta	n
-smávvaruhta	smávvaruhta	n
-lassiruhta	lasseruhta	n
-lassiruhta	lasseruhta	n
-šiehtadusruhta	sjiehtadusruhta	n
-veahkkeáhta	viehkkeáhta	n
-lektoráhta	lekturáhta	n
-ovdaskoahtta	åvddåskoahtta	n
-gulloapparáhtta	gulloapparáhtta	n
-čuolddavuotta	tjuoldavuotta	n
-guolgamátta	guolggamátta	n
-muorramátta	muorramátta	n
-vuossamátta	vuossamátta	n
-lastamátta	lasstamátta	n
-ođassátta	ådåssátta	n
-giehtagávva	giehtagávva	n
-juoŋassoabbi	juoŋassoabbe	n
-goartahaddi	goarttahadde	n
-obbahaddi	åbbåhadde	n
-girdigieddi	girddegiedde	n
-čuolddabáddi	tjuoldabádde	n
-divgabáddi	divggabádde	n
-jietnabáddi	jiednabádde	n
-giehpabáddi	giehpabádde	n
-uksabáddi	uksabádde	n
-giehtabáddi	giehtabádde	n
-videobáddi	videobádde	n
-govvabáddi	gåvvåbádde	n
-giellagáddi	giellagádde	n
-áhpigáddi	áhpegádde	n
-áhpigáddi	áhpegádde	n
-dollagáddi	dållågádde	n
-duolbaláđđi	duolbbaládde	n
-nammaláđđi	nammaládde	n
-ohcaláđđi	åhtsåládde	n
-govvaláđđi	gåvvåládde	n
-dollaráddi	dållårádde	n
-luondduráffi	luondoráffe	n
-uksacaggi	uksatsagge	n
-gálvacaggi	gálvvatsagge	n
-fylkadiggi	fylkkadigge	n
-luossadiggi	luossadigge	n
-sámidiggi	sámedigge	n
-sallafággi	sallafágge	n
-riššasággi	rissjaságge	n
-fáhccasággi	fáhttsaságge	n
-gálvasággi	gálvvaságge	n
-dollasággi	dållåságge	n
-suorbmasadji	suormmasadje	n
-giehtasadji	giehtasadje	n
-goalvasadji	goalvvasadje	n
-áicisadji	ájttsesadje	n
-ovdasadji	åvddåsadje	n
-dáiddaduodji	dájdaduodje	n
-dipmaduodji	dibmaduodje	n
-garraduodji	garraduodje	n
-muorraduodji	muorraduodje	n
-giehtaduodji	giehtaduodje	n
-siidarádji	sijddarádje	n
-riikkarádji	rijkarádje	n
-riikarádji	rijkkarádje	n
-fylkarádji	fylkkarádje	n
-fylkkarádji	fylkarádje	n
-stávvalrádji	stávvalrádje	n
-suohkanrádji	suohkanrádje	n
-guovllurádji	guovlorádje	n
-ordarádji	årddårádje	n
-sarvvaduollji	sarvaduollje	n
-duolbalavdnji	duolbbalavnnje	n
-gaskavuođaášši	gasskavuodaássje	n
-duohtaášši	duohtaássje	n
-diggeášši	diggeássje	n
-liigeášši	lijggeássje	n
-ođasášši	ådåsássje	n
-njuoskaoažži	njuosskaoadtje	n
-jápmaoažži	jábmaoadtje	n
-návleoažži	návlleoadtje	n
-bátneoažži	bádneoadtje	n
-duođavuohki	duodavuohke	n
-giellavuohki	giellavuohke	n
-doaibmavuohki	doajmmavuohke	n
-duohtavuohki	duohtavuohke	n
-šiehtadusvuohki	sjiehtadusvuohke	n
-miellaláhki	miellaláhke	n
-sierraláhki	sierraláhke	n
-luondduláhki	luondoláhke	n
-giehtalahkki	giehtalahkke	n
-kohppalahkki	kåhppålahkke	n
-dievasčoahkki	dievastjoahkke	n
-muorraguohkki	muorraguohkke	n
-varranáhkki	varranáhkke	n
-sávzzanáhkki	sávtsanáhkke	n
-čeavránáhkki	tjævrránáhkke	n
-sealgeoalli	sielggeoalle	n
-njálbmeoalli	njálmmeoalle	n
-bieggačoalli	bieggatjoalle	n
-gassačoalli	gassatjoalle	n
-birasčoalli	birástjoalle	n
-liekkasvuođadilli	liekkasvuodadille	n
-gaskadilli	gasskadille	n
-gielladilli	gielladille	n
-doaibmadilli	doajmmadille	n
-sierradilli	sierradille	n
-duohtadilli	duohtadille	n
-ruhtadilli	ruhtadille	n
-buoridilli	buoredille	n
-buoridilli	buoredille	n
-luonddudilli	luondodille	n
-sieludilli	sielodille	n
-birasdilli	birásdille	n
-gieđavuolli	giedavuolle	n
-nuortalulli	nuorttalulle	n
-suttoulli	suttoulle	n
-doaibmamálle	doajmmamálle	n
-unnamálle	unnamálle	n
-uhcamálle	uhtsamálle	n
-smávvamálle	smávvamálle	n
-guolmmasmálli	guolmasmálle	n
-bihttámálle	bihttámálle	n
-luossanálli	luossanálle	n
-duolbastálli	duolbbastálle	n
-guolgačalbmi	guolggatjalmme	n
-vuodjačalbmi	vuodjatjalmme	n
-siehppačalbmi	siehppatjalmme	n
-gassačalbmi	gassatjalmme	n
-muohtačalbmi	muohtatjalmme	n
-dahkučalbmi	dahkotjalmme	n
-suonjarčalbmi	suonjartjalmme	n
-čuorpmasčalbmi	tjuormastjalmme	n
-ruonasčalbmi	ruonastjalmme	n
-vuotnanjálbmi	vuodnanjálmme	n
-vuonanjálbmi	vuonanjálmme	n
-uksanjálbmi	uksanjálmme	n
-mánágoahtenjálbmi	mánágoahtenjálmme	n
-joganjálbmi	jågånjálmme	n
-luonddujierbmi	luondojiermme	n
-ruossaliidni	ruossalijnne	n
-lássaliidni	lássalijnne	n
-klássaliidni	klássalijnne	n
-borjjasliidni	bårjåslijnne	n
-eamigieddesuoidni	iemegieddesuojnne	n
-jorbasuoidni	jårbbåsuojnne	n
-fylkamánni	fylkkamánne	n
-jiekŋaskáhpe	jiegŋaskáhpe	n
-jiekŋaskáhppe	jiegŋaskáhppe	n
-varassáhppi	varássáhppe	n
-njižžeoarri	njidtjeoarre	n
-mielkeoarri	mielkkeoarre	n
-geavleoarri	gievlleoarre	n
-ganjaloarri	ganjáloarre	n
-gágiroarri	gágeroarre	n
-gožžaoarri	gådtjåoarre	n
-bonjusuorri	bånjosuorre	n
-hávsgárri	hávsgárre	n
-suorbmasárri	suormmasárre	n
-jiekŋavárri	jiegŋavárre	n
-nagirvárri	nagervárre	n
-dollavárri	dållåvárre	n
-gaskasuorbmavuoksi	gasskasuormmavuokse	n
-jápmaassi	jábmaasse	n
-oaiveassi	oajvveasse	n
-šliiveassi	slijvveasse	n
-siidalassi	sijddalasse	n
-eamitlassi	iemetlasse	n
-cuovkaoassi	tsuovkkaoasse	n
-árbeoassi	árbbeoasse	n
-oaiveoassi	oajvveoasse	n
-maŋŋeoassi	maŋŋeoasse	n
-riikkadássi	rijkadásse	n
-gaskadássi	gasskadásse	n
-čivgagoahti	tjivggagoahte	n
-siedjagoahti	siedjagoahte	n
-suorbmagoahti	suormmagoahte	n
-muohtagoahti	muohtagoahte	n
-mánágoahti	mánágoahte	n
-friddjavuođasoahti	friddjavuodasoahte	n
-mielgadákti	mielggadákte	n
-suorbmadákti	suormmadákte	n
-nierradákti	nierradákte	n
-ruossadákti	ruossadákte	n
-gazzadákti	gadtsadákte	n
-máttadákti	máttadákte	n
-jorridákti	jårredákte	n
-jorridákti	jårredákte	n
-gulludákti	gullodákte	n
-váhkkádákti	váhkkádákte	n
-gástalihtti	gásstalihtte	n
-luossanuohtti	luossanuohtte	n
-sohkkanuohtti	såhkkånuohtte	n
-nuortadavvi	nuorttadavve	n
-nieiddaš	niejdasj	n
-unnagaccaš	unnagattsasj	n
-uhcagaccaš	uhtsagattsasj	n
-olggoš	ålgusj	n
-áhkoš	áhkusj	n
-duogáš	duogásj	n
-ádjáš	ádjásj	n
-vuoláš	vuolásj	n
-dáláš	dálásj	n
-mánáš	mánásj	n
-maŋáš	maŋásj	n
-jogaš	jågåsj	n
-maŋŋeáksil	maŋŋeáksel	n
-friddjasuohkan	friddjasuohkan	n
-gaskkamuddo	gaskamuddo	n
-gaskkamuddo	gaskamuddo	n
-video	video	n
-trio	trio	n
-muohtakino	muohtakino	n
-poastagiro	poasstagiro	n
-čuovgasuonjar	tjuovggasuonjar	n
-journalnummar	journalnummar	n
-jeastaguoppar	jiesstaguoppar	n
-johkahávvar	jåhkåhávvar	n
-drámáteáhter	drámáteáhter	n
-dohkkáteáhter	dåhkkåteáhter	n
-liekkasmihttár	liekkasmihttár	n
-jorbačuomas	jårbbåtjuomas	n
-jápmačuokkis	jábmatjuokkes	n
-geris	geres	n
-mieris	mieres	n
-riikkarádjá	rijkarádjá	n
-ovdadilljá	åvddådilljá	n
-ruhtačiehká	ruhtatjiehká	n
-gassaváhkká	gassaváhkká	n
-livvaskierbmá	livvaskiermmá	n
-hádjaráksá	hádjaráksá	n
-gássaráksá	gássaráksá	n
-ganjalráksá	ganjálráksá	n
-obbaráksá	åbbåráksá	n
-ovdaráksá	åvddåráksá	n
-čolgaráksá	tjålggåráksá	n
-sohkaráksá	såhkåráksá	n
-oahppabihttá	oahppabihttá	n
-muorrabihttá	muorrabihttá	n
-ruhtabihttá	ruhtabihttá	n
 guolban	guolbban
 rista#rieban	rissta#rieban
 golle#rieban	gålle#rieban
@@ -14682,7 +12644,7 @@ ieš#iežas#guorahallan	iesj#ietjas#guorahallan
 báhcahallan	báhtsahallan
 ráđđehallan	ráddehallan
 hárjehallan	hárjjehallan
-repetišuvdna#hárjehallan	repetisjuvnna#hárjjehallan
+repetišuvdna#hárjehallan	repetisjåvnnå#hárjjehallan
 bargo#hárjehallan	barggo#hárjjehallan
 dohppehallan	dåhppehallan
 heivehallan	hejvvehallan
@@ -14698,7 +12660,7 @@ bijahallan	bijáhallan
 olggos#bijahallan	ålgus#bijáhallan
 čájáhallan	tjájáhallan
 logahallan	lågåhallan
-publikašuvdna#logahallan	publekasjuvnna#lågåhallan
+publikašuvdna#logahallan	publekasjåvnnå#lågåhallan
 person#logahallan	perssun#lågåhallan
 dásádat#logahallan	dásádat#lågåhallan
 sojahallan	såjåhallan
@@ -14709,7 +12671,7 @@ buhtisin#doallan	buhtesin#doallan
 ortnegis#doallan	årnegis#doallan
 digaštallan	digasjtallan
 panela#digaštallan	panela#digasjtallan
-interpellašuvdna#digaštallan	intterpellasjuvnna#digasjtallan
+interpellašuvdna#digaštallan	intterpellasjåvnnå#digasjtallan
 háleštallan	hálesjtallan
 okto#háleštallan	åkto#hálesjtallan
 meroštallan	merusjtallan
@@ -15076,7 +13038,7 @@ fylkka#eana#doallo#stivrra#čoahkkin	fylka#iena#doallo#stivra#tjoahkken
 boazo#doallo#stivrra#čoahkkin	boatso#doallo#stivra#tjoahkken
 fylkka#boazo#doallo#stivrra#čoahkkin	fylka#boatso#doallo#stivra#tjoahkken
 guovllu#stivrra#čoahkkin	guovlo#stivra#tjoahkken
-kultur#stivrra#čoahkkin	kulltur#stivra#tjoahkken
+kultur#stivrra#čoahkkin	kultur#stivra#tjoahkken
 orohat#stivrra#čoahkkin	åruhat#stivra#tjoahkken
 álbmot#stivrra#čoahkkin	álmmut#stivra#tjoahkken
 gávpot#stivrra#čoahkkin	gávpput#stivra#tjoahkken
@@ -15132,7 +13094,7 @@ eallin	iellen
 árga#beai#eallin	árgga#biej#iellen
 ieš#eallin	iesj#iellen
 bargo#eallin	barggo#iellen
-kultur#eallin	kulltur#iellen
+kultur#eallin	kultur#iellen
 ovttas#eallin	åvtås#iellen
 servodat#eallin	servvudat#iellen
 buollin	buollen
@@ -15211,7 +13173,7 @@ bio^prospekteren	bio^pråsspekteren
 inventeren	invventeren
 diskonteren	disskunteren
 veksel#diskonteren	veksel#disskunteren
-tekstiila#konverteren	tekstijla#kånvverteren
+tekstiila#konverteren	tekstijla#konverteren
 investeren	invvesteren
 vuođđo#investeren	vuoddo#invvesteren
 birrin	birren
@@ -15291,7 +13253,7 @@ njuolggo#laktin	njuolgo#lakten
 albma#buktin	almma#bukten
 ollis#albma#buktin	ålles#almma#bukten
 ovdan#buktin	åvddån#bukten
-kultur#ovdan#buktin	kulltur#åvddån#bukten
+kultur#ovdan#buktin	kultur#åvddån#bukten
 olggos#buktin	ålgus#bukten
 oppalaš#olggos#buktin	åppålasj#ålgus#bukten
 ruoktot#buktin	ruoktut#bukten
@@ -15834,22 +13796,6 @@ ovsttán	åvstån
 johttán	jåhttån
 lovttan	låvtån
 ventiila#lovttan	venttijla#låvtån
-radi^o	rade^o
-sámi#radi^o	sáme#rade^o
-audi^o	aude^o
-studi^o	stude^o
-tele#studi^o	tele#stude^o
-rádi^o	ráde^o
-skuvla#rádi^o	skuvlla#ráde^o
-sámi#rádi^o	sáme#ráde^o
-adagi^o	adáge^o
-foli^o	fåle^o
-poli^o	påle^o
-senari^o	senáre^o
-senári^o	senáre^o
-im^presari^o	im^presáre^o
-akti^o	akte^o
-tabu	tabo
 gibbu	gibbo
 heaibu	hiejbbo
 láibu	lájbbo
@@ -16058,7 +14004,7 @@ eanan#vuođđu	ienan#vuoddo
 bággo#lonistan#vuođđu	bággo#lånestan#vuoddo
 álgo#vuođđu	álggo#vuoddo
 eatno#vuođđu	iedno#vuoddo
-publikašuvdna#diehto#vuođđu	publekasjuvnna#diehto#vuoddo
+publikašuvdna#diehto#vuođđu	publekasjåvnnå#diehto#vuoddo
 geasus#vuođđu	giesus#vuoddo
 fiervá#vuođđu	fiervvá#vuoddo
 johka#vuođđu	jåhkå#vuoddo
@@ -17014,7 +14960,7 @@ doallu	doallo
 eana#doallu	iena#doallo
 boalden#eana#doallu	boallden#iena#doallo
 boaldin#eana#doallu	boallden#iena#doallo
-akšuvdna#doallu	aksjuvnna#doallo
+akšuvdna#doallu	aksjåvnnå#doallo
 sávza#doallu	sávttsa#doallo
 ruhta#doallu	ruhta#doallo
 gárde#doallu	gárdde#doallo
@@ -17770,7 +15716,7 @@ dálon#viessu	dálun#viesso
 lohkan#viessu	låhkån#viesso
 šaddo#viessu	sjaddo#viesso
 olgo#viessu	ålggo#viesso
-kultur#viessu	kulltur#viesso
+kultur#viessu	kultur#viesso
 vuoncces#viessu	vuontses#viesso
 rohkos#viessu	råhkus#viesso
 biras#viessu	birás#viesso
@@ -17805,7 +15751,7 @@ daŋas#ruvso	daŋás#ruvsso
 ássu	ásso
 dássu	dásso
 vássu	vásso
-kultur#vássu	kulltur#vásso
+kultur#vássu	kultur#vásso
 bossu	båsso
 vuotna#bossu	vuodna#båsso
 sáide#bossu	sájdde#båsso
@@ -17886,7 +15832,7 @@ oktavuohta#diehtu	åktåvuohta#diehto
 eahpe#diehtu	iehpe#diehto
 eatnan#diehtu	iednan#diehto
 vuođđo#diehtu	vuoddo#diehto
-kultur#diehtu	kulltur#diehto
+kultur#diehtu	kultur#diehto
 servvodat#diehtu	servudat#diehto
 servodat#diehtu	servvudat#diehto
 seahtu	siehto
@@ -18125,7 +16071,7 @@ mátke#muitu	mátke#mujtto
 agi#beai#muitu	age#biej#mujtto
 dološ#muitu	dålusj#mujtto
 bisto#muitu	bissto#mujtto
-kultur#muitu	kulltur#mujtto
+kultur#muitu	kultur#mujtto
 ruitu	rujtto
 liemas#ruitu	liemas#rujtto
 jorba#ruitu	jårbbå#rujtto
@@ -18265,7 +16211,7 @@ gárvu	gárvvo
 liika#gárvu	lijkka#gárvvo
 giehta#gárvu	giehta#gárvvo
 dorvu	dårvvo
-sosiála#dorvu	såsiála#dårvvo
+sosiála#dorvu	sosial#dårvvo
 eahpe#dorvu	iehpe#dårvvo
 ávvu	ávvo
 lávvu	lávvo
@@ -18392,7 +16338,7 @@ ovddidan#ministtar	åvdedan#minestar
 searvadahttin#ministtar	siervvadahttin#minestar
 bargo#ministtar	barggo#minestar
 guovlo#ministtar	guovllo#minestar
-kultur#ministtar	kulltur#minestar
+kultur#ministtar	kultur#minestar
 suodjalus#ministtar	suodjalus#minestar
 biras#ministtar	birás#minestar
 olgo#rit#ministtar	ålggo#rit#minestar
@@ -19043,7 +16989,7 @@ uradas	urádas
 gávccádas	gávttsádas
 jeaŋga#mihtádas	jieŋgga#mihtádas
 čiehka#mihtádas	tjiehka#mihtádas
-kom^prešuvdna#mihtádas	kåm^presjuvnna#mihtádas
+kom^prešuvdna#mihtádas	kåm^presjåvnnå#mihtádas
 deatta#mihtádas	dietta#mihtádas
 čárva#mihtádas	tjárvva#mihtádas
 sirdin#mihtádas	sirdden#mihtádas
@@ -19609,7 +17555,7 @@ soađis	soades
 čendis	tjenddes
 áiddis	ájdes
 álddis	áldes
-infiltrašuvdna#álddis	infeltrasjuvnna#áldes
+infiltrašuvdna#álddis	infeltrasjåvnnå#áldes
 vuojadan#álddis	vuojadan#áldes
 dulvadan#álddis	dulvvadan#áldes
 hámman#álddis	hámman#áldes
@@ -19912,7 +17858,7 @@ rievdadus	rievddadus
 láhka#rievdadus	láhka#rievddadus
 vuoiddadus	vuojdadus
 hálddahus	háldadus
-sosiála#hálddahus	såsiála#háldadus
+sosiála#hálddahus	sosial#háldadus
 ieš#hálddahus	iesj#háldadus
 guovddáš#hálddahus	guovdásj#háldadus
 boazo#doallo#hálddahus	boatso#doallo#háldadus
@@ -19996,7 +17942,7 @@ lahttovuođa#šiehtadus	lahttuvuoda#sjiehtadus
 standárda#šiehtadus	standdárda#sjiehtadus
 tariffa#šiehtadus	tareffa#sjiehtadus
 giella#šiehtadus	giella#sjiehtadus
-opšuvdna#šiehtadus	åpsjuvnna#sjiehtadus
+opšuvdna#šiehtadus	åpsjåvnnå#sjiehtadus
 intenšuvdna#šiehtadus	inttentjuvnna#sjiehtadus
 ráfi#šiehtadus	ráfe#sjiehtadus
 rádje#šiehtadus	rádje#sjiehtadus
@@ -20227,7 +18173,7 @@ veardádus	værddádus
 hávdádus	hávddádus
 meaddádus	mæddádus
 dieđáhus	diedádus
-prinsihppa#dieđáhus	prinssehppa#diedádus
+prinsihppa#dieđáhus	prinsihppa#diedádus
 aviisa#dieđáhus	avijsa#diedádus
 preassa#dieđáhus	priessa#diedádus
 pressa#dieđáhus	pressa#diedádus
@@ -20498,7 +18444,7 @@ ieš#suodjalus	iesj#suodjalus
 person#suodjalus	perssun#suodjalus
 bargo#suodjalus	barggo#suodjalus
 áibmo#suodjalus	ájmmo#suodjalus
-kultur#muito#suodjalus	kulltur#mujtto#suodjalus
+kultur#muito#suodjalus	kultur#mujtto#suodjalus
 ruovttu#suodjalus	ruovto#suodjalus
 olles#suodjalus	ålles#suodjalus
 doarjalus	doarjjalus
@@ -20513,7 +18459,7 @@ jahke#muitalus	jahke#mujttalus
 bálvalus	bálvvalus
 telematihkka#bálvalus	telematihkka#bálvvalus
 dulka#bálvalus	dulkka#bálvvalus
-namma#konsuleanta#bálvalus	namma#kånssuleanta#bálvvalus
+namma#konsuleanta#bálvalus	namma#konsulænnta#bálvvalus
 fysio#terapi#bálvalus	fysio#terápe#bálvvalus
 psyki^atri#bálvalus	psyke^atre#bálvvalus
 soahte#bálvalus	soahte#bálvvalus
@@ -20961,7 +18907,7 @@ joatko#jietnadat	joatko#jiednadat
 njiello#jietnadat	njiello#jiednadat
 obba#jietnadat	åbbå#jiednadat
 eanadat	ienadat
-kultur#eanadat	kulltur#ienadat
+kultur#eanadat	kultur#ienadat
 beasse#birradat	biesse#birradat
 jorggihan#birradat	jårgehan#birradat
 njiezadat	njietsadat
@@ -21028,7 +18974,7 @@ dovdo#dajaldat	dåvddo#dajáldat
 rávnnjáldat	rávnjáldat
 gažaldat	gatjáldat
 vuoigatvuođa#gažaldat	vuojggatvuoda#gatjáldat
-ratifikašuvdna#gažaldat	ratefikasjuvnna#gatjáldat
+ratifikašuvdna#gažaldat	ratefikasjåvnnå#gatjáldat
 kabineahtta#gažaldat	kabeneahtta#gatjáldat
 árvvoštallan#gažaldat	árvusjtallan#gatjáldat
 riido#gažaldat	rijddo#gatjáldat
@@ -21229,7 +19175,7 @@ birgen#dássodat	birggen#dássudat
 ossodat	åssudat
 geri^atriija#ossodat	gere^atrijja#åssudat
 skuvla#ossodat	skuvlla#åssudat
-sosiála#ossodat	såsiála#åssudat
+sosiála#ossodat	sosial#åssudat
 infekšuvdna#ossodat	infektjuvnna#åssudat
 demeansa#ossodat	demeansa#åssudat
 stáhta#ossodat	stáhta#åssudat
@@ -21505,7 +19451,7 @@ muovllahat	muovlahat
 arve#šoalahat	arvve#sjålahat
 doaimmahat	doajmahat
 skuvla#doaimmahat	skuvlla#doajmahat
-sosiála#doaimmahat	såsiála#doajmahat
+sosiála#doaimmahat	sosial#doajmahat
 energi#doaimmahat	energe#doajmahat
 stálle#doaimmahat	stálle#doajmahat
 lahtten#doaimmahat	lahtten#doajmahat
@@ -21647,7 +19593,7 @@ dákte#luttohat	dákte#luttuhat
 oaive#luttohat	oajvve#luttuhat
 divohat	divuhat
 goivvohat	gåjvuhat
-infiltrašuvdna#goivvohat	infeltrasjuvnna#gåjvuhat
+infiltrašuvdna#goivvohat	infeltrasjåvnnå#gåjvuhat
 čárvvohat	tjárvuhat
 nevvohat	nevvuhat
 gorkŋohat	gårŋuhat
@@ -22259,7 +20205,7 @@ sisttet	sistet
 ustit	usstet
 heagga#ustit	hiegga#usstet
 rusttet	rustet
-infiltrašuvdna#rusttet	infeltrasjuvnna#rustet
+infiltrašuvdna#rusttet	infeltrasjåvnnå#rustet
 eksos#gássa#rusttet	eksus#gássa#rustet
 eksosa#rusttet	eksusa#rustet
 bohcce#rusttet	båhttse#rustet
@@ -22694,7 +20640,7 @@ gillámuš#historjá	gillámusj#hissturjá
 biibbal#historjá	bijbal#hissturjá
 bippal#historjá	bippal#hissturjá
 ássan#historjá	ássan#hissturjá
-kultur#historjá	kulltur#hissturjá
+kultur#historjá	kultur#hissturjá
 ovda#historjá	åvddå#hissturjá
 liššá	lissjá
 stižžá	stidtjá
@@ -22949,7 +20895,7 @@ verstá	versstá
 vearstá	værsstá
 gávstá	gávsstá
 nástá	násstá
-sub^strakšuvdna#bihttá	sub^straksjuvnna#bihttá
+sub^strakšuvdna#bihttá	sub^straksjåvnnå#bihttá
 oalge#bihttá	oalgge#bihttá
 njálmme#bihttá	njálme#bihttá
 searve#bihttá	siervve#bihttá
