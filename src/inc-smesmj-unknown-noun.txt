@@ -21303,40 +21303,40 @@ latnja#govva	ladnja#gåvvå
 jietna#govva	jiedna#gåvvå
 bunca#govva	bunttsa#gåvvå
 sneakta#govva	sniekta#gåvvå
-kárta#govva	kártta#gåvvå
-ealli#govva	ielle#gåvvå
-má#ilmmi#govva	má#ilme#gåvvå
-sátne#govva	sádne#gåvvå
-ollislaš#govva	ålleslasj#gåvvå
-oppalaš#govva	åppålasj#gåvvå
-ieš#govva	iesj#gåvvå
-bajil#govva	bajel#gåvvå
-veardidan#govva	vierddedan#gåvvå
-oahpahan#govva	oahpahan#gåvvå
-røntgen#govva	røntgen#gåvvå
-herven#govva	hervven#gåvvå
-person#govva	perssun#gåvvå
-ráido#govva	rájddo#gåvvå
-vuođđo#govva	vuoddo#gåvvå
+kárta#govva	kártta#gåvvå	w
+ealli#govva	ielle#gåvvå	w
+má#ilmmi#govva	værálda#gåvvå	w
+sátne#govva	báhko#gåvvå	w
+ollislaš#govva	dievalasj#gåvvå	w
+oppalaš#govva	åbbålasj#gåvvå	w
+ieš#govva	iesj#gåvvå	w
+bajil#govva	bajelt#gåvvå	w
+veardidan#govva	buohtastuhttem#gåvvå
+oahpahan#govva	åhpadim#gåvvå	w
+røntgen#govva	røntgen#gåvvå	w
+herven#govva	hiervvim#gåvvå	w
+person#govva	person#gåvvå	w
+ráido#govva	rájddo#gåvvå	w
+vuođđo#govva	vuodo#gåvvå	w
 sirdo#govva	sirddo#gåvvå
-bargo#govva	barggo#gåvvå
-deadjo#govva	diedjo#gåvvå
-vearjo#govva	vierjjo#gåvvå
-gullu#govva	gullo#gåvvå
-muohto#govva	muohto#gåvvå
-oppanas#govva	åppånas#gåvvå
-ollis#govva	ålles#gåvvå
-čájáhus#govva	tjájáhus#gåvvå
-ođas#govva	ådås#gåvvå
-vuorká#govva	vuorkká#gåvvå
-vuorkká#govva	vuorká#gåvvå
-ovda#govva	åvddå#gåvvå
+bargo#govva	barggo#gåvvå	w
+deadjo#govva	guojtte#gåvvå	w
+vearjo#govva	værjjo#gåvvå	w
+gullu#govva	gullo#gåvvå	w
+muohto#govva	muohto#gåvvå	w
+oppanas#govva	åbbålasj#gåvvå	w
+ollis#govva	ålles#gåvvå	w
+čájáhus#govva	vuosádus#gåvvå	w
+ođas#govva	ådås#gåvvå	w
+vuorká#govva	vuorkká#gåvvå 	w
+vuorkká#govva	vuorká#gåvvå	w
+ovda#govva	åvddå#gåvvå	w
 bitmap-govva	bitmap-gåvvå
 šovva	sjåvvå
-rovvá	råvvå
+rovvá	fruvvá	w
 plova	plåvå
 moxa	måxå
-jokŋa	jågŋå
-giega#jokŋa	giega#jågŋå
-beatnat#jokŋa	biednat#jågŋå
-oađđin#kupè	oadden#kupè
+jokŋa	jågŋå	w
+giega#jokŋa	jiegge#jågŋå	w
+beatnat#jokŋa	svijne#jmuorjje	w
+oađđin#kupè	oadem#kupèa	w
