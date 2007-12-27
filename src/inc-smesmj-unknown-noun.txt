@@ -21303,40 +21303,9 @@ latnja#govva	ladnja#gåvvå
 jietna#govva	jiedna#gåvvå
 bunca#govva	bunttsa#gåvvå
 sneakta#govva	sniekta#gåvvå
-kárta#govva	kártta#gåvvå	w
-ealli#govva	ielle#gåvvå	w
-má#ilmmi#govva	værálda#gåvvå	w
-sátne#govva	báhko#gåvvå	w
-ollislaš#govva	dievalasj#gåvvå	w
-oppalaš#govva	åbbålasj#gåvvå	w
-ieš#govva	iesj#gåvvå	w
-bajil#govva	bajelt#gåvvå	w
 veardidan#govva	buohtastuhttem#gåvvå
-oahpahan#govva	åhpadim#gåvvå	w
-røntgen#govva	røntgen#gåvvå	w
-herven#govva	hiervvim#gåvvå	w
-person#govva	person#gåvvå	w
-ráido#govva	rájddo#gåvvå	w
-vuođđo#govva	vuodo#gåvvå	w
 sirdo#govva	sirddo#gåvvå
-bargo#govva	barggo#gåvvå	w
-deadjo#govva	guojtte#gåvvå	w
-vearjo#govva	værjjo#gåvvå	w
-gullu#govva	gullo#gåvvå	w
-muohto#govva	muohto#gåvvå	w
-oppanas#govva	åbbålasj#gåvvå	w
-ollis#govva	ålles#gåvvå	w
-čájáhus#govva	vuosádus#gåvvå	w
-ođas#govva	ådås#gåvvå	w
-vuorká#govva	vuorkká#gåvvå 	w
-vuorkká#govva	vuorká#gåvvå	w
-ovda#govva	åvddå#gåvvå	w
 bitmap-govva	bitmap-gåvvå
 šovva	sjåvvå
-rovvá	fruvvá	w
 plova	plåvå
 moxa	måxå
-jokŋa	jågŋå	w
-giega#jokŋa	jiegge#jågŋå	w
-beatnat#jokŋa	svijne#jmuorjje	w
-oađđin#kupè	oadem#kupèa	w
