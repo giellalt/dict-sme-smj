@@ -752,7 +752,6 @@ ceakkildit	tsiekkeldit	v
 čoakkildit	tjoakkeldit	v
 sikkildit	sikkeldit	v
 <<<<<<< inc-smesmj-unknown-oddverbs.txt
-siskkildit	sisŋedit	v	w
 =======
 >>>>>>> 1.31
 davkkildit	davkeldit	v
@@ -778,7 +777,6 @@ rávžžildit	rávtjeldit	v
 čukkoldit	tjukkuldit	v
 <<<<<<< inc-smesmj-unknown-oddverbs.txt
 ožoldit	åtjuldit	v	x
-vájuldit	vájaldit	v	w
 =======
 ožoldit	åtjuldit	v	x have to check
 >>>>>>> 1.31
@@ -868,15 +866,10 @@ salodit	saludit	v	x
 salodit	saludit	v	x
 melodit	meludit	v
 dallodit	dalludit	v	
-heillodit	suovdostit	v	w
-heillodit	suovdostit	v	w
-illudit	illudit	v	w
-illudit	illudit	v	w
 gollodit	gålludit	v
 gemodit	gemudit	v	
 njámmodit	njámmudit	v
 liđmmodit	lirmudit	v
-reimmodit	juhtsalit	v	w
 čuimmodit	tjujmudit	v	
 fátmmodit	fátmmudit	v
 liđpmodit	lidpmudit	v
@@ -894,10 +887,7 @@ suhpodit	suhpudit	v
 vuhpodit	rattudit	v	x
 áppodit	bådijdit	v	x
 áppodit	áppudit	v
-leppodit	luoppodit	v	w
-fáippodit	gæjvodit	v	w
 stáippodit	stájpudit	v	
-váippodit	gæjvodit	v	w
 ruppodit	ruppudit	v
 smorodit	smårudit	v
 snarrodit	snarrudit	v
@@ -911,23 +901,16 @@ ruvssodit	ruvsudit	v
 divššodit	divsjudit	v
 livššodit	livsjudit	v
 govššodit	gåvsjudit	v
-dáhtodit	ánodit	v	w
-vuhtodit	vuohtudit	v	w
-vuhttodit	vuohttudit	v	w
 mittodit	mittudit	v
 sevttodit	sevtudit	v
 sevttodit	sevtudit	v
 goivodit	gåjvudit	v	x
-čuvodit	tjuovudit	v	w
 nevvodit	nevvudit	v
 čárvvodit	tjárvudit	v
 nárvvodit	nárvudit	v
-čurvvodit	tjuorvudit	v	w
 čuvvodit	tjuvvudit	v
-sázodit	sátsudit	v	w
 vázzodit	vádtsudit	v
 nevzzodit	nevtsudit	v
-njivžžodit	snjibttjudit	v	w
 livžžodit	livtjudit	v
 juvzzodit	juvtsudit	v
 čabardit	tjabárdit	v
@@ -940,7 +923,6 @@ bunccardit	buntsardit	v
 šliđardit	slidárdit	v	x
 fuođardit	fuodardit	v
 meafardit	miefardit	v
-hoaiggardit	ármmadit	v	w
 goiggardit	gåjgårdit	v
 njaŋggardit	njaŋgardit	v
 uŋggardit	uŋgardit	v
@@ -964,7 +946,6 @@ deallardit	diellardit	v
 gamardit	gamárdit	v
 njálmmardit	njálmardit	v
 omardit	åmårdit	v
-sáŋardit	sáŋardit	v	w
 hitnardit	hidnardit	v
 šloahpardit	sloahpardit	v
 šláhpardit	sláhpardit	v
@@ -973,7 +954,6 @@ stáhpardit	stáhpardit	v
 šluhpardit	sluhpardit	v
 šloappardit	sloappardit	v
 stáippardit	stájpardit	v
-šlimppardit	slimbardit	v	w
 duppardit	duppardit	v
 šluppardit	sluppardit	v
 gáhtardit	gáhtardit	v
@@ -991,7 +971,6 @@ skievttardit	skievtardit	v
 gavvardit	gavvardit	v
 gášvvardit	gásjvvardit	v
 gišvvardit	gisjvvardit	v
-vižardit	vitjárdit	v	w
 molžžardit	måltjårdit	v
 bunzzardit	buntsardit	v
 bunzzardit	buntsardit	v
@@ -1022,7 +1001,6 @@ gimssordit	gimsurdit	v
 duogurdit	duogordit	v
 skuožurdit	skuotjordit	v
 ábbudit	ábbodit	v
-čábbudit	tjábbodit	v	w
 čábbudit	tjábbodit	v
 hábbudit	hábbodit	v
 hábbudit	hábbodit	v
@@ -1030,7 +1008,6 @@ hábbudit	hábbodit	v
 gealbudit	gielbbodit	v
 hilbudit	hilbbodit	v
 hilbudit	hilbbodit	v
-čuorbudit	tjuorbudit	v	w
 uhccudit	uhttsodit	v
 njoahcudit	njoahtsodit	v
 čáhcudit	tjáhtsodit	v
@@ -1044,7 +1021,6 @@ jálddudit	jáldodit	v
 duoddudit	duoddodit	v
 ruddudit	ruddodit	v
 stoaidudit	stoajddodit	v
-viidudit	vijddodit	v	w
 soaldudit	soalldodit	v
 vildudit	villdodit	v
 doldudit	dålldodit	v
@@ -1070,10 +1046,7 @@ vuoigatvuođa#vuođđudit	vuojggatvuodavuoddodit	v
 vuoigatvuođa#vuođđudit	vuojggatvuodavuoddodit	v
 láhka#vuođđudit	láhkavuoddodit	v
 láhka#vuođđudit	láhkavuoddodit	v
-vuođđudit	vuododit	v	w
-vuohčudit	vuohtjodit	v	w
 spálčudit	spálttjodit	v
-seaggudit	sæggodit	v	w
 snoaggudit	snoaggodit	v
 dággudit	dággodit	v
 spággudit	spággodit	v
@@ -1082,13 +1055,11 @@ dáigudit	dájggodit	v
 stielgudit	stielggodit	v
 doaŋgudit	doaŋggodit	v
 árgudit	árggodit	v
-dávgudit	luvvadit	v	w
 duovgudit	duovggodit	v
 heaiudit	hiejodit	v
 heaiudit	hiejodit	v
 ládjudit	ládjodit	v
 siedjudit	siedjodit	v
-gálljudit	gálljodit	v	w
 hilljudit	hilljodit	v
 oardnjudit	oarnnjodit	v
 guovdnjudit	guovnnjodit	v
@@ -1114,14 +1085,10 @@ ráiskudit	rájsskodit	v
 nuoskudit	nuosskodit	v
 boarskudit	boarsskodit	v
 čuvkudit	gabmardit/gamárdit?	v	x
-gáludit	gálodit	v	w
-gáludit	gálodit	v	w
 skoavhludit	skoavhllodit	v
 seailudit	siejlodit	v
 čalludit	tjallodit	v
 dálludit	dállodit	v
-illudit	illodit	v	w
-illudit	ávvudallat	v	w
 silludit	sillodit	v
 silludit	sillodit	v
 golludit	gållodit	v
@@ -1133,7 +1100,6 @@ soavludit	soavllodit	v
 šoavludit	sjoavllodit	v
 hivludit	hivllodit	v
 čoabmudit	tjoabbmodit	v
-eaibmudit	slimbardit	v	w
 rieibmudit	riejmmodit	v
 rieibmudit	riejmmodit	v
 suolbmudit	suolmmodit	v
@@ -1146,10 +1112,8 @@ lapmudit	labmodit	v
 lápmudit	lábmodit	v
 ropmudit	råbmodit	v
 luopmudit	luobmodit	v
-fiidnudit	fijnnodit	v	w
 suoldnudit	suolnnodit	v
 seakŋudit	siegŋodit	v
-čiekŋudit	tjiegŋodit	v	w
 cuoŋudit	tsuoŋodit	v
 loahppa#meannudit	loahppamiennodit	v
 loahppa#meannudit	loahppamiennodit	v
@@ -1163,7 +1127,6 @@ vátnudit	vádnodit	v
 litnudit	lidnodit	v
 ritnudit	ridnodit	v
 rotnudit	rådnodit	v
-luotnudit	stienntjit	v	w
 luohpudit	luohpodit	v
 čeahppudit	tjiehppodit	v
 gihppudit	gihppodit	v
@@ -1177,10 +1140,7 @@ fárrudit	fárrodit	v
 gárrudit	gárrodit	v
 smierrudit	smierrodit	v
 hirrudit	hirrodit	v
-juorrudit	skuoldardit	v	w
-stuorrudit	stuorrodit	v	w
 sávrudit	sávrrodit	v
-kievrudit	gievrrodit	v	w
 viisudit	vijssodit	v
 himsudit	himssodit	v
 gassudit	gassodit	v
@@ -1188,7 +1148,6 @@ goassudit	goassodit	v
 jiessudit	jiessodit	v
 vuolšudit	vuolssjodit	v
 áššudit	ássjodit	v
-ráššudit	rássjodit	v	w
 riššudit	rissjodit	v
 vuoššudit	vuossjodit	v
 ruššudit	russjodit	v
@@ -1205,19 +1164,14 @@ jieltudit	jielltodit	v
 goartudit	goarttodit	v
 sartudit	sarttodit	v
 suortudit	suorttodit	v
-fástudit	fásstudit	v	w
 lahttudit	lahttodit	v
 loahttudit	loahttodit	v
-fierttudit	fiertodit	v	w
-vierttudit	viertodit	v	w
 njoađvudit	njoarvvodit	v
 láivudit	slájvvodit	v
 šiervudit	sjiervvodit	v
 rosvudit	råsvodit	v
 roavvudit	roavvodit	v
-ávvudit	ávvudit	v	w
 hávvudit	hávvodit	v
-smávvudit	smávvodit	v	w
 smávvudit	smávvodit	v
 gievvudit	gievvodit	v
 suovvudit	suovvodit	v
@@ -1289,7 +1243,6 @@ smarffagit	smarfagit	v
 bierffagit	bierfagit	v
 njagagit	njagágit	v
 geaiggagit	giejgagit	v
-sáiggagit	sjánjagit	v	w
 skielggagit	skielgagit	v
 heaŋggagit	hieŋgagit	v
 njaŋggagit	njaŋgagit	v
@@ -1488,7 +1441,6 @@ njuolgge7hit	njuolgedit	v
 šnjoargge7hit	snjoargedit	v
 šnjoargge7hit	snjoargedit	v
 cirgge7hit	tsirgedit	v
-jorgge7hit	jårgestit	v	w
 jorgge7hit	jårgedit	v
 čavgge7hit	tjavgedit	v
 čavgge7hit	tjavgedit	v
