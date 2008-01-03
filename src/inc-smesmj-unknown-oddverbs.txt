@@ -1484,14 +1484,14 @@ buškke7hit	busjkedit	v
 skoavkke7hit	skoavkedit	v
 skoavkke7hit	skoavkedit	v
 stoavkke7hit	stoavkedit	v
-jame7hit	jamedit	v xxx
+jame7hit	jumájdit?	x
 jame7hit	jamedit	v
-čaimme7hit	tjajmedit	v
-čaimme7hit	tjajmedit	v
-guosmme7hit	guosmedit	v
-vuoiŋŋe7hit	vuojŋedit	v
-vuoiŋŋe7hit	vuojŋedit	v
-vuoiŋŋe7hit	vuojŋedit	v
+čaimme7hit	tjajmadit	v	w
+čaimme7hit	tjajmadit	v	w
+guosmme7hit	guosmudit	v	w
+vuoiŋŋe7hit	vuojŋadit	v	w
+vuoiŋŋe7hit	vuojŋadit	v	w
+vuoiŋŋe7hit	vuojŋadit	v	w
 eanne7hit	iennedit	v
 eatne7hit	iednedit	v
 leappe7hit	lieppedit	v
@@ -1503,19 +1503,19 @@ heairre7hit	hiejrredit	v
 eatte7hit	iettedit	v
 eatte7hit	iettedit	v
 suoivve7hit	suojvedit	v
-suoivve7hit	suojvedit	v
-goarvve7hit	goarvedit	v
+suoivve7hit	suojvaldit	v	w
+goarvve7hit	goabredit	v	w
 steanžže7hit	stientjedit	v
 steanžže7hit	stientjedit	v
-spiidne#guođo7hit	spijnneguododit	v
-sáhko7hit	sáhkodit	v
-sáhko7hit	sáhkodit	v
-bákko7hit	bákkodit	v
-bákko7hit	bákkodit	v
-njuikko7hit	njujkodit	v
-njuikko7hit	njujkodit	v
-dárkko7hit	dárkodit	v
-dárkko7hit	dárkodit	v
+spiidne#guođo7hit	svijnneguododit	v	w
+sáhko7hit	sáhkkudit	v	w
+sáhko7hit	sáhkkudit	v	w
+bákko7hit	bákkodit	v	w
+bákko7hit	bákkodit	v	w
+njuikko7hit	gahpadit	v	w
+njuikko7hit	gahpadit	v	w
+dárkko7hit	dárkodit	v	x
+dárkko7hit	gehtjadit	v	x
 goarpmo7hit	goarmodit	v
 goarpmo7hit	goarmodit	v
 báito7hit	bájttodit	v
@@ -1525,16 +1525,18 @@ luobbahit	luobbadit	v
 ciebahit	tsiebadit	v
 skuibahit	skujbbadit	v
 njeaccahit	njiettsadit	v	x!
-váccahit	váttsadit	v
+váccahit	juvsudit	v	w
 linccahit	lintsadit	v
-áhcahit	áhtsadit	v
-báhcahit	báhtsadit	v
-máhcahit	máhtsadit	v
+áhcahit	bårådit	v	w
+báhcahit	báhtsadit	v	w
+máhcahit	máhtsadit	v	w
 šlieddahit	slieddadit	v
 šlieddahit	slieddadit	v
-válddahit	váldadit	v
+válddahit	váldadit	v	w
+válddahit	buojkodit	v	w
+válddahit	gåvvidit	v	w
 čuolddahit	tjuoldadit	v
-jurddahit	jurdadit	v
+jurddahit	usjudit	v	w
 gildahit	gilldadit	v
 šlundahit	slunddadit	v
 vardahit	varddadit	v
@@ -1544,24 +1546,24 @@ ráđahit	rádádit	v
 roađđahit	roaddadit	v
 náđđahit	náddadit	v
 náđđahit	náddadit	v
-skihđđahit	skihttjadit	v
-šnjalđđahit	snjaltjadit	v
-šnjalđđahit	snjaltjadit	v
-guđđahit	guttjadit	v
-luovđđahit	luovtjadit	v
-geahđahit	giehtjadit	v
-geahđahit	giehtjadit	v
-skihđahit	skihtjadit	v
-gođahit	gådådit	v
-gođahit	gådådit	v
-guođahit	guodadit	v
+skihččahit	skihttjadit	v
+šnjalččahit	snjaltjadit	v
+šnjalččahit	snjaltjadit	v
+guččahit	gåttjådit	v
+luovččahit	miejseldit	v	w
+geahčahit	gehtjadit	v	w
+geahčahit	gehtjadit	v	w
+skihčahit	gihtjahit	v	w
+gođahit	gådedit	v	w
+gođahit	gådedit	v	w
+guođahit	guodadit	v	w
 juođahit	juodadit	v
 jarffahit	jarfadit	v
 cagahit	tsagádit	v
 cagahit	tsagádit	v
 hoagahit	hågadit	v
-njágahit	njágádit	v
-njágahit	njágádit	v
+njágahit	njágádit	v	w
+njágahit	njágádit	v	w
 sealggahit	sielgadit	v
 boalggahit	boalgadit	v
 guoggahit	guoggadit	v
@@ -1583,11 +1585,11 @@ nieiahit	niejadit	v
 nieiahit	niejadit	v
 suiahit	sujádit	v
 lanjahit	lanjádit	v
-givdnjahit	givnnjadit	v
+givdnjahit	givnnjahit	v	w
 gávnnjahit	gávnjadit	v
 lihkahit	lihkadit	v
 lihkahit	lihkadit	v
-čohkahit	tjåhkådit	v
+čohkahit	tjåhkådit	v	xxx
 čohkahit	tjåhkådit	v
 hohkahit	håhkådit	v
 heakkahit	hiekkadit	v
