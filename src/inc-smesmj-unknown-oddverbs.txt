@@ -1589,8 +1589,8 @@ givdnjahit	givnnjahit	v	w
 gávnnjahit	gávnjadit	v
 lihkahit	lihkadit	v
 lihkahit	lihkadit	v
-čohkahit	tjåhkådit	v	xxx
-čohkahit	tjåhkådit	v
+čohkahit	tjåhkkåhit	v	w
+čohkahit	tjåhkkåhit	v	w
 hohkahit	håhkådit	v
 heakkahit	hiekkadit	v
 heikkahit	hejkadit	v
@@ -1605,19 +1605,18 @@ fiskahit	fisskadit	v
 vealahit	vieladit	v
 skálahit	skáládit	v
 cilahit	tsiládit	v
-veallahit	vielladit	v
-veallahit	vielladit	v
+veallahit	vellahit	v	w
+veallahit	vællahit	v	w
 állahit	álladit	v
-váillahit	vájlladit	v
-buollahit	buolladit	v
-golahit	gålådit	v
-lolahit	lålådit	v
-olahit	ålådit	v
-olahit	ålådit	v	x
-fuolahit	fuoladit	v
-fuolahit	fuoladit	v
-gulahit	guládit	v
-julahit	juládit	v
+váillahit	gádulmahttet	v	w
+buollahit	buollidit	v	w
+golahit	gålådit	v	w
+lolahit	lålådit	v	w
+olahit	åledit	v	w
+olahit	åledit	v	w
+fuolahit	fuoladit	v	x
+gulahit	guládit	v	w
+julahit	juládit	v	xxx
 ulahit	uládit	v
 namahit	nammadit	v
 gobmahit	gåbbmådit	v
