@@ -1616,24 +1616,24 @@ olahit	åledit	v	w
 olahit	åledit	v	w
 fuolahit	fuoladit	v	x
 gulahit	guládit	v	w
-julahit	juládit	v	xxx
+julahit	juhtsádit	v	w
 ulahit	uládit	v
-namahit	nammadit	v
+namahit	nammadit	v	w
 gobmahit	gåbbmådit	v
 robmahit	råbbmådit	v
-doaimmahit	doajmadit	v
-duolmmahit	duolmadit	v
-duolmmahit	duolmadit	v
+doaimmahit	dåjmadit	v	w
+duolmmahit	stiblidit	v	x
+duolmmahit	rahkkádit	v	x
 hirpmahit	hirmadit	v
-humahit	humádit	v
-loanahit	lånadit	v
-goadnahit	goaddnadit	v
+humahit	sáhkadit	v	w
+loanahit	luojkadit	v	w
+goadnahit	huhttahit	v	w
 ridnahit	riddnadit	v
 báŋahit	báŋádit	v
 báŋahit	báŋádit	v
 báŋahit	báŋádit	v
-čáŋahit	tjáŋádit	v
-čáŋahit	tjáŋádit	v
+čáŋahit	tjáŋadit	v	x
+čáŋahit	tjáŋádit	v xxx
 čeagŋahit	tjieggŋadit	v
 čiŋahit	tjiŋádit	v
 čiŋahit	tjiŋádit	v
