@@ -1713,7 +1713,7 @@ bálkáhit	bálkkidit	v	w
 luŋkáhit	luŋkkádit	v
 šluŋkáhit	sluŋkkádit	v
 šluŋkáhit	sluŋkkádit	v
-buskáhit	busskádit	vxxx
+buskáhit	busskádit	v
 skeavkáhit	skævkkádit	v
 skeavkáhit	skævkkádit	v
 stavkáhit	stavkkádit	v
@@ -1740,9 +1740,9 @@ hobehit	håbidit	v
 obehit	åbidit	v
 luddehit	luddidit	v
 muddehit	muddidit	v
-bovdehit	båvddidit	v
-bovdehit	båvddidit	v
-ovdehit	åvddidit	v
+bovdehit	bivddidit	v	w
+bovdehit	gåhtjodit	v	w
+ovdehit	åvddidit	v	xxx
 rokđehit	råktjidit	v
 biđgehit	birggidit	v
 biđgehit	birggidit	v
