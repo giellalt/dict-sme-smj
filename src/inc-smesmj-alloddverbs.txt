@@ -1,65 +1,65 @@
 várdudit	várddodit
-abastit	abástit
-addalit	addalit
-addilit	addelit
-addjohit	addjudit
-adnostit	addnustit
-ahcilit	ahtselit
+abastit	abástit	w
+addalit	vaddalit	w
+addilit	vaddalit	w
+addjohit	adjudit	w
+adnostit	anestit	x
+ahcilit	ahtselit	w
 aiihit	ajjdit
-albmadit	almmadit
-albmanit	almmanit
-albmodit	almmudit
-albmudit	almmodit
+albmadit	almmadit	w
+albmanit	almmanit	w
+albmodit	almmudit	w
+albmudit	almmudit	w
 alddastit	aldastit
-alfabehtadit	alffabehtadit
-alidit	aledit
-alistit	alestit
-alludit	allodit
-allánit	allánit
+alfabehtadit	alffabehtadit	w
+alidit	aledit	w
+alistit	alestit	w
+alludit	allodit	w
+allánit	allánit	w
 almmuhit	almodit
 almmáskit	almáskit
 amasmit	amásmit
 amastit	amástit
 amašit	amatjit
 amiidit	amijdit
-anašit	anatjit
-anihit	anedit
-anildit	aneldit
-anistit	anestit
+anašit	anatjit	w
+anihit	anedit	w
+anildit	anedit	w
+anistit	anestit	w
 arggodit	argudit
-arvilit	arvvelit
-arvohit	arvvudit
-arvvašit	arvatjit
-arvve7stit	arvestit
+arvilit	harvvelit	w
+arvohit	harvudit
+arvvašit	harvasjit	w
+arvve7stit	harvestit	w
 arvvistit	arvestit
 arvvohastalit	arvuhastalit
 arvvosmit	arvusmit
 arvváskit	arváskit
 assudit	assodit
 astadit	asstadit
-asttahit	astadit
+asttahit	astadit	w
 asásmit	asásmit
 asášit	asátjit
-attašit	attatjit
-atte7stit	attestit
-attihit	attedit
-attildit	atteldit
-attistit	attestit
+attašit	vattatjit	w
+atte7stit	vattestit	w
+attihit	vattedit	w
+attildit	vatteldit	w
+attistit	vattestit	w
 avastit	avástit
-azihit	atsedit
-azistit	atsestit
+azihit	atsedit	
+azistit	atsestit	w
 aškkastit	asjkastit
-badjánit	badjánit
-bagadit	bagádit
+badjánit	badjánit	w
+bagadit	bagádit	w
 bagenit	baginit
 bagohit	bagudit
 bahkkedit	bahkkidit
 bahkkehit	bahkkidit
 bahkkestit	bahkkistit
-bahonit	bahunit
+bahonit	bahunit	w
 bahraidit	bahrajdit
 bahtadit	bahtadit
-bahudit	bahodit
+bahudit	bahudit	w
 bahánit	bahánit
 bahčagit	bahtjagit
 bahčašit	bahtjatjit
@@ -68,33 +68,33 @@ bahčilit	bahtjelit
 bahčistit	bahtjestit
 bahčásit	bahtjásit
 bahččostit	bahttjustit
-baikkašit	bajkatjit
-baikkihit	bajkedit
+baikkašit	bajkatjit	w
+baikkihit	bajkedit	w
 baiidit	bajjdit
-baiás#boktalit	bajásbåktålit
-baiás#dásidit	bajásdásedit
-baiás#čuožžilit	bajástjuodtjelit
-baiás#šaddadit	bajássjaddadit
+baiás#boktalit	bajásbåktålit	w
+baiás#dásidit	bajásdásedit	w
+baiás#čuožžilit	bajástjuodtjelit	w
+baiás#šaddadit	bajássjaddadit	w
 bakkagit	bakkagit
-baladit	baládit
-balahit	baládit
-baldalit	balldalit
-balddihit	baldedit
-balddáskit	baldáskit
+baladit	baládit	w
+balahit	baládit	w
+baldalit	balldalit	w
+balddihit	baldedit	w
+balddáskit	baldáskit	x
 balkkidit	balkedit
 baláskit	baláskit
-banašit	banatjit
-banihit	banedit
-banistit	banestit
-barddašit	bardatjit
-bardde7stit	bardestit
-bardilit	barddelit
+banašit	bånatjit	w
+banihit	bånedit	w
+banistit	bånestit	w
+barddašit	bårdatjit	w
+bardde7stit	bardestit	x
+bardilit	barddelit	x
 barffagit	barfagit
 barffuhit	barfodit
-barggadit	bargadit
-barggahit	bargadit
-barggastit	bargastit
-barggildit	bargeldit
+barggadit	bargadit	w
+barggahit	bargadit	w
+barggastit	bargastit	w
+barggildit	bargeldit	xxx
 barjidit	barjjedit
 bassodit	bassudit
 basadit	basádit
@@ -106,52 +106,52 @@ basihit	basedit
 basistit	basestit
 baskkidit	baskedit
 baskkášit	baskátjit
-baskudit	basskodit
-bassalit	bassalit
+baskudit	basskodit	w
+bassalit	bassalit	w
 bastasit	basstasit
 basttastit	bastastit
 basttihit	bastedit
 bastásit	basstásit
-basuhit	basodit
+basuhit	basodit	w
 basášit	basátjit
-bažašit	batjatjit
-baže7stit	batjestit
-bažihit	batjedit
+bažašit	båtjatjit	w
+baže7stit	båtjestit	w
+bažihit	båtjedit	w
 bažirdit	batjerdit
 bažistit	batjestit
 beafihit	biefedit
-beagašit	biegatjit
-beaggalit	bieggalit
-beahkilit	biehkelit
+beagašit	begatjit	w
+beaggalit	bæggalit	w
+beahkilit	biehkelit	w
 beahte7stit	biehtestit
-beahttalit	biehttalit
+beahttalit	bæhttalit	w
 beaidadit	biejddadit
 beaitalit	biejttalit
-beaivádit	bæjvvádit
+beaivádit	bæjvvádit	x
 beakke7hit	biekkedit
 beakkihit	biekkedit
 beakko7hit	biekkodit
 beakkuhit	biekkodit
 bealaštit	bielasjtit
 bealistitit	bielestitit
-bealkilit	bielkkelit
-bealkkašit	bielkatjit
-bealkke7hit	bielkedit
-bealkkihit	bielkedit
-bealkkildit	bielkeldit
-bealkkáskit	bælkáskit
-bealkáhit	bælkkádit
-beallidit	bielledit
+bealkilit	bielkkelit	w
+bealkkašit	belkatjit	w
+bealkke7hit	bielkedit	x
+bealkkihit	bielkedit	w
+bealkkildit	bielkeldit	x
+bealkkáskit	bælkátjit	w
+bealkáhit	bælkkádit	x
+beallidit	bielledit	x
 bealljadit	bielljadit
-bealuštit	bielosjtit
+bealuštit	bælostit	w
 bearbbildit	bierbeldit
-bearjjastit	bierjastit
-beasadit	biesadit
-beasahit	biesadit
-beasihit	biesedit
-beaskidit	biesskedit
-beassadit	biessadit
-beastalit	biesstalit
+bearjjastit	berjastit	w
+beasadit	besadit	w
+beasahit	besadit	w
+beasihit	biesedit	x
+beaskidit	biesskedit	w
+beassadit	biessadit	x
+beastalit	biesstalit	x
 beavkalit	bievkkalit
 beavkkuhit	bievkodit
 beavkkádit	bævkádit
@@ -169,46 +169,46 @@ beaškkihit	biesjkedit
 beaškkuhit	biesjkodit
 behtostit	behtustit
 berehit	beridit
-berostit	berustit
-beroštit	berusjtit
-bidjalit	bidjalit
-bieggalit	bieggalit
-bieggasit	bieggasit
+berostit	berustit	w
+beroštit	berustit	w
+bidjalit	biedjalit	w
+bieggalit	bieggalit	x
+bieggasit	bieggusit	x
 bieguhit	biegodit
 biegádit	biegádit
 biehkanit	biehkanit
 biehkulit	biehkolit
 biehtadit	biehtadit
 biehttalit	biehttalit
-biekkadit	biekkadit
-biekkahit	biekkadit
-biekkastit	biekkastit
-biepmadit	biebmadit
-biepmastit	biebmastit
+biekkadit	biekkadit	w
+biekkahit	biekkadit	w
+biekkastit	biekkastit	w
+biepmadit	biebmadit	w
+biepmastit	biebmastit	w
 bierffagit	bierfagit
 bierffuhit	bierfodit
 bierfáhit	bierffádit
-bierggastit	biergastit
+bierggastit	biergastit	w
 biertnástit	biernástit
-biestalit	biesstalit
-bievladit	bievlladit
-bievlladit	bievladit
+biestalit	biesstelit	x
+bievladit	bievladit	w
+bievlladit	bievladit 	w
 bievssastit	bievsastit
 bieđganit	biergganit
 bieđáskit	biedáskit
 bieđđalit	bieddalit
 biggohit	biggudit
 biggostit	biggustit
-bihcudit	bihtsodit
+bihcudit	sjuhtjudit	x
 bihkkadit	bihkkadit
 bihtalit	bihtalit
 biigostit	bijggustit
-biinnidit	bijnedit
-biiadit	bijádit
-biiahit	bijádit
-biiastit	bijástit
-biktalit	biktalit
-bikšulit	biksjolit
+biinnidit	bijnedit	w
+biiadit	bijádit	w
+biiahit	bijádit	w
+biiastit	bijástit	x
+biktalit	biktalit	w
+bikšulit	biksjolit	xxx
 bilaidit	bilájdit
 bildadit	billdadit
 bilgádit	bilggádit
