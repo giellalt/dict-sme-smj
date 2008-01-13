@@ -1167,7 +1167,6 @@ guoibmálagaid
 guokkil
 guoktil
 guoktásiidguoktásiid
-guora
 guoras
 guorosnaga
 guorral
@@ -1776,7 +1775,6 @@ milloseabbot
 millosepmosit
 minddar
 minddár
-minus
 mista
 mo
 moson
@@ -2610,7 +2608,6 @@ sávvamis
 taga
 teahtta
 tiimmahala
-tilla
 tillat
 uhccán
 uhccánaš
