@@ -73,3 +73,6 @@ smesmj.xml: smesmj.txt smesmj2xml.pl
 #	$(LEXC) < ../../tmp/smesmj-inter-save-script
 #	@rm -f ../../tmp/smesmj-inter-save-script
 
+
+clean:
+	@rm -f ../bin/*.fst ../bin/*.lexc
