@@ -442,7 +442,6 @@ duohpakeahtes
 duohtatmeahttun
 duojás
 duojáš
-duolbbas
 duollet
 duolloheapme
 duolmmus
@@ -944,7 +943,6 @@ guovda#geaidnolaš
 guovddášlaš
 guovllu#guovdasaš
 guovllu#psykiátralaš
-guovllulaš
 guovlu#politihkalaš
 guovlu#politihkkalaš
 guovlulaš
@@ -1311,7 +1309,6 @@ korporatiiva
 kosmehtalaš
 kreatiiva
 kreatiivalaš
-kristalaš
 kristálla#čuovgat
 kristállalaš
 kromáhtalaš
@@ -1461,7 +1458,6 @@ læstadi^alaš
 læstadi^olaš
 magihkalaš
 magiijalaš
-magnehtalaš
 mahtásaš
 majestehtalaš
 makkáraš
@@ -1528,7 +1524,6 @@ miháš
 militearalaš
 militánta
 miljovdnasaš
-minerálalaš
 minimála
 minuktasaš
 mirkkolaš
@@ -2229,7 +2224,6 @@ skárllat
 skárllat#ruoksat
 skárppis
 skárttas
-smilččas
 smoahtis
 smoalddas
 smolggus
