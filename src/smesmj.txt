@@ -39351,8 +39351,6 @@ biinnidit	bijnedit	v
 biiadit	bijádit	v
 biiahit	bijádit	v
 biktalit	biktalit	v
-<<<<<<< inc-smesmj-unknown-oddverbs.txt
-<<<<<<< inc-smesmj-unknown-oddverbs.txt
 čaimme7hit	tjajmadit	v
 čaimme7hit	tjajmadit	v
 guosmme7hit	guosmudit	v
@@ -39414,3 +39412,12 @@ rohkkáhit	validit	v
 bálkáhit	bálkkidit	v
 bovdehit	bivddidit	v
 bovdehit	gåhtjodit	v
+leat		liehket		v
+ii		ij		v
+Sámediggi	Sámedigge	prop
+galgat		galggat		v
+sáhttit		sáhttet		v
+birra		birra		p
+jus		jus		cs
+jos		jus		cs
+bargat		barggat		v
