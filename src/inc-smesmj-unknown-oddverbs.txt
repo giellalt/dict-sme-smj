@@ -751,7 +751,6 @@ juhkildit	juhkeldit	v
 ceakkildit	tsiekkeldit	v
 čoakkildit	tjoakkeldit	v
 sikkildit	sikkeldit	v
-<<<<<<< inc-smesmj-unknown-oddverbs.txt
 =======
 >>>>>>> 1.31
 davkkildit	davkeldit	v
@@ -775,7 +774,6 @@ spálžžildit	spáltjeldit	v
 spálžžildit	spáltjeldit	v
 rávžžildit	rávtjeldit	v
 čukkoldit	tjukkuldit	v
-<<<<<<< inc-smesmj-unknown-oddverbs.txt
 ožoldit	åtjuldit	v	x
 =======
 ožoldit	åtjuldit	v	x have to check
@@ -1486,12 +1484,6 @@ skoavkke7hit	skoavkedit	v
 stoavkke7hit	stoavkedit	v
 jame7hit	jumájdit?	x
 jame7hit	jamedit	v
-čaimme7hit	tjajmadit	v	w
-čaimme7hit	tjajmadit	v	w
-guosmme7hit	guosmudit	v	w
-vuoiŋŋe7hit	vuojŋadit	v	w
-vuoiŋŋe7hit	vuojŋadit	v	w
-vuoiŋŋe7hit	vuojŋadit	v	w
 eanne7hit	iennedit	v
 eatne7hit	iednedit	v
 leappe7hit	lieppedit	v
@@ -1503,17 +1495,8 @@ heairre7hit	hiejrredit	v
 eatte7hit	iettedit	v
 eatte7hit	iettedit	v
 suoivve7hit	suojvedit	v
-suoivve7hit	suojvaldit	v	w
-goarvve7hit	goabredit	v	w
 steanžže7hit	stientjedit	v
 steanžže7hit	stientjedit	v
-spiidne#guođo7hit	svijnneguododit	v	w
-sáhko7hit	sáhkkudit	v	w
-sáhko7hit	sáhkkudit	v	w
-bákko7hit	bákkodit	v	w
-bákko7hit	bákkodit	v	w
-njuikko7hit	gahpadit	v	w
-njuikko7hit	gahpadit	v	w
 dárkko7hit	dárkodit	v	x
 dárkko7hit	gehtjadit	v	x
 goarpmo7hit	goarmodit	v
@@ -1525,18 +1508,10 @@ luobbahit	luobbadit	v
 ciebahit	tsiebadit	v
 skuibahit	skujbbadit	v
 njeaccahit	njiettsadit	v	x!
-váccahit	juvsudit	v	w
 linccahit	lintsadit	v
-áhcahit	bårådit	v	w
-báhcahit	báhtsadit	v	w
-máhcahit	máhtsadit	v	w
 šlieddahit	slieddadit	v
 šlieddahit	slieddadit	v
-válddahit	váldadit	v	w
-válddahit	buojkodit	v	w
-válddahit	gåvvidit	v	w
 čuolddahit	tjuoldadit	v
-jurddahit	usjudit	v	w
 gildahit	gilldadit	v
 šlundahit	slunddadit	v
 vardahit	varddadit	v
@@ -1550,20 +1525,11 @@ skihččahit	skihttjadit	v
 šnjalččahit	snjaltjadit	v
 šnjalččahit	snjaltjadit	v
 guččahit	gåttjådit	v
-luovččahit	miejseldit	v	w
-geahčahit	gehtjadit	v	w
-geahčahit	gehtjadit	v	w
-skihčahit	gihtjahit	v	w
-gođahit	gådedit	v	w
-gođahit	gådedit	v	w
-guođahit	guodadit	v	w
 juođahit	juodadit	v
 jarffahit	jarfadit	v
 cagahit	tsagádit	v
 cagahit	tsagádit	v
 hoagahit	hågadit	v
-njágahit	njágádit	v	w
-njágahit	njágádit	v	w
 sealggahit	sielgadit	v
 boalggahit	boalgadit	v
 guoggahit	guoggadit	v
@@ -1585,12 +1551,9 @@ nieiahit	niejadit	v
 nieiahit	niejadit	v
 suiahit	sujádit	v
 lanjahit	lanjádit	v
-givdnjahit	givnnjahit	v	w
 gávnnjahit	gávnjadit	v
 lihkahit	lihkadit	v
 lihkahit	lihkadit	v
-čohkahit	tjåhkkåhit	v	w
-čohkahit	tjåhkkåhit	v	w
 hohkahit	håhkådit	v
 heakkahit	hiekkadit	v
 heikkahit	hejkadit	v
@@ -1605,29 +1568,14 @@ fiskahit	fisskadit	v
 vealahit	vieladit	v
 skálahit	skáládit	v
 cilahit	tsiládit	v
-veallahit	vellahit	v	w
-veallahit	vællahit	v	w
 állahit	álladit	v
-váillahit	gádulmahttet	v	w
-buollahit	buollidit	v	w
-golahit	gålådit	v	w
-lolahit	lålådit	v	w
-olahit	åledit	v	w
-olahit	åledit	v	w
 fuolahit	fuoladit	v	x
-gulahit	guládit	v	w
-julahit	juhtsádit	v	w
 ulahit	uládit	v
-namahit	nammadit	v	w
 gobmahit	gåbbmådit	v
 robmahit	råbbmådit	v
-doaimmahit	dåjmadit	v	w
 duolmmahit	stiblidit	v	x
 duolmmahit	rahkkádit	v	x
 hirpmahit	hirmadit	v
-humahit	sáhkadit	v	w
-loanahit	luojkadit	v	w
-goadnahit	huhttahit	v	w
 ridnahit	riddnadit	v
 báŋahit	báŋádit	v
 báŋahit	báŋádit	v
@@ -1636,13 +1584,11 @@ báŋahit	báŋádit	v
 čeagŋahit	tjieggŋadit	v
 čiŋahit	tjiŋádit	v
 čiŋahit	tjiŋádit	v
-finahit	manádit	v	w
 sainnahit	sajnadit	v
 goatnahit	goadnadit	v
 munahit	munádit	v
 loahpahit	loahpadit	v
 bilppahit	bilpadit	v
-dearppahit	tsábbmet	v	w
 gávppahit	gávpadit	v
 gurpahit	gurppadit	v
 dearahit	dieradit	v
@@ -1660,7 +1606,6 @@ durahit	durádit	v
 čeasahit	tjiesadit	v
 ásahit	ásádit	v
 ásahit	ásádit	v
-ruoksahit	ruoppsadit	v	w
 guosahit	guosadit	v
 guosahit	guosadit	v
 havssahit	havsadit	v
@@ -1685,7 +1630,6 @@ váivvahit	vájvadit	v
 goalvvahit	goalvadit	v
 čarvvahit	tjarvadit	v
 dearvvahit	diervadit	v
-hearvvahit	hærvvadit	v	w
 nirvvahit	nirvadit	v
 spažahit	spatjádit	v
 suožahit	suotjadit	v
@@ -1701,15 +1645,10 @@ dovdáhit	dåvddådit	v
 bierfáhit	bierffádit	v
 ceaggáhit	tsæggádit	v
 ceaggáhit	tsæggádit	v
-heaŋgáhit	libjudit	v	w
-borgáhit	suovasdit	v	w
 rugáhit	rugádit	v
 leháhit	lehádit	v
 lodnjáhit	låddnjådit	v
 livjáhit	livjjádit	v
-čohkkáhit	tjåhkkåhit	v	w
-rohkkáhit	validit	v	w
-bálkáhit	bálkkidit	v	w
 luŋkáhit	luŋkkádit	v
 šluŋkáhit	sluŋkkádit	v
 šluŋkáhit	sluŋkkádit	v
@@ -1740,8 +1679,6 @@ hobehit	håbidit	v
 obehit	åbidit	v
 luddehit	luddidit	v
 muddehit	muddidit	v
-bovdehit	bivddidit	v	w
-bovdehit	gåhtjodit	v	w
 ovdehit	åvddidit	v	xxx
 rokđehit	råktjidit	v
 biđgehit	birggidit	v
