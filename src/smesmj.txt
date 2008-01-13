@@ -1,4 +1,3 @@
-
 ABC-company	ABC-company	prop
 Aabakken	Aabakken	prop
 Aabel	Aabel	prop
@@ -38553,674 +38552,674 @@ guhket	guhket	adv
 guhkit	guhket	adv
 guhkibut	guhkebut	adv
 guhkibut	guhkebut	adv
-allut:allut	v
-albmanahttit:almmanahttet	v
-arvvosmahttit:arvusmahttet	v
-astat:asstat	v
-assut:assut	v
-atnit:adnet	v
-baikit:bajkket	v
-baldit:balldet	v
-ballat:ballat	v
-ballat:ballat	v
-ballát:ballát	v
-ballát:ballát	v
-baskut:basskut	v
-bassit:basset	v
-beahttit:biehttet	v
-bealkit:bielkket	v
-beastit:biesstet	v
-biestit:biesstet	v
-beaskidahttit:biesskedahttet	v
-beaskidahttit:biesskedahttet	v
-berostuvvat:berustuvvat	v
-biebmat:biebbmat	v
-bieggat:bieggat	v
-beastit:biesstet	v
-biestit:biesstet	v
-bieđaldahttit:biedaldahttet	v
-biktit:biktet	v
-bilbut:bilbbut	v
-binnut:binnut	v
-birastahttit:birástahttet	v
-birastahttit:birástahttet	v
-bissut:bissut	v
-bivdit:bivddet	v
-bivvát:bivvát	v
-biđistuvvat:bidestuvvat	v
-boaibmut:boajmmut	v
-boaldit:boalldet	v
-bohčit:båhtjet	v
-boktit:båktet	v
-boltut:bålltut	v
-bordit:bårddet	v
-boršut:bårssjut	v
-borastahttit:båråstahttet	v
-borastahttit:båråstahttet	v
-borastuvvat:båråstuvvat	v
-borjjastahttit:bårjåstahttet	v
-borralahttit:bårrålahttet	v
-borralahttit:bårrålahttet	v
-borrat:bårråt	v
-borrat:bårråt	v
-bostit:båsstet	v
-bostet:båsstet	v
-bossut:båssut	v
-bostit:båsstet	v
-bostet:båsstet	v
-botnit:bådnet	v
-botnjat:bådnjåt	v
-buitit:bujttet	v
-buktit:buktet	v
-bulžut:bulltjut	v
-bulžut:bulltjut	v
-buohcat:buohtsat	v
-buohtastahttit:buohtastahttet	v
-buokčalahttit:buoktjalahttet	v
-buollát:buollát	v
-buoridahttit:buoredahttet	v
-buorástahttit:buorástahttet	v
-buođđut:buoddut	v
-busket:bussket	v
-báhkkot:báhkkut	v
-báidnit:bájnnet	v
-bálkut:bálkkut	v
-báltut:bálltut	v
-bálddastahttit:báldastahttet	v
-bállet:bállet	v
-bárdit:bárddet	v
-bávččagahttit:bávtjagahttet	v
-caggat:tsaggat	v
-cahkkát:tsahkkát	v
-ceaggut:tsieggut	v
-ceavvut:tsievvut	v
-cibmut:tsibbmut	v
-ciehpat:tsiehpat	v
-ciellat:tsiellat	v
-ciellalahttit:tsiellalahttet	v
-cirgut:tsirggut	v
-coggat:tsåggåt	v
-cuovkut:tsuovkkut	v
-cuvket:tsuvkket	v
-cábmit:tsábbmet	v
-cáhkit:tsáhket	v
-cáhpat:tsáhpat	v
-dadjat:dadjat	v
-dadjat:dadjat	v
-dahkat:dahkat	v
-dahppat:dahppat	v
-darvat:darvvat	v
-dassat:dassat	v
-davkat:davkkat	v
-deaddilahttit:dieddelahttet	v
-deaddilahttit:dieddelahttet	v
-deaddit:dieddet	v
-deavdit:dievddet	v
-diehtit:diehtet	v
-diktit:diktet	v
-diktet:diktet	v
-diktit:diktet	v
-diktet:diktet	v
-dimádahttit:dimádahttet	v
-divrut:divrrut	v
-divvut:divvut	v
-doadjit:doadjet	v
-doaivut:doajvvut	v
-doalvut:doalvvut	v
-doarjut:doarjjut	v
-doarggistahttit:doargestahttet	v
-doarrut:doarrut	v
-doarrut:doarrut	v
-doarrát:doarrát	v
-dodjit:dådjet	v
-doidit:dåjddet	v
-dorostahttit:dårustahttet	v
-duogŋat:duoggŋat	v
-duolgut:duolggut	v
-duolbmut:duolmmut	v
-duolmmastuvvat:duolmastuvvat	v
-duorbut:duorbbut	v
-duorrat:duorrat	v
-duostut:duosstut	v
-duostut:duosstut	v
-dutkat:dutkat	v
-duvdit:duvddet	v
-duđđut:duddut	v
-dáhppot:dáhpput	v
-dáigut:dájggut	v
-dáisut:dájssut	v
-dáldut:dálldut	v
-dálkut:dálkkut	v
-dálvat:dálvvat	v
-dálkkodahttit:dálkudahttet	v
-dánsut:dánssut	v
-dápmalahttit:dábmalahttet	v
-dápmat:dábmat	v
-dárkkistahttit:dárkestahttet	v
-eadjit:iedjet	v
-eahccit:iehttset	v
-ealvit:ielvvet	v
-eallit:iellet	v
-eallát:ællát	v
-fierrut:fierrut	v
-friddjot:friddjut	v
-fuoikit:fuojkket	v
-fuoikut:fuojkkut	v
-fuoikut:fuojkkut	v
-fállat:fállat	v
-gahčat:gahtjat	v
-gaikut:gajkkut	v
-gaikut:gajkkut	v
-galšut:galssjut	v
-galbmit:galmmet	v
-galbmot:galmmut	v
-galbmot:galmmut	v
-galljut:galljut	v
-garcut:garttsut	v
-garvit:garvvet	v
-gaskaluhttit:gasskaluhttet	v
-gassut:gassut	v
-gazzat:gadtsat	v
-gazzut:gadtsut	v
-geaidit:giejddet	v
-gealdit:gielldet	v
-gieldit:gielldet	v
-geallat:giellat	v
-giellat:giellat	v
-geardut:gierddut	v
-geassit:giesset	v
-geassut:giessut	v
-geatnit:giednet	v
-gealdit:gielldet	v
-gieldit:gielldet	v
-geallat:giellat	v
-giellat:giellat	v
-gierdat:gierddat	v
-giessat:giessat	v
-giitit:gijttet	v
-giibmut:gijmmut	v
-gilvit:gilvvet	v
-gilljut:gilljut	v
-givdnjut:givnnjut	v
-goaivut:goajvvut	v
-goardit:goarddet	v
-goarrut:goarrut	v
-goddit:gåddet	v
-goddet:gåddet	v
-gođđit:gåddet	v
-goddit:gåddet	v
-goddet:gåddet	v
-gođđit:gåddet	v
-gohcit:gåhtset	v
-gohpat:gåhpåt	v
-gohccát:gåhttsåt	v
-gohččut:gåhttjut	v
-goldit:gålldet	v
-govlut:gåvllut	v
-goččastahttit:gåttjåstahttet	v
-goddit:gåddet	v
-goddet:gåddet	v
-gođđit:gåddet	v
-gožžat:gådtjåt	v
-guhkkut:guhkkut	v
-guhkkut:guhkkut	v
-gulastuvvat:gulástuvvat	v
-gullat:gullat	v
-gullát:gullát	v
-guoddit:guoddet	v
-guođđit:guoddet	v
-guohpat:guohpat	v
-guolljut:guolljut	v
-guorrat:guorrat	v
-guossut:guossut	v
-guovlat:guovllat	v
-guoddit:guoddet	v
-guođđit:guoddet	v
-gurbmut:gurmmut	v
-guvdnjut:guvnnjut	v
-gádjat:gádjat	v
-gáddit:gáddet	v
-gáđđet:gáddet	v
-gággat:gággat	v
-gáhtat:gáhtat	v
-gálgat:gálggat	v
-gállet:gállet	v
-gámodahttit:gámudahttet	v
-gárdut:gárddut	v
-gáržut:gárttjut	v
-gárrat:gárrat	v
-gárrut:gárrut	v
-gáskit:gássket	v
-gávlut:gávllut	v
-gávdnat:gávnnat	v
-gáddit:gáddet	v
-gáđđet:gáddet	v
-heaitit:hiejttet	v
-hilgut:hilggut	v
-hivástahttit:hivástahttet	v
-hivástahttit:hivástahttet	v
-hoigat:håjggåt	v
-holvut:hålvvut	v
-huomáhahttit:huomáhahttet	v
-hálbut:hálbbut	v
-hállat:hállat	v
-hámsut:hámssut	v
-hárdit:hárddet	v
-hárrut:hárrut	v
-hárrut:hárrut	v
-hárret:hárret	v
-hástit:hásstet	v
-hávdut:hávddut	v
-hávkut:hávkkut	v
-hávrut:hávrrut	v
-hávskut:hávsskut	v
-hávvádahttit:hávvádahttet	v
-hávváduhttit:hávváduhttet	v
-iktit:iktet	v
-irrut:irrut	v
-jallut:jallut	v
-jarrut:jarrut	v
-jarrut:jarrut	v
-javlat:javllat	v
-jeahkit:jiehket	v
-johttát:jåhttåt	v
-joksat:jåksåt	v
-jollat:jållåt	v
-jollut:jållut	v
-jollut:jållut	v
-jorgut:jårggut	v
-jorbbodahttit:jårbudahttet	v
-jorgalahttit:jårggålahttet	v
-jostit:jåsstet	v
-jugastuvvat:jugástuvvat	v
-juhkat:juhkat	v
-juohkit:juohket	v
-jáhkkit:jáhkket	v
-jástit:jásstet	v
-jávkadahttit:jávkkadahttet	v
-lahcat:lahtsat	v
-lahpat:lahpat	v
-laigut:lajggut	v
-leahkkut:liehkkut	v
-leavdnut:lievnnut	v
-liikot:lijkkut	v
-livvot:livvut	v
-livvut:livvut	v
-livvot:livvut	v
-livvut:livvut	v
-liškut:lissjkut	v
-loavdit:loavddet	v
-lohkat:låhkåt	v
-lohtat:låhtåt	v
-loktit:låktet	v
-loktet:låktet	v
-loktut:låktut	v
-loktit:låktet	v
-loktet:låktet	v
-lollat:lållåt	v
-losidahttit:låsedahttet	v
-lossut:låssut	v
-luoddut:luoddut	v
-luohpat:luohpat	v
-luoikat:luojkkat	v
-luoitit:luojttet	v
-luoittestuvvat:luojtestuvvat	v
-luoskut:luosskut	v
-láhčit:láhtjet	v
-láhppit:láhppet	v
-láibut:lájbbut	v
-láikut:lájkkut	v
-láitit:lájttet	v
-lállit:lállet	v
-lállet:lállet	v
-lállit:lállet	v
-lállet:lállet	v
-lávgat:lávggat	v
-lávgut:lávggut	v
-lávgut:lávggut	v
-lávkut:lávkkut	v
-lávlut:lávllut	v
-lášmmodahttit:lásjmudahttet	v
-lášmmodahttit:lásjmudahttet	v
-lášmmodahttit:lásjmudahttet	v
-mannut:mannut	v
-massit:masset	v
-maŋidahttit:maŋedahttet	v
-moaitit:moajttet	v
-moardit:moarddet	v
-mollat:mållåt	v
-molsut:målssut	v
-molladahttit:mållådahttet	v
-monnut:månnut	v
-moriidahttit:mårijdahttet	v
-mostut:måsstut	v
-mozzut:mådtsut	v
-muggut:muggut	v
-muhttit:muhttet	v
-muitit:mujttet	v
-muitát:mujttát	v
-muohttit:muohttet	v
-máhccut:máhttsut	v
-máhccut:máhttsut	v
-máhttit:máhttet	v
-máidnut:májnnut	v
-máistit:májsstet	v
-máksit:mákset	v
-nallat:nallat	v
-nannut:nannut	v
-nanosmahttit:nanusmahttet	v
-nanusmahttit:nanusmahttet	v
-nanostahttit:nanustahttet	v
-nanosmahttit:nanusmahttet	v
-nanusmahttit:nanusmahttet	v
-nargit:nargget	v
-navvet:navvet	v
-navvit:navvet	v
-navvet:navvet	v
-navvit:navvet	v
-neaskit:niessket	v
-nihttit:nihttet	v
-nirvut:nirvvut	v
-nivkut:nivkkut	v
-njaddet:njaddet	v
-njađđit:njaddet	v
-njaldit:njalldet	v
-njallut:njallut	v
-njallut:njallut	v
-njammat:njammat	v
-njammat:njammat	v
-njaskut:njasskut	v
-njaskut:njasskut	v
-njazzut:njadtsut	v
-njaddet:njaddet	v
-njađđit:njaddet	v
-njeaidit:njiejddet	v
-njiellat:njiellat	v
-njoallut:njoallut	v
-njoađvut:njoarvvut	v
-njuohpat:njuohpat	v
-njuolgut:njuolggut	v
-njuoskadahttit:njuosskadahttet	v
-njuovvat:njuovvat	v
-njurgut:njurggut	v
-njuvdit:njuvddet	v
-njálgut:njálggut	v
-njámmat:njámmat	v
-njárbut:njárbbut	v
-njávgut:njávggut	v
-njávgut:njávggut	v
-njávkat:njávkkat	v
-noaidut:noajddut	v
-nordat:nårddåt	v
-norrat:nårråt	v
-nuollat:nuollat	v
-nuppástuhttit:nuppástuhttet	v
-nuppástuhttit:nuppástuhttet	v
-nádjat:nádjat	v
-nállat:nállat	v
-návdut:návddut	v
-náđđut:náddut	v
-oaggut:oaggut	v
-oahppat:oahppat	v
-oahpásmuhttit:oahpásmuhttet	v
-oallut:oallut	v
-oastit:oasstet	v
-oađestuvvat:oadestuvvat	v
-oađđát:oaddát	v
-oažžut:oadtjut	v
-ohcat:åhtsåt	v
-oidit:åjddet	v
-ollet:ållet	v
-orrot:årrut	v
-orrut:årrut	v
-orrot:årrut	v
-orrut:årrut	v
-orrot:årrut	v
-orrut:årrut	v
-orrot:årrut	v
-orrut:årrut	v
-oskut:åsskut	v
-ovdánahttit:åvddånahttet	v
-ođasmahttit:ådåsmahttet	v
-ođastuhttit:ådåstuhttet	v
-ođastuhttit:ådåstuhttet	v
-rabbat:rabbat	v
-rahkat:rahkat	v
-rahpat:rahpat	v
-rahtat:rahtat	v
-rahppot:rahpput	v
-ravgut:ravggut	v
-ravgut:ravggut	v
-raššut:rassjut	v
-reavvat:rievvat	v
-riegádahttit:riegádahttet	v
-riegádahttit:riegádahttet	v
-riestit:riesstet	v
-rievvut:rievvut	v
-rievvut:rievvut	v
-riggut:riggut	v
-rihpput:rihpput	v
-rihpput:rihpput	v
-roaškut:roassjkut	v
-roggat:råggåt	v
-ruhpat:ruhpat	v
-ruohkkat:ruohkkat	v
-ruohtastahttit:ruohtastahttet	v
-ruohtastahttit:ruohtastahttet	v
-ruohtastuvvat:ruohtastuvvat	v
-ruohčalahttit:ruohtjalahttet	v
-ruossut:ruossut	v
-ruossut:ruossut	v
-ruovgat:ruovggat	v
-russat:russat	v
-russut:russut	v
-russut:russut	v
-ruvkot:ruvkkut	v
-ruškkodahttit:rusjkudahttet	v
-rádjat:rádjat	v
-ráddut:ráddut	v
-ráddut:ráddut	v
-ráfáiduhttit:ráfájduhttet	v
-ráhkkot:ráhkkut	v
-ráhkkot:ráhkkut	v
-ráhkkot:ráhkkut	v
-ráhččat:ráhttjat	v
-ráigat:rájggat	v
-rássat:rássat	v
-rássut:rássut	v
-rávkat:rávkkat	v
-sadjit:sadjet	v
-saddit:saddet	v
-sajáiduhttit:sajájduhttet	v
-saktut:saktut	v
-saskat:sasskat	v
-savvit:savvet	v
-seaktit:siektet	v
-seastit:siesstet	v
-seavvit:sievvet	v
-sierrat:sierrat	v
-sihtat:sihtat	v
-sihkkut:sihkkut	v
-sillut:sillut	v
-sillut:sillut	v
-sirdit:sirddet	v
-skihppát:skihppát	v
-skilžut:skilltjut	v
-skilžut:skilltjut	v
-skillalahttit:skillalahttet	v
-skoađđut:skoaddut	v
-skuolkut:skuolkkut	v
-skurbat:skurbbat	v
-skárbat:skárbbat	v
-skártut:skárttut	v
-skárrat:skárrat	v
-skávžut:skávttjut	v
-skávvut:skávvut	v
-smiđđut:smiddut	v
-snarrot:snarrut	v
-snorrat:snårråt	v
-snorrát:snårråt	v
-snorrat:snårråt	v
-snorrát:snårråt	v
-snuoggat:snuoggat	v
-soallut:soallut	v
-sodjalahttit:sådjålahttet	v
-sodjalahttit:sådjålahttet	v
-sohpat:såhpåt	v
-sojaldahttit:såjåldahttet	v
-soktut:såktut	v
-soktut:såktut	v
-stávžut:stávttjut	v
-sugadahttit:sugádahttet	v
-sugadahttit:sugádahttet	v
-suhkalahttit:suhkalahttet	v
-suhkalahttit:suhkalahttet	v
-suhkkát:suhkkát	v
-suldit:sulldet	v
-sulastahttit:sulástahttet	v
-sulástahttit:sulástahttet	v
-sulastahttit:sulástahttet	v
-sulástahttit:sulástahttet	v
-suoddat:suoddat	v
-suohpput:suohpput	v
-suokŋat:suogŋat	v
-suoládahttit:suoládahttet	v
-suoláduhttit:suoláduhttet	v
-suoskat:suosskat	v
-suovastuhttit:suovastuhttet	v
-suovvat:suovvat	v
-surgat:surggat	v
-surrat:surrat	v
-suvdit:suvddet	v
-suvrut:suvrrut	v
-sággat:sággat	v
-sággut:sággut	v
-sáhpput:sáhpput	v
-sállat:sállat	v
-sáltut:sálltut	v
-sárgut:sárggut	v
-sárdnut:sárnnut	v
-sárrat:sárrat	v
-sávrut:sávrrut	v
-sávvat:sávvat	v
-udnot:uddnut	v
-uhccut:uhttsut	v
-unnut:unnut	v
-vadjat:vadjat	v
-vadjáluhttit:vadjáluhttet	v
-vahágahttit:vahágahttet	v
-vaháguhttit:vaháguhttet	v
-vajáldahttit:vajáldahttet	v
-vajálduhttit:vajálduhttet	v
-valljut:valljut	v
-vatnalahttit:vadnalahttet	v
-vađđut:vaddut	v
-veaddját:væddját	v
-veastit:viesstet	v
-veavdit:vievddet	v
-viehkalahttit:viehkalahttet	v
-viehkalahttit:viehkalahttet	v
-viežžat:viedtjat	v
-viidut:vijddut	v
-viisut:vijssut	v
-viššat:vissjat	v
-vuodjit:vuodjet	v
-vuoddját:vuoddját	v
-vuodjalahttit:vuodjalahttet	v
-vuodjilahttit:vuodjelahttet	v
-vuodjilahttit:vuodjelahttet	v
-vuohčit:vuohtjet	v
-vuohpput:vuohpput	v
-vuohttit:vuohttet	v
-vuohttut:vuohttut	v
-vuohttut:vuohttut	v
-vuohttut:vuohttut	v
-vuoidat:vuojddat	v
-vuoitit:vuojttet	v
-vuoigŋat:vuojŋŋat	v
-vuoksit:vuokset	v
-vuollat:vuollat	v
-vuordit:vuorddet	v
-vuorkut:vuorkkut	v
-vuordnut:vuornnut	v
-vuorrástuhttit:vuorrástuhttet	v
-vuođgŋit:vuorŋŋet	v
-váidit:vájddet	v
-váidut:vájddut	v
-váidut:vájddut	v
-vákšut:váksjut	v
-vákšot:váksjut	v
-vákšut:váksjut	v
-vákšot:váksjut	v
-vákšut:váksjut	v
-vákšot:váksjut	v
-vákšut:váksjut	v
-vákšot:váksjut	v
-váldit:válldet	v
-vállut:vállut	v
-vázzilahttit:vádtselahttet	v
-vázzilahttit:vádtselahttet	v
-vázzát:vádtsát	v
-áicat:ájttsat	v
-áigut:ájggut	v
-áitit:ájttet	v
-árrit:árret	v
-árvedahttit:árvvedahttet	v
-árvidahttit:árvvedahttet	v
-árvedahttit:árvvedahttet	v
-árvidahttit:árvvedahttet	v
-ássut:ássut	v
-áššáiduhttit:ássjájduhttet	v
-áššáskuhttit:ássjáskuhttet	v
-čagarduhttit:tjagárduhttet	v
-čalbmat:tjalmmat	v
-čallat:tjallat	v
-časkit:tjassket	v
-čatnat:tjadnat	v
-čavdut:tjavddut	v
-čavgut:tjavggut	v
-čiehkat:tjiehkat	v
-čiehkádahttit:tjiehkádahttet	v
-čiekčat:tjiektjat	v
-čierrut:tjierrut	v
-čierrut:tjierrut	v
-čieskat:tjiesskat	v
-čiktit:tjiktet	v
-čilvut:tjilvvut	v
-čoaggit:tjoagget	v
-čoallut:tjoallut	v
-čoavdit:tjoavddet	v
-čogastahttit:tjågåstahttet	v
-čohkat:tjåhkåt	v
-čolgat:tjålggåt	v
-čollut:tjållut	v
-čorbmat:tjårmmåt	v
-čuodjalahttit:tjuodjalahttet	v
-čuoggut:tjuoggut	v
-čuohkat:tjuohkat	v
-čuohppat:tjuohppat	v
-čuoigalahttit:tjuojggalahttet	v
-čuoigát:tjuojggát	v
-čuoldit:tjuolldet	v
-čuollat:tjuollat	v
-čuollát:tjuollát	v
-čuopmat:tjuobmat	v
-čuorvut:tjuorvvut	v
-čuovvut:tjuovvut	v
-čuoččáldahttit:tjuottjáldahttet	v
-čábbut:tjábbut	v
-čáhpodahttit:tjáhpudahttet	v
-čáhpodahttit:tjáhpudahttet	v
-čákŋat:tjágŋat	v
-čállit:tjállet	v
-šiehttat:sjiehttat	v
-šlaggat:slaggat	v
-šlahttet:slahttet	v
-šlahttit:slahttet	v
-šlahttet:slahttet	v
-šlahttit:slahttet	v
-šloahkkut:sloahkkut	v
-šluvgit:sluvgget	v
-šnjilžut:sjnjilltjut	v
-šnjirralahttit:sjnjirralahttet	v
-šárralahttit:sjárralahttet	v
+allut	allut	v
+albmanahttit	almmanahttet	v
+arvvosmahttit	arvusmahttet	v
+astat	asstat	v
+assut	assut	v
+atnit	adnet	v
+baikit	bajkket	v
+baldit	balldet	v
+ballat	ballat	v
+ballat	ballat	v
+ballát	ballát	v
+ballát	ballát	v
+baskut	basskut	v
+bassit	basset	v
+beahttit	biehttet	v
+bealkit	bielkket	v
+beastit	biesstet	v
+biestit	biesstet	v
+beaskidahttit	biesskedahttet	v
+beaskidahttit	biesskedahttet	v
+berostuvvat	berustuvvat	v
+biebmat	biebbmat	v
+bieggat	bieggat	v
+beastit	biesstet	v
+biestit	biesstet	v
+bieđaldahttit	biedaldahttet	v
+biktit	biktet	v
+bilbut	bilbbut	v
+binnut	binnut	v
+birastahttit	birástahttet	v
+birastahttit	birástahttet	v
+bissut	bissut	v
+bivdit	bivddet	v
+bivvát	bivvát	v
+biđistuvvat	bidestuvvat	v
+boaibmut	boajmmut	v
+boaldit	boalldet	v
+bohčit	båhtjet	v
+boktit	båktet	v
+boltut	bålltut	v
+bordit	bårddet	v
+boršut	bårssjut	v
+borastahttit	båråstahttet	v
+borastahttit	båråstahttet	v
+borastuvvat	båråstuvvat	v
+borjjastahttit	bårjåstahttet	v
+borralahttit	bårrålahttet	v
+borralahttit	bårrålahttet	v
+borrat	bårråt	v
+borrat	bårråt	v
+bostit	båsstet	v
+bostet	båsstet	v
+bossut	båssut	v
+bostit	båsstet	v
+bostet	båsstet	v
+botnit	bådnet	v
+botnjat	bådnjåt	v
+buitit	bujttet	v
+buktit	buktet	v
+bulžut	bulltjut	v
+bulžut	bulltjut	v
+buohcat	buohtsat	v
+buohtastahttit	buohtastahttet	v
+buokčalahttit	buoktjalahttet	v
+buollát	buollát	v
+buoridahttit	buoredahttet	v
+buorástahttit	buorástahttet	v
+buođđut	buoddut	v
+busket	bussket	v
+báhkkot	báhkkut	v
+báidnit	bájnnet	v
+bálkut	bálkkut	v
+báltut	bálltut	v
+bálddastahttit	báldastahttet	v
+bállet	bállet	v
+bárdit	bárddet	v
+bávččagahttit	bávtjagahttet	v
+caggat	tsaggat	v
+cahkkát	tsahkkát	v
+ceaggut	tsieggut	v
+ceavvut	tsievvut	v
+cibmut	tsibbmut	v
+ciehpat	tsiehpat	v
+ciellat	tsiellat	v
+ciellalahttit	tsiellalahttet	v
+cirgut	tsirggut	v
+coggat	tsåggåt	v
+cuovkut	tsuovkkut	v
+cuvket	tsuvkket	v
+cábmit	tsábbmet	v
+cáhkit	tsáhket	v
+cáhpat	tsáhpat	v
+dadjat	dadjat	v
+dadjat	dadjat	v
+dahkat	dahkat	v
+dahppat	dahppat	v
+darvat	darvvat	v
+dassat	dassat	v
+davkat	davkkat	v
+deaddilahttit	dieddelahttet	v
+deaddilahttit	dieddelahttet	v
+deaddit	dieddet	v
+deavdit	dievddet	v
+diehtit	diehtet	v
+diktit	diktet	v
+diktet	diktet	v
+diktit	diktet	v
+diktet	diktet	v
+dimádahttit	dimádahttet	v
+divrut	divrrut	v
+divvut	divvut	v
+doadjit	doadjet	v
+doaivut	doajvvut	v
+doalvut	doalvvut	v
+doarjut	doarjjut	v
+doarggistahttit	doargestahttet	v
+doarrut	doarrut	v
+doarrut	doarrut	v
+doarrát	doarrát	v
+dodjit	dådjet	v
+doidit	dåjddet	v
+dorostahttit	dårustahttet	v
+duogŋat	duoggŋat	v
+duolgut	duolggut	v
+duolbmut	duolmmut	v
+duolmmastuvvat	duolmastuvvat	v
+duorbut	duorbbut	v
+duorrat	duorrat	v
+duostut	duosstut	v
+duostut	duosstut	v
+dutkat	dutkat	v
+duvdit	duvddet	v
+duđđut	duddut	v
+dáhppot	dáhpput	v
+dáigut	dájggut	v
+dáisut	dájssut	v
+dáldut	dálldut	v
+dálkut	dálkkut	v
+dálvat	dálvvat	v
+dálkkodahttit	dálkudahttet	v
+dánsut	dánssut	v
+dápmalahttit	dábmalahttet	v
+dápmat	dábmat	v
+dárkkistahttit	dárkestahttet	v
+eadjit	iedjet	v
+eahccit	iehttset	v
+ealvit	ielvvet	v
+eallit	iellet	v
+eallát	ællát	v
+fierrut	fierrut	v
+friddjot	friddjut	v
+fuoikit	fuojkket	v
+fuoikut	fuojkkut	v
+fuoikut	fuojkkut	v
+fállat	fállat	v
+gahčat	gahtjat	v
+gaikut	gajkkut	v
+gaikut	gajkkut	v
+galšut	galssjut	v
+galbmit	galmmet	v
+galbmot	galmmut	v
+galbmot	galmmut	v
+galljut	galljut	v
+garcut	garttsut	v
+garvit	garvvet	v
+gaskaluhttit	gasskaluhttet	v
+gassut	gassut	v
+gazzat	gadtsat	v
+gazzut	gadtsut	v
+geaidit	giejddet	v
+gealdit	gielldet	v
+gieldit	gielldet	v
+geallat	giellat	v
+giellat	giellat	v
+geardut	gierddut	v
+geassit	giesset	v
+geassut	giessut	v
+geatnit	giednet	v
+gealdit	gielldet	v
+gieldit	gielldet	v
+geallat	giellat	v
+giellat	giellat	v
+gierdat	gierddat	v
+giessat	giessat	v
+giitit	gijttet	v
+giibmut	gijmmut	v
+gilvit	gilvvet	v
+gilljut	gilljut	v
+givdnjut	givnnjut	v
+goaivut	goajvvut	v
+goardit	goarddet	v
+goarrut	goarrut	v
+goddit	gåddet	v
+goddet	gåddet	v
+gođđit	gåddet	v
+goddit	gåddet	v
+goddet	gåddet	v
+gođđit	gåddet	v
+gohcit	gåhtset	v
+gohpat	gåhpåt	v
+gohccát	gåhttsåt	v
+gohččut	gåhttjut	v
+goldit	gålldet	v
+govlut	gåvllut	v
+goččastahttit	gåttjåstahttet	v
+goddit	gåddet	v
+goddet	gåddet	v
+gođđit	gåddet	v
+gožžat	gådtjåt	v
+guhkkut	guhkkut	v
+guhkkut	guhkkut	v
+gulastuvvat	gulástuvvat	v
+gullat	gullat	v
+gullát	gullát	v
+guoddit	guoddet	v
+guođđit	guoddet	v
+guohpat	guohpat	v
+guolljut	guolljut	v
+guorrat	guorrat	v
+guossut	guossut	v
+guovlat	guovllat	v
+guoddit	guoddet	v
+guođđit	guoddet	v
+gurbmut	gurmmut	v
+guvdnjut	guvnnjut	v
+gádjat	gádjat	v
+gáddit	gáddet	v
+gáđđet	gáddet	v
+gággat	gággat	v
+gáhtat	gáhtat	v
+gálgat	gálggat	v
+gállet	gállet	v
+gámodahttit	gámudahttet	v
+gárdut	gárddut	v
+gáržut	gárttjut	v
+gárrat	gárrat	v
+gárrut	gárrut	v
+gáskit	gássket	v
+gávlut	gávllut	v
+gávdnat	gávnnat	v
+gáddit	gáddet	v
+gáđđet	gáddet	v
+heaitit	hiejttet	v
+hilgut	hilggut	v
+hivástahttit	hivástahttet	v
+hivástahttit	hivástahttet	v
+hoigat	håjggåt	v
+holvut	hålvvut	v
+huomáhahttit	huomáhahttet	v
+hálbut	hálbbut	v
+hállat	hállat	v
+hámsut	hámssut	v
+hárdit	hárddet	v
+hárrut	hárrut	v
+hárrut	hárrut	v
+hárret	hárret	v
+hástit	hásstet	v
+hávdut	hávddut	v
+hávkut	hávkkut	v
+hávrut	hávrrut	v
+hávskut	hávsskut	v
+hávvádahttit	hávvádahttet	v
+hávváduhttit	hávváduhttet	v
+iktit	iktet	v
+irrut	irrut	v
+jallut	jallut	v
+jarrut	jarrut	v
+jarrut	jarrut	v
+javlat	javllat	v
+jeahkit	jiehket	v
+johttát	jåhttåt	v
+joksat	jåksåt	v
+jollat	jållåt	v
+jollut	jållut	v
+jollut	jållut	v
+jorgut	jårggut	v
+jorbbodahttit	jårbudahttet	v
+jorgalahttit	jårggålahttet	v
+jostit	jåsstet	v
+jugastuvvat	jugástuvvat	v
+juhkat	juhkat	v
+juohkit	juohket	v
+jáhkkit	jáhkket	v
+jástit	jásstet	v
+jávkadahttit	jávkkadahttet	v
+lahcat	lahtsat	v
+lahpat	lahpat	v
+laigut	lajggut	v
+leahkkut	liehkkut	v
+leavdnut	lievnnut	v
+liikot	lijkkut	v
+livvot	livvut	v
+livvut	livvut	v
+livvot	livvut	v
+livvut	livvut	v
+liškut	lissjkut	v
+loavdit	loavddet	v
+lohkat	låhkåt	v
+lohtat	låhtåt	v
+loktit	låktet	v
+loktet	låktet	v
+loktut	låktut	v
+loktit	låktet	v
+loktet	låktet	v
+lollat	lållåt	v
+losidahttit	låsedahttet	v
+lossut	låssut	v
+luoddut	luoddut	v
+luohpat	luohpat	v
+luoikat	luojkkat	v
+luoitit	luojttet	v
+luoittestuvvat	luojtestuvvat	v
+luoskut	luosskut	v
+láhčit	láhtjet	v
+láhppit	láhppet	v
+láibut	lájbbut	v
+láikut	lájkkut	v
+láitit	lájttet	v
+lállit	lállet	v
+lállet	lállet	v
+lállit	lállet	v
+lállet	lállet	v
+lávgat	lávggat	v
+lávgut	lávggut	v
+lávgut	lávggut	v
+lávkut	lávkkut	v
+lávlut	lávllut	v
+lášmmodahttit	lásjmudahttet	v
+lášmmodahttit	lásjmudahttet	v
+lášmmodahttit	lásjmudahttet	v
+mannut	mannut	v
+massit	masset	v
+maŋidahttit	maŋedahttet	v
+moaitit	moajttet	v
+moardit	moarddet	v
+mollat	mållåt	v
+molsut	målssut	v
+molladahttit	mållådahttet	v
+monnut	månnut	v
+moriidahttit	mårijdahttet	v
+mostut	måsstut	v
+mozzut	mådtsut	v
+muggut	muggut	v
+muhttit	muhttet	v
+muitit	mujttet	v
+muitát	mujttát	v
+muohttit	muohttet	v
+máhccut	máhttsut	v
+máhccut	máhttsut	v
+máhttit	máhttet	v
+máidnut	májnnut	v
+máistit	májsstet	v
+máksit	mákset	v
+nallat	nallat	v
+nannut	nannut	v
+nanosmahttit	nanusmahttet	v
+nanusmahttit	nanusmahttet	v
+nanostahttit	nanustahttet	v
+nanosmahttit	nanusmahttet	v
+nanusmahttit	nanusmahttet	v
+nargit	nargget	v
+navvet	navvet	v
+navvit	navvet	v
+navvet	navvet	v
+navvit	navvet	v
+neaskit	niessket	v
+nihttit	nihttet	v
+nirvut	nirvvut	v
+nivkut	nivkkut	v
+njaddet	njaddet	v
+njađđit	njaddet	v
+njaldit	njalldet	v
+njallut	njallut	v
+njallut	njallut	v
+njammat	njammat	v
+njammat	njammat	v
+njaskut	njasskut	v
+njaskut	njasskut	v
+njazzut	njadtsut	v
+njaddet	njaddet	v
+njađđit	njaddet	v
+njeaidit	njiejddet	v
+njiellat	njiellat	v
+njoallut	njoallut	v
+njoađvut	njoarvvut	v
+njuohpat	njuohpat	v
+njuolgut	njuolggut	v
+njuoskadahttit	njuosskadahttet	v
+njuovvat	njuovvat	v
+njurgut	njurggut	v
+njuvdit	njuvddet	v
+njálgut	njálggut	v
+njámmat	njámmat	v
+njárbut	njárbbut	v
+njávgut	njávggut	v
+njávgut	njávggut	v
+njávkat	njávkkat	v
+noaidut	noajddut	v
+nordat	nårddåt	v
+norrat	nårråt	v
+nuollat	nuollat	v
+nuppástuhttit	nuppástuhttet	v
+nuppástuhttit	nuppástuhttet	v
+nádjat	nádjat	v
+nállat	nállat	v
+návdut	návddut	v
+náđđut	náddut	v
+oaggut	oaggut	v
+oahppat	oahppat	v
+oahpásmuhttit	oahpásmuhttet	v
+oallut	oallut	v
+oastit	oasstet	v
+oađestuvvat	oadestuvvat	v
+oađđát	oaddát	v
+oažžut	oadtjut	v
+ohcat	åhtsåt	v
+oidit	åjddet	v
+ollet	ållet	v
+orrot	årrut	v
+orrut	årrut	v
+orrot	årrut	v
+orrut	årrut	v
+orrot	årrut	v
+orrut	årrut	v
+orrot	årrut	v
+orrut	årrut	v
+oskut	åsskut	v
+ovdánahttit	åvddånahttet	v
+ođasmahttit	ådåsmahttet	v
+ođastuhttit	ådåstuhttet	v
+ođastuhttit	ådåstuhttet	v
+rabbat	rabbat	v
+rahkat	rahkat	v
+rahpat	rahpat	v
+rahtat	rahtat	v
+rahppot	rahpput	v
+ravgut	ravggut	v
+ravgut	ravggut	v
+raššut	rassjut	v
+reavvat	rievvat	v
+riegádahttit	riegádahttet	v
+riegádahttit	riegádahttet	v
+riestit	riesstet	v
+rievvut	rievvut	v
+rievvut	rievvut	v
+riggut	riggut	v
+rihpput	rihpput	v
+rihpput	rihpput	v
+roaškut	roassjkut	v
+roggat	råggåt	v
+ruhpat	ruhpat	v
+ruohkkat	ruohkkat	v
+ruohtastahttit	ruohtastahttet	v
+ruohtastahttit	ruohtastahttet	v
+ruohtastuvvat	ruohtastuvvat	v
+ruohčalahttit	ruohtjalahttet	v
+ruossut	ruossut	v
+ruossut	ruossut	v
+ruovgat	ruovggat	v
+russat	russat	v
+russut	russut	v
+russut	russut	v
+ruvkot	ruvkkut	v
+ruškkodahttit	rusjkudahttet	v
+rádjat	rádjat	v
+ráddut	ráddut	v
+ráddut	ráddut	v
+ráfáiduhttit	ráfájduhttet	v
+ráhkkot	ráhkkut	v
+ráhkkot	ráhkkut	v
+ráhkkot	ráhkkut	v
+ráhččat	ráhttjat	v
+ráigat	rájggat	v
+rássat	rássat	v
+rássut	rássut	v
+rávkat	rávkkat	v
+sadjit	sadjet	v
+saddit	saddet	v
+sajáiduhttit	sajájduhttet	v
+saktut	saktut	v
+saskat	sasskat	v
+savvit	savvet	v
+seaktit	siektet	v
+seastit	siesstet	v
+seavvit	sievvet	v
+sierrat	sierrat	v
+sihtat	sihtat	v
+sihkkut	sihkkut	v
+sillut	sillut	v
+sillut	sillut	v
+sirdit	sirddet	v
+skihppát	skihppát	v
+skilžut	skilltjut	v
+skilžut	skilltjut	v
+skillalahttit	skillalahttet	v
+skoađđut	skoaddut	v
+skuolkut	skuolkkut	v
+skurbat	skurbbat	v
+skárbat	skárbbat	v
+skártut	skárttut	v
+skárrat	skárrat	v
+skávžut	skávttjut	v
+skávvut	skávvut	v
+smiđđut	smiddut	v
+snarrot	snarrut	v
+snorrat	snårråt	v
+snorrát	snårråt	v
+snorrat	snårråt	v
+snorrát	snårråt	v
+snuoggat	snuoggat	v
+soallut	soallut	v
+sodjalahttit	sådjålahttet	v
+sodjalahttit	sådjålahttet	v
+sohpat	såhpåt	v
+sojaldahttit	såjåldahttet	v
+soktut	såktut	v
+soktut	såktut	v
+stávžut	stávttjut	v
+sugadahttit	sugádahttet	v
+sugadahttit	sugádahttet	v
+suhkalahttit	suhkalahttet	v
+suhkalahttit	suhkalahttet	v
+suhkkát	suhkkát	v
+suldit	sulldet	v
+sulastahttit	sulástahttet	v
+sulástahttit	sulástahttet	v
+sulastahttit	sulástahttet	v
+sulástahttit	sulástahttet	v
+suoddat	suoddat	v
+suohpput	suohpput	v
+suokŋat	suogŋat	v
+suoládahttit	suoládahttet	v
+suoláduhttit	suoláduhttet	v
+suoskat	suosskat	v
+suovastuhttit	suovastuhttet	v
+suovvat	suovvat	v
+surgat	surggat	v
+surrat	surrat	v
+suvdit	suvddet	v
+suvrut	suvrrut	v
+sággat	sággat	v
+sággut	sággut	v
+sáhpput	sáhpput	v
+sállat	sállat	v
+sáltut	sálltut	v
+sárgut	sárggut	v
+sárdnut	sárnnut	v
+sárrat	sárrat	v
+sávrut	sávrrut	v
+sávvat	sávvat	v
+udnot	uddnut	v
+uhccut	uhttsut	v
+unnut	unnut	v
+vadjat	vadjat	v
+vadjáluhttit	vadjáluhttet	v
+vahágahttit	vahágahttet	v
+vaháguhttit	vaháguhttet	v
+vajáldahttit	vajáldahttet	v
+vajálduhttit	vajálduhttet	v
+valljut	valljut	v
+vatnalahttit	vadnalahttet	v
+vađđut	vaddut	v
+veaddját	væddját	v
+veastit	viesstet	v
+veavdit	vievddet	v
+viehkalahttit	viehkalahttet	v
+viehkalahttit	viehkalahttet	v
+viežžat	viedtjat	v
+viidut	vijddut	v
+viisut	vijssut	v
+viššat	vissjat	v
+vuodjit	vuodjet	v
+vuoddját	vuoddját	v
+vuodjalahttit	vuodjalahttet	v
+vuodjilahttit	vuodjelahttet	v
+vuodjilahttit	vuodjelahttet	v
+vuohčit	vuohtjet	v
+vuohpput	vuohpput	v
+vuohttit	vuohttet	v
+vuohttut	vuohttut	v
+vuohttut	vuohttut	v
+vuohttut	vuohttut	v
+vuoidat	vuojddat	v
+vuoitit	vuojttet	v
+vuoigŋat	vuojŋŋat	v
+vuoksit	vuokset	v
+vuollat	vuollat	v
+vuordit	vuorddet	v
+vuorkut	vuorkkut	v
+vuordnut	vuornnut	v
+vuorrástuhttit	vuorrástuhttet	v
+vuođgŋit	vuorŋŋet	v
+váidit	vájddet	v
+váidut	vájddut	v
+váidut	vájddut	v
+vákšut	váksjut	v
+vákšot	váksjut	v
+vákšut	váksjut	v
+vákšot	váksjut	v
+vákšut	váksjut	v
+vákšot	váksjut	v
+vákšut	váksjut	v
+vákšot	váksjut	v
+váldit	válldet	v
+vállut	vállut	v
+vázzilahttit	vádtselahttet	v
+vázzilahttit	vádtselahttet	v
+vázzát	vádtsát	v
+áicat	ájttsat	v
+áigut	ájggut	v
+áitit	ájttet	v
+árrit	árret	v
+árvedahttit	árvvedahttet	v
+árvidahttit	árvvedahttet	v
+árvedahttit	árvvedahttet	v
+árvidahttit	árvvedahttet	v
+ássut	ássut	v
+áššáiduhttit	ássjájduhttet	v
+áššáskuhttit	ássjáskuhttet	v
+čagarduhttit	tjagárduhttet	v
+čalbmat	tjalmmat	v
+čallat	tjallat	v
+časkit	tjassket	v
+čatnat	tjadnat	v
+čavdut	tjavddut	v
+čavgut	tjavggut	v
+čiehkat	tjiehkat	v
+čiehkádahttit	tjiehkádahttet	v
+čiekčat	tjiektjat	v
+čierrut	tjierrut	v
+čierrut	tjierrut	v
+čieskat	tjiesskat	v
+čiktit	tjiktet	v
+čilvut	tjilvvut	v
+čoaggit	tjoagget	v
+čoallut	tjoallut	v
+čoavdit	tjoavddet	v
+čogastahttit	tjågåstahttet	v
+čohkat	tjåhkåt	v
+čolgat	tjålggåt	v
+čollut	tjållut	v
+čorbmat	tjårmmåt	v
+čuodjalahttit	tjuodjalahttet	v
+čuoggut	tjuoggut	v
+čuohkat	tjuohkat	v
+čuohppat	tjuohppat	v
+čuoigalahttit	tjuojggalahttet	v
+čuoigát	tjuojggát	v
+čuoldit	tjuolldet	v
+čuollat	tjuollat	v
+čuollát	tjuollát	v
+čuopmat	tjuobmat	v
+čuorvut	tjuorvvut	v
+čuovvut	tjuovvut	v
+čuoččáldahttit	tjuottjáldahttet	v
+čábbut	tjábbut	v
+čáhpodahttit	tjáhpudahttet	v
+čáhpodahttit	tjáhpudahttet	v
+čákŋat	tjágŋat	v
+čállit	tjállet	v
+šiehttat	sjiehttat	v
+šlaggat	slaggat	v
+šlahttet	slahttet	v
+šlahttit	slahttet	v
+šlahttet	slahttet	v
+šlahttit	slahttet	v
+šloahkkut	sloahkkut	v
+šluvgit	sluvgget	v
+šnjilžut	sjnjilltjut	v
+šnjirralahttit	sjnjirralahttet	v
+šárralahttit	sjárralahttet	v
