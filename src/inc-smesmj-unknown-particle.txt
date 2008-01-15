@@ -1,5 +1,3 @@
-                                   100%
-0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>	pcle
 abai	abáj	pcle
 ahteson	ahteson	pcle
 aitto	ajto	pcle
@@ -34,7 +32,3 @@ got	gåt	pcle
 hás	hás	pcle
 hal	hal	pcle
 han	han	pcle
-na	na	pcle
-nai	naj	pcle
-no	no	pcle
-noa	noa	pcle
