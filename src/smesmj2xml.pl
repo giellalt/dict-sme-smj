@@ -26,9 +26,9 @@ use encoding 'utf-8';
 # File and directory variables:
 $SRCDIR = ".";
 
-$CSVF = $SRCDIR . "smesmj.txt";
+$CSVF = $SRCDIR . "/smesmj.txt";
 #$CSVF = $SRCDIR . "/test.csv";
-$DICT = $SRCDIR . "smesmj.xml";
+$DICT = $SRCDIR . "/smesmj.xml";
 
 open CSVF or die "Can't find file $CSVF: $!\n";
 open DICT, ">$DICT" or die "Can't open file $DICT: $!\n";
@@ -40,12 +40,12 @@ $line = <CSVF> ;
 while ( $line = <CSVF> ) {
 	chomp $line;
 	($sme,
-	 $smj
+	 $smj,
      $POS)
 	   = split /\t/, $line ;
 #    print "Lina er: $line\n";
 #    print "Lemma er: $Lemma\n";
-    $Lemma =~ s/"\W?(\w)/$1/; # rens $Lemma for " og ^L
+#    $Lemma =~ s/"\W?(\w)/$1/; # rens $Lemma for " og ^L
     print DICT "\t<entry>\n";
     print DICT "\t  <lemma POS=\"$POS\">$sme</lemma>\n";
     print DICT "\t  <mgr>\n";
