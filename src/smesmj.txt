@@ -27221,7 +27221,7 @@ baskut	basskut	v
 bassalit	bassalit	v
 bassan#guoppar	bassan#guoppar		n
 bassasat	bassasat		n
-bassat	v
+bassat	bassat	v
 basseaŋŋa	basseaŋŋa		n
 bassen#muorra	bassen#muorra		n
 basseŋŋa	basseŋŋa		n
@@ -34462,7 +34462,7 @@ ovdadilljá	åvddådilljá	n
 ovdadit	goavsodit	v
 ovdagiehta	åvddågiehta	n
 ovdal	åvddål	adv
-ovdal% go	åvddål% gå% cs
+ovdal% go	åvddål% gå	cs
 ovdalii	åvddålij	adv
 ovdamadda	åvddåmadda	n
 ovdan	åvddån	adv
@@ -34476,17 +34476,17 @@ ovddas#vástidit	åvdåsvásstedit	v
 ovddastit	åvdåstit	v
 ovddeštit	ådåstahttet	v
 ovddibui	åvdebuj	adv
-ovddidan#foanda	åvdedan#foannda	n
-ovddidan#per^spektiiva	ovddidan#per^spektiiva		n
-ovddidan#pro^grámma	åvdedan#pro^grámma	n
-ovddidan#prošeakta	åvdedan#prosjækta	n
+ovddidan#foanda	åvddånahttem#foannda	n
+ovddidan#per^spektiiva	åvddånahttem#per^spektijva	n
+ovddidan#pro^grámma	åvddånahttem#pro^grámma	n
+ovddidan#prošeakta	åvddånahttem#prosjækta	n
 ovddidit	åvdedit	v
 ovddošit	åvdutjit	v
 ovdduštit	ådåstahttet	v
 ovdán	åvddån	adv
-ovdánahttin#foanda	åvddånahttin#foannda	n
-ovdánahttin#pro^grámma	åvddånahttin#pro^grámma	n
-ovdánahttin#prošeakta	åvddånahttin#prosjækta	n
+ovdánahttin#foanda	åvddånahttem#foannda	n
+ovdánahttin#pro^grámma	åvddånahttem#pro^grámma	n
+ovdánahttin#prošeakta	åvddånahttem#prosjækta	n
 ovdánahttit	åvddånahttet	v
 ovdánit	åvddånit	v
 ovsttán	åvstån	n
@@ -35922,7 +35922,7 @@ sexa	sexa		n
 sexdebuteret	sexdebuterit	v
 sešuvdna	sesjåvnnå	n
 shinto^isma	shinto^issma	n
-show	shån
+show	shåvvå	n
 sidja	sidja		n
 sidjá	sidjá		n
 siedja	siedja		n
