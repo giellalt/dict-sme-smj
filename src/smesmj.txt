@@ -34477,7 +34477,7 @@ ovddastit	åvdåstit	v
 ovddeštit	ådåstahttet	v
 ovddibui	åvdebuj	adv
 ovddidan#foanda	åvddånahttem#foannda	n
-ovddidan#per^spektiiva	åvddånahttem#per^spektijva	n
+ovddidan#per^spektiiva	åvddånahttem#per^spektijva		n
 ovddidan#pro^grámma	åvddånahttem#pro^grámma	n
 ovddidan#prošeakta	åvddånahttem#prosjækta	n
 ovddidit	åvdedit	v
@@ -34490,14 +34490,14 @@ ovdánahttin#prošeakta	åvddånahttem#prosjækta	n
 ovdánahttit	åvddånahttet	v
 ovdánit	åvddånit	v
 ovsttán	åvstån	n
-ovtta#dássásašvuođa#per^spektiiva	ovtta#dássásašvuođa#per^spektiiva		n
-ovttaahkásaš	åvtåahkásasj	a
-ovttajahkásaš	åvtåjahkásasj	a
-ovttajienalaš	åvtåjienalasj	a
-ovttajienalaččat	åvtåjienalattjat	adv
-ovttaláhkásaš	åvtåláhkásasj	a
-ovttamielalaš	åvtåmielalasj	a
-ovttamielalaččat	åvtåmielalattjat	adv
+ovtta#dássásašvuođa#per^spektiiva	avta#dássásjvuoda#per^spektijvva	n
+ovttaahkásaš	avtavuorrasasj	a
+ovttajahkásaš	avtajahkásasj	a
+ovttajienalaš	avtajienalasj	a
+ovttajienalaččat	avtajienalattjat	adv
+ovttaláhkásaš	avtaláhkásasj	a
+ovttamielalaš	avtamielalasj	a
+ovttamielalaččat	avtamielalattjat	adv
 ovttas#bargo#prošeakta	åvtås#barggo#prosjækta	n
 oxideret	oxiderit	v
 ozadit	åtsådit	v
@@ -34512,12 +34512,12 @@ ođastit	ådåstit	v
 ođastuhttit	ådåstuhttet	v
 ođastus	ådåstus	n
 ođasášši	ådåsássje	n
-ođđa#áigge#teknologiija	oddo#ájge#teknologija	n
+ođđa#áigge#teknologiija	ådå#ájge#teknologija	n
 ožžodit	guoddudit	v
 oččodit	åttjudit	v
 p-pilla	p-pilla		n
 p-pillar	p-pillar		n
-p-piller	p-piller		n
+p-piller	p-pillar		n
 pacificeret	pacificerit	v
 paganisma	paganissma		n
 pagineret	paginerit	v
@@ -39258,3 +39258,16 @@ kvarteahtta	kvarttæhtta	n
 granihtta	granihtta	n
 merihtta	merihtta	n
 fasihtta	fasihtta	n
+baiás#boktalit	bajásbåktålit	v
+baiás#dásidit	bajásdásedit	v
+baiás#čuožžilit	bajástjuodtjelit	v
+baiás#šaddadit	bajássjaddadit	v
+buđodit	buodudit	v
+buđđosit	buodusit	v
+buškalit	tsåggålit	v
+báhčalit	vuotjatjit	v
+báhčilit	vuohtjelit	v
+báitalit	bájttalit	v
+bálkestit	bálkestit	v
+
+
