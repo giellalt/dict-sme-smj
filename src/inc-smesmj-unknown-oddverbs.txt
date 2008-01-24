@@ -373,11 +373,11 @@ cussalit	tsussalit	v
 cussuhit	tsussodit	v
 cuvccastit	tsuvttsastit	v
 cuvistit	tsuvestit	v
-cuvkalit	tsuvkkalit	v
-cuvkkuhit	tsuvkodit	v
-cuvkkádit	tsuvkádit	v
+cuvkalit	snjamkalit	v	w
+cuvkkuhit	snjamkadit	v	w
+cuvkkádit	snjamkedit	v	w
 cuŋkalit	tsuŋkkalit	v
-cáhcasit	tsáhtsasit	v
+cáhcasit	sáhtsasit	v	w
 cáiccagit	tsájtsagit	v
 cáiccistit	tsájtsestit	v
 cáiccáskit	tsájtsáskit	v
@@ -512,15 +512,15 @@ doavskalit	doavsskalit	v
 doavskkašit	doavskatjit	v
 doavskkuhit	doavskodit	v
 doaŋgudit	doaŋggodit	v
-doaškalit	doassjkalit	v
-doaškkihit	doasjkedit	v
+doaškalit	dåsskålit	v	w
+doaškkihit	dåskedit	v	w
 doađđihit	doattjedit	v
 doažžudit	doadtjodit	v
-doddjohit	dåddjudit	v
+doddjohit	doaddjuhit	v	w
 dohkasmit	dåhkåsmit	v
 dohppehit	dåhppidit	v
-dohppestit	dåhppistit	v
-dohraidit	dåhråjdit	v
+dohppestit	doahppistit	v	w
+dohraidit	dåhråjdit	v	xxx
 doldudit	dålldodit	v
 dolkadit	dålkkådit	v
 dolkalit	dålkkålit	v
@@ -2055,7 +2055,7 @@ ortniidit	årnijdit	v
 ovda#láigohit	åvddålájggudit	v
 ovdan#loaiddastit	åvddånloajdastit	v
 ovdan#čáje7hit	åvddåntjájedit	v
-ovdehit	åvddidit	v	xxx
+ovdehit	åvddidit	v
 ovehit	åvidit	v
 ovttaidit	åvtåjdit	v	x
 ovttastit	åvtåstit	v

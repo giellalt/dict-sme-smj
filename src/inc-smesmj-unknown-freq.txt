@@ -5,81 +5,81 @@ maiddái		aj	adv
 olmmoš	ulmusj	n
 mielde	maŋen	pp
 maid	aj	adv
-Finnmárku	
-oktavuohta	
-boahtit	
-šaddat	
-addit	
-geavahit	
-sáme#giella	
-boazo#doallu	
-Norga	
-bidjat	
-okta	
+Finnmárku	Finnmárkko	prop
+oktavuohta	Aktisasjvuohta	n
+boahtit	boahtet	v
+šaddat	sjaddat	v
+addit	vaddet	v
+geavahit	adnet	v
+sáme#giella	sámegiella	n
+boazo#doallu	boatsojbarggo	n
+Norga	Vuodna	prop
+bidjat	biedjat	v
+okta	akta	n
 b	
-buot	
-dušše	
-ge	
-ektui	
-sihke	
-oaidnit	
-eana	
-vuoigatvuohta	
-gos	
-sápmelaš	
-doarjja	
-deaŧalaš	
-ráhkadit	
-mielde	
-ásahit	
-vuođul	
-čujuhit	
-beassat	
-meannudit	
-álbmot	
-guoskat	
-bokte	
-Sámediggeráđđi	
-olu	
-boazu	
-lávde#goddi	
-nr	
-mannat	
-rájes	
-vuođđu	
-vel	
-čájehit	
-ollu	
-guokte	
-ieš#guhtet	
-deattuhit	
-árvvoštallat	
-nannet	
-dasto	
+buot	divna	pron
+dušše	dåssju	adv
+ge	ga	pcle
+ektui	x
+sihke	sihke adv
+oaidnit	vuojnnet	v
+eana	ednam	n
+vuoigatvuohta	rievtesvuohta	n
+gos	gåsi	adv
+sápmelaš	sábme	n
+doarjja	doarjja	n
+deaŧalaš	ájnas	a
+ráhkadit	dahkat	v
+mielde	maŋen	adv
+ásahit	ásadit	v
+vuođul	x
+čujuhit	x
+beassat	bessat v
+meannudit	x
+álbmot	álmmuk	n
+guoskat	guosskat	v
+bokte	baktu	adv
+Sámediggeráđđi	Sámediggeráde	n
+olu	ållo	pron
+boazu	boatsoj	n
+lávde#goddi	nammadus	n
+nr	nr	n
+mannat	mannat	v
+rájes	rájes	pp
+vuođđu	vuodo	n
+vel	vil	adv
+čájehit	vuosedit	v
+ollu	ållo	pron
+guokte	guokta adv
+ieš#guhtet	iesj guhtik	p
+deattuhit	dættodit	v
+árvvoštallat	árvustallat	v
+nannet	nannit	v
+dasto	dassta maŋŋela	adv
 s	
-ássat	
-juohke	
-áirras	
-servodat	
-veadju	
-ulbmil	
-Guovdageaidnu	
-eaktu	
-oahpahus	
-dehálaš	
-čoahkkin	
-sátni	
-dihte	
-ráđđehus	
-evttohit	
-evttohus	
-geahččat	
-eise#váldi	
-berret	
-Kárášjohka	
-fas	
-erenoamážit	
-ovddas#vástádus	
+ássat	årrot	v
+juohke	johkka	pron
+áirras	ájras	n
+servodat	sebrudahka	n
+veadju	x
+ulbmil	ulmme	n
+Guovdageaidnu	Guovdagæjnno	prop
+eaktu	ækto	n
+oahpahus	åhpadus	n
+dehálaš	ájnas	a
+čoahkkin	tjåhkanibme	n
+sátni	báhko	n
+dihte	x
+ráđđehus	ráddidus	n
+evttohit	ævtodit	v
+evttohus	oajvvadus	n
+geahččat	gæhttjat	v
+eise#váldi	fábmodus	n
+berret	bierrit	v
+Kárášjohka	Kárássjåhkå	prop
+fas	vas	adv
+erenoamážit	ájnnasit	adv
+ovddas#vástádus	åvdåsvásstádus	n
 dáfus	
 váttis	
 cealkit	
