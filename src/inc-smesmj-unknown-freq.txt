@@ -49,14 +49,13 @@ rájes	rájes	pp
 vuođđu	vuodo	n
 vel	vil	adv
 čájehit	vuosedit	v
-ollu	ållo	pron
-guokte	guokta adv
+ollu	ållo	adv
+guokte	guokta	n
 ieš#guhtet	iesj guhtik	p
 deattuhit	dættodit	v
 árvvoštallat	árvustallat	v
 nannet	nannit	v
-dasto	dassta maŋŋela	adv
-s	
+dasto	das#maŋŋela	adv
 ássat	årrot	v
 juohke	johkka	pron
 áirras	ájras	n
@@ -80,68 +79,63 @@ Kárášjohka	Kárássjåhkå	prop
 fas	vas	adv
 erenoamážit	ájnnasit	adv
 ovddas#vástádus	åvdåsvásstádus	n
-dáfus	
-váttis	
-cealkit	
-skuvla	
-máŋga	
-geažil	
-doaibma#bidju	
-eret	
-namuhit	
-váikkuhit	
-muđui	
-eanet	
-vuosttaš	
-válljet	
-joavku	
-čuovvovaš	
-dáčča	
-geavaheapmi	
-garas	
-čilget	
-beroštupmi	
-mearkkašupmi	
-rievdadit	
-ovttas#bargu	
-mo	
-árbe#vierru	
-sáddet	
-1	
-ruvdnu	
-ovda#mearka	
-sihkkarastit	
-movt	
-mánáid#gárdi	
-ipmil	
-jođiheaddji	
-gažaldat	
-doarjja#stivra	
-oaidnu	
-vuoigat	
-2	
-omd	
-áigodat	
-golbma	
-lohpi	
-ee	
-2001	
-doallat	
-eambbo	
-searvat	
-dáhttut	
-bures	
-dálá	
-doaibmat	
-álgit	
-gustot	
-oktasaš	
-hukset	
-Romsa	
-politihkalaš	
+dáfus	diehti	pp
+váttis	gássjelis a
+cealkit	javllat	v
+skuvla	skåvllå	n
+máŋga	moadda	pron
+geažil	x
+doaibma#bidju	x
+eret	x
+namuhit	nammadit	v
+váikkuhit	vájkudit	v
+muđui	ietján	adv
+eanet	ienep	adv
+vuosttaš	vuoastasj	a
+válljet	válljit	v
+joavku	juogos	n
+čuovvovaš	tjuovvovasj	a
+dáčča	ládde 	n
+geavaheapmi	adno	n
+garas	garras	a
+čilget	tjielggit	v
+beroštupmi	berustibme	n
+mearkkašupmi	tsuojggidus	n
+rievdadit	rievdadit	v
+ovttas#bargu	aktisasjbarggo	n
+mo	gåktus	adv
+árbe#vierru	árbbedáhpe	n
+sáddet	sáddit	v
+ruvdnu	kråvnnå	n
+ovda#mearka	åvddåmærkka	n
+sihkkarastit	tjårggit	v
+movt	gåktu	adv
+mánáid#gárdi	mánájgárdde	n
+ipmil	jubmel	n
+jođiheaddji	jådediddje	n
+gažaldat	gatjálvis	n
+doarjja#stivra	doarjjastivrra	n
+oaidnu	vuojnno	n
+vuoigat	rievtes	x
+omd	dagu	adv
+áigodat	gávdda	n
+golbma	gålmmå	n
+lohpi	loahpe	n
+doallat	ásadit	v
+eambbo	ienebuv	adv
+searvat	sæbrrat	v
+dáhttut	tsæhkkat	n
+bures	buorak	a
+dálá	dálásj	a
+doaibmat	doajmmat	v
+álgit	álgget	v
+gustot	gullu	v
+oktasaš	aktisasj	a
+hukset	tsieggit	v
+Romsa	Råmsså	prop
+politihkalaš	politihkalasj	a
 šat	
 eami#álbmot	
-kr	
 ásahus	
 Deatnu	
 sullii	
@@ -155,7 +149,6 @@ i
 dievas#čoahkkin	
 mihtto#mearri	
 ovddas	
-2005	
 oahppu	
 dávjá	
 ná	
