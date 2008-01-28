@@ -1,3 +1,5 @@
+x have to check
+xx missing classification
 nu	nu	adv
 Sápmi	Sábme	prop
 fertet	vierttit	v
@@ -16,7 +18,6 @@ boazo#doallu	boatsojbarggo	n
 Norga	Vuodna	prop
 bidjat	biedjat	v
 okta	akta	n
-b	
 buot	divna	pron
 dušše	dåssju	adv
 ge	ga	pcle
@@ -51,7 +52,7 @@ vel	vil	adv
 čájehit	vuosedit	v
 ollu	ållo	adv
 guokte	guokta	n
-ieš#guhtet	iesj guhtik	p
+ieš#guhtet	iesjguhtik	p
 deattuhit	dættodit	v
 árvvoštallat	árvustallat	v
 nannet	nannit	v
@@ -116,7 +117,7 @@ jođiheaddji	jådediddje	n
 gažaldat	gatjálvis	n
 doarjja#stivra	doarjjastivrra	n
 oaidnu	vuojnno	n
-vuoigat	rievtes	x
+vuoigat	rievtes	xx
 omd	dagu	adv
 áigodat	gávdda	n
 golbma	gålmmå	n
@@ -134,111 +135,102 @@ oktasaš	aktisasj	a
 hukset	tsieggit	v
 Romsa	Råmsså	prop
 politihkalaš	politihkalasj	a
-šat	
-eami#álbmot	
-ásahus	
-Deatnu	
-sullii	
-orgána	
-Suopma	
-boahtte#áigi	
-gč	
-riekti	
-ortnet	
-i	
-dievas#čoahkkin	
-mihtto#mearri	
-ovddas	
-oahppu	
-dávjá	
-ná	
-2000	
-3	
-hálddašeapmi	
-ohcan	
-eambbo	
-vejolašvuohta	
-earenoamážit	
-orohat	
-erenoamáš	
-ovdáneapmi	
-dáhpáhuvvat	
-1999	
-hárrái	
-vuolgit	
-searvi	
-láhka#ásahus	
-duođaštit	
-2002	
-riddu	
-Ruoŧŧa	
-vuovdit	
-dasa	
-eanet	
-geahččalit	
-han	
-ovttas	
-dovdat	
-luondu	
-bearaš	
-joatkit	
-dii	
-ollislaš	
-dihtii	
-rádjái	
-stuorra#diggi	
-veahá	
-gonagas	
-doarvi	
-a	
-fylkka#gielda	
-várás	
-ovttaskas	
-miesse#mánnu	
-dattetge	
-4	
-haga	
-boazo#lohku	
-bargiid#bellodat	
-maŋit	
-2004	
-ollu	
-5	
-sámedigge#joavku	
-geasse#mánnu	
-vuosttas	
-guolle#bivdu	
-árvvoštallan	
-oktii#buot	
-riikkaidgaskasaš	
-jearrat	
-headju	
-alla#skuvla	
-guovva#mánnu	
-eanan#doallu	
-oahppo#neavvu	
-nappo	
-gealbu	
-2003	
-vuhtii	
-datte	
-dihto	
-jna	
-boazo#sápmelaš	
-áddet	
-mearrádus#árvalus	
-oaivil	
-dárbbašlaš	
-guolástit	
-Áltá	
-dáro#giella	
-soaitit	
-máilbmi	
-jienasteapmi	
-miljon	
+šat dasti	adv
+eami#álbmot	iemeálmmuk	n
+ásahus	ásadus	n
+Deatnu	Dædno	prop
+sullii	bájkoj	adv
+orgána	orgána	n
+Suopma	Suobma	prop
+boahtte#áigi	boahtteájgge	adv
+gč	bs	xx
+riekti	riekta	v
+ortnet	x
+ii	ij	v
+dievas#čoahkkin	dievastjåhkånibme	n
+mihtto#mearri	mihttomierre	n	
+ovddas	åvdås	adv
+oahppu	oahppa	n
+dávjá	álu	adv
+ná	náv	adv
+hálddašeapmi	háldadus	n	
+ohcan	åhtså	n
+eambbo	ienebu	a
+vejolašvuohta	vejulasjvuohta	n
+earenoamážit	sierraláhkáj	adv
+orohat	årudajhka	n
+erenoamáš	sierralágásj	a
+ovdáneapmi	åvddånibme	n
+dáhpáhuvvat	dáhpáduvvat	v
+hárrái	hárráj	xx	
+vuolgit	vuolgget	v
+searvi	siebrre	n
+láhka#ásahus	láhkaásadus	n
+duođaštit	duodastit	v
+riddu	merraguovllo	n
+Ruoŧŧa	Svierik	prop
+vuovdit	vuobddet	v
+dasa	dasi	pron
+eanet	ienep	adv
+geahččalit	gæhttjalit	v
+han	x
+ovttas	aktij	adv	
+dovdat	dåbddåt	v
+luondu	luonndo	n
+bearaš	berasj	n
+joatkit	joarkket	v
+dii	didja	pron
+ollislaš	åbbålasj	a
+dihtii	diehti	xx	
+rádjái	rádjáj	adv
+stuorra#diggi	stuorradigge	n
+veahá	vehi	adv
+gonagas	gånågis	n
+doarvi	nuoges	a
+fylkka#gielda	fylkkasuohkan	n
+várás	gáktuj	po
+ovttaskas	aktugasj	a
+miesse#mánnu	moarmesmánno	n
+dattetge	huoman	a
+haga	dagá	po
+boazo#lohku boatsojlåhko	n
+bargiid#bellodat	barggijbelludahka	prop
+maŋit	maŋŋe	a
+ollu	ållo	a
+sámedigge#joavku sámediggejuogos	n	
+geasse#mánnu	biehtsemánno	n
+vuosttas	vuostasj	num	
+guolle#bivdu	guollebivddo	n	
+árvvoštallan	árvustallat	v
+oktii#buot	tjoahkkáj	adv
+riikkaidgaskasaš	rijkajgasskasasj	a
+jearrat	gatjádit	v
+headju	hædjo	a
+alla#skuvla	allaskåvllå	n
+guovva#mánnu	guovvamánno	n
+eanan#doallu	ednambarggo	n
+oahppo#neavvu	oahppamnævvo	n
+nappo	nappu	adv
+gealbu	máhtto	n
+vuhtii	x
+datte	huoman	a
+dihto	x
+jna	jnv	xx
+boazo#sápmelaš	ællosábme	n	
+áddet	dádjadit	v
+mearrádus#árvalus	mærrádusárvvalus	n
+oaivil	x
+dárbbašlaš	dárbulasj	a
+guolástit	guollit	v
+Áltá	Áltá	prop
+dáro#giella	dárogiella	n
+soaitit	soajttet	v
+máilbmi	værált	n
+jienasteapmi	jienastus	n
+miljon	milijåvnnå	num
 vrd	
 eallu	
-nisson#olmmoš	
+nisson#olmmoš	nissunulmusj	n
 vuos	
 vuoigatvuođalávde#goddi	
 lunddolaš	
