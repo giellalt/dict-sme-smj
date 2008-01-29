@@ -39520,8 +39520,8 @@ nuortalaš	gålldåsábme	n
 dárbbaš	dárbbo	n
 dohko	dåhku	adv	
 kultuvrralaš	kultuvrralasj	a
-milj	milj num
-doarjja#ortnet	doarjjaårnik	n
+milj	milj	num
+doarjjaortnet	doarjjaårnik	n
 gokčat	gåbttjåt	v
 gokčat	gábttjat	v
 CE-merket	CE-mierkkit	v
