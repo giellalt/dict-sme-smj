@@ -1,41 +1,10 @@
-CE-merket	CE-mierkkit	v	w
-a^krediteret	a^krediterit	v	w
-a^spireret	a^spirerit	v	w
-a^stringeret	a^stringerit	v	w
 abmet	abbmet	v
-abbrevi^eret	abbrevi^erit	v	w
-ac^klimatiseret	ac^klimátiserit	v	w
-ad^stringeret	ad^stringerit	v	w
-addit	vaddet	v	w
-administreret	admenistrerit	v	w
-adresseret	adresserit	v	w
-adopteret	adopterit	v	w
-ađahuhttit	adáhuhttet	v	w
-ahccohaddat	ahttsuhaddat	v	w
-ahccohallat	ahttsuhallat	v	w
-ahccát	ahttsát	v	w
-ahttohallat	ahttuhallat	v	w
-aiddostahttit	ajdustahttet	v	w
-aiget	ajgget	v	w
-ak^klimatiseret	ak^klimátiserit	v	w
-aksentu^eret	aksentu^erit	v	w
-aktiveret	aktiverit	v	w
-aktu^aliseret	aktu^aliserit	v	w
-aktu^eret	aktu^erit	v	w
-ali^eneret	ali^enerit	v	w
-alli^eret	alli^erit	v	w
 allut	allut	v
 albmanahttit	almmanahttet	v
 albmot#válljet	almmut#válljet	v
-almmostahttit	almmustahttet	v	w
-almmustahttit	almmustahttet	v	w
-almmustuhttit	almmustuhttet	v	w
 alvvahuhttit	alvahuhttet	v
-alarmeret	alarmerit	v	w
 amastit	amástet	v
 anihahttit	anehahttet	v
-anglifi^eret	anglefe^erit	v	w
-analyseret	anályserit	v	w
 ap^plikeret	ap^plikerit	v
 ap^pliseret	ap^pliseret	v
 ap^pliceret	ap^plitseret	v
