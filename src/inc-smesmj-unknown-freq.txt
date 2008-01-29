@@ -17,6 +17,68 @@ vuhtii	x
 dihto	x
 jna	jnv	xx
 oaivil	x
+<<<<<<< inc-smesmj-unknown-freq.txt
+dárbbašlaš	dárbulasj	a
+guolástit	guollit	v
+Áltá	Áltá	prop
+dáro#giella	dárogiella	n
+soaitit	soajttet	v
+máilbmi	værált	n
+jienasteapmi	jienastus	n
+miljon	milijåvnnå	num
+vrd	bs	v
+eallu	ællo	n
+nisson#olmmoš	nissunulmusj	n
+vuos	vuostasj	num
+vuoigatvuođalávde#goddi	rievtesvuodanammadus	n
+lunddolaš	luondulasj	a
+cealkámuš	javllamus	n
+sis#doallu	sisadno	n
+organiseret	organiserit	v
+dáidit	x
+geaidnu	gæjnno	n
+fanas	vanntsa	n
+fálaldat	fálaldak	n
+Gáivuotna	Gájvuodna	prop
+gieđahallat	giehtadallat	v
+jurddašit	ájádallat	v
+allat	x
+boađus	skierres	n
+earenoamáš	sierralágásj	n
+ráddjet	ráddjit	v
+olis	x
+Njávdán	Njávdán	prop
+hálddašan#guovlu	háldadimguovllo	n
+nohkat	nåhkkut	v
+dađistaga	maŋenagi	adv
+mielddis#buktit	doalvvot	v
+reive	girjje	n
+seammás	sæmmi	adv
+gaskka	gasska	n
+ovddas	åvdås	adv
+eavttuhus	oajvvadus	n
+Máhtte	x
+dainna	dajna	adv
+maŋimuš	maŋemus	a
+historjá	histåvrrå	n
+várret	várrodit	v
+ru	x
+áddejupmi	dádjadus		
+háhkat	háhkuhit	v
+eanet#lohku	ieneplåhko	n
+giella#ráđđi	giellaráde	n
+čohkket	tjoahkkit
+boazo#doalli	boatsjojbarggo	n
+dáža	dáttjav	n
+nuortalaš	gålldåsábme	n
+dárbbaš	dárbbo	n
+dohko	dåhku	adv	
+kultuvrralaš	kultuvrralasj	a
+milj	milj num
+doarjja#ortnet	doarjjaårnik	n
+gokčat	gåbttjåt	v
+gokčat	gábttjat	v
+=======
 x have to check
 xx missing classification
 vrd	
@@ -73,6 +135,7 @@ kultuvrralaš
 milj	
 doarjja#ortnet	
 gokčat	
+>>>>>>> 1.5
 gaskal	
 ovddeš	
 ávžžuhit	
