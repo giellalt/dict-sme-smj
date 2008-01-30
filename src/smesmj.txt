@@ -39019,7 +39019,7 @@ zoologiija	zoologija	n
 čohkkedit	tjåhkkidit	v
 čohkkehit	tjåhkkidit	v
 čohkken#prošeakta	tjåhkken#prosjækta	n
-čohkket	tjoahkkit
+čohkket	tjoahkkit	v
 čohkkáhit	tjåhkkåhit	v
 čohkodit	tjåhkudit	v
 čohkulit	tjåhkolit	v
