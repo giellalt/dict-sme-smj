@@ -28,7 +28,7 @@ $SRCDIR = ".";
 
 $CSVF = $SRCDIR . "/smesmj.txt";
 #$CSVF = $SRCDIR . "/test.csv";
-$DICT = $SRCDIR . "/smesmj.xml";
+$DICT = $SRCDIR . "/../bin/smesmj.xml";
 
 open CSVF or die "Can't find file $CSVF: $!\n";
 open DICT, ">$DICT" or die "Can't open file $DICT: $!\n";
