@@ -28,10 +28,6 @@ Máhtte	x
 gaskal	x	
 
 
-vrd	bs	v
-eallu	ællo	n
-ovddeš	åvdusj	a
-ávžžuhit	ávttjit	v
 vrd	
 eallu	
 vuos	

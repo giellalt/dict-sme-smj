@@ -39237,3 +39237,7 @@ zoologiija	zoologija	n
 čávvásit	tjávvásit	v
 čáŋadit	tjáŋadit	v
 čáđggašit	tjárgatjit	v
+vrd	bs	v
+eallu	ællo	n
+ovddeš	åvdusj	a
+ávžžuhit	ávttjit	v
