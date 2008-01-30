@@ -1,3 +1,6 @@
+x have to check
+xx missing classification
+
 ektui	x
 vuođul	x
 čujuhit	x
@@ -22,8 +25,13 @@ allat	x
 olis	x
 dáidit	x
 Máhtte	x
-x have to check
-xx missing classification
+gaskal	x	
+
+
+vrd	bs	v
+eallu	ællo	n
+ovddeš	åvdusj	a
+ávžžuhit	ávttjit	v
 vrd	
 eallu	
 vuos	
@@ -464,7 +472,6 @@ bearrái#geahččat
 juogadeapmi	
 paragráfa	
 defineret	
-c	
 rehkenastit	
 luomi	
 koordineret	
@@ -624,7 +631,6 @@ geardde
 vuođus	
 ovddas#vástideaddji	
 fargga	
-d	
 ovda#munni	
 alimus#riekti	
 máŋggas	
@@ -667,7 +673,6 @@ duhát
 areála	
 rávvet	
 fierpmádat	
-e	
 riika#rádji	
 gánnáhit	
 valáštallan	
@@ -763,7 +768,6 @@ hárve
 deike	
 vuostálastit	
 stáhta#eana	
-ea.ea	
 besset	
 jápmin	
 dábuhit	
@@ -781,7 +785,6 @@ imaš
 suopman	
 seaguhit	
 olgo#riika	
-ff	
 ealáhus#doaibma	
 Gnr	
 sámegiel#oahpahus	
@@ -832,7 +835,6 @@ juoigat
 hehttehus	
 čoahkkin#jođiheaddji	
 válga#lihttu	
-m	
 mill	
 mihá	
 fierbmi	
@@ -1072,14 +1074,12 @@ stoahkat
 ruhta#doarjja	
 ovddal#gihtii	
 lihkkat	
-l	
 eahpe#čielggas	
 badjel#geahččat	
 alm	
 Boine	
 guolástus#departemeanta	
 fága#biras	
-f	
 easka	
 ealáhus#ovddidit	
 davvisáme#giella	
@@ -1694,7 +1694,7 @@ ovttasbargo#orgána
 olus	
 gaskkal	
 dađe	
-dalán	
+dalán
 Od.prp	
 vuoittahallat	
 oahppo#neavvo#ráhkadeapmi	
@@ -1772,7 +1772,7 @@ govvideaddji
 geafi	
 eatnat#geardáivuohta	
 dárkot	
-bivdo#guovlu	
+bivdo#guovlu
 1960#-jahki	
 rasttildit	
 ovdánahttin#bargu	
@@ -1860,7 +1860,6 @@ ráddjehus
 oahpahus#kantuvra	
 meahcce#eana	
 hutkái	
-h	
 girko#departemeanta	
 geasse#guohtun	
 eamiálbmot#politihkka	
@@ -1900,7 +1899,8 @@ farao
 doaibma#dieđáhus	
 bohciidahttit	
 Sirbmá	
-Danmárku#-Norga	
+Danmárku
+Norga
 váldo#ealáhus	
 sámedigge#ráđđi	
 strategiija#plána	
@@ -1928,7 +1928,7 @@ earru
 eanandoallo#departementa	
 boazodoallo#fága	
 bivddus	
-bajil#čála	
+bajil#čála
 čállin#giella	
 áibbašit	
 válgalávde#goddi	
@@ -1959,7 +1959,7 @@ doaibma#lohpi
 badjel#meare	
 analyseret	
 almmustahttit	
-Gáŋgaviika	
+Gáŋgaviika
 sápmelašvuohta	
 servodat#ovdáneapmi	
 servodat#dilli	
@@ -1978,7 +1978,7 @@ ealáhus#barta
 dušši	
 bálvalus#fálaldat	
 buohtalastit	
-boazodoallo#ášši	
+boazodoallo#ášši
 Fálá	
 1930#-jahki	
 čáhkat	
@@ -2104,12 +2104,11 @@ dearvvašvuođa#ásahus
 buohkaid#vuoigatvuohta	
 botket	
 arktálaš	
-Justis#departemeanta	
+Justis#departemeanta
 Danmárku	
 Čoahkkin#jođiheaddji	
 álggo#geahčen	
 vuolás	
-r	
 politihkkar	
 olbmo#bárdni	
 oasse#prográmma	
@@ -2128,7 +2127,7 @@ báhčin#guovlu
 bláđđi	
 bearehaga	
 bealdu	
-Heaika	
+Heaika
 šaddan	
 čázadat	
 ádjit	
@@ -4148,7 +4147,7 @@ Helsset
 Gievjovuotna	
 Danmárkku#-Norga	
 Cuokcavuotna	
-50#-poasta	
+poasta	
 1820#-jahki	
 šuokŋa	
 čuorvvas#mearka	
@@ -4320,9 +4319,9 @@ Islánda
 Ipmila	
 Eanodat	
 Beahcán#siida	
+lohku
 30#-jahki	
 1990#-lohku	
-1950#-lohku	
 čoavdda#sátni	
 čoahkkin#beaivi	
 čalmmeheapmi	
@@ -4817,7 +4816,7 @@ balddihahtti
 bajit#dási	
 agi#beaivi	
 WTO-#šiehtadus	
-O97#Sápmi	
+Sápmi	
 Hábmer	
 Gb	
 Dánmárku	
@@ -4997,7 +4996,6 @@ livnnet
 konto	
 konsešuvdna#láhka	
 konserta	
-kV	
 jávkkehit	
 juksan#mearri	
 jearru	
@@ -5032,7 +5030,7 @@ eahpe#govttolaš
 dáččaluvvat	
 dálve#jáfu	
 duolmmahallat	
-dr	
+dr
 dovddastus	
 dohk#kálla	
 doarjun#vierru	
@@ -5191,10 +5189,9 @@ Riebanvárri
 Alex	
 90#-jahki	
 1972#-konvenšuvdna	
-1964#-lága	
 1888#-lága	
 1690#-jahki	
-#eana	
+eana	
 šiehtadallan#geatnegasvuohta	
 šattus	
 čázádat#láhka	
@@ -5327,7 +5324,6 @@ Iđut
 Hellemo#prošeakta	
 Geaggán	
 C-#giella	
-80#-jahki	
 1890#-jahki	
 čoahkkin#buhtadus	
 čilgehit	
@@ -5674,7 +5670,6 @@ Ruoŧa#bealli
 Lapplánda	
 Kárášjoh#sápmelaš	
 Iŋgor	
-GWh	
 Englánda	
 Dagspresselávdegoddi	
 Biedjovággi	
