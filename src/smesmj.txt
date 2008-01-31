@@ -33525,7 +33525,7 @@ muhttohit	muhttudit	v
 muhttádus	muhttádus	n
 muhtun	muhtem	pron
 muhtun	valla	adv
-muitalit	mujttalit	v
+muitalit	subtsastit	v
 muiti	mujtte	n
 muitil	mujttel	a
 muitit	mujttet	v
