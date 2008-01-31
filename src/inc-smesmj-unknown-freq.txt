@@ -30,35 +30,6 @@ dáidit	x
 plánet	x
 moadde	x
 
-vrd	bs	v
-eallu	ællo	n
-ovddeš	åvdusj	a
-ávžžuhit	ávttjit	v	
-guoskevaš	guoskavasj	a
-sáme#gielat	sámegielav n
-johtit	jåhtet	v
-giella#guovddáš	giellaguovdásj	n
-ala	nali	po
-kap	kap	abbr
-naj	aj	pcle
-skábma#mánnu	basádismánno	n	
-proseassa	prosæssa	n
-fuolahit	mårådit	v
-duhtavaš	dudálasj	a
-geatnegas	velgulasj	a
-kapihttal	kapihttal	n
-sáme#giel	sámegiel	n
-artihkal	artihkkal	n
-Áigi	ájgge	n
-vuotna	vuodna	n
-Ruošša	ruossja	prop
-prográmma	prográmma	n
-ovddidan#foanda	åvddånahttemfoannda	n
-doaibma#plána	doajmmapládna	n
-oassálastit	oassálasstet	v
-riggodat	boanndudahka	n
-čuožžut	tjuodtjot	v
-čielggadeapmi	tjielggidus	n					
 Njávdán	
 hálddašan#guovlu	
 nohkat	
