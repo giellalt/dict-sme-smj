@@ -30,32 +30,7 @@ dáidit	x
 plánet	x
 moadde	x
 
-Njávdán	
-hálddašan#guovlu	
-nohkat	
-dađistaga	
-mielddis#buktit	
-reive	
-seammás	
-gaskka	
-ovddas	
-eavttuhus	
-Máhtte	
-dainna	
-maŋimuš	
-historjá	
-várret	
-ru	
-áddejupmi	
-háhkat	
-eanet#lohku	
-giella#ráđđi	
-čohkket	
-boazo#doalli	
-dáža	
-nuortalaš	
-dárbbaš	
-dohko	
+ru	kr	n
 kultuvrralaš	
 milj	
 doarjja#ortnet	

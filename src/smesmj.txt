@@ -26750,7 +26750,7 @@ aiget	ajgget	v
 ain	ájn	adv
 ainjuo	gåjt	adv
 aittos	ajtu	adv
-aivve	nn	adv
+aivve	dåssju	adv
 ak^klimatiseret	ak^klimátiserit	v
 akademi^a	akademi^a	n
 akademiija	akademija	n
@@ -29915,9 +29915,9 @@ gaikodit	gajkkudit	v
 gaikut	gajkkut	v
 gaikánit	gajkkánit	v
 gaikásit	gajkkásit	v
-gait% diinnat	nn	pron
-gait% divnnat	gájk% divna	pron
-gait% tiinnat	nn	pron
+gait% diinnat	gájkdivna	pron
+gait% divnnat	gájkdivna	pron
+gait% tiinnat	gájkdivna	pron
 gal	gal	pcle
 galanteriija	galanterija	n
 galba	galbba	n
@@ -30737,7 +30737,8 @@ guoirras	guojrras	a
 guoirruhit	guojrrodit	v
 guokkardit	guokkardit	v
 guoksa	guoksa	n
-guoktasat	nn	pron
+guoktásat	guoktása	pron
+guoktásat	guoktá	pron
 guokte	guokta	n
 guoktil	guoktel	adv
 guoktánit	guoktánit	v
@@ -34371,7 +34372,7 @@ oalistit	goalestit	v
 oalistit	oalestit	v
 oalle	oalle	n
 oalli	oalle	n
-oallugat	nn	pron
+oallugat	ållusa	pron
 oallut	oallut	v
 oallásit	oallásit	v
 oalul	oalul	n
@@ -36176,7 +36177,7 @@ silueahtta	siluæhtta	n
 silur#systema	silur#systebma	n
 silát	silát	n
 similiija	simelija	n
-simme	nn	pron
+simme	sæmmi	pron
 simplifieret	simplifierit	v
 simplifiseret	simplifiserit	v
 simulatuvra	simulatuvra	n
@@ -39246,7 +39247,7 @@ eallu	ællo	n
 ovddeš	åvdusj	a
 ávžžuhit	ávttjit	v	
 guoskevaš	guoskavasj	a
-sáme#gielat	sámegielav n
+sáme#gielat	sámegielav	n
 johtit	jåhtet	v
 giella#guovddáš	giellaguovdásj	n
 ala	nali	po
@@ -39269,4 +39270,4 @@ doaibma#plána	doajmmapládna	n
 oassálastit	oassálasstet	v
 riggodat	boanndudahka	n
 čuožžut	tjuodtjot	v
-čielggadeapmi	tjielggidus	n					
+čielggadeapmi	tjielggidus	n
