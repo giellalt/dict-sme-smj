@@ -40,6 +40,15 @@ XFST = xfst -utf8
 	@echo
 
 
+macdict: macdict/smesmj.xml
+macdict/smesmj.xml: ../bin/smesmj.xml smesmj2macdict.xsl
+	@echo
+	@echo "*** Building smesmj.xml for MacOS X Dictionary ***" 
+	@echo
+	@echo "*** Note: We now use the xsltproc tool ***"
+	@xsltproc smesmj2macdict.xsl $< > $@
+	@cd macdict && make
+
 
 # Older makefile, for the lexc-based translation:
 #smesmj.fst: ../bin/smesmj.fst
