@@ -46,11 +46,14 @@ while ( $line = <CSVF> ) {
 #    print "Lina er: $line\n";
 #    print "Lemma er: $Lemma\n";
 #    $Lemma =~ s/"\W?(\w)/$1/; # rens $Lemma for " og ^L
+	@smj = split /,/, $smj;
     print DICT "\t<entry>\n";
     print DICT "\t  <lemma POS=\"$POS\">$sme</lemma>\n";
     print DICT "\t  <mgr>\n";
     print DICT "\t    <trgr>\n";
-    print DICT "\t      <trans decl=\"$POS\">$smj</trans>\n";
+    foreach ( @smj ) {
+    print DICT "\t      <trans decl=\"$POS\">$_</trans>\n";
+    }
     print DICT "\t    </trgr>\n";
     print DICT "\t  </mgr>\n";
     print DICT "\t</entry>\n";

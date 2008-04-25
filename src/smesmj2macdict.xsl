@@ -18,8 +18,7 @@
 <d:dictionary
    xmlns="http://www.w3.org/1999/xhtml"
    xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">
-    <xsl:apply-templates >
-    </xsl:apply-templates>
+    <xsl:apply-templates />
 </d:dictionary>
 </xsl:template>
 
@@ -63,37 +62,44 @@ END OF EXAMPLE! -->
 
 <xsl:template match="entry">
  <d:entry d:title="{lemma}">
-            <xsl:attribute name="id">
-              <xsl:value-of select="concat(lemma,
-                                   '_',
-                                    lemma/@POS
-                                    )"/>
-            </xsl:attribute>
+    <xsl:attribute name="id">
+      <xsl:value-of select="concat(lemma,
+                           '_',
+                            lemma/@POS
+                            )"/>
+    </xsl:attribute>
    <d:index d:value="{lemma}"/>
    <h1><xsl:value-of select="lemma"/></h1>
-   <p><xsl:value-of select="mgr/trgr/trans[1]"/></p>
+   <xsl:choose>
+     <xsl:when test="count(mgr/trgr/trans) = 1">
+       <p><xsl:value-of select="mgr/trgr/trans[1]"/></p>
+     </xsl:when>
+     <xsl:otherwise>
+       <xsl:apply-templates select="mgr"/>
+     </xsl:otherwise>
+   </xsl:choose>
  </d:entry>
 </xsl:template>
 
+<xsl:template match="mgr">
+ <div>
+  <xsl:apply-templates/>
+ </div>
+</xsl:template>
+
+<xsl:template match="trgr">
+ <ol>
+  <xsl:apply-templates/>
+ </ol>
+</xsl:template>
+
+<xsl:template match="trans">
+ <li>
+  <xsl:apply-templates/>
+ </li>
+</xsl:template>
+
 <!-- OLD CODE NOT USED YET:
-
-<xsl:template match="l">
- <b>
-  <xsl:apply-templates/>
- </b>
-</xsl:template>
-
-<xsl:template match="l/@pos">
- <sup>
-  <xsl:apply-templates/>
- </sup>
-</xsl:template>
-
-<xsl:template match="lc">
- <i>
-  <xsl:apply-templates/>
- </i>
-</xsl:template>
 
 <xsl:template match="pos">
  <sup>
