@@ -30,22 +30,7 @@ dáidit	x
 plánet	x
 moadde	x
 
-ru	kr	n
-kultuvrralaš	
-milj	
-doarjja#ortnet	
-gokčat	
-gaskal	
-ovddeš	
-ávžžuhit	
-guoskevaš	
-sáme#gielat	
-johtit	
-giella#guovddáš	
-ala	
-kap	
-naj	
-skábma#mánnu	
+
 proseassa	
 fuolahit	
 duhtavaš	
