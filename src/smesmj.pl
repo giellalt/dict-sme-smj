@@ -2,6 +2,8 @@
 
 # Minimalistic perl script to move from intermediate smesmj input to
 # xml output.
+# The smesmj input is:
+# smeword <tab> smjword <tab> pos
 # This is copied from risten2xml.pl.
 # Using twig or something advanced would clearly be better.
 # On the other hand side, this works.
