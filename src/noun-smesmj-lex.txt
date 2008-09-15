@@ -1,4 +1,0 @@
-LEXICON Noun
-muorra:muorra n ;
-biila:bijlla n ;
- 

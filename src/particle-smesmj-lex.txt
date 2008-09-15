@@ -1,4 +1,0 @@
-LEXICON Particle
- ai:aj pcle ;
- de    pcle ;
- gal   pcle ;

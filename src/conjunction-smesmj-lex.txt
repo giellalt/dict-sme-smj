@@ -1,6 +1,0 @@
-LEXICON Conjunction
-
-ja  cc ;
-ja/dahje cc ;
-ele:valla cc ;
-vai:vaj cc ;

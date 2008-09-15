@@ -1,3 +1,0 @@
-LEXICON Adverb
- aktii:aktij adv ;
- 

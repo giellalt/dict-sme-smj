@@ -1,6 +1,0 @@
-LEXICON Pronoun
-
-mun:mån pers1 ;
-don:dån pers2 ;
-son:sån pers3 ;
-

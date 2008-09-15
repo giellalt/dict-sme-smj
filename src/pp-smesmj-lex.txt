@@ -1,3 +1,0 @@
-LEXICON Adposition
- badjel postp ;
- badjelaš:badjelasj postp ;
