@@ -1,4 +1,0 @@
-echo alle tre
-read regex [ [@"~/gt/sme/bin/isme.fst"] .o. [@"~/words/dicts/smesmj/bin/smesmj-inter.fst"] .o. [@"~/gt/smj/bin/smj.save"] ] ;
-echo kompiler
-save stack ~/words/dicts/smesmj/bin/smesmj.fst ;
