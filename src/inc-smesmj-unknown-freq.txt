@@ -1,34 +1,34 @@
-x have to check
-xx missing classification
+ have to check
+ missing classification
 
-ektui	x
-vuođul	x
-čujuhit	x
-meannudit	x
-veadju	x
-dihte	x
-geažil	x
-doaibma#bidju	x
-eret	x
-vuoigat	rievtes	xx
-gč	bs	xx
-ortnet	x
-hárrái	hárráj	xx	
-han	x
-dihtii	diehti	xx	
-vuhtii	x
-dihto	x
-jna	jnv	xx
-oaivil	x
-ru	x
-allat	x
-olis	x
-dáidit	x
-Máhtte	x
-gaskal	x	
-dáidit	x
-plánet	x
-moadde	x
+ektui	
+vuođul	
+čujuhit	
+meannudit	
+veadju	
+dihte	
+geažil	
+doaibma#bidju	
+eret	
+vuoigat	rievtes	
+gč	bs	
+ortnet	
+hárrái	hárráj		
+han	
+dihtii	diehti		
+vuhtii	
+dihto	
+jna	jnv	
+oaivil	
+ru	
+allat	
+olis	
+dáidit	
+Máhtte	
+gaskal		
+dáidit	
+plánet	
+moadde	
 
 
 proseassa	
@@ -42,7 +42,7 @@ plánet
 Áigi	
 moadde	
 vuotna	
-Ruošša	
+Ruošša	Ruossja 	prop	x
 prográmma	
 ovddidan#foanda	
 doaibma#plána	
@@ -2586,7 +2586,7 @@ duhtat
 bázahallat	
 beahce#vuovdi	
 bajit#báhppa	
-Prix	
+Pri	
 Barents#ráđđi	
 vuođđudus	
 vsá	
@@ -3191,7 +3191,7 @@ gerget
 geasis	
 fárus	
 fáhtet	
-fax	
+fa	
 eananvuovdin#kantuvra	
 ealáhus#bivdu	
 eallin#ahki	
@@ -4001,7 +4001,7 @@ Sámeráđđi
 Svalbárda	
 Jáhkovuotna	
 Eurohpa#ráđđi	
-Brox	
+Bro	
 4#-jahki	
 čielggadus#bargu	
 áššái#gullevaš	
@@ -5124,7 +5124,7 @@ Sáme#skuvla
 Seppänen	
 SameNeahtta	
 Riebanvárri	
-Alex	
+Ale	
 90#-jahki	
 1972#-konvenšuvdna	
 1888#-lága	
