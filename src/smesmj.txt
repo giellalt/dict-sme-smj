@@ -26681,6 +26681,7 @@ administrašuvdna	administrasjåvnnå	n
 administreret	admenistrerit	v
 adni	addne	a
 adni	addne	n
+adnostit	anestit	v
 adopteret	adopterit	v
 adopšuvdna	adopsjåvnnå	n
 adposišuvdna	adposisjåvnnå	n
@@ -27196,6 +27197,7 @@ baladit	baládit	v
 balahit	baládit	v
 baldalit	balldalit	v
 balddihit	baldedit	v
+balddáskit	baldáskit	v
 baldit	balldet	v
 baldu	balldo	n
 baleahtta	baleahtta	n
@@ -27226,11 +27228,14 @@ baptisma	baptissma	n
 barbariija	barbarija	n
 barberet	barberit	v
 barddašit	bårdatjit	v
+bardde7stit	bardestit	v
+bardilit	barddelit	v
 barduneret	bardunerit	v
 bargat	barggat	v
 barggadit	bargadit	v
 barggahit	bargadit	v
 barggastit	bargastit	v
+barggildit	bargeldit	v
 barggoš	bargusj	n
 barggán	bargán	a
 bargi	bargge	n
@@ -27296,6 +27301,7 @@ beahtestit	biehtestit	v
 beahttalit	bæhttalit	v
 beahttit	biehttet	v
 beahttu	biehtto	n
+beaidadit	biejddadit	v
 beaivet	biejvvet	adv
 beaivi	biejvve	n
 beaivvis	biejves	n
@@ -27315,11 +27321,15 @@ bealis	bieles	n
 bealkilit	bielkkelit	v
 bealkit	bielkket	v
 bealkkašit	belkatjit	v
+bealkke7hit	bielkedit	v
 bealkkehit	bielkedit	v
 bealkkihit	bielkedit	v
+bealkkildit	bielkeldit	v
 bealkkáskit	bælkátjit	v
+bealkáhit	bælkkádit	v
 bealle	bielle	n
 bealli	bielle	n
+beallidit	bielledit	v
 beallji	biellje	n
 beallásaš	bællásasj	a
 bealuštit	bælostit	v
@@ -27332,12 +27342,15 @@ bearri	bierre	n
 beasadit	besadit	v
 beasahit	besadit	v
 beasihit	bessalit	v
+beasihit	biesedit	v
 beaskidahttit	biesskedahttet	v
 beaskidit	biesskedit	v
 beassadit	besadit	v
+beassadit	biessadit	v
 beassat	bessat	v
 beassi	biesse	n
 beassáš	bæssásj	n
+beastalit	biesstalit	v
 beastalit	bæsstalit	v
 beasti	biesste	n
 beastit	biesstet	v
@@ -27402,6 +27415,7 @@ bieggaláse	bieggaláse	n
 bieggalássa	bieggalássa	n
 bieggaroassa	bieggaroassa	n
 bieggasit	bieggasit	v
+bieggasit	bieggusit	v
 bieggaspábba	bieggaspábba	n
 bieggat	bieggat	v
 bieggačoalli	bieggatjoalle	n
@@ -27431,6 +27445,7 @@ bierggastit	biergastit	v
 biergu	bierggo	n
 biesta	biestta	n
 biestalit	biesstalit	v
+biestalit	biesstelit	v
 biestit	biesstet	v
 biestta	biesta	n
 bievla	bievlla	n
@@ -27443,6 +27458,7 @@ biffa	biffa	n
 bigamiija	bigamija	n
 bigálusat	bigálusat	n
 bigán	bigán	n
+bihcudit	sjuhtjudit	v
 bihkas	bihkas	n
 bihkka	bihkka	n
 bihkkasuohpan	bihkkasuohpan	n
@@ -27453,6 +27469,7 @@ bihtánsámegiella	bihtánsámegiella	n
 biiadit	biejadit,bijádit	v
 biiahit	biejadit,bijádit	v
 biiastit	biejastit,bijástit	v
+biiastit	bijástit	v
 biidnu	bijnno	n
 biikasreaŋga	bijkkasrieŋga	n
 biikasráŋga	bijkkasráŋga	n
@@ -27531,9 +27548,11 @@ bittus	bittus	n
 bitumen	bitumen	n
 bivackeret	bivackerit	v
 bivaldit	biváldit	v
+bivdalit	bivddalit	v
 bivddašit	bivdatjit	v
 bivddestit	bivdestit	v
 bivddihit	bivdedit	v
+bivddildit	bivdeldit	v
 bivdi	bivdde	n
 bivdilit	bivddelit	v
 bivdit	bivddet	v
@@ -27716,18 +27735,22 @@ borššuhit	bårsjodit	v
 borššádit	bårsjådit	v
 bosastit	båsåstit	v
 bosihastit	båsedasstet	v
+bosihastit	båsehastit	v
 bosihit	båsodit,båsådit	v
 bosistit	båsestit	v
 boska	båsskå	n
 boská	båsskå	n
+boso7stit	båsostit	v
 bosodit	båsudit	v
 boson	båsun	n
 bosostit	båsostit	v
 bossu	båsso	n
 bossulit	båssolit	v
 bossut	båssut	v
+bostalit	båsstålit	v
 bostet	båsstet	v
 bostit	båsstet	v
+bosttahit	båstådit	v
 bosuhit	båsodit	v
 bosádit	båsådit	v
 botanihkka	botanihkka	n
@@ -27739,6 +27762,7 @@ botnjat	bådnjåt	v
 botreahtta	portræhtta	n
 botulisma	botulissma	n
 bovdehit	bivddidit,gåhtjodit	v
+bovdehit	bivdodit	v
 bovdna	båvnnå	n
 bovttašit	båvtåtjit	v
 bovttihit	båvtedit	v
@@ -27815,6 +27839,7 @@ bummal	bummal	n
 bumme	bumme	n
 bummálas	bummálas	n
 bumpestašuvdna	bumppestasjåvnnå	n
+bunjadit	bunjádit	v	xxx
 bunnjelemasat	bunnjelemasat	n
 bunáda	bunáda	n
 buoggi	buogge	n
@@ -28103,6 +28128,7 @@ cavkkihit	tsavkedit	v
 ceaggadit	tsieggadit	v
 ceaggahit	tsieggadit	v
 ceaggut	tsieggut	v
+ceaggádit	tsæggádit	v
 ceahkes	tsiehkes	n
 ceahkis	tsiehkes	n
 ceahkki	tsiehkke	n
@@ -28555,6 +28581,7 @@ diggi	digge	n
 diggár	diggár	n
 digitaliseret	digitaliserit	v
 digrešuvdna	digresjåvnnå	n
+dihkkedit	dihkkidit	v
 dihkki	dihkke	n
 dihkká	dihkká	n
 dihkkáluodda	dihkkáluodda	n
@@ -28790,6 +28817,7 @@ dohkálaš	dåhkålasj	a
 dohkálaččat	dåhkålattjat	adv
 dohpi	dåhpe	n
 dohppa	dåhppå	n
+dohraidit	dåhråjdit	v	xxx
 doiadit	dåjådit	v
 doiddašit	dåjdåtjit	v
 doiddestit	dåjdestit	v
@@ -28892,6 +28920,7 @@ duhádas	duhádas	n
 duháhat	duháhat	n
 duhátjahkásaš	duhátjahkásasj	a
 duiskkagiella	dujskagiella	n
+duivvidit	dujvedit	v
 duksa	duksa	n
 dukta	dukta	n
 duktahuse	duktahuse	n
@@ -28967,6 +28996,8 @@ duolljegieres	duolljegieres	n
 duollji	duollje	n
 duollár	duollár	n
 duolmmadit	duolmadit	v
+duolmmahit	rahkkádit	v
+duolmmahit	stiblidit	v
 duolmmastit	duolmastit	v
 duolmmastuvvat	duolmastuvvat	v
 duolva	duolvva	n
@@ -29059,6 +29090,7 @@ dábbelii	dábbelij	adv
 dábbil	dábbel	adv
 dábbá	dábbá	pron
 dábbánit	dábbánit	v
+dábildit	dábeldit	v
 dábálaš	dábálasj	a
 dábálašpolitihkalaš	dábálasjpolitihkalasj	a
 dáddju	dáddjo	n
@@ -29156,6 +29188,8 @@ dárbu	dárbbo	n
 dárkil	dárkkel	a
 dárkkistahttit	dárkestahttet	v
 dárkkistit	dárkestit	v
+dárkko7hit	dárkodit	v
+dárkko7hit	gehtjadit	v
 dárogiella	dárogiella	n
 dárogielnamma	dárogielnamma	n
 dárostit	dárustit	v
@@ -29653,6 +29687,7 @@ finer	finer	n
 fineret	finerit	v
 fingeret	fingerit	v
 finihttavearba	finehttaverbba	n
+finjildit	vinjeldit	v
 finnmárkkuláhka	finnmárkkuláhka	n
 finnmárkoláhka	finnmárkoláhka	n
 finála	finála	n
@@ -29765,6 +29800,7 @@ fuoikkahit	fuojkadit	v
 fuoikkádit	fuojkádit	v
 fuoikut	fuojkkut	v
 fuolahas	fuolahas	n
+fuolahit	fuoladit	v
 fuolahit	mårådit	v
 fuolahusdepartemeanta	fuolahusdepartemænnta	n
 fuolki	fuolkke	n
@@ -29856,6 +29892,7 @@ gaccastit	gattsastit	v
 gaccaštit	gattsastit	v
 gadja	gadja	n
 gageret	gagerit	v
+gahkkudit	gahkkodit	v
 gahkká	gahkká	n
 gahpa	gahpa	n
 gahpan	gahpan	n
@@ -30339,6 +30376,7 @@ gižaidit	gitjájdit	v
 gižihit	gitjedit	v
 giđđa	gidá	n
 giššalit	gissjalit	v
+gižžidit	gidtjedit	v
 glamoriseret	glamoriserit	v
 glaseret	glaserit	v
 glasiologa	glasiologa	n
@@ -30468,6 +30506,7 @@ goikkodit	gåjkudit	v
 goikkášit	gåjkåtjit	v
 goiku	gåjkko	n
 goitge	gåjtge	adv
+goivodit	gåjvudit	v
 goivvodit	gåjvudit	v
 goivvon	gåjvun	n
 gok	gåk	adv
@@ -30529,6 +30568,7 @@ gottašit	gåttåtjit	v
 gottihit	gåttedit	v
 gouachemaleriija	gouachemalerija	n
 govastit	gåvåstit	v
+govddadit	båhtånit	v
 govddidit	gåbdedit,gåvdedit	v
 govddihit	gåvdedit	v
 govdánit	gåvddånit	v
@@ -30592,6 +30632,7 @@ gudni	guddne	n
 guhciidit	guohtsijdit	v
 guhkan	guhkan	n
 guhkat	guhkat	n
+guhkedit	guhkedit	v
 guhkedit	guhkedit,guhkidit	v
 guhkesmiella	guhkesmiella	n
 guhkesáigebušehta	guhkesájggebusjehta	n
@@ -30984,6 +31025,7 @@ gárrenvuohta	gárrenvuohta	n
 gárri	gárre	n
 gárrut	gárrut	v
 gárta	gártta	n
+gártadit	gárttadit	v
 gárvodit	gárvodit,gárvvudit	v
 gárvu	gárvvo	n
 gárvvehit	gárvedit	v
@@ -31053,6 +31095,7 @@ hallusineret	hallusinerit	v
 hallusinogen	hallusinogen	n
 hallusinogena	hallusinogena	n
 hapmu	habmo	n
+haraidit	haradit	v
 harcasit	harttsasit	v
 harccastit	hartsastit	v
 harem	harem	n
@@ -31194,6 +31237,7 @@ huhppa	huhppa	n
 huhppá	huhppá	n
 huhtagit	huhttahit	v
 hui	huj	adv
+huiggirdit	hujgerdit	v
 huigášit	biehtodit	v
 huikkihit	huvkadit	v
 huikkádit	hujkádit	v
@@ -31640,6 +31684,8 @@ jalludit	jalludit	v
 jallut	jallut	v
 jalŋŋis	jalŋes	n
 jamaidit	jurijdit	v
+jame7hit	jumájdit?
+jame7hit	jumájdit?	v
 jaraidit	gitjárdit	v
 jargŋa	jarŋŋa	n
 jarla	jarla	n
@@ -31921,6 +31967,7 @@ jástit	jásstet	v
 jávistit	jávestit	v
 jávkadahttit	jávkkadahttet	v
 jávkadit	jávkkadit	v
+jávkkodit	jávkodit	v
 jávri	jávrre	n
 jávvásit	jávvásit	v
 jávádagat	jávádagat	n
@@ -32710,6 +32757,7 @@ loaškalit	loasskalit	v
 loaškkuhit	loasskodit	v
 loađđa	loadda	n
 loažža	loadtja	adv
+loažžadit	loadtjadit	v
 loaččadit	loattjedit	v
 loažži	loadtje	n
 loaččihit	loattjedit	v
@@ -32889,6 +32937,7 @@ luspi	lusspe	n
 lustu	lussto	n
 luttodit	luottudit	v
 luvas	luvás	a
+luvnnjiidit	luvnjijdit	v
 luvvadat	luvvadat	n
 luvvadit	luvvadit	v
 luvvi	luvve	n
@@ -32981,6 +33030,7 @@ láttat	láttat	n
 láttán	láttán	n
 lávda	lávdda	adv
 lávda	slávggá	n
+lávdadit	gæjvvadit	v
 lávdegoddi	nammadus	n
 lávdi	lávdde	n
 lávet	lávet	n
@@ -33143,6 +33193,7 @@ maŋŋonit	maŋŋunit	v
 maŋŋálas	maŋŋálas	n
 maŋŋánit	maŋŋunit	v
 mccarthyisma	mccarthyissma	n
+meaddádit	mæddádit	v
 meagádit	mægádit	v
 meahccekommišuvdna	miehttsekommisjåvnnå	n
 meahcci	miehttse	n
@@ -33423,6 +33474,7 @@ mosaisma	mosaissma	n
 mosjoneret	mosjonerit	v
 moski	måsske	n
 moskilaš	måsskelasj	n
+moskkudit	måskodit	v
 mostut	måsstut	v
 motiiva	motiiva	n
 motioneret	motionerit	v
@@ -33735,6 +33787,7 @@ našunálalaš	nasjonálalasj	a
 našunálbušeahtta	nasjonalbudsjæhtta	n
 našuvdna	nasjåvnnå	n
 nađđa	nahta	n
+nađđadit	lamadit	v
 neahku	niehko	n
 neahpi	niehpe	n
 neahti	niehte	n
@@ -33847,6 +33900,7 @@ njalddihit	njaldedit	v
 njalddistit	njaldestit	v
 njaldit	njalldet	v
 njaldásit	njalldásit	v
+njalggiidit	njalgijdit	v
 njalkasit	njalkkasit	v
 njalkkas	njalkas	a
 njalkkastit	njalkestit	v
@@ -33883,6 +33937,7 @@ njazzut	njadtsut	v
 njađašit	njadatjit	v
 njađđit	njaddet	v
 njađđásit	njaddásit	v
+njeaccagit	njiettsagit	v
 njeaiddihit	njiejdedit	v
 njeaidit	njiejddet	v
 njeaidásit	njæjddásit	v
@@ -33906,6 +33961,7 @@ njiellat	njiellat	v
 njiellu	njiello	n
 njieládit	njiellalit	v
 njierrá	njierrá	n
+njigaidit	njigájdit	v
 njigodit	njigudit	v
 njigádit	njigádit	v
 njimma	njimma	n
@@ -34014,6 +34070,7 @@ njágá	njágá	n
 njáhcu	njáhtso	n
 njáhkalit	njáhkalit	v
 njáhká	njáhká	n
+njálbmadit	njálmmadit	v
 njálbmeoalli	njálmmeoalle	n
 njálbmi	njálmme	n
 njálggiidit	njálgijdit	v
@@ -34045,6 +34102,7 @@ no	nå	pcle
 noa	noa	pcle
 noahtal	noahtal	n
 noaiddástalli	noajdástalle	n
+noaiddástit	noajdástit	v
 noaidi	noajdde	n
 noaidut	noajddut	v
 noarsa	noarssa	n
@@ -34304,6 +34362,7 @@ oamastus	åmastus	n
 oamehas	oamehas	n
 oamis	oames	a
 oamásmit	oabmástit	v
+oamásmit	oamásmit	v
 oanehisvuohta	oanehisvuohta	n
 oanidit	oanedit	v
 oanit	oanet	adv
@@ -34429,6 +34488,7 @@ olgoáibmoláhka	ålggoájmmoláhka	n
 olgu	ålggo	n
 oligarkiija	olegarkija	n
 oliiva	oliiva	n
+ollalit	ållålit	v x
 olle	ålle	n
 ollehit	ållidit	v
 ollet	ållet	v
@@ -34449,6 +34509,7 @@ ološit	ålutjit	v
 olu	ållo	pron
 olugat	ålos	pron
 olympiija	olympija	n
+oláhit	ålådit	v
 omd	dagu	adv
 omeleahtta	omeleahtta	n
 onaneret	onanerit	v
@@ -34551,6 +34612,7 @@ ovddidanprošeakta	åvddånahttemprosjækta	n
 ovddidit	åvdedit	v
 ovddošit	åvdutjit	v
 ovdduštit	ådåstahttet	v
+ovdehit	åvddidit	v	xxx
 ovdán	åvddån	adv
 ovdánahttinfoanda	åvddånahttemfoannda	n
 ovdánahttinprográmma	åvddånahttemprográmma	n
@@ -34561,6 +34623,7 @@ ovdánit	åvddånit	v
 ovsttán	åvstån	n
 ovttaahkásaš	avtavuorrasasj	a
 ovttadássásašvuođaperspektiiva	avtadássásjvuodaperspektijvva	n
+ovttaidit	åvtåjdit	v
 ovttajahkásaš	avtajahkásasj	a
 ovttajienalaš	avtajienalasj	a
 ovttajienalaččat	avtajienalattjat	adv
@@ -34584,6 +34647,8 @@ ođastit	ådåstit	v
 ođastuhttit	ådåstuhttet	v
 ođastus	ådåstus	n
 ođasášši	ådåsássje	n
+ođašit	ådåtjit	v
+ožoldit	åtjuldit	v
 ođđaáiggeteknologiija	ådåájgeteknologija	n
 ožžodit	guoddudit	v
 oččodit	åttjudit	v
@@ -35091,6 +35156,7 @@ raljeret	raljerit	v
 ramas	ramás	n
 ramponeret	ramponerit	v
 ramsalit	rabmalit	v
+ramssihit	rimssodit	v
 ramádat	ramádat	n
 rangeret	rangerit	v
 rap	rap	n
@@ -35105,6 +35171,8 @@ rasjonaliseret	rasjonaliserit	v
 rasjonalisma	rasjonalissma	n
 rasjoneret	rasjonerit	v
 rassa	rassa	n
+rasttidit	rasstedit	v
+rasttildit	rasteldit	v
 ratificeret	ratificerit	v
 ratifikašuvdna	ratifikasjåvnnå	n
 ratifiseret	ratifiserit	v
@@ -35334,6 +35402,7 @@ revy	revy	n
 ribadit	ribádit	v
 ribahit	ribádit	v
 ribihit	ribádit	v
+riccagit	rittsagit	v
 ridda	ridda	n
 riddasáhpal	riddasáhpal	n
 riddodepartemeanta	riddodepartemænnta	n
@@ -35351,6 +35420,7 @@ riehppi	riehppe	n
 riehtet	riehtet	n
 riejan	riejan	n
 riekta	riekta	adv
+riektadit	riektadit	v
 riektagielatvuohta	riektagielatvuohta	n
 riektatvuohta	riektatvuohta	n
 riektavuohta	riektavuohta	n
@@ -35453,6 +35523,10 @@ rišadit	risjádit	v
 rišaidit	risjijdit	v
 riŋga	riŋga	n
 riŋgestit	riŋŋgustit	v
+rišihit	risjedit	v
+riškalit	rissjkalit	v
+riškkihit	risjkedit	v
+riškkuhit	risjkodit	v
 rišostit	risjostit	v
 rišša	rissja	n
 riššasággi	rissjaságge	n
@@ -35689,6 +35763,7 @@ ráfuhit	ráfodit	v
 ráfáidit	ráfedit	v
 ráfáiduhttit	ráfájduhttet	v
 ráfálaččat	ráfálattjat	adv
+rágadit	rágádit	v
 rággeluossa	rággeluossa	n
 rággi	rágge	n
 ráhkadit	dahkat	v
@@ -35833,6 +35908,7 @@ salbiehtár	salbiehtár	n
 salggiidit	salgijdit	v
 salla	salla	n
 sallafággi	sallafágge	n
+salodit	saludit	v
 salpehtter	salpehtter	n
 saluteret	saluterit	v
 salutteret	salutterit	v
@@ -35861,6 +35937,7 @@ savdda	savda	n
 savddastit	savdastit	v
 savdnjilit	sjavnnjelit	v
 savihit	savedit	v
+savkalit	savkkalit	v
 savnnjašit	sjavnjatjit	v
 savnnjihit	sjavnjedit	v
 savvit	savvet	v
@@ -35902,11 +35979,15 @@ searvadahttindepartemeanta	siervvadahttindepartemænnta	n
 searvat	sæbrrat	v
 searveorganisašuvdna	siervveorganisasjåvnnå	n
 searvi	siebrre	n
+searvidit	siervvedit	v
 seastit	siesstet	v
 seastivaš	siesstevasj	a
 seavestit	sievestit	v
 seavnnjahit	sjevnjudit	v
+seavnnjašit	sjevnjatjit	v
+seavnnjihit	sjevnjudit	v
 seavnnjuhit	sjevnjudahttet	v
+seavnnjášit	sævnjátjit	v
 seavvilit	sievvelit	v
 seavvit	sievvet	v
 seaŋaš	sieŋasj	n
@@ -36065,6 +36146,7 @@ sihke	sihke	cc
 sihkestit	sihkastit	v
 sihkkarastit	tjårggit	v
 sihkkarvuohta	sihkkarvuohta	n
+sihkkasit	sihkasit	v
 sihkkel	sihkkel	n
 sihkkeltrimma	sihkkeltrimma	n
 sihkkut	sihkkut	v
@@ -36118,6 +36200,8 @@ sirrehat	sirrehat	n
 sirren	sirren	n
 sirát	sirát	n
 sisa	sisi	pp
+sisa#gáibidit	sisagájbbedit	v
+sisa#đálihit	sisatjáledit	v
 sisabahkken	sisabahkken	n
 sisabiegga	sisabiegga	n
 sisabáhkken	sisabáhkken	n
@@ -36155,6 +36239,7 @@ sivilagronoma	sivilagronoma	n
 sivilekonoma	sivilekonoma	n
 sivilisašuvdna	sivilisasjåvnnå	n
 siviliseret	siviliserit	v
+sivjjogastalit	sjivnjugastalit	v
 sivlu	sivllo	n
 sivva	sivva	n
 siđŋŋas	sirŋas	a
@@ -36262,6 +36347,7 @@ skuhter	skuhter	n
 skuhttarbihttá	skuhttarbihttá	n
 skuhttár	skuhttár	n
 skuhči	skuhtje	n
+skulkkodit	skulkudit	v
 skulpteret	skulpterit	v
 skulptuvra	skulptuvra	n
 skumáhkár	skumáhkár	n
@@ -36598,6 +36684,8 @@ stoahka	stoahka	n
 stoahkan	stoahkan	n
 stoallistit	hámssastit	v
 stoaluhit	stoalodit	v
+stohkkadit	stuohkkodit	v
+stohkkadit	ståhkkådit	v
 stohkki	ståhkke	n
 stoisisma	stoisissma	n
 stoltseret	stoltserit	v
@@ -36680,6 +36768,7 @@ stárra	stárra	n
 stárrá	stárrá	n
 stávedit	stávidit	v
 stávrá	stávrrá	n
+stávrádit	stávrrádit	v
 stávval	stávval	n
 stávvalrádji	stávvalrádje	n
 stávžut	stávttjut	v
@@ -37002,6 +37091,7 @@ sálga	sálgga	n
 sálla	sálla	n
 sállat	sállat	v
 sálti	sállte	n
+sálttiidit	sálltijdit	v
 sálttis	sáltes	a
 sáltut	sálltut	v
 sálvu	sálvvo	n
@@ -37029,6 +37119,7 @@ sámevuohta	sámevuohta	n
 sámeálbmotfoanda	sámeálmmutfoannda	n
 sámidiggi	sámedigge	n
 sámigiella	sámegiella	n
+sámildit	sæmoldit	v
 sámiláhka	sámeláhka	n
 sámimusea	sámemusea	n
 sámiradio	sámeradio	n
@@ -37060,6 +37151,7 @@ sárrat	sárrat	v
 sárri	sárre	n
 sártnodit	sárnudit	v
 sártnuhit	sárnodit	v
+sártnádit	sjuddidit	v
 sássa	sássa	n
 sátnegovva	báhkogåvvå	n
 sátni	báhko	n
@@ -37183,6 +37275,7 @@ tessalonikalaš	tessalonikalasj	n
 testameanta	testamænnta	n
 testamenta	testmænnta	n
 testamenteret	testamenterit	v
+tevdnedit	tieŋnidit	v
 textureret	texturerit	v
 teáhter	teáhter	n
 thomisma	thomissma	n
@@ -37657,11 +37750,13 @@ vilggodit	vielgudit	v
 vilššastit	vilsjastit	v
 vindiceret	vindicerit	v
 vindiseret	vindiserit	v
+vinjildit	vinjeldit	v
 vinjučiehka	vinjotjiehka	n
 vinjučála	vinjotjála	n
 vinyla	vinyla	n
 viradit	virádit	v
 virgi	virgge	n
+virgáidit	virggájdit	v
 virgáinammadit	virggájnammadit	v
 viriliseret	viriliserit	v
 viroš	virusj	n
@@ -37702,6 +37797,7 @@ voluma	voluma	n
 vomeret	vomerit	v
 voteret	voterit	v
 vrd	bs	v
+vuhpodit	rattudit	v
 vuhtodit	vuohtudit	v
 vuhttodit	vuohttudit	v
 vule	vule	n
@@ -37949,6 +38045,7 @@ váillahit	gádulmahttet	v
 váiludit	vájlodit	v
 váimmusreakšuvdna	vájmusreaksjåvnnå	n
 váippodit	gæjvodit	v
+váippádit	gæjvádit	v
 váivi	vájvve	a
 váivi	vájvve	n
 váivvidit	vájvedit	v
@@ -38569,6 +38666,7 @@ zoologiija	zoologija	n
 ápmil	ábmel	n
 áppes	áppes	n
 áppet	áppet	n
+áppodit	bådijdit	v
 ára	ára	n
 árba	uddo	n
 árbbistit	árbestit	v
@@ -38663,6 +38761,7 @@ zoologiija	zoologija	n
 čaladit	tjaládit	v
 čalahit	tjaládit	v
 čalastit	tjalástit	v
+čalbmadit	tjalmmadit	v
 čalbmat	tjalmmat	v
 šalbmi	sjalmme	n
 čalbmi	tjalmme	n
@@ -38727,6 +38826,8 @@ zoologiija	zoologija	n
 čeakŋuhit	tjieggŋidit,tjiegŋodit	v
 čearda	tjärdda	n
 čearda	tjærdda	n
+čeargge7hit	nulpodit	v
+čeargge7hit	nulppidit	v
 čearru	tjierro	n
 čeavli	tjievlle	n
 čeavrris	tjievres	n
@@ -38841,6 +38942,7 @@ zoologiija	zoologija	n
 šliivvidit	slijvedit	v
 šlimbbar	slimbar	n
 šlimppardit	slimbardit	v
+šliđardit	slidárdit	v
 šloabardit	slåbardit	v
 šloahkihit	sloahkedit	v
 šloahkkalit	sloahkkalit	v
@@ -38905,9 +39007,11 @@ zoologiija	zoologija	n
 čogustit	tjågostit	v
 čogádit	tjågådit	v
 Čohk	Čohk	prop
+čohkadit	tjåhkådit	v
 čohkahit	tjåhkkåhit	v
 čohkasit	tjåhkåsit	v
 čohkat	tjåhkåt	v
+čohkiidit	tjåhkijdit	v
 čohkka	tjåhkkå	n
 čohkkedit	tjåhkkidit	v
 čohkkehit	tjåhkkidit	v
@@ -38954,6 +39058,7 @@ zoologiija	zoologija	n
 čotta	tjåttå	n
 čovlasit	tjåvllåsit	v
 šuddi	sjudde	n
+šuddidit	sjuddidit	v
 čuhti	tjuhte	n
 šuhči	sjuhtje	n
 čulku	tjulkko	n
@@ -39082,6 +39187,8 @@ zoologiija	zoologija	n
 čuvggiidit	tjuovgijdit	v
 čuvggodit	tjuovgudit	v
 čuvku	tjuvkko	n
+čuvkudit	gabmardit	v
+čuvkudit	gamárdit	v
 čuvodit	tjuovudit	v
 čábbudit	tjábbodit	v
 čábbulit	tjábbolit	v
@@ -39094,6 +39201,7 @@ zoologiija	zoologija	n
 čáhpodit	tjáhpudit	v
 čáhppahit	tjáhppadit	v
 čáhppat	tjáhppat	a
+čáhppádit	tjáhppádit	v
 čáihni	tjájhnne	n
 čájehit	vuosedit	v
 čájáhusgovva	vuosádusgåvvå	n
@@ -39117,6 +39225,8 @@ zoologiija	zoologija	n
 šárra	sjárra	n
 šárralahttit	sjárralahttet	v
 čáskadanstašuvdna	tjásskadanstasjåvnnå	n
+čáskadit	tjasskadit	v
+čáskkadit	tjaskadit	v
 čátná	tjádná	n
 šávdásit	sjávddásit	v
 čávdásit	tjávddásit	v
