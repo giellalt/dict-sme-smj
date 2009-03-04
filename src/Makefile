@@ -2,8 +2,8 @@
 
 # It is quite amateurish, but it will not be the final one.
 
-LEXC = lexc -utf8
-XFST = xfst -utf8
+LEXC = lexc #-utf8
+XFST = xfst #-utf8
 
 # PhilososphY
 # Inputfile is: 
