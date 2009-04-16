@@ -60,7 +60,8 @@
 </d:entry>
 END OF EXAMPLE! -->
 
-<xsl:template match="entry">
+<xsl:template match="entry[not(lemma/@POS = 'prop'
+                             and (lema = mgr/trgt/trans))]">
  <d:entry d:title="{lemma}">
     <xsl:attribute name="id">
       <xsl:value-of select="concat(lemma,
