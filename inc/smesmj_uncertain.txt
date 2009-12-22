@@ -1,0 +1,24 @@
+illosáhka	illusáhka	n
+áksel	áksil	n
+maŋŋeáksel	maŋŋeáksil	n
+lektur	lektor	n
+áktur	áktor	n
+tráktur	tráktor	n
+lektor	lektur	n
+áktor	áktur	n
+tráktor	tráktur	n
+
+álltár	áltár	n
+duolvár	duolvvár	n
+ramás	ramas	n
+guolmas	guolmmas	n
+urtas	urttas	n
+bilkádus	bilkkádus	n
+mierká	mierkká	n
+mierkká	mierká	n
+gurmmá	gurbmá	n
+gurbmá	gurmmá	n
+galbaráksá	galbbaráksá	n
+galbbaráksá	galbaráksá	n
+
+
