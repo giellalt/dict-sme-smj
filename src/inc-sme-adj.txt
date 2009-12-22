@@ -64,7 +64,6 @@ antihkalaš
 antisipatiiva
 antropologalaš
 apostovllalaš
-areála
 arkeologalaš
 arkeologálaš
 arktihkalaš
@@ -324,7 +323,6 @@ cuoccas
 cuohppái
 cuvkemeahttun
 dalloš
-dalá
 daláš
 dan#veardásaš
 danšlái
@@ -343,11 +341,9 @@ deavdemeahttun
 deavdimeahttun
 deavis
 deavkat
-deaŧalaš
 deaŧálaš
 definihtta
 dehalaš
-dehálaš
 deiktalaš
 demo^gráfalaš
 demo^kráhtalaš
@@ -466,7 +462,6 @@ dálkkas#dieđalaš
 dálkkaslaš
 dálvvas
 dálvásaš
-dálá
 dámakeat
 dán#háváš
 dán#jagáš
@@ -474,7 +469,6 @@ dán#sullasaš
 dánlágan
 dánska
 dánska-norgga
-dárbbašlaš
 dárbbašmeahttun
 dáro#giel
 dáseheapme
@@ -552,7 +546,6 @@ eaitnaha
 eakti
 eaktu#dáhtolaš
 eallin#vulggolaš
-eambbo
 eami#álbmot#guoskevaš
 eana#dieđalaš
 eana#dieđálaš
@@ -563,7 +556,6 @@ earalágan
 earalágán
 eareliiggán
 eareliiggáš
-earenoamáš
 earenomáš
 eará#dássásaš
 eará#ivdnásaš
@@ -622,7 +614,6 @@ ereliiggán
 ereliiggáš
 erenoamaš
 erenoamán
-erenoamáš
 erenoamáš#pedagogalaš
 erenomáš
 eret#cealkkehahtti
@@ -719,7 +710,6 @@ fáhkkatlaš
 fálmmiheapme
 fálska
 fántásttalaš
-fásta
 fástideaddji
 fávdnái
 fávllibuš
@@ -741,7 +731,6 @@ gallilágán
 galljes
 galljosaš
 gallás
-garas
 garri
 garril
 garvemeahttun
@@ -936,7 +925,6 @@ guoros
 guorranmeahttun
 guorus
 guoskameahttun
-guoskevaš
 guoskkaheaddji
 guossaskas
 guovda#geaidnolaš
@@ -1090,7 +1078,6 @@ ideanttalaš
 ideationála
 ideologalaš
 ideologálaš
-ideála
 idiomáhtalaš
 idjasaš
 iehčanas
@@ -1317,7 +1304,6 @@ kronologalaš
 kruvdnasaš
 kruvdnosaš
 kultur#politihkalaš
-kultuvrralaš
 kuohca
 kuonna
 kuorus
@@ -1386,7 +1372,6 @@ logalaš
 logihkalaš
 logoforalaš
 lohkameahttun
-lohtat
 lojála
 lokála
 lonjas
@@ -1443,7 +1428,6 @@ lánas
 láskko#njuolgat
 lávccaheapme
 lávgalas
-lávgat
 lávggaheapme
 lávggoheapme
 lávgil
@@ -1475,8 +1459,6 @@ matriarkálalaš
 mađáš
 maŋit
 maŋit#vurrosaš
-maŋŋelaš
-maŋŋit
 meamma
 meammas
 mearka#vuđot
@@ -1784,7 +1766,6 @@ okta#geardásaš
 okta#vuolgganas
 oktagaslaš
 oktalaš
-oktasaš
 oktat
 oktii#gullevaš
 oktii#heivvolaš
@@ -1804,15 +1785,11 @@ olgo#riikka#politihkalaš
 ollašuhttin#gelbbolaš
 olles#áigásaš
 olles#árvosaš
-ollislaš
 ollol#vuloš
-ollu
 olmmoš#nákkis
-olu
 olympalaš
 onomasiologalaš
 operatiivvalaš
-oppa
 oppa#eurohpálaš
 oppalaš
 optimistalaš
@@ -1839,7 +1816,6 @@ ovdal#áiggi#riegádan
 ovdalaš
 ovddas#vástáduslaš
 ovddet#jagáš
-ovddeš
 ovddit
 ovdáneaddji
 ovtta#bealat
@@ -1898,7 +1874,6 @@ peršuvnnalaš
 pivlii
 pneumáhtalaš
 po^ehtalaš
-politihkalaš
 politihkkalaš
 politihkálaš
 polygamiijalaš
@@ -1955,7 +1930,6 @@ páraheapme
 pássiivvalaš
 raddálas
 radi^o#aktiiva
-rahkat
 rahpas
 rajá#rastá
 rasisttalaš
@@ -1999,7 +1973,6 @@ reálistalaš
 reálisttalaš
 riddo#lagaš
 riebas
-riekta
 riektat
 riekte#vuoimmalaš
 riektelaš
@@ -2160,7 +2133,6 @@ siddjii
 sidnui
 sieddjái
 sieiva
-sierra
 sierralágan
 sierranas
 sievssaheapme
@@ -2365,7 +2337,6 @@ suorggi#guovdasaš
 suorgái
 suovat
 suovggas
-surgat
 surgatlaš
 suvdil
 syklihkalaš
@@ -2596,7 +2567,6 @@ vástideaddji
 vástitmeahttun
 vásttuheapme
 vátni#čalmmat
-váttis
 vávjjehahtti
 vávjjihahtti
 váŋká
@@ -2660,7 +2630,6 @@ váŋká
 árbe#vuoiggalaš
 árjjiheapme
 árpmoheapme
-árrat
 árvitmeahttun
 árvugas
 áskkas
@@ -2745,7 +2714,6 @@ váŋká
 čuojoheapme
 čuolmmaheapme
 čuovggaheapme
-čuovvovaš
 čuođemat
 čuođi#geardásaš
 čuođi#proseantasaš
