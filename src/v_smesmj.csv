@@ -14,7 +14,8 @@ accelereret	accelererit	v
 accentueret	accentuerit	v
 accepteret	accepterit	v
 accompagneret	accompagnerit	v
-acklimatiseret	acklimátiserit,acklimatiserit	v
+acklimatiseret	acklimatiserit	v
+acklimatiseret	acklimátiserit	v
 ackorderet	ackorderit	v
 ackumuleret	ackumulerit	v
 ackvireret	ackvirerit	v
@@ -49,7 +50,8 @@ ahttohallat	ahttuhallat	v
 aiddostahttit	ajdustahttet	v
 aiget	ajgget	v
 akkederet	akkederit	v
-akklimatiseret	akklimatiserit,akklimátiserit	v
+akklimatiseret	akklimatiserit	v
+akklimatiseret	akklimátiserit	v
 akkommoderet	akkommoderit	v
 akkompagneret	akkompagnerit	v
 akkorderet	akkorderit	v
@@ -103,7 +105,6 @@ amputeret	amputerit	v
 analyseret	anályserit	v
 anašit	anatjit	v
 anesteseret	anesteserit	v
-anglifieret	anglefeerit,anglifierit	v
 anglifiseret	anglifiserit	v
 angliseret	angliserit	v
 anihit	anedit	v
@@ -143,7 +144,6 @@ arriveret	arriverit	v
 arronderet	arronderit	v
 artikuleret	artikulerit	v
 arvilit	harvvelit	v
-arvvašit	arvatjit,harvasjit	v
 arvvestit	harvestit	v
 arvvistit	harvestit	v
 arvvosmahttit	arvusmahttet	v
@@ -216,8 +216,6 @@ banašit	bånatjit	v
 bandageret	bandagerit	v
 bandasjeret	bandasjerit	v
 bandašeret	bandasjerit	v
-banihit	banedit,bånedit	v
-banistit	banestit,bånestit	v
 barberet	barberit	v
 barddašit	bårdatjit	v
 bardde7stit	bardestit	v
@@ -253,7 +251,6 @@ bažašit	båtjatjit	v
 bažestit	båtjestit	v
 bažihit	båtjedit	v
 beagašit	begatjit	v
-beaggalit	bieggalit,bæggalit	v
 beahkilit	biehkelit	v
 beahtestit	biehtestit	v
 beahttalit	bæhttalit	v
@@ -316,13 +313,9 @@ bierggastit	biergastit	v
 biestalit	biesstalit	v
 biestalit	biesstelit	v
 biestit	biesstet	v
-bievladit	bievladit,bievlladit	v
 bievlladit	bievladit	v
 bieđaldahttit	biedaldahttet	v
 bihcudit	sjuhtjudit	v
-biiadit	biejadit,bijádit	v
-biiahit	biejadit,bijádit	v
-biiastit	biejastit,bijástit	v
 biiastit	bijástit	v
 biinnidit	bijnedit	v
 biktalit	biktalit	v
@@ -354,7 +347,6 @@ bivddihit	bivdedit	v
 bivddildit	bivdeldit	v
 bivdilit	bivddelit	v
 bivdit	bivddet	v
-bivssastit	bivsastit,snavkastit	v
 bivttastit	bivtastit	v
 bivttestit	bivtestit	v
 bivuakkeret	bivuakkerit	v
@@ -365,7 +357,6 @@ biđistuvvat	bidestuvvat	v
 blameret	blamerit	v
 blasoneret	blasonerit	v
 blockeret	blockerit	v
-bloggestit	bloggestit,blåggistit	v
 blogget	bloggit	v
 blokkeret	blokkerit	v
 bláđedit	sláddidit	v
@@ -385,7 +376,6 @@ boalddestit	boaldestit	v
 boalddihit	boaldedit	v
 boaldit	boalldet	v
 boaluhit	boalodit	v
-boarásmit	boarásmuvvat,vuorasduvvat	v
 boađadit	bådadit	v
 boađestit	boadestit	v
 boađihit	boadedit	v
@@ -425,9 +415,7 @@ bonjastit	bånjåstit	v
 boradit	bårådit	v
 borahit	bårådit	v
 borastahttit	båråstahttet	v
-borastit	bårstit,båråstit	v
 borastuvvat	båråstuvvat	v
-borddašit	bårdatjit,bårdåtjit	v
 borddestit	bårdestit	v
 bordilit	bårddelit	v
 bordit	bårddet	v
@@ -452,7 +440,6 @@ borššádit	bårsjådit	v
 bosastit	båsåstit	v
 bosihastit	båsedasstet	v
 bosihastit	båsehastit	v
-bosihit	båsodit,båsådit	v
 bosistit	båsestit	v
 boso7stit	båsostit	v
 bosodit	båsudit	v
@@ -470,7 +457,6 @@ botnit	bådnet	v
 botnjalit	bådnjålit	v
 botnjasit	bådnjåsit	v
 botnjat	bådnjåt	v
-bovdehit	bivddidit,gåhtjodit	v
 bovdehit	bivdodit	v
 bovttašit	båvtåtjit	v
 bovttihit	båvtedit	v
@@ -478,7 +464,6 @@ bođastit	bådåstit	v
 božestit	båtjestit	v
 božihit	båtjedit	v
 božistit	båtjestit	v
-boŋkalit	båŋŋkkålit,båŋŋkålit	v
 boŋkkihit	båŋkedit	v
 boŋkkuhit	båŋkodit	v
 braveret	braverit	v
@@ -589,7 +574,6 @@ bálkkodit	bálkudit	v
 bálkulit	bálkkolit	v
 bálkut	bálkkut	v
 bálkádit	bálkkit	v
-bálkáhit	bálkkidit,bálkkit	v
 bálkásit	bálkkásit	v
 bállehit	bállidit	v
 bállet	bállet	v
@@ -617,7 +601,6 @@ bázistit	bátsestit	v
 cagahit	tsagádit	v
 caggasit	tsaggasit	v
 caggat	tsaggat	v
-cahkiidit	tsahkkidit,tsahkkijdit	v
 cahkkanit	tsahkkidit	v
 cahkkehit	tsahkkidit	v
 cahkkát	tsahkkát	v
@@ -746,7 +729,6 @@ deaddásit	dæddásit	v
 deahpánit	dæhpánit	v
 deahtistit	divtestit	v
 deaividit	dejvadit	v
-deaivvadit	iejvvidit,æjvvalit	v
 deaivvahit	dejvadit	v
 dearistit	dierestit	v
 dearppahit	tsábbmet	v
@@ -977,7 +959,6 @@ doteret	doterit	v
 dovdat	dåbddåt	v
 dovddadit	dåbdådit	v
 dovddahit	dåbdådit	v
-dovddastit	dåbdåstit,dåvdåstit	v
 dovddiidit	dåbdijdit	v
 dovdáhit	dåbddådit	v
 doškkodit	dåskudit	v
@@ -1356,13 +1337,11 @@ galbmot	galmmut	v
 galgat	galggat	v
 galjedit	galjedit	v
 galjidit	galjjedit	v
-gallidit	galledit,gallehit	v
 galljudit	galljodit	v
 galljut	galljut	v
 galljánit	galljánit	v
 gallánit	gallánit	v
 galmmadit	galsjedit	v
-galmmašit	galmatjit,tjåskijdit	v
 galmmestit	galmestit	v
 galmmihit	galmedit	v
 galmmistit	galmestit	v
@@ -1567,7 +1546,6 @@ goikkodit	gåjkudit	v
 goikkášit	gåjkåtjit	v
 goivodit	gåjvudit	v
 goivvodit	gåjvudit	v
-gokčat	gábttjat,gåbttjåt	v
 gokčat	gåbttjåt	v
 golahit	gålådit	v
 golbmánit	gålmmånit	v
@@ -1597,7 +1575,6 @@ gottašit	gåttåtjit	v
 gottihit	gåttedit	v
 govastit	gåvåstit	v
 govddadit	båhtånit	v
-govddidit	gåbdedit,gåvdedit	v
 govddihit	gåvdedit	v
 govdánit	gåvddånit	v
 govlut	gåvllut	v
@@ -1627,7 +1604,6 @@ grunderet	grunderit	v
 grupperet	grupperit	v
 guhciidit	guohtsijdit	v
 guhkedit	guhkedit	v
-guhkedit	guhkedit,guhkidit	v
 guhkidit	guhkedit	v
 guhkkudit	guhkkudit	v
 guhkkut	guhkkut	v
@@ -1641,8 +1617,6 @@ gullat	gullat	v
 gullostit	gullustit	v
 gullát	gullát	v
 gummieret	gummierit	v
-gumppostit	gumpostit,gámssit	v
-gumppustit	gumpostit,gámssit	v
 gunniidit	tjivrijdit	v
 guoddalit	guoddalit	v
 guoddit	guoddet	v
@@ -1662,7 +1636,6 @@ guorranit	guorrunit	v
 guorrasit	guorrasit	v
 guorrat	guorrat	v
 guorssádit	guorsadit	v
-guoskadit	guoskadit,guosskadit	v
 guoskat	guosskat	v
 guoskkahit	guoskadit	v
 guosmmehit	guosmudit	v
@@ -1732,7 +1705,6 @@ gálggadit	gálgadit	v
 gálihit	gáledit	v
 gállet	gállet	v
 gálljudit	gálljodit	v
-gáludit	gievdadit,gálodit	v
 gámadit	gámadit	v
 gámahit	gámádit	v
 gámodahttit	gámudahttet	v
@@ -1749,7 +1721,6 @@ gáriidit	gárijdit	v
 gárrat	gárrat	v
 gárrut	gárrut	v
 gártadit	gárttadit	v
-gárvodit	gárvodit,gárvvudit	v
 gárvvehit	gárvedit	v
 gárvvihit	gárvedit	v
 gárvvistit	gárvestit	v
@@ -1807,7 +1778,6 @@ hermetiseret	hermetiserit	v
 heroiseret	heroiserit	v
 herpeseret	herpeserit	v
 hiistalit	hisstalit	v
-hilggodit	hilgodit,hilgudit	v
 hilgut	hilggut	v
 hipmudit	hibmodit	v
 hirrudit	hirrodit	v
@@ -1843,7 +1813,6 @@ hukset	tsieggit	v
 hulaidit	lillardit	v
 hulardit	tjajmadit	v
 huleštit	runádit	v
-humadit	sáhkadit,ságastit	v
 humahit	sáhkadit	v
 humaniseret	humaniserit	v
 huoikkahit	huvkadit	v
@@ -1926,7 +1895,6 @@ ilbmanit	ilmmanit	v
 illastit	illastit	v
 illosit	illusit	v
 illuderet	illuderit	v
-illudit	illodit,illudit,ávvudallat	v
 illumineret	illuminerit	v
 ilmmuhit	ilmodit	v
 imagineret	imaginerit	v
@@ -2026,7 +1994,6 @@ jalaidit	juhtsat	v
 jalastit	jalástit	v
 jalbmalit	juhtsádit	v
 jalggodit	jalgudit	v
-jalihit	jaledit,juhtsalit	v
 jalkalit	jalkkahit	v
 jalkkihit	juhtsalit	v
 jallošit	jallutjit	v
@@ -2055,7 +2022,6 @@ jiekkaldit	jiekkaldit	v
 jiekŋudit	jiegŋodit	v
 jielastit	jielastit	v
 jienastit	jienastit	v
-jienihit	jienadit,jienedit	v
 jienádit	jienadit	v
 jieppadit	jieppadit	v
 jierbmadit	jiermadit	v
@@ -2063,7 +2029,6 @@ jiessadit	jiesadit	v
 jietnadit	jiednadit	v
 joaibmudit	joajmmodit	v
 joatkit	joarkket	v
-joazihit	joatsedit,juhtsalit	v
 joderet	joderit	v
 jodiseret	jodiserit	v
 johtalit	jåhtålit	v
@@ -2088,7 +2053,6 @@ jorgalit	jårggålit	v
 jorgasit	jårggåsit	v
 jorggastit	jårgåstit	v
 jorggehit	jårgestit	v
-jorggihit	jårgedit,jårgijdit	v
 jorggiidit	jårgijdit	v
 jorggistit	jårgestit	v
 jorggodit	jårgudit	v
@@ -2106,13 +2070,11 @@ jugastuvvat	jugástuvvat	v
 jugestit	jugestit	v
 jugistit	jugestit	v
 juhkat	juhkat	v
-julahit	juhtsádit,juládit	v
 juogadit	juogadit	v
 juogustit	juogadit	v
 juohkit	juohket	v
 juohkásit	juohkásit	v
 juoiggastit	juojgastit	v
-juojgadit	juoiggadit,juoiggahit	v
 juolgadit	juolgadit	v
 juolludit	juollodit	v
 juorbbádit	juorbádit	v
@@ -2356,8 +2318,6 @@ leaikasit	lassjkasit	v
 leat	liehket	v
 leavdnut	lievnnut	v
 leavvudit	luovvanit	v
-leađggehit	liergedit,sliergedit	v
-leađggihit	liergedit,sliergedit	v
 legaliseret	legaliserit	v
 legeret	legerit	v
 leikkodit	lejkudit	v
@@ -2391,7 +2351,6 @@ livodit	livudit	v
 livvadit	livvadit	v
 livvohit	livudit	v
 livvot	livvut	v
-livvudit	livodit,livvodit	v
 livvut	livvut	v
 liškut	lissjkut	v
 loahpahit	låhpadit	v
@@ -2424,7 +2383,6 @@ loikadit	låjkkådit	v
 loikkašit	låjkåtjit	v
 loikkihit	låjkedit	v
 loikkiidit	låjkijdit	v
-lokkodit	låkkudit,njalludit	v
 loktet	låktet	v
 loktit	låktet	v
 loktut	låktut	v
@@ -2946,7 +2904,6 @@ návdut	návddut	v
 návrruhit	návrodit	v
 náđodit	nádudit	v
 náđustit	nádostit	v
-náđđadit	nahtadit,navddadit	v
 náđđut	náddut	v
 nøytraliseret	nøytraliserit	v
 oadjudit	oadjodit	v
@@ -2971,7 +2928,6 @@ oakkastit	oakkostit	v
 oakkostit	oakkostit	v
 oakkuhit	oakkodit	v
 oalgguhit	alodit	v
-oalistit	goalestit,oalestit	v
 oallut	oallut	v
 oallásit	oallásit	v
 oamastit	åmastit	v
@@ -3291,7 +3247,6 @@ rasttildit	rasteldit	v
 ratificeret	ratificerit	v
 ratifiseret	ratifiserit	v
 rationeret	rationerit	v
-ravgadit	ravgadit,ravggadit	v
 ravgehit	ravggidit	v
 ravggadit	ravgadit	v
 ravggahit	ravgadit	v
@@ -3771,7 +3726,6 @@ spesifieret	spesifierit	v
 spesifiseret	spesifiserit	v
 spesiáliseret	spesiáliserit	v
 spierggadit	spiergadit	v
-spiidneguođohit	svijnneguododi,spijnneguododit	v
 spiraliseret	spiraliserit	v
 spoleret	spolerit	v
 spálđđildit	spáltjeldit	v
@@ -3916,7 +3870,6 @@ sárdnidit	sárnnedit	v
 sárdnut	sárnnut	v
 sárgasit	sárggasit	v
 sárggastit	sárgastit	v
-sárggodit	sárgodit,sárgudit	v
 sárgulit	sárggolit	v
 sárgut	sárggut	v
 sárrasit	sárrasit	v
@@ -4023,7 +3976,6 @@ vadjáluhttit	vadjáluhttet	v
 vagabonderet	vagabonderit	v
 vahágahttit	vahágahttet	v
 vaháguhttit	vaháguhttet	v
-vaiadit	vajádit,vajádit	v
 vaiuldit	vajoldit	v
 vajáldahttit	vajáldahttet	v
 vajálduhttit	vajálduhttet	v
@@ -4050,7 +4002,6 @@ veahkehit	viehkedit	v
 veahkihit	viehkedit	v
 veaiehit	viejedit	v
 veaiestit	viejestit	v
-veallahit	vellahit,vællahit	v
 veallánit	vællánit	v
 vearahit	vieradit	v
 vearidit	vieredit	v
@@ -4214,7 +4165,6 @@ vákšostit	váksjustit	v
 vákšot	váksjut	v
 vákšut	váksjut	v
 váldalit	válldalit	v
-válddahit	buojkodit,gåvvidit,váldadit	v
 válddestit	váldestit	v
 válddihit	váldedit	v
 váldit	válldet	v
@@ -4319,7 +4269,6 @@ xylograferet	xylograferit	v
 čavgut	tjavggut	v
 čavgánit	tjavggánit	v
 čađahit	tjadádit	v
-čeakŋuhit	tjieggŋidit,tjiegŋodit	v
 čeargge7hit	nulpodit	v
 čeargge7hit	nulppidit	v
 čelodit	tjeludit	v
@@ -4439,7 +4388,6 @@ xylograferet	xylograferit	v
 čolgasit	tjålggåsit	v
 čolgat	tjålggåt	v
 čolggadit	tjålgådit	v
-čolggahit	tjålggådit,tjålgådit	v
 čollehit	tjållidit	v
 čollestit	tjållistit	v
 čollulit	tjållolit	v
