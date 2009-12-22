@@ -26,26 +26,12 @@ use encoding 'utf-8';
 # File and directory variables:
 $SRCDIR = "../src";
 
-#$CSVFILES = "/*_smesmj.csv"; # <===
-# før stod det /smesmj.txt
-# Men no vil eg ha ti filer
-# eg får berre feilmelding
-# Can't find file ../src/*_smesmj.csv: No such file or directory
-# make: *** [../bin/smesmj.xml] Error 2
-# ~/gtsvn/words/dicts/smesmj/src$em ../scripts/smesmj2xml.pl 
-
-#$CSVF = $SRCDIR . $CSVFILES;
-
 $DICT = $SRCDIR . "/../bin/smesmj.xml";
 
-#open CSVF or die "Can't find file $CSVF: $!\n";
 open DICT, ">$DICT" or die "Can't open file $DICT: $!\n";
 
 print DICT "<dictionary >\n";
 
-#$line = <CSVF> ;
-
-#while ( $line = <CSVF> ) {
 while ( $line = <> ) {
 	chomp $line;
 	($sme,
@@ -70,4 +56,3 @@ while ( $line = <> ) {
 
 print DICT "</dictionary>\n";
 close DICT;
-#close CSVF;
