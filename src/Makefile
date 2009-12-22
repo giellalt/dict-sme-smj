@@ -5,6 +5,23 @@
 LEXC = lexc #-utf8
 XFST = xfst #-utf8
 
+LEX = a_smesmj.csv \
+	abbr_smesmj.csv	   \
+	adv_smesmj.csv	   \
+	cc_smesmj.csv	   \
+	cs_smesmj.csv	   \
+	n_smesmj.csv	   \
+	num_smesmj.csv	   \
+	p_smesmj.csv	   \
+	pcle_smesmj.csv	   \
+	po_smesmj.csv	   \
+	pp_smesmj.csv	   \
+	prep_smesmj.csv	   \
+	pron_smesmj.csv	   \
+	prop_smesmj.csv	   \
+	v_smesmj.csv
+
+
 # PhilososphY
 # Inputfile is: 
 # sme<tab>smj<tab>pos
@@ -13,12 +30,12 @@ XFST = xfst #-utf8
 # and let xfst read that file
 # problem is, this looks more like a shell script than like a makefile
 
-../bin/smesmj.fst: smesmj.txt ../bin/smesmj.xml
+../bin/smesmj.fst: $(LEX) ../bin/smesmj.xml
 	@echo
 	@echo "*** Building smesmj.fst ***" 
 	@echo
 	@echo "*** Reading shellscript smesmjpairs.sh ***"
-	@./smesmjpairs.sh
+	@../scripts/smesmjpairs.sh
 	@echo "*** Calling xfst to compile lexc ***"
 	@printf "read lexc < ../bin/smesmj.lexc \n\
 	save ../bin/smjsme.fst \n\
@@ -26,7 +43,7 @@ XFST = xfst #-utf8
 	save ../bin/smesmj.fst\n" > ../tmp/smesmj-lexc-script
 	$(XFST) < ../tmp/smesmj-lexc-script
 
-../bin/smesmj.xml: smesmj.txt smesmj2xml.pl
+../bin/smesmj.xml: $(LEX) ../scripts/smesmj2xml.pl
 	@echo
 	@echo "*** Building $@ ***" 
 	@echo
@@ -34,20 +51,20 @@ XFST = xfst #-utf8
 	@echo
 	@echo "*** Calling perl to compile xml ***"
 	@echo
-	@perl smesmj2xml.pl
+	@perl ../scripts/smesmj2xml.pl
 	@echo
 	@echo "*** Done. ***"
 	@echo
 
 
-macdict: macdict/smesmj.xml
-macdict/smesmj.xml: ../bin/smesmj.xml smesmj2macdict.xsl
+macdict: ../macdict/smesmj.xml
+../macdict/smesmj.xml: ../bin/smesmj.xml ../scripts/smesmj2macdict.xsl
 	@echo
 	@echo "*** Building smesmj.xml for MacOS X Dictionary ***" 
 	@echo
 	@echo "*** Note: We now use the xsltproc tool ***"
-	@xsltproc smesmj2macdict.xsl $< > $@
-	@cd macdict && make
+	@xsltproc ../scripts/smesmj2macdict.xsl $< > $@
+	@cd ../macdict && make
 
 
 # Older makefile, for the lexc-based translation:
