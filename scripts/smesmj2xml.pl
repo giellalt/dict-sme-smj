@@ -24,10 +24,12 @@
 use encoding 'utf-8';
 
 # File and directory variables:
-$SRCDIR = ".";
+$SRCDIR = "../src";
 
-$CSVF = $SRCDIR . "/smesmj.txt";
-#$CSVF = $SRCDIR . "/test.csv";
+$CSVFILES = "/*_smesmj.csv";
+
+$CSVF = $SRCDIR . $CSVFILES;
+
 $DICT = $SRCDIR . "/../bin/smesmj.xml";
 
 open CSVF or die "Can't find file $CSVF: $!\n";
