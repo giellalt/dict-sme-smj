@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleIdentifier</key>
+	<string>no.divvun.dictionary.smesmj</string>
+	<key>CFBundleDisplayName</key>
+	<string>Nordsamisk-luleamisk ordbok</string>
+	<key>CFBundleName</key>
+	<string>Sme-smj-ordbok</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>DCSDictionaryCopyright</key>
+	<string>Copyright © 2008 Sámediggi</string>
+	<key>DCSDictionaryManufacturerName</key>
+	<string>Sámediggi</string>
+</dict>
+</plist>
