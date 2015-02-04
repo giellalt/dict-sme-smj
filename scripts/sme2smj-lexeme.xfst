@@ -245,7 +245,7 @@ read regex [
 .o. cc   !not for LOAN conversion
 .o. c    !not for LOAN conversion
 .o. eCns !not for LOAN conversion
-.o. it
+!VERB_ONLY! .o. it
 .o. H2M
 .o. M2H
 .o. hit2dit
