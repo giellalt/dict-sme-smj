@@ -200,8 +200,11 @@ define RevDipht u -> u o || _ Cns+ e ;
 
 
 define eCns i -> e , I -> E ||                   Syll     _ [ Cns - j ] [%_|%'|.#.] ,
-                               [.#.|%#|%-|%^|%_|%'] Syll Cns _ [Cns - j] ; 
+                               [.#.|%#|%-|%^|%_|%'] Syll Cns _ [Cns - j] ;
+
+!! This rule should only be used for verbs:
 define it   e -> i || Syll _ t [%_|%'|.#.] ; ! Loan word rule!!
+
 define H2M  u -> o                   || [.#.|%#|%-|%^|%_|%'] Syll Cns _ (Cns|%^|%_|%') ;
 define M2H  o -> u                   || [.#.|%#|%-|%^|%_|%'] Syll Cns _ Cns ;
 define hit2dit h -> d || _ [ i t | u s ] [%_|%'|.#.] ;         ! Odd-syll verbs  and dus nouns
