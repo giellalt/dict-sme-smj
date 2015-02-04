@@ -10,9 +10,9 @@ buohcat	buohtsat
 		
 áicat	ájttsat	
 		
-lohpádaddat	låhpådaddat	
+lohpádaddat	låhpådaddat	låhpådallat
 		
-guorahaddat	guorahaddat	
+guorahaddat	guorahaddat	guoradallat
 		
 bassaladdat	bassaladdat	
 		
@@ -20,15 +20,15 @@ buorránaddat	buorránaddat
 		
 duhkoraddat	duhkuraddat	
 		
-dolastaddat	dålåstaddat	
+dolastaddat	dålåstaddat	dålåstallat
 		
 šaddat	sjaddat	
 		
-heahtáduddat	hæhtáduddat	
+heahtáduddat	hæhtáduddat	hæhtáduvvat
 		
 suddat	suddat	
 		
-čierostuddat	tjierustuddat	
+čierostuddat	tjierustuddat	tjerastallat
 		
 vuoidat	vuojddat	
 		
@@ -38,13 +38,13 @@ gierdat	gierddat
 		
 joavdat	joavddat	
 		
-dovdat	dåvddåt	
+dovdat	dåvddåt	dåbddåt
 		
-leat	liet	
+leat	liet	le
 		
 caggat	tsaggat	
 		
-figgat	figgat	
+figgat	figgat	viggat
 		
 coggat	tsåggåt	
 		
@@ -60,9 +60,9 @@ golgat	gålggåt
 		
 bargat	barggat	
 		
-ovttasbargat	åvtåsbargat	
+ovttasbargat	åvtåsbargat	åvtåsbarggat
 		
-geargat	gierggat	
+geargat	gierggat	gærggat
 		
 borgat	bårggåt	
 		
@@ -76,7 +76,7 @@ vadjat	vadjat
 		
 njiedjat	njiedjat	
 		
-bidjat	bidjat	
+bidjat	bidjat	biedjat
 		
 vuodjat	vuodjat	
 		
@@ -90,7 +90,7 @@ dahkat	dahkat
 		
 geahkat	gehkat	giehkat
 		
-stoahkat	stoahkat	
+stoahkat	stoahkat	ståhkat
 		
 viehkat	viehkat	
 		
@@ -106,7 +106,7 @@ juhkat	juhkat
 		
 suhkat	suhkat	
 		
-háhkat	háhkat	
+háhkat	háhkat	háhkat/hahkat
 		
 njáhkat	njáhkat	
 		
@@ -116,7 +116,7 @@ goikat	gåjkkåt
 		
 luoikat	luojkkat	
 		
-lihkkat	lihkkat	
+lihkkat	lihkkat	lihkkat/lijkkat?
 		
 nohkkat	nåhkkåt	
 		
@@ -130,7 +130,7 @@ njuoskat	njuosskat
 		
 suoskat	suosskat	
 		
-dutkat	dutkat	
+dutkat	dutkat	dutkat/durkkat??
 		
 jávkat	jávkkat	
 		
@@ -144,57 +144,57 @@ lohpádallat	låhpådallat
 		
 geallat	gellat	giellat
 		
-speallat	spellat	spiellat
+speallat	spellat	
 		
-gulahallat	guláhallat	
+gulahallat	guláhallat	guládallat
 		
-oahpahallat	oahpahallat	
+oahpahallat	oahpahallat	åhpadallat
 		
-jearahallat	jerahallat	jierahallat
+jearahallat	jerahallat	jieradallat
 		
-guorahallat	guorahallat	
+guorahallat	guorahallat	guoradallat
 		
-dearvvahallat	dervahallat	diervahallat
+dearvvahallat	dervahallat	diervadallat
 		
-gieđahallat	giedahallat	
+gieđahallat	giedahallat	giehtadallat
 		
-hárjehallat	hárjjehallat	
+hárjehallat	hárjjehallat	hárjjidallat
 		
-cahkkehallat	tsahkkehallat	
+cahkkehallat	tsahkkehallat	tsahkkidallat
 		
-mojohallat	måjuhallat	
+mojohallat	måjuhallat	måjudallat
 		
-čohkohallat	tjåhkuhallat	
+čohkohallat	tjåhkuhallat	tjåhkudallat
 		
-rámohallat	rámuhallat	
+rámohallat	rámuhallat	rámudallat/rámpudallat
 		
-lonohallat	lånuhallat	
+lonohallat	lånuhallat	lånudallat
 		
-gilvvohallat	gilvuhallat	
+gilvvohallat	gilvuhallat	gilvudallat/gilpostallat
 		
 čájáhallat	tjájáhallat	
 		
 doallat	doallat	
 		
-ságastallat	ságástallat	
+ságastallat	ságástallat	ságastallat
 		
 ijastallat	ijástallat	
 		
-leaikkastallat	lejkastallat	liejkastallat
+leaikkastallat	lejkastallat	
 		
-dolastallat	dålåstallat	
+dolastallat	dålåstallat	dållistallat
 		
-čierastallat	tjierastallat	
+čierastallat	tjierastallat	tjerastallat
 		
 suohtastallat	suohtastallat	
 		
-gáfestallat	gáfestallat	
+gáfestallat	gáfestallat	káfastallat
 		
-čorgestallat	tjårggestallat	
+čorgestallat	tjårggestallat	tjårggistallat
 		
 gallestallat	gallestallat	
 		
-ujostallat	ujustallat	
+ujostallat	ujustallat	ujostallat
 		
 girkostallat	girkkustallat	
 		
@@ -202,11 +202,9 @@ dálostallat	dálustallat
 		
 messostallat	messustallat	
 		
-čiehkástallat	tjiehkástallat	
+čiehkástallat	tjiehkástallat	tjiegastallat
 		
-falástallat	falástallat	
-		
-# diek	# diek	
+falástallat	falástallat	faládallat
 		
 valástallat	valástallat	
 		
@@ -744,147 +742,147 @@ vuolgit	vuolggit
 		
 njávgit	njávggit	
 		
-dárbbahit	dárbadit	
+dárbbahit	dárbadit	dárbahit
 		
-ribahit	ribádit	
+ribahit	ribádit	ribáhit
 		
-duolddahit	duoldadit	
+duolddahit	duoldadit	duoldahit
 		
-válddahit	váldadit	
+válddahit	váldadit	váldahit
 		
-jurddahit	jurdadit	
+jurddahit	jurdadit	jurdahit
 		
-viegahit	viegadit	
+viegahit	viegadit	viegahit
 		
-čuoiggahit	tjuojgadit	
+čuoiggahit	tjuojgadit	tjuojgahit
 		
-álggahit	álgadit	
+álggahit	álgadit	álgahit
 		
-barggahit	bargadit	
+barggahit	bargadit	bargahit
 		
-sojahit	såjådit	
+sojahit	såjådit	såjåhit
 		
-čuojahit	tjuojadit	
+čuojahit	tjuojadit	tjuojahit
 		
-hohkahit	håhkådit	
+hohkahit	håhkådit	håhkåhit
 		
-luoikkahit	luojkadit	
+luoikkahit	luojkadit	luojkahit
 		
-váillahit	vájlladit	
+váillahit	vájlladit	vájllahit
 		
-nuolahit	nuoladit	
+nuolahit	nuoladit	nuolahit
 		
-namahit	namádit	
+namahit	namádit	namáhit
 		
-doaimmahit	doajmadit	
+doaimmahit	doajmadit	doajmahit
 		
-manahit	manádit	
+manahit	manádit	manáhit
 		
-oahpahit	oahpadit	
+oahpahit	oahpadit	oahpahit
 		
-loahpahit	loahpadit	
+loahpahit	loahpadit	loahpahit
 		
-gávppahit	gávpadit	
+gávppahit	gávpadit	gávpahit
 		
-jearahit	jeradit	jieradit
+jearahit	jeradit	jierahit
 		
-garahit	garádit	
+garahit	garádit	garáhit
 		
-borahit	bårådit	
+borahit	bårådit	båråhit
 		
-ásahit	ásádit	
+ásahit	ásádit	ásáhit
 		
-geavahit	gevadit	gievadit
+geavahit	gevadit	gievahit
 		
-heavahit	hevadit	hievadit
+heavahit	hevadit	hievahit
 		
-dearvvahit	dervadit	diervadit
+dearvvahit	dervadit	diervahit
 		
-čađahit	tjadádit	
+čađahit	tjadádit	tjadáhit
 		
-čiŋahit	tjiŋádit	
+čiŋahit	tjiŋádit	tjiŋáhit
 		
-stuŋgehit	stuŋŋgedit	
+stuŋgehit	stuŋŋgedit	stuŋŋgehit
 		
-vuojehit	vuojedit	
+vuojehit	vuojedit	vuojehit
 		
-čájehit	tjájedit	
+čájehit	tjájedit	tjájehit
 		
-veahkehit	viehkedit	
+veahkehit	viehkedit	viehkehit
 		
-nahkehit	nahkedit	
+nahkehit	nahkedit	nahkehit
 		
-cahkkehit	tsahkkedit	
+cahkkehit	tsahkkedit	tsahkkehit
 		
-dohkkehit	dåhkkedit	
+dohkkehit	dåhkkedit	dåhkkehit
 		
-gaikkehit	gajkedit	
+gaikkehit	gajkedit	gajkehit
 		
-fallehit	falledit	
+fallehit	falledit	fallehit
 		
-vuosehit	vuosedit	
+vuosehit	vuosedit	vuosehit
 		
-eattehit	iettedit	
+eattehit	iettedit	iettehit
 		
-heivehit	hejvvedit	
+heivehit	hejvvedit	hejvvehit
 		
-jorggihit	jårgedit	
+jorggihit	jårgedit	jårgehit
 		
-čuojihit	tjuojedit	
+čuojihit	tjuojedit	tjuojehit
 		
-skájihit	skájedit	
+skájihit	skájedit	skájehit
 		
-jávkkihit	jávkedit	
+jávkkihit	jávkedit	jávkehit
 		
-ealihit	ieledit	
+ealihit	ieledit	ielehit
 		
-doamihit	doamedit	
+doamihit	doamedit	doamehit
 		
-himihit	himedit	
+himihit	himedit	himehit
 		
-galmmihit	galmedit	
+galmmihit	galmedit	galmehit
 		
-morihit	måredit	
+morihit	måredit	mårehit
 		
-lasihit	lasedit	
+lasihit	lasedit	lasehit
 		
-dieđihit	diededit	
+dieđihit	diededit	diedehit
 		
-biggohit	biggudit	
+biggohit	biggudit	bigguhit
 		
-láigohit	lájggudit	
+láigohit	lájggudit	lájgguhit
 		
-evttohit	evtudit	
+evttohit	evtudit	evtuhit
 		
-guođohit	guodudit	
+guođohit	guodudit	guoduhit
 		
-geardduhit	gerdudit	gierdudit
+geardduhit	gerdudit	gierduhit
 		
-bieguhit	biegudit	
+bieguhit	biegudit	bieguhit
 		
-oalgguhit	oalgudit	
+oalgguhit	oalgudit	oalguhit
 		
-borgguhit	bårgudit	
+borgguhit	bårgudit	bårguhit
 		
-čujuhit	tjujudit	
+čujuhit	tjujudit	tjujuhit
 		
-boatkkuhit	boatkkudit	
+boatkkuhit	boatkkudit	boatkkuhit
 		
-noavkkuhit	noavkudit	
+noavkkuhit	noavkudit	noavkuhit
 		
-namuhit	namudit	
+namuhit	namudit	namuhit
 		
-almmuhit	almudit	
+almmuhit	almudit	almuhit
 		
-lonuhit	lånudit	
+lonuhit	lånudit	lånuhit
 		
-váruhit	várudit	
+váruhit	várudit	váruhit
 		
-geasuhit	gesudit	giesudit
+geasuhit	gesudit	giesuhit
 		
-divuhit	divudit	
+divuhit	divudit	divuhit
 		
-gánnáhit	gánnádit	
+gánnáhit	gánnádit	gánnáhit
 		
 doadjit	doadjit	
 		
