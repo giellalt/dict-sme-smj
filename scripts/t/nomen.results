@@ -1,208 +1,3294 @@
-105c105
-< heagga	hiegga
----
-> heagga	hegga
-221c221
-< reahka	riehka
----
-> reahka	rehka
-273c273
-< cealkka	tsielka
----
-> cealkka	tselka
-313c313
-< headjaskeaŋka	hiedjaskeaŋka
----
-> headjaskeaŋka	hedjaskeaŋka
-469c469
-< eana	iena
----
-> eana	ena
-471c471
-< beana	biena
----
-> beana	bena
-509c509
-< beanna	bienna
----
-> beanna	benna
-511c511
-< peanna	pienna
----
-> peanna	penna
-541c541
-< teadjakohppa	tiedjakohppa
----
-> teadjakohppa	tedjakohppa
-551c551
-< mearra	mierra
----
-> mearra	merra
-617c617
-< keaksa	kieksa
----
-> keaksa	keksa
-693c693
-< dearvvuohta	diervoohta
----
-> dearvvuohta	dærvoohta
-831c831
-< breava	brieva
----
-> breava	breva
-959c959
-< deadjabaste	diedjabaste
----
-> deadjabaste	dedjabaste
-961c961
-< teadjabaste	tiedjabaste
----
-> teadjabaste	tedjabaste
-1059c1059
-< mearragáddi	mierragádde
----
-> mearragáddi	merragádde
-1181c1181
-< deaivvadansadji	diejvadansadje
----
-> deaivvadansadji	dejvadansadje
-1245c1245
-< eanamuorji	ienamuorje
----
-> eanamuorji	enamuorje
-1247c1247
-< eatnanmuorji	iednanmuorje
----
-> eatnanmuorji	ednanmuorje
-1363c1363
-< mearaguolli	mieraguolle
----
-> mearaguolli	meraguolle
-1365c1365
-< mearraguolli	mierraguolle
----
-> mearraguolli	merraguolle
-1407c1407
-< deaivvadeapmi	diejvadeapme
----
-> deaivvadeapmi	dejvadeapme
-1423c1423
-< mearrasápmi	mierrasápme
----
-> mearrasápmi	merrasápme
-1507c1507
-< jearransátni	jierransátne
----
-> jearransátni	jerransátne
-1539c1539
-< skearrogávpi	skierrugávpe
----
-> skearrogávpi	skerrugávpe
-1775c1775
-< speajal	spiejal
----
-> speajal	spejal
-1851c1851
-< beanatgullan	bienatgullan
----
-> beanatgullan	benatgullan
-1859c1859
-< eanan	ienan
----
-> eanan	enan
-2351c2351
-< jearaldat	jieraldat
----
-> jearaldat	jeraldat
-2425c2425
-< čearpmat	tjiermat
----
-> čearpmat	tjermat
-2427c2427
-< heahpat	hiehpat
----
-> heahpat	hehpat
-2579c2579
-< beanaráidu	bienarájdu
----
-> beanaráidu	benarájdu
-2585c2585
-< bealdu	bielldo
----
-> bealdu	bælldo
-2603c2603
-< mearrabivdu	mierrabivdu
----
-> mearrabivdu	merrabivdu
-2665c2665
-< readdju	rieddjo
----
-> readdju	ræddjo
-2731c2731
-< eallu	iello
----
-> eallu	ællo
-2733c2733
-< speallu	spiello
----
-> speallu	spællo
-2739c2739
-< eanadoallu	ienadoallu
----
-> eanadoallu	enadoallu
-2743c2743
-< eatnandoallu	iednandoallu
----
-> eatnandoallu	ednandoallu
-2807c2807
-< eanu	ieno
----
-> eanu	æno
-2809c2809
-< geaidnu	giejnno
----
-> geaidnu	gæjnno
-2843c2843
-< eatnu	iedno
----
-> eatnu	ædno
-2867c2867
-< deappu	dieppo
----
-> deappu	dæppo
-2877c2877
-< deadjagohppu	diedjagohppu
----
-> deadjagohppu	dedjagohppu
-2893c2893
-< skearru	skierro
----
-> skearru	skærro
-2895c2895
-< vearru	vierro
----
-> vearru	værro
-2913c2913
-< leaksu	liekso
----
-> leaksu	lækso
-3165c3165
-< beatnagaš	biednagasj
----
-> beatnagaš	bednagasj
-3179c3179
-< mearrasápmelaš	mierrasápmelasj
----
-> mearrasápmelaš	merrasápmelasj
-3199c3199
-< gearpmaš	giermasj
----
-> gearpmaš	germasj
-3203c3203
-< bearaš	bierasj
----
-> bearaš	berasj
-3281c3281
-< dearvvašvuođaguovddáš	diervasjvuodaguovddásj
----
-> dearvvašvuođaguovddáš	dervasjvuodaguovddásj
+doaba	dåba	
+		
+gabba	gabba	
+		
+nuoraidklubba	nuorajdklubba	
+		
+astoáiggeklubba	asstoájggeklubba	
+		
+spábba	spábba	
+		
+giehtaspábba	giehtaspábba	
+		
+liiba	lijbba	
+		
+galba	galbba	
+		
+johtalusgalba	jåhtålusgalba	
+		
+fáhcca	fáhttsa	
+		
+ohca	åhtså	
+		
+gáica	gájttsa	
+		
+vanca	vanntsa	
+		
+vierca	vierttsa	
+		
+ridda	ridda	
+		
+eahketbodda	iehketbodda	
+		
+luodda	luodda	
+		
+jurdda	jurda	
+		
+loavdda	loavda	
+		
+čoavdda	tjoavda	
+		
+biilačoavdda	bijlatjoavdda	
+		
+viessočoavdda	viessutjoavdda	
+		
+mopeda	måpeda	
+		
+nieida	niejdda	
+		
+gonagasnieida	gånågasniejda	
+		
+boaresnieida	boaresniejda	
+		
+siida	sijdda	
+		
+girkosiida	girkkusijda	
+		
+gielda	giellda	
+		
+fylkkagielda	fylkagielda	
+		
+ulda	ullda	
+		
+boanda	boannda	
+		
+gánda	gánnda	
+		
+badjegánda	badjegánda	
+		
+hoavda	hoavdda	
+		
+kántorhoavda	kánnturhoavda	
+		
+ravda	ravdda	
+		
+vázzinravda	vádtsenravda	
+		
+bruvda	bruvdda	
+		
+dávda	dávdda	
+		
+spánskadávda	spánsskadávda	
+		
+luhčadávda	luhtjadávda	
+		
+čoavjedávda	tjoavjjedávda	
+		
+golgodávda	gålggudávda	
+		
+vuovssanasdávda	vuovsanasdávda	
+		
+njoammudávda	njoammudávda	
+		
+šuhkoláda	sjuhkuláda	
+		
+limonáda	limunáda	
+		
+gráda	gráda	
+		
+kafea	kafea	
+		
+musea	musea	
+		
+šearfa	sjierffa	
+		
+heagga	hegga	hiegga
+		
+biegga	biegga	
+		
+vuolgga	vuolga	
+		
+vuogga	vuogga	
+		
+dolgevuogga	dålggevuogga	
+		
+mugga	mugga	
+		
+ealga	ielgga	
+		
+várregilga	várregilga	
+		
+holga	hålggå	
+		
+čalbmeguolga	tjalmmeguolga	
+		
+snuolga	snuolgga	
+		
+toga	tågå	
+		
+fearga	fiergga	
+		
+árga	árgga	
+		
+maŋŋebárga	maŋŋebárga	
+		
+njárga	njárgga	
+		
+vuossárga	vuossárga	
+		
+leavga	lievgga	
+		
+čivga	tjivgga	
+		
+nieidačivga	niejddatjivga	
+		
+baikačivga	bajkkatjivga	
+		
+čuovga	tjuovgga	
+		
+johtalusčuovga	jåhtålustjuovga	
+		
+johtolatčuovga	jåhtulattjuovga	
+		
+čáhcerávga	tjáhtserávga	
+		
+fága	fága	
+		
+skuvlafága	skuvllafága	
+		
+sieđga	siergga	
+		
+reaŋga	rieŋŋga	
+		
+seaŋga	sieŋŋga	
+		
+diŋga	diŋŋga	
+		
+tiŋga	tiŋŋga	
+		
+idja	idja	
+		
+gaskaidja	gasskajdja	
+		
+hádja	hádja	
+		
+gáfehádja	gáfehádja	
+		
+politiija	påletijja	
+		
+doarjja	doarja	
+		
+viellja	viellja	
+		
+stállja	stállja	
+		
+spánnja	spánnja	
+		
+latnja	ladnja	
+		
+skuvlalatnja	skuvllalatnja	
+		
+gursalatnja	gurssalatnja	
+		
+kursalatnja	kurssalatnja	
+		
+klássalatnja	klássalatnja	
+		
+duodjelatnja	duodjelatnja	
+		
+guosselatnja	guosselatnja	
+		
+boradanlatnja	bårådanlatnja	
+		
+basadanlatnja	basádanlatnja	
+		
+molssodanlatnja	målsudanlatnja	
+		
+nohkkanlatnja	nåhkkånlatnja	
+		
+oađđenlatnja	oaddenlatnja	
+		
+lávgunlatnja	lávggunlatnja	
+		
+orrunlatnja	årrunlatnja	
+		
+luohkkálatnja	luohkkálatnja	
+		
+uksageavja	uksageavja	
+		
+gavja	gavjja	
+		
+reahka	rehka	riehka
+		
+čiehka	tjiehka	
+		
+bibliotehka	bibliotehka	
+		
+diskotehka	disskutehka	
+		
+johka	jåhkå	
+		
+oalgejohka	oalggejohka	
+		
+sohka	såhkå	
+		
+láhka	láhka	
+		
+máhka	máhka	
+		
+sáhka	sáhka	
+		
+riika	rijkka	
+		
+lieggariika	lieggarijka	
+		
+davviriika	davverijka	
+		
+olgoriika	ålggurijka	
+		
+čuoika	tjuojkka	
+		
+seahkka	siehkka	
+		
+oađđenseahkka	oaddenseahkka	
+		
+loahkka	loahkka	
+		
+fabrihkka	fabrehkka	
+		
+stuhkka	stuhkka	
+		
+báhkka	báhkka	
+		
+juovlabáhkka	juovllabáhkka	
+		
+jáhkka	jáhkka	
+		
+hárjehallanjáhkka	hárjjehallanjáhkka	
+		
+páhkka	páhkka	
+		
+juovlapáhkka	juovllapáhkka	
+		
+cealkka	tselka	tsielka
+		
+gietkka	gietkka	
+		
+dulka	dulkka	
+		
+fylka	fylkka	
+		
+tallearka	tallearka	
+		
+dállearka	dállearka	
+		
+mearka	mierkka	
+		
+boastamearka	boasstamearka	
+		
+poastamearka	poasstamearka	
+		
+riegádanmearka	riegádanmearka	
+		
+dorka	dårkkå	
+		
+beaska	biesska	
+		
+leaska	liesska	
+		
+gaska	gasska	
+		
+kioska	kiosska	
+		
+ruska	russka	
+		
+lávka	lávkka	
+		
+giehtalávka	giehtalávka	
+		
+beaŋka	bieŋŋka	
+		
+skeaŋka	skieŋŋka	
+		
+headjaskeaŋka	hedjaskeaŋka	hiedjaskeaŋka
+		
+juovlaskeaŋka	juovllaskeaŋka	
+		
+riegádanbeaiskeaŋka	riegádanbeajskeaŋka	
+		
+muŋka	muŋŋka	
+		
+biila	bijla	
+		
+boastabiila	boasstabijla	
+		
+poastabiila	poasstabijla	
+		
+guollebiila	guollebijla	
+		
+guorbmebiila	guormmebijla	
+		
+linnjábiila	linnjábijla	
+		
+miila	mijla	
+		
+salla	salla	
+		
+giella	giella	
+		
+sámegiella	sámegiella	
+		
+gielddasámegiella	gieldasámegiella	
+		
+darjjesámegiella	darjesámegiella	
+		
+ubmisámegiella	ubbmesámegiella	
+		
+áhkkilsámegiella	áhkkelsámegiella	
+		
+bihtánsámegiella	bihtánsámegiella	
+		
+nuortalašgiella	nuorttalasjgiella	
+		
+anárašgiella	anárasjgiella	
+		
+vuosttašgiella	vuostasjgiella	
+		
+jiella	jiella	
+		
+miella	miella	
+		
+borranmiella	bårrånmiella	
+		
+dolla	dållå	
+		
+fuolla	fuolla	
+		
+njuolla	njuolla	
+		
+vuolla	vuolla	
+		
+julla	julla	
+		
+lávlla	lávla	
+		
+juovlalávlla	juovllalávlla	
+		
+njálla	njálla	
+		
+skálla	skálla	
+		
+suola	suola	
+		
+vuola	vuola	
+		
+bievla	bievlla	
+		
+juvla	juvlla	
+		
+skuvla	skuvlla	
+		
+joatkkaskuvla	joatkkaskuvla	
+		
+biilaskuvla	bijlaskuvla	
+		
+allaskuvla	allaskuvla	
+		
+álbmotallaskuvla	álmmutallaskuvla	
+		
+rihppaskuvla	rihppaskuvla	
+		
+nuoraidskuvla	nuorajdskuvla	
+		
+mánáidskuvla	mánájdskuvla	
+		
+verddeskuvla	verdeskuvla	
+		
+vuodjinskuvla	vuodjenskuvla	
+		
+vuođđoskuvla	vuodduskuvla	
+		
+doavttirskuvla	doavterskuvla	
+		
+álbmotskuvla	álmmutskuvla	
+		
+čuvla	tjuvlla	
+		
+silkečuvla	silkketjuvla	
+		
+linjála	linjála	
+		
+festivála	fesstevála	
+		
+čála	tjála	
+		
+doaibma	doajmma	
+		
+hieibma	hiejmma	
+		
+tiibma	tijmma	
+		
+skuvlatiibma	skuvllatijmma	
+		
+sáibma	sájmma	
+		
+skealbma	skielmma	
+		
+filbma	filmma	
+		
+sálbma	sálmma	
+		
+stoarbma	stoarmma	
+		
+suorbma	suormma	
+		
+juolgesuorbma	juolggesuormma	
+		
+čorbma	tjårmmå	
+		
+lásegárbma	lásegármma	
+		
+lubma	lubbma	
+		
+skábma	skábbma	
+		
+namma	namma	
+		
+ovdanamma	åvddånamma	
+		
+sohkanamma	såhkånamma	
+		
+báikenamma	bájkkenamma	
+		
+lumma	lumma	
+		
+buksalumma	buksalumma	
+		
+gáma	gáma	
+		
+eana	ena	iena
+		
+beana	bena	biena
+		
+boazobeana	boatsubeana	
+		
+margariidna	marggarijnna	
+		
+appelsiidna	appelsijnna	
+		
+bensiidna	bennsijnna	
+		
+kantiidna	kanntijnna	
+		
+mašiidna	masjijnna	
+		
+bassaladdanmašiidna	bassaladdanmasjijnna	
+		
+lihttebassanmašiidna	lihttebassanmasjijnna	
+		
+goarrunmašiidna	goarrunmasjijnna	
+		
+doardna	doarnna	
+		
+bierdna	biernna	
+		
+bovdna	båvnnå	
+		
+telefovdna	telefovnna	
+		
+skorpiovdna	skårppiovnna	
+		
+vovdna	våvnnå	
+		
+uvdna	uvnna	
+		
+konfirmašuvdna	kånfermasjuvnna	
+		
+kvena	kvena	
+		
+beanna	benna	bienna
+		
+peanna	penna	pienna
+		
+loatna	loadna	
+		
+jietna	jiedna	
+		
+vuotna	vuodna	
+		
+gutna	gudna	
+		
+látna	ládna	
+		
+tiibmaplána	tijmmaplána	
+		
+bargoplána	bargguplána	
+		
+diibmoplána	dijmmuplána	
+		
+oahppoplána	oahppuplána	
+		
+banána	banána	
+		
+gihpa	gihpa	
+		
+loahppa	loahppa	
+		
+vahkkoloahppa	vahkkuloahppa	
+		
+kohppa	kåhppå	
+		
+teadjakohppa	tedjakohppa	tiedjakohppa
+		
+vuohppa	vuohppa	
+		
+báhppa	báhppa	
+		
+ráhppa	ráhppa	
+		
+čora	tjårå	
+		
+mearra	merra	mierra
+		
+garra	garra	
+		
+koarra	koarra	
+		
+nierra	nierra	
+		
+beavdeguorra	bievddeguorra	
+		
+geaidnoguorra	giejnnuguorra	
+		
+muorra	muorra	
+		
+juovlamuorra	juovllamuorra	
+		
+goikemuorra	gåjkkemuorra	
+		
+goahtemuorra	goahtemuorra	
+		
+boaldinmuorra	boalldenmuorra	
+		
+bassinmuorra	bassenmuorra	
+		
+smáhkkomuorra	smáhkkumuorra	
+		
+nuorra	nuorra	
+		
+gurra	gurra	
+		
+bárra	bárra	
+		
+nuorrabárra	nuorrabárra	
+		
+náittosbárra	nájtusbárra	
+		
+dárra	dárra	
+		
+párra	párra	
+		
+náittospárra	nájtuspárra	
+		
+gitárra	gitárra	
+		
+stivra	stivrra	
+		
+gielddastivra	gieldastivra	
+		
+suohkanstivra	suohkanstivra	
+		
+rámbuvra	rámmbuvra	
+		
+kultuvra	kulltuvra	
+		
+kantuvra	kanntuvra	
+		
+mutuvra	mutuvra	
+		
+cára	tsára	
+		
+poliisa	pålijsa	
+		
+aviisa	avijsa	
+		
+áviisa	ávijsa	
+		
+keaksa	keksa	kieksa
+		
+uksa	uksa	
+		
+olgouksa	ålggouksa	
+		
+válsa	válssa	
+		
+ambulánsa	ammbulánsa	
+		
+hirsa	hirssa	
+		
+gorsa	gårsså	
+		
+bursa	burssa	
+		
+ruhtabursa	ruhtabursa	
+		
+gursa	gurssa	
+		
+giellagursa	giellagursa	
+		
+sámegielgursa	sámegielgursa	
+		
+málestangursa	málestangursa	
+		
+čállingursa	tjállengursa	
+		
+kursa	kurssa	
+		
+giellakursa	giellakursa	
+		
+sámegielkursa	sámegielkursa	
+		
+málestankursa	málestankursa	
+		
+čállinkursa	tjállenkursa	
+		
+riššadoassa	rissjadoassa	
+		
+guossa	guossa	
+		
+luossa	luossa	
+		
+sálteluossa	sállteluossa	
+		
+gussa	gussa	
+		
+bavssa	bavsa	
+		
+gássa	gássa	
+		
+lássa	lássa	
+		
+bruvsa	bruvssa	
+		
+bahta	bahta	
+		
+giehta	giehta	
+		
+universitehta	uneversitehta	
+		
+nuorravuohta	nuorravuohta	
+		
+oktavuohta	åktåvuohta	
+		
+buoidivuohta	buojddevuohta	
+		
+ruoinnasvuohta	ruojnasvuohta	
+		
+lihkohisvuohta	lihkuhisvuohta	
+		
+váttisvuohta	váttesvuohta	
+		
+vuoigatvuohta	vuojggatvuohta	
+		
+dearvvuohta	dærvoohta	diervoohta
+		
+mánnávuohta	mánnávuohta	
+		
+vejolašvuohta	vejulasjvuohta	
+		
+iešvuohta	iessjvoohta	
+		
+ruhta	ruhta	
+		
+veahkkeruhta	viehkkeruhta	
+		
+saláhta	saláhta	
+		
+stáhta	stáhta	
+		
+dikta	dikta	
+		
+gikta	gikta	
+		
+lokta	låktå	
+		
+sokta	såktå	
+		
+luokta	luokta	
+		
+vuokta	vuokta	
+		
+tákta	tákta	
+		
+pulta	pullta	
+		
+studeanta	studeanta	
+		
+proseanta	pråseanta	
+		
+lunta	lunnta	
+		
+elefánta	elefánta	
+		
+liánta	liánnta	
+		
+bliánta	bliánnta	
+		
+barta	bartta	
+		
+guođohanbarta	guoduhanbarta	
+		
+konsearta	kånnsearta	
+		
+juoigankonsearta	juojggankonsearta	
+		
+goarta	goartta	
+		
+juovlagoarta	juovllagoarta	
+		
+vuodjingoarta	vuodjengoarta	
+		
+koarta	koartta	
+		
+juovlakoarta	juovllakoarta	
+		
+kredihttakoarta	kredehttakoarta	
+		
+vuodjinkoarta	vuodjenkoarta	
+		
+fárta	fártta	
+		
+gárta	gártta	
+		
+kárta	kártta	
+		
+kvárta	kvártta	
+		
+feasta	fiessta	
+		
+juovlafeasta	juovllafeasta	
+		
+heasta	hiessta	
+		
+ivguheasta	ivgguheasta	
+		
+lasta	lassta	
+		
+boasta	boassta	
+		
+journalista	journalista	
+		
+turista	turesta	
+		
+teaksta	tieksta	
+		
+gásta	gássta	
+		
+servieahtta	servvieahtta	
+		
+tableahtta	tableahtta	
+		
+bileahtta	bileahtta	
+		
+interneahtta	innterneahtta	
+		
+kaseahtta	kaseahtta	
+		
+sáttošloahtta	sáttusjloahtta	
+		
+juovlaruohtta	juovllaruohtta	
+		
+ođđajageruohtta	åddåjageruohtta	
+		
+ođđabeairuohtta	åddåbeajruohtta	
+		
+beassášruohtta	bæssásjruohtta	
+		
+minuhtta	minuhtta	
+		
+friddjaminuhtta	friddjaminuhtta	
+		
+friijaminuhtta	frijjaminuhtta	
+		
+gáhtta	gáhtta	
+		
+háhtta	háhtta	
+		
+pláhtta	pláhtta	
+		
+internáhtta	innternáhtta	
+		
+stoahkanapparáhtta	stoahkanapparáhtta	
+		
+vuotta	vuotta	
+		
+čotta	tjåttå	
+		
+miestta	miesta	
+		
+sátta	sátta	
+		
+breava	breva	brieva
+		
+liiva	lijvva	
+		
+balva	balvva	
+		
+buolva	buolvva	
+		
+sohkabuolva	såhkåbuolva	
+		
+skruva	skruva	
+		
+ráhkadanneavva	ráhkadanneavva	
+		
+doaivva	doajva	
+		
+sivva	sivva	
+		
+vivva	vivva	
+		
+govva	gåvvå	
+		
+čuovgagovva	tjuovggagovva	
+		
+náittosgovva	nájtusgovva	
+		
+juovva	juovva	
+		
+skuovva	skuovva	
+		
+joggeskuovva	jåggeskuovva	
+		
+skruvva	skruvva	
+		
+šuvva	sjuvva	
+		
+giehtagávva	giehtagávva	
+		
+bustávva	busstávva	
+		
+sávza	sávttsa	
+		
+gazza	gadtsa	
+		
+lottegazza	låttegadtsa	
+		
+pizza	pidtsa	
+		
+čakča	tjaktja	
+		
+njukča	njuktja	
+		
+njuovčča	njuovtja	
+		
+dáčča	dáttja	
+		
+ađa	ada	
+		
+giđđa	gidda	
+		
+jiekŋa	jiegŋa	
+		
+lákcajiekŋa	láktsajiekŋa	
+		
+čikŋa	tjigŋa	
+		
+juovlačikŋa	juovllatjikŋa	
+		
+jokŋa	jågŋå	
+		
+šuokŋa	sjuogŋa	
+		
+restoráŋŋa	ressturáŋŋa	
+		
+beavža	bievttja	
+		
+guovža	guovttja	
+		
+čuovža	tjuovttja	
+		
+dáža	dátja	
+		
+skábe	skábe	
+		
+verdde	verde	
+		
+iđitgáffe	idetgáffe	
+		
+vilbealle	vilbbealle	
+		
+oambealle	oammbealle	
+		
+kilobealle	kilubealle	
+		
+oarpmealle	oarmealle	
+		
+suoskangumme	suosskangumme	
+		
+sihkkungumme	sihkkungumme	
+		
+benne	benne	
+		
+gumpe	gummpe	
+		
+skáhppe	skáhppe	
+		
+skire	skire	
+		
+boraspire	båråspire	
+		
+ore	åre	
+		
+evre	evrre	
+		
+dákse	dákse	
+		
+tákse	tákse	
+		
+láse	láse	
+		
+guite	gujtte	
+		
+tente	tennte	
+		
+dorte	dårtte	
+		
+baste	basste	
+		
+deadjabaste	dedjabaste	diedjabaste
+		
+teadjabaste	tedjabaste	tiedjabaste
+		
+čoarvebaste	tjoarvvebaste	
+		
+návste	návsste	
+		
+reive	rejvve	
+		
+soabbi	soabbe	
+		
+čibbi	tjibbe	
+		
+rábbi	rábbe	
+		
+leaibi	liejbbe	
+		
+seaibi	siejbbe	
+		
+niibi	nijbbe	
+		
+čoarveniibi	tjoarvvenijbe	
+		
+gáibi	gájbbe	
+		
+duppalgáibi	duppalgájbe	
+		
+láibi	lájbbe	
+		
+vuodjaláibi	vuodjalájbe	
+		
+rohkaláibi	råhkålájbe	
+		
+garraláibi	garralájbe	
+		
+luossaláibi	luossalájbe	
+		
+groavaláibi	gråvalájbe	
+		
+roavvaláibi	roavvalájbe	
+		
+biergoláibi	bierggulájbe	
+		
+suovasbiergoláibi	suovasbiergolájbe	
+		
+nisoláibi	nisulájbe	
+		
+vuostáláibi	vuosstálájbe	
+		
+holbi	hålbbe	
+		
+guolbi	guolbbe	
+		
+gálbi	gálbbe	
+		
+meahcci	miehttse	
+		
+luonddumeahcci	luondumeahttse	
+		
+gihcci	gihttse	
+		
+galbarihcci	galbbarihttse	
+		
+beahci	biehtse	
+		
+čeahci	tjiehtse	
+		
+sáivačáhci	sájvvatjáhtse	
+		
+haddi	hadde	
+		
+raddi	radde	
+		
+gieddi	giedde	
+		
+diddi	didde	
+		
+sohkagoddi	såhkågodde	
+		
+searvegoddi	siervvegodde	
+		
+loddi	lådde	
+		
+beaiveloddi	biejvvelodde	
+		
+bárbmoloddi	bármmulodde	
+		
+báddi	bádde	
+		
+gummebáddi	gummebádde	
+		
+gáddi	gádde	
+		
+johkagáddi	jåhkågádde	
+		
+dollagáddi	dållågádde	
+		
+uvdnagáddi	uvnnagádde	
+		
+mearragáddi	merragádde	mierragádde
+		
+jávregáddi	jávrregádde	
+		
+buoidi	buojdde	
+		
+áidi	ájdde	
+		
+báidi	bájdde	
+		
+ullobáidi	ullubájde	
+		
+sisbáidi	sisbájde	
+		
+sáidi	sájdde	
+		
+šaldi	sjallde	
+		
+sildi	sillde	
+		
+háldi	hállde	
+		
+eiseváldi	ejsseválde	
+		
+geardi	gierdde	
+		
+gárdi	gárdde	
+		
+mánáidgárdi	mánájdgárde	
+		
+beavdi	bievdde	
+		
+borranbeavdi	bårrånbeavde	
+		
+ruovdi	ruovdde	
+		
+stáhtavuovdi	stáhtavuovde	
+		
+hávdi	hávdde	
+		
+lávdi	lávdde	
+		
+lássalávdi	lássalávde	
+		
+návdi	návdde	
+		
+skuolfi	skuolffe	
+		
+smarfi	smarffe	
+		
+márfi	márffe	
+		
+sáltemárfi	sálltemárfe	
+		
+jeaggi	jiegge	
+		
+stuorradiggi	stuorradigge	
+		
+sámediggi	sámedigge	
+		
+roggi	rågge	
+		
+riššasággi	rissjaságge	
+		
+vággi	vágge	
+		
+veaigi	viejgge	
+		
+áigi	ájgge	
+		
+gaskaáigi	gasskaájge	
+		
+jagiáigi	jagiájge	
+		
+láigi	lájgge	
+		
+ohcanáigi	åhtsånájge	
+		
+nohkkanáigi	nåhkkånájge	
+		
+ráigi	rájgge	
+		
+láseráigi	láserájge	
+		
+sevdnjesáigi	sevnnjesájge	
+		
+nealgi	nielgge	
+		
+sealgi	sielgge	
+		
+vealgi	vielgge	
+		
+oalgi	oalgge	
+		
+čielgi	tjielgge	
+		
+duottarčielgi	duottartjielge	
+		
+dolgi	dålgge	
+		
+juolgi	juolgge	
+		
+ovdajuolgi	åvddåjuolge	
+		
+heargi	hiergge	
+		
+ráidoheargi	rájdduhearge	
+		
+irgi	irgge	
+		
+virgi	virgge	
+		
+arvedávgi	arvvedávge	
+		
+geađgi	giergge	
+		
+soadji	soadje	
+		
+sadji	sadje	
+		
+geassesadji	giessesadje	
+		
+deaivvadansadji	dejvadansadje	diejvadansadje
+		
+ássansadji	ássansadje	
+		
+gohttensadji	gåhttensadje	
+		
+orrunsadji	årrunsadje	
+		
+bargosadji	barggusadje	
+		
+modji	mådje	
+		
+duodji	duodje	
+		
+sámeduodji	sámeduodje	
+		
+čoarveduodji	tjoarvveduodje	
+		
+bádji	bádje	
+		
+rádji	rádje	
+		
+riikkarádji	rijkarádje	
+		
+beallji	biellje	
+		
+duollji	duollje	
+		
+boadnji	boaddnje	
+		
+lavdnji	lavnnje	
+		
+rávdnji	rávnnje	
+		
+mannji	mannje	
+		
+girji	girjje	
+		
+lávllagirji	lávlagirje	
+		
+skuvlagirji	skuvllagirje	
+		
+sálbmagirji	sálmmagirje	
+		
+govvagirji	gåvvågirje	
+		
+mánáidgirji	mánájdgirje	
+		
+beavdegirji	bievddegirje	
+		
+duodjegirji	duodjegirje	
+		
+sátnegirji	sádnegirje	
+		
+beaivegirji	biejvvegirje	
+		
+lohkangirji	låhkångirje	
+		
+čállingirji	tjállengirje	
+		
+oahppogirji	oahppugirje	
+		
+muorji	muorjje	
+		
+eanamuorji	enamuorje	ienamuorje
+		
+eatnanmuorji	ednanmuorje	iednanmuorje
+		
+čáhppesmuorji	tjáhppesmuorje	
+		
+čoavji	tjoavjje	
+		
+ahki	ahke	
+		
+eahki	iehke	
+		
+leahki	liehke	
+		
+jahki	jahke	
+		
+skuvlajahki	skuvllajahke	
+		
+nealgejahki	nielggejahke	
+		
+stálpejahki	stálppejahke	
+		
+coahki	tsoahke	
+		
+soahki	soahke	
+		
+vuohki	vuohke	
+		
+stivrenvuohki	stivrrenvuohke	
+		
+liiki	lijkke	
+		
+báiki	bájkke	
+		
+čoahkkebáiki	tjoahkkebájke	
+		
+márkanbáiki	márkkanbájke	
+		
+bargobáiki	barggubájke	
+		
+girkobáiki	girkkubájke	
+		
+ceahkki	tsiehkke	
+		
+veahkki	viehkke	
+		
+siidaveahkki	sijddaveahkke	
+		
+kántorveahkki	kánnturveahkke	
+		
+ruovttuveahkki	ruovtuveahkke	
+		
+jiehkki	jiehkke	
+		
+mohkki	måhkke	
+		
+báhkki	báhkke	
+		
+náhkki	náhkke	
+		
+silki	silkke	
+		
+fuolki	fuolkke	
+		
+dálki	dálkke	
+		
+arvedálki	arvvedálke	
+		
+bajándálki	bajándálke	
+		
+nurki	nurkke	
+		
+aski	asske	
+		
+goaski	goasske	
+		
+niski	nisske	
+		
+báiski	bájsske	
+		
+dorski	dårsske	
+		
+muotki	muotke	
+		
+mátki	mátke	
+		
+beassášmátki	bæssásjmátke	
+		
+ruški	russjke	
+		
+gihli	gihle	
+		
+váili	vájle	
+		
+bealli	bielle	
+		
+jahkebealli	jahkebealle	
+		
+diibmobealli	dijmmubealle	
+		
+boaittobealli	boajtubealle	
+		
+jumešbealli	jumesjbealle	
+		
+čoalli	tjoalle	
+		
+dilli	dille	
+		
+badjedilli	badjedille	
+		
+náittosdilli	nájtusdille	
+		
+gilli	gille	
+		
+guolli	guolle	
+		
+galbmaguolli	galmmaguolle	
+		
+mearaguolli	meraguolle	mieraguolle
+		
+mearraguolli	merraguolle	mierraguolle
+		
+sáivačáhceguolli	sájvvatjáhtseguolle	
+		
+goikeguolli	gåjkkeguolle	
+		
+sálteguolli	sállteguolle	
+		
+málli	málle	
+		
+biergomálli	bierggumálle	
+		
+láibesuvli	lájbbesuvle	
+		
+guoibmi	guojmme	
+		
+siidaguoibmi	sijddaguojmme	
+		
+áibmi	ájmme	
+		
+gáibmi	gájmme	
+		
+albmi	almme	
+		
+čalbmi	tjalmme	
+		
+máilbmi	májlbme	
+		
+njálbmi	njálmme	
+		
+gobmi	gåbbme	
+		
+dearbmi	diermme	
+		
+fierbmi	fiermme	
+		
+jierbmi	jiermme	
+		
+eammi	iemme	
+		
+luomi	luome	
+		
+deaivvadeapmi	dejvadeapme	diejvadeapme
+		
+vihaheapmi	viháheapme	
+		
+earráneapmi	ærráneapme	
+		
+meahcásteapmi	mæhtsásteapme	
+		
+ipmi	ibme	
+		
+beroštupmi	berusjtupme	
+		
+hápmi	hábme	
+		
+sápmi	sábme	
+		
+mearrasápmi	merrasápme	mierrasápme
+		
+davvisápmi	davvesápme	
+		
+boazosápmi	boatsusápme	
+		
+julevsápmi	julevsápme	
+		
+leasmi	liessme	
+		
+eadni	ieddne	
+		
+risteadni	rissteadne	
+		
+seaidni	siejnne	
+		
+olgoseaidni	ålgguseajnne	
+		
+liidni	lijnne	
+		
+šoalkaliidni	sjoalkkalijnne	
+		
+ruossaliidni	ruossalijnne	
+		
+lássaliidni	lássalijnne	
+		
+beavdeliidni	bievddelijnne	
+		
+láseliidni	láselijnne	
+		
+čeabetliidni	tjiebetlijnne	
+		
+spiidni	spijnne	
+		
+viidni	vijnne	
+		
+suoidni	suojnne	
+		
+siilosuoidni	sijlusuojnne	
+		
+bodni	båddne	
+		
+gordni	gårnne	
+		
+nisogordni	nisugornne	
+		
+bárdni	bárnne	
+		
+gonagasbárdni	gånågasbárnne	
+		
+boaresbárdni	boaresbárnne	
+		
+sárdni	sárnne	
+		
+rudni	ruddne	
+		
+heavdni	hievnne	
+		
+gievdni	gievnne	
+		
+biergogievdni	bierggugievnne	
+		
+ivdni	ivnne	
+		
+sávdni	sávnne	
+		
+čáihni	tjájhnne	
+		
+manni	manne	
+		
+monni	månne	
+		
+njunni	njunne	
+		
+čoarvenjunni	tjoarvvenjunne	
+		
+giehmánni	giehmánne	
+		
+vuoni	vuone	
+		
+bátni	bádne	
+		
+sátni	sádne	
+		
+jearransátni	jerransátne	jierransátne
+		
+goallossátni	goallussátne	
+		
+gohpi	gåhpe	
+		
+lohpi	låhpe	
+		
+rohpi	råhpe	
+		
+áhpi	áhpe	
+		
+skáhpi	skáhpe	
+		
+stálpi	stálppe	
+		
+raddeleahppi	raddeleahppe	
+		
+gollečeahppi	gålletjeahppe	
+		
+diehppi	diehppe	
+		
+gohppi	gåhppe	
+		
+gávpi	gávppe	
+		
+biilagávpi	bijlagávpe	
+		
+duodjegávpi	duodjegávpe	
+		
+girjegávpi	girjjegávpe	
+		
+skearrogávpi	skerrugávpe	skierrugávpe
+		
+bivttasgávpi	bivtasgávpe	
+		
+borramušgávpi	bårråmusjgávpe	
+		
+rušpi	rusjpe	
+		
+earri	ierre	
+		
+skierri	skierre	
+		
+nuorri	nuorre	
+		
+basadangárri	basádangárre	
+		
+bassangárri	bassangárre	
+		
+lávgungárri	lávggungárre	
+		
+várri	várre	
+		
+divri	divrre	
+		
+buvri	buvrre	
+		
+fiervábuvri	fiervvábuvre	
+		
+jávri	jávrre	
+		
+guollejávri	guollejávre	
+		
+gáisi	gájsse	
+		
+oaksi	oakse	
+		
+ruoksi	ruokse	
+		
+guksi	gukse	
+		
+moarsi	moarsse	
+		
+bassi	basse	
+		
+giellabeassi	giellabeasse	
+		
+geassi	giesse	
+		
+oassi	oasse	
+		
+miessi	miesse	
+		
+dássi	dásse	
+		
+vuolledássi	vuolledásse	
+		
+rássi	rásse	
+		
+cubborássi	tsubburásse	
+		
+heahti	hiehte	
+		
+goahti	goahte	
+		
+lastagoahti	lasstagoahte	
+		
+darfegoahti	darffegoahte	
+		
+lavdnjegoahti	lavnnjegoahte	
+		
+fanasgoahti	fanásgoahte	
+		
+návetgoahti	návetgoahte	
+		
+soahti	soahte	
+		
+joatkkasoahti	joatkkasoahte	
+		
+dálvesoahti	dálvvesoahte	
+		
+luohti	luohte	
+		
+báhti	báhte	
+		
+áiti	ájtte	
+		
+arveoakti	arvveoakte	
+		
+riekti	riekte	
+		
+bákti	bákte	
+		
+dákti	dákte	
+		
+gákti	gákte	
+		
+liidnegákti	lijnnegákte	
+		
+láđđegákti	láddegákte	
+		
+nissongákti	nissungákte	
+		
+dievdogákti	dievddugákte	
+		
+sálti	sállte	
+		
+čurti	tjurtte	
+		
+niesti	niesste	
+		
+sisti	sisste	
+		
+visti	visste	
+		
+násti	násste	
+		
+šlahtti	slahtte	
+		
+lihtti	lihtte	
+		
+ruskalihtti	russkalihtte	
+		
+máleslihtti	máleslihtte	
+		
+láhtti	láhtte	
+		
+beaivi	biejvve	
+		
+friddjabeaivi	friddjabeajve	
+		
+maŋŋelgaskabeaivi	maŋŋelgaskabeajve	
+		
+juovlabeaivi	juovllabeajve	
+		
+skuvlabeaivi	skuvllabeajve	
+		
+sotnabeaivi	sådnåbeajve	
+		
+pálbmasotnabeaivi	pálmmasotnabeajve	
+		
+mearrebeaivi	mierrebeajve	
+		
+šaddanbeaivi	sjaddanbeajve	
+		
+riegádanbeaivi	riegádanbeajve	
+		
+čuoiganbeaivi	tjuojgganbeajve	
+		
+vahkkobeaivi	vahkkubeajve	
+		
+luopmobeaivi	luobmubeajve	
+		
+eahketbeaivi	iehketbeajve	
+		
+álbmotbeaivi	álmmutbeajve	
+		
+beassášbeaivi	bæssásjbeajve	
+		
+oaivi	oajvve	
+		
+guoleoaivi	guoleoajve	
+		
+moivi	måjvve	
+		
+váivi	vájvve	
+		
+dálvi	dálvve	
+		
+álgodálvi	álggudálve	
+		
+searvi	siervve	
+		
+gilisearvi	gilesearve	
+		
+smarvi	smarvve	
+		
+čoarvi	tjoarvve	
+		
+bohccočoarvi	båhttsutjoarve	
+		
+avvi	avve	
+		
+njavvi	njavve	
+		
+rovvi	råvve	
+		
+hávvi	hávve	
+		
+almmái	almáj	
+		
+ráđđealmmái	ráddealmáj	
+		
+boazoalmmái	boatsoalmáj	
+		
+luohttámušalmmái	luohttámusjalmáj	
+		
+olmmái	ålmåj	
+		
+moallaolmmái	moallaolmáj	
+		
+mátkeolmmái	mátkeolmáj	
+		
+ráđđeolmmái	ráddeolmáj	
+		
+geahči	giehtje	
+		
+áhčči	áhttje	
+		
+ristáhčči	risstáhttje	
+		
+noađđi	noadde	
+		
+lieđđi	liedde	
+		
+govvabláđđi	gåvvåbládde	
+		
+vahkkobláđđi	vahkkubládde	
+		
+sámediggeráđđi	sámediggerádde	
+		
+dušši	dussje	
+		
+ášši	ássje	
+		
+váldoášši	válldoássje	
+		
+gorži	gårttje	
+		
+čižži	tjidtje	
+		
+biibbal	bijbal	
+		
+gáffal	gáffal	
+		
+hiŋggal	hiŋgal	
+		
+speajal	spejal	spiejal
+		
+ganjal	ganjál	
+		
+vuonjal	vuonjal	
+		
+luoppal	luoppal	
+		
+boahtal	boahtal	
+		
+ginttal	gintal	
+		
+snárttal	snártal	
+		
+áigedávval	ájggedávval	
+		
+távval	távval	
+		
+fuolkevuođatávval	fuolkkevuodatávval	
+		
+ebel	ebel	
+		
+orgel	årggel	
+		
+eŋgel	eŋŋgel	
+		
+juŋgel	juŋŋgel	
+		
+sihkkel	sihkkel	
+		
+čiekčansihkkel	tjiektjansihkkel	
+		
+eappel	ieppel	
+		
+eahppel	iehppel	
+		
+stevvel	stevvel	
+		
+gummestevvel	gummestevvel	
+		
+jeagil	jiegel	
+		
+ulbmil	ulmmel	
+		
+njoammil	njoammel	
+		
+ipmil	ibmel	
+		
+sámil	sámel	
+		
+goartil	goarttel	
+		
+oaivil	oajvvel	
+		
+fidjol	fidjul	
+		
+rieban	rieban	
+		
+gálggan	gálgan	
+		
+čuoigan	tjuojggan	
+		
+hoahkan	hoahkan	
+		
+suohkan	suohkan	
+		
+fylkkasuohkan	fylkasuohkan	
+		
+gievkkan	gievkan	
+		
+márkan	márkkan	
+		
+beassášmárkan	bæssásjmárkan	
+		
+gilvvohallan	gilvuhallan	
+		
+beanatgullan	benatgullan	bienatgullan
+		
+omman	åmmån	
+		
+oapman	oabman	
+		
+suopman	suobman	
+		
+eanan	enan	ienan
+		
+suohpan	suohpan	
+		
+čieran	tjieran	
+		
+árran	árran	
+		
+váran	várán	
+		
+vánhen	vánhen	
+		
+guhkkodatnjuiken	guhkkudatnjujken	
+		
+allodatnjuiken	alludatnjujken	
+		
+váhnen	váhnen	
+		
+máttarváhnen	máttarváhnen	
+		
+risváhnen	risváhnen	
+		
+risen	risen	
+		
+sábin	sáben	
+		
+goddin	gådden	
+		
+báhpagárdin	báhpagárden	
+		
+heargevuodjin	hierggevuodjen	
+		
+heargegilvovuodjin	hierggegilvovuodjen	
+		
+čoahkkin	tjoahkken	
+		
+váhnenčoahkkin	váhnentjoahkken	
+		
+goaskin	goassken	
+		
+buollin	buollen	
+		
+jápmin	jábmen	
+		
+bállahastin	bállahasten	
+		
+ledjon	ledjun	
+		
+solon	sålun	
+		
+nisson	nissun	
+		
+savvon	savvun	
+		
+čohkun	tjåhkun	
+		
+gámagoarrun	gámágoarrun	
+		
+guohtun	guohtun	
+		
+boagán	boagán	
+		
+niibeboagán	nijbbeboagán	
+		
+násteboagán	nássteboagán	
+		
+vuoján	vuoján	
+		
+sáhpán	sáhpán	
+		
+goddesáhpán	gåddesáhpán	
+		
+earán	ærán	
+		
+deattán	dættán	
+		
+sáibbo	sájbo	
+		
+rádio	rádio	
+		
+hersko	herssko	
+		
+reŋko	reŋŋko	
+		
+kilo	kilo	
+		
+girdno	girnno	
+		
+ruvdno	ruvnno	
+		
+kino	kino	
+		
+piáno	piáno	
+		
+máilmmicup	májlmmetsup	
+		
+kaleanddar	kaleanddar	
+		
+koaffar	koaffar	
+		
+suonjar	suonjar	
+		
+sohkar	såhkår	
+		
+guoppar	guoppar	
+		
+lihtar	lihtar	
+		
+duottar	duottar	
+		
+kloasttar	kloastar	
+		
+ministtar	minestar	
+		
+stáhtaministtar	stáhtaministar	
+		
+fáttar	fáttar	
+		
+tiger	tiger	
+		
+mehter	mehter	
+		
+kilomehter	kilumehter	
+		
+skohter	skåhter	
+		
+teáhter	teáhter	
+		
+lihtter	lihtter	
+		
+muhtter	muhtter	
+		
+skibir	skiber	
+		
+skuvlaskibir	skuvllaskiber	
+		
+duhkoraddanskibir	duhkuraddanskiber	
+		
+guobir	guober	
+		
+bábir	báber	
+		
+nagir	nager	
+		
+muogir	muoger	
+		
+feaskkir	fiesker	
+		
+olgofeaskkir	ålggufeasker	
+		
+geallir	gieller	
+		
+nummir	nummer	
+		
+telefonnummir	telefonnummer	
+		
+gámmir	gámmer	
+		
+gahpir	gahper	
+		
+gaibagahpir	gajbbagahper	
+		
+dievdogahpir	dievddugahper	
+		
+eappir	iepper	
+		
+busir	buser	
+		
+doavttir	doavter	
+		
+bátnedoavttir	bádnedoavtter	
+		
+šibitdoavttir	sjibetdoavtter	
+		
+dávvir	dávver	
+		
+veahčir	viehtjer	
+		
+jándor	jánndur	
+		
+bihppor	bihppur	
+		
+dihtor	dihtur	
+		
+mohtor	måhtur	
+		
+rektor	rektur	
+		
+tráktor	tráktur	
+		
+beštor	bessjtur	
+		
+viessohoiddár	viessuhojddár	
+		
+dáiddár	dájdár	
+		
+duojár	duojár	
+		
+teknihkkár	teknehkkár	
+		
+snihkkár	snihkkár	
+		
+luhkkár	luhkkár	
+		
+gámmár	gámmár	
+		
+duopmár	duobmár	
+		
+skihpár	skihpár	
+		
+bargoskihpár	bargguskihpár	
+		
+guhppár	guhppár	
+		
+áltár	álltár	
+		
+neavttár	nævtár	
+		
+rievvár	rievvár	
+		
+buohccedivššár	buohttsedivsjsjár	
+		
+albbas	albas	
+		
+giddagas	giddagas	
+		
+álddagas	áldagas	
+		
+gonagas	gånågas	
+		
+bierggas	biergas	
+		
+bargobierggas	barggubierggas	
+		
+vajahas	vajáhas	
+		
+láibevajahas	lájbbevajahas	
+		
+gávttehas	gávtehas	
+		
+gávpejas	gávppejas	
+		
+dálkkas	dálkas	
+		
+gaskkas	gaskas	
+		
+reastalas	riesstalas	
+		
+ehtemas	ehtemas	
+		
+čájálmas	tjájálmas	
+		
+golmmas	gålmås	
+		
+suorpmas	suormas	
+		
+čuorpmas	tjuormas	
+		
+fanas	fanás	
+		
+čuojanas	tjuojanas	
+		
+kaseahttačuojanas	kaseahttatjuojanas	
+		
+jiehtanas	jiehtanas	
+		
+dienas	dienas	
+		
+máinnas	májnas	
+		
+ávnnas	ávnas	
+		
+balddonas	baldunas	
+		
+varračájánas	varratjájánas	
+		
+duhkoras	duhkuras	
+		
+áirras	ájrras	
+		
+bivttas	bivtas	
+		
+árgabivttas	árggabivttas	
+		
+idjabivttas	idjabivttas	
+		
+čikŋabivttas	tjigŋabivttas	
+		
+náhkkebivttas	náhkkebivttas	
+		
+geassebivttas	giessebivttas	
+		
+dálvebivttas	dálvvebivttas	
+		
+arvebivttas	arvvebivttas	
+		
+hárjehallanbivttas	hárjjehallanbivttas	
+		
+bargobivttas	barggubivttas	
+		
+olgguldasbivttas	ålguldasbivttas	
+		
+vuolildusbivttas	vuoleldusbivttas	
+		
+vuoivvas	vuojvas	
+		
+govččas	gåvtjås	
+		
+bávččas	bávtjas	
+		
+čottabávččas	tjåttåbávttjas	
+		
+čoavjebávččas	tjoavjjebávttjas	
+		
+oaivebávččas	oajvvebávttjas	
+		
+lađas	ladás	
+		
+viđas	vidás	
+		
+ođas	ådås	
+		
+guđas	gudás	
+		
+daŋas	daŋás	
+		
+jieŋas	jieŋas	
+		
+čiežas	tjietjas	
+		
+lužas	lutjás	
+		
+skážas	skátjás	
+		
+geres	geres	
+		
+vuonccis	vuontses	
+		
+ovccis	åvttses	
+		
+gávccis	gávttses	
+		
+bálddis	báldes	
+		
+vuojadanálddis	vuojadanálddes	
+		
+bassanálddis	bassanálddes	
+		
+bálggis	bálges	
+		
+njálggis	njálges	
+		
+čottanjálggis	tjåttånjálgges	
+		
+sárggis	sárges	
+		
+logis	låges	
+		
+oktanuppelogis	åktånuppeloges	
+		
+guoktenuppelogis	guoktenuppeloges	
+		
+njealjis	njieljjes	
+		
+steažžalakkis	stiedtjalakkes	
+		
+boazorikkis	boatsurikkes	
+		
+čuokkis	tjuokkes	
+		
+gielis	gieles	
+		
+fális	fáles	
+		
+mális	máles	
+		
+biergomális	bierggumáles	
+		
+vielppis	vielpes	
+		
+láppis	láppes	
+		
+rásttis	rástes	
+		
+guovttis	guovtes	
+		
+sarvvis	sarves	
+		
+goddesarvvis	gåddesarvves	
+		
+jalŋŋis	jalŋes	
+		
+geavŋŋis	gievŋŋes	
+		
+giittos	gijtus	
+		
+guovttos	guovtus	
+		
+njuolggadus	njuolgadus	
+		
+čoavddus	tjoavdus	
+		
+bajildus	bajeldus	
+		
+ipmárdus	ibmárdus	
+		
+gáibádus	gájbbádus	
+		
+vuoládus	vuoládus	
+		
+oanádus	oanádus	
+		
+vástádus	vásstádus	
+		
+árvádus	árvvádus	
+		
+bálggus	bálgus	
+		
+njálggus	njálgus	
+		
+juogus	juogus	
+		
+čuogus	tjuogus	
+		
+jugus	jugus	
+		
+hálddahus	háldadus	
+		
+dajahus	dajádus	
+		
+namahus	namádus	
+		
+fuolkevuođanamahus	fuolkkevuodanamadus	
+		
+oahpahus	oahpadus	
+		
+ásahus	ásádus	
+		
+čilgehus	tjilggedus	
+		
+hárjehus	hárjjedus	
+		
+ráđđehus	ráddedus	
+		
+čujuhus	tjujudus	
+		
+čájáhus	tjájádus	
+		
+duodječájáhus	duodjetjájádus	
+		
+ealáhus	æládus	
+		
+dáhpáhus	dáhpádus	
+		
+girjerájus	girjjerájus	
+		
+suodjalus	suodjalus	
+		
+muitalus	mujttalus	
+		
+ipmilbálvalus	ibmelbálvalus	
+		
+árvalus	árvvalus	
+		
+čálus	tjálus	
+		
+gumppus	gumpus	
+		
+náittus	nájtus	
+		
+duođaštus	duodasjtus	
+		
+čoarvvus	tjoarvus	
+		
+boađus	boadus	
+		
+biđus	bidus	
+		
+bižus	bitjus	
+		
+goppás	gåppås	
+		
+bearjadat	bierjjadat	
+		
+guhkesbearjadat	guhkesbearjadat	
+		
+dajaldat	dajáldat	
+		
+sihkaldat	sihkaldat	
+		
+fálaldat	fáláldat	
+		
+jearaldat	jeraldat	jieraldat
+		
+basaldat	basáldat	
+		
+sávaldat	sáváldat	
+		
+gažaldat	gatjáldat	
+		
+áigodat	ájggudat	
+		
+guhkkodat	guhkkudat	
+		
+bellodat	belludat	
+		
+mánnodat	mánnudat	
+		
+fitnodat	fidnudat	
+		
+dihtorfitnodat	dihturfitnodat	
+		
+ossodat	åssudat	
+		
+ásodat	ásudat	
+		
+lávvardat	lávvardat	
+		
+pálbmalávvardat	pálmmalávvardat	
+		
+beassášlávvardat	bæssásjlávvardat	
+		
+lávvordat	lávvurdat	
+		
+pálbmalávvordat	pálmmalávvordat	
+		
+beassášlávvordat	bæssásjlávvordat	
+		
+disdat	disdat	
+		
+gáffádat	gáffádat	
+		
+vuogádat	vuogádat	
+		
+sajádat	sajádat	
+		
+beaivvádat	bæjvádat	
+		
+doaimmahat	doajmahat	
+		
+basahat	basáhat	
+		
+gosahat	gåsåhat	
+		
+njuovahat	njuovahat	
+		
+láibbohat	lájbuhat	
+		
+lávggohat	lávguhat	
+		
+orohat	åruhat	
+		
+geasseorohat	giesseorohat	
+		
+divohat	divuhat	
+		
+biiladivohat	bijladivohat	
+		
+váccáhat	váttsáhat	
+		
+čottaboalddáhat	tjåttåboalddáhat	
+		
+ealáhat	æláhat	
+		
+állat	állat	
+		
+čearpmat	tjermat	tjiermat
+		
+heahpat	hehpat	hiehpat
+		
+rievssat	rievsat	
+		
+guovssat	guovsat	
+		
+duorastat	duorastat	
+		
+skilleduorastat	skilleduorastat	
+		
+helloduorastat	helluduorastat	
+		
+heláduorastat	heláduorastat	
+		
+gárastat	gárástat	
+		
+gorostat	gårustat	
+		
+jugástat	jugástat	
+		
+láttat	láttat	
+		
+divat	divát	
+		
+riegádanbeaidearvvuođat	riegádanbeajdearvvuodat	
+		
+čeabet	tjiebet	
+		
+sabet	sabet	
+		
+gaccet	gattset	
+		
+buoidegaccet	buojddegattset	
+		
+eahket	iehket	
+		
+rehket	rehket	
+		
+goikket	gåjket	
+		
+dronnet	drånnet	
+		
+ortnet	årnet	
+		
+lohkanortnet	låhkånornet	
+		
+jieret	jieret	
+		
+gearret	gierret	
+		
+čearret	tjierret	
+		
+hivsset	hivset	
+		
+rántet	ránntet	
+		
+rusttet	rustet	
+		
+guollerusttet	guollerustet	
+		
+njuovvanrusttet	njuovvanrustet	
+		
+gáddebuvvet	gáddebuvvet	
+		
+návet	návet	
+		
+geassenávet	giessenávet	
+		
+muzet	mutset	
+		
+čázet	tjátset	
+		
+buđet	budet	
+		
+šibit	sjibet	
+		
+rihcit	rihtset	
+		
+sallit	sallet	
+		
+eamit	iemet	
+		
+dálueamit	dáloeamet	
+		
+sarrit	sarret	
+		
+isit	iset	
+		
+ustit	usstet	
+		
+iđit	idet	
+		
+gállot	gállut	
+		
+álbmot	álmmut	
+		
+eamiálbmot	iemiálmmot	
+		
+álgoálbmot	álggoálmmot	
+		
+dápmot	dábmut	
+		
+gávpot	gávpput	
+		
+nuvttot	nuvtut	
+		
+jáffut	jáffut	
+		
+gorut	gårut	
+		
+ámmát	ámmát	
+		
+bálvalanámmát	bálvvalanámmát	
+		
+verrát	verrát	
+		
+kuššát	kussját	
+		
+šlubbu	slubbo	
+		
+sáibu	sájbbo	
+		
+dárbu	dárbbo	
+		
+bircu	birttso	
+		
+šaddu	sjaddo	
+		
+boddu	båddo	
+		
+mánáidboddu	mánájdboddu	
+		
+gáffeboddu	gáffeboddu	
+		
+gáfeboddu	gáfeboddu	
+		
+boradanboddu	bårådanboddu	
+		
+borranboddu	bårrånboddu	
+		
+beallemuddu	biellemuddu	
+		
+loaidu	loajddo	
+		
+riidu	rijddo	
+		
+siidu	sijddo	
+		
+ruovttusiidu	ruovtusijdu	
+		
+ráidu	rájddo	
+		
+beanaráidu	benarájdu	bienarájdu
+		
+govvaráidu	gåvvårájdu	
+		
+baldu	balldo	
+		
+bealdu	bælldo	bielldo
+		
+ildu	illdo	
+		
+hildu	hilldo	
+		
+girjehildu	girjjehildu	
+		
+njálggeshildu	njálgeshildu	
+		
+áldu	álldo	
+		
+hárdu	hárddo	
+		
+dievdu	dievddo	
+		
+bivdu	bivddo	
+		
+mearrabivdu	merrabivdu	mierrabivdu
+		
+luossabivdu	luossabivdu	
+		
+guollebivdu	guollebivdu	
+		
+rievssatbivdu	rievsatbivdu	
+		
+ovdu	åvddo	
+		
+dovdu	dåvddo	
+		
+rávdu	rávddo	
+		
+jáffu	jáffo	
+		
+nisojáffu	nisujáffu	
+		
+spálfu	spálffo	
+		
+stággu	stággo	
+		
+leavgastággu	lievggastággu	
+		
+guigu	gujggo	
+		
+láigu	lájggo	
+		
+giellavealgu	giellavealgu	
+		
+álgu	álggo	
+		
+čogu	tjågo	
+		
+bargu	barggo	
+		
+guollebargu	guollebargu	
+		
+joavkobargu	joavkkubargu	
+		
+kántorbargu	kánnturbargu	
+		
+ruovttubargu	ruovtubargu	
+		
+goargu	goarggo	
+		
+biergu	bierggo	
+		
+goikebiergu	gåjkkebiergu	
+		
+spiinnebiergu	spijnebiergu	
+		
+bohccobiergu	båhttsubiergu	
+		
+duorgu	duorggo	
+		
+gárgu	gárggo	
+		
+rivgu	rivggo	
+		
+ámadadju	ámádadju	
+		
+readdju	ræddjo	rieddjo
+		
+biedju	biedjo	
+		
+ládju	ládjo	
+		
+girjerádju	girjjerádju	
+		
+šillju	sjilljo	
+		
+skuvlašillju	skuvllatjillju	
+		
+girdišillju	girddetjillju	
+		
+solju	såljjo	
+		
+njuorju	njuorjjo	
+		
+niehku	niehko	
+		
+áigelohku	ájggelohku	
+		
+ciiku	tsijkko	
+		
+vahkku	vahkko	
+		
+gaskavahkku	gasskavahkku	
+		
+suohkku	suohkko	
+		
+áhkku	áhkko	
+		
+gáhkku	gáhkko	
+		
+lákcagáhkku	láktsagáhkku	
+		
+šuhkoládagáhkku	sjuhkuládagáhkku	
+		
+marsipánagáhkku	marssepánagáhkku	
+		
+guollegáhkku	guollegáhkku	
+		
+bihpporgáhkku	bihppurgáhkku	
+		
+smáhkku	smáhkko	
+		
+máttaráhkku	máttaráhkku	
+		
+girku	girkko	
+		
+kirku	kirkko	
+		
+risku	rissko	
+		
+osku	åssko	
+		
+joavku	joavkko	
+		
+goaŋku	goaŋŋko	
+		
+báŋku	báŋŋko	
+		
+fiilu	fijlo	
+		
+ballu	ballo	
+		
+eallu	ællo	iello
+		
+speallu	spællo	spiello
+		
+dihtorspeallu	dihturspeallu	
+		
+boallu	boallo	
+		
+eanadoallu	enadoallu	ienadoallu
+		
+sávzadoallu	sávttsadoallu	
+		
+eatnandoallu	ednandoallu	iednandoallu
+		
+boazodoallu	boatsudoallu	
+		
+šibitdoallu	sjibetdoallu	
+		
+illu	illo	
+		
+áigegollu	ájggegollu	
+		
+stuollu	stuollo	
+		
+mieiganstuollu	miejgganstuollu	
+		
+dállu	dállo	
+		
+ráidodállu	rájddudállu	
+		
+šibitdállu	sjibetdállu	
+		
+hállu	hállo	
+		
+nállu	nállo	
+		
+stállu	stállo	
+		
+juovlastállu	juovllastállu	
+		
+suolu	suolo	
+		
+guovlu	guovllo	
+		
+almmiguovlu	almeguovlu	
+		
+ássanguovlu	ássanguovlu	
+		
+biebmu	biebbmo	
+		
+iđitbiebmu	idetbiebmu	
+		
+diibmu	dijmmo	
+		
+skuvladiibmu	skuvlladijmmu	
+		
+váibmu	vájmmo	
+		
+bárbmu	bármmo	
+		
+dopmu	dåbmo	
+		
+luopmu	luobmo	
+		
+juovlaluopmu	juovllaluopmu	
+		
+čakčaluopmu	tjaktjaluopmu	
+		
+geasseluopmu	giesseluopmu	
+		
+beassášluopmu	bæssásjluopmu	
+		
+fápmu	fábmo	
+		
+jápmu	jábmo	
+		
+eanu	æno	ieno
+		
+geaidnu	gæjnno	giejnno
+		
+vázzingeaidnu	vádtsengeajnnu	
+		
+eallinoaidnu	iellenoajnnu	
+		
+kruvdnu	kruvnno	
+		
+mánnu	mánno	
+		
+juovlamánnu	juovllamánnu	
+		
+skábmamánnu	skábbmamánnu	
+		
+guovvamánnu	guovvamánnu	
+		
+čakčamánnu	tjaktjamánnu	
+		
+njukčamánnu	njuktjamánnu	
+		
+ođđajagemánnu	åddåjagemánnu	
+		
+borgemánnu	bårggemánnu	
+		
+suoidnemánnu	suojnnemánnu	
+		
+geassemánnu	giessemánnu	
+		
+miessemánnu	miessemánnu	
+		
+cuoŋománnu	tsuoŋumánnu	
+		
+golggotmánnu	gålgutmánnu	
+		
+eatnu	ædno	iedno
+		
+rotnu	rådno	
+		
+rátnu	rádno	
+		
+fabrihkkarátnu	fabrehkkarátnu	
+		
+láhtterátnu	láhtterátnu	
+		
+riehpu	riehpo	
+		
+stohpu	ståhpo	
+		
+duottarstohpu	duottarstohpu	
+		
+vuolpu	vuolppo	
+		
+lámpu	lámmpo	
+		
+šámpu	sjámmpo	
+		
+vuoktašámpu	vuoktatjámpu	
+		
+deappu	dæppo	dieppo
+		
+oahppu	oahppo	
+		
+lihppu	lihppo	
+		
+gávppašanlihppu	gávpatjanlihppu	
+		
+gohppu	gåhppo	
+		
+deadjagohppu	dedjagohppu	diedjagohppu
+		
+skáhppu	skáhppo	
+		
+cuoppu	tsuoppo	
+		
+árpu	árppo	
+		
+boaru	boaro	
+		
+gáiru	gájro	
+		
+luoddaearru	luoddaearru	
+		
+gáhtaearru	gáhtaearru	
+		
+skearru	skærro	skierro
+		
+vearru	værro	vierro
+		
+vierru	vierro	
+		
+árbevierru	árbbevierru	
+		
+vuorru	vuorro	
+		
+sáhkavuorru	sáhkavuorru	
+		
+fástavuorru	fásstavuorru	
+		
+bárru	bárro	
+		
+čuru	tjuro	
+		
+nisu	niso	
+		
+leaksu	lækso	liekso
+		
+mársu	mársso	
+		
+viessu	viesso	
+		
+gielddaviessu	gieldaviessu	
+		
+fylkkaviessu	fylkaviessu	
+		
+buohcceviessu	buohttseviessu	
+		
+geardeviessu	gierddeviessu	
+		
+ráđđeviessu	ráddeviessu	
+		
+giliviessu	gileviessu	
+		
+kulturviessu	kullturviessu	
+		
+birasviessu	birásviessu	
+		
+vuossu	vuosso	
+		
+áigáiboahtu	ájggájboahtu	
+		
+diehtu	diehto	
+		
+johtu	jåhto	
+		
+rohtu	råhto	
+		
+muohtu	muohto	
+		
+muitu	mujtto	
+		
+ruitu	rujtto	
+		
+vuoššanruitu	vuossjanrujtu	
+		
+málesruitu	málesrujtu	
+		
+ruoktu	ruokto	
+		
+mánáidruoktu	mánájdruoktu	
+		
+kontu	kånnto	
+		
+listu	lissto	
+		
+gávppašanlistu	gávpatjanlistu	
+		
+biebmolistu	biebbmulistu	
+		
+borranlustu	bårrånlustu	
+		
+návstu	návssto	
+		
+rumašlahttu	rumasjlahttu	
+		
+roahttu	roahtto	
+		
+gáhttu	gáhtto	
+		
+láhttu	láhtto	
+		
+máhttu	máhtto	
+		
+láttu	látto	
+		
+sáttu	sátto	
+		
+savu	savo	
+		
+doaivu	doajvvo	
+		
+siivu	sijvvo	
+		
+gilvu	gilvvo	
+		
+gálvu	gálvvo	
+		
+gávpegálvu	gávppegálvu	
+		
+stohpogálvu	ståhpugálvu	
+		
+viessogálvu	viessugálvu	
+		
+nuorvu	nuorvvo	
+		
+árvu	árvvo	
+		
+gárvu	gárvvo	
+		
+lávvu	lávvo	
+		
+boazu	boatso	
+		
+niesteboazu	niessteboatsu	
+		
+boađđu	boaddo	
+		
+riđđu	riddo	
+		
+vuođđu	vuoddo	
+		
+váđđu	váddo	
+		
+soagŋu	soaggŋo	
+		
+ákšu	áksjo	
+		
+boaššu	boassjo	
+		
+riššu	rissjo	
+		
+skálžu	skálltjo	
+		
+reabbá	ræbbá	
+		
+oabbá	oabbá	
+		
+bumbá	bummbá	
+		
+guoddá	guoddá	
+		
+fáddá	fáddá	
+		
+obbalággá	åbbålággá	
+		
+biigá	bijggá	
+		
+mánnabiigá	mánnabijgá	
+		
+beavdebiigá	bievddebijgá	
+		
+skadjá	skadjá	
+		
+guolleskadjá	guolleskadjá	
+		
+biergoskadjá	biergguskadjá	
+		
+soadjá	soadjá	
+		
+áddjá	áddjá	
+		
+muohtaáddjá	muohtaáddjá	
+		
+máttaráddjá	máttaráddjá	
+		
+rádjá	rádjá	
+		
+riikkarádjá	rijkarádjá	
+		
+ránnjá	ránnjá	
+		
+kránnjá	kránnjá	
+		
+garjá	garjjá	
+		
+bohkká	båhkkå	
+		
+dohkká	dåhkkå	
+		
+luohkká	luohkká	
+		
+čierastallanluohkká	tjierastallanluohkká	
+		
+gielká	gielkká	
+		
+mohtorgielká	måhturgielká	
+		
+bálká	bálkká	
+		
+vuorká	vuorkká	
+		
+gurká	gurkká	
+		
+reatká	rætká	
+		
+fielbmá	fielmmá	
+		
+cummá	tsummá	
+		
+dámmá	dámmá	
+		
+ástmá	ástmá	
+		
+rádná	ráddná	
+		
+binná	binná	
+		
+mánná	mánná	
+		
+skuvlamánná	skuvllamánná	
+		
+mánáidmánná	mánájdmánná	
+		
+lámpá	lámmpá	
+		
+ráhppá	ráhppá	
+		
+tráhppá	tráhppá	
+		
+sovppá	såvpå	
+		
+giisá	gijssá	
+		
+gáisá	gájssá	
+		
+vuoksá	vuoksá	
+		
+vársá	várssá	
+		
+siessá	siessá	
+		
+tealtá	tælltá	
+		
+vuostá	vuosstá	
+		
+vilgesvuostá	vilggesvuostá	
+		
+ruškesvuostá	russjkesvuostá	
+		
+bihttá	bihttá	
+		
+luossabihttá	luossabihttá	
+		
+lohkanbihttá	låhkånbihttá	
+		
+bargobihttá	barggubihttá	
+		
+gohttá	gåhttå	
+		
+bálvá	bálvvá	
+		
+fiervá	fiervvá	
+		
+vávvá	vávvá	
+		
+haŋŋá	haŋŋá	
+		
+muoŧŧá	muottá	
+		
+skávžá	skávttjá	
+		
+lávžá	lávttjá	
+		
+nieiddaš	niejdasj	
+		
+gánddaš	gándasj	
+		
+beatnagaš	bednagasj	biednagasj
+		
+jogaš	jågåsj	
+		
+oapmahaš	oabmahasj	
+		
+unnavieljaš	unnavieljasj	
+		
+nuortalaš	nuorttalasj	
+		
+suopmelaš	suobmelasj	
+		
+sápmelaš	sábmelasj	
+		
+mearrasápmelaš	merrasápmelasj	mierrasápmelasj
+		
+badjesápmelaš	badjesápmelasj	
+		
+lullisápmelaš	lullesápmelasj	
+		
+johttisápmelaš	jåhttesápmelasj	
+		
+boazosápmelaš	boatsusápmelasj	
+		
+julevsápmelaš	julevsápmelasj	
+		
+ruoŧŧilaš	ruottelasj	
+		
+láigolaš	lájggulasj	
+		
+dálolaš	dálulasj	
+		
+buolaš	buolasj	
+		
+gearpmaš	germasj	giermasj
+		
+rumaš	rumasj	
+		
+bearaš	berasj	bierasj
+		
+moraš	måråsj	
+		
+návrraš	návrasj	
+		
+anáraš	anárasj	
+		
+sadjásaš	sadjásasj	
+		
+ovcceš	åvttsesj	
+		
+gávcceš	gávttsesj	
+		
+logeš	lågesj	
+		
+njelješ	njeljjesj	
+		
+golmmeš	gålmesj	
+		
+jumeš	jumesj	
+		
+ovtteš	åvtesj	
+		
+guvtteš	guvtesj	
+		
+viđeš	videsj	
+		
+guđeš	gudesj	
+		
+čižeš	tjitjesj	
+		
+olggoš	ålgusj	
+		
+olmmoš	ålmusj	
+		
+dáppe-olmmoš	dáppe-ålmusj	
+		
+ovdaolmmoš	åvddåolmosj	
+		
+virgeolmmoš	virggeolmosj	
+		
+badjeolmmoš	badjeolmosj	
+		
+almmáiolmmoš	almájolmosj	
+		
+nissonolmmoš	nissunolmosj	
+		
+dievdoolmmoš	dievddoolmosj	
+		
+ollesolmmoš	ållesolmosj	
+		
+rávesolmmoš	rávesolmosj	
+		
+visoš	visusj	
+		
+lohkamuš	låhkåmusj	
+		
+juhkamuš	juhkamusj	
+		
+borramuš	bårråmusj	
+		
+eahketborramuš	iehketborramusj	
+		
+áigumuš	ájggumusj	
+		
+boaldámuš	boalldámusj	
+		
+bađuš	badusj	
+		
+beaivvášláibbáš	bæjvásjlájbbásj	
+		
+beavddáš	bævdásj	
+		
+guovddáš	guovdásj	
+		
+giellaguovddáš	giellaguovddásj	
+		
+dearvvašvuođaguovddáš	dervasjvuodaguovddásj	diervasjvuodaguovddásj
+		
+girjjáš	girjásj	
+		
+bártnáš	bárnásj	
+		
+mánáš	mánásj	
+		
+unnaoappáš	unnaoappásj	
+		
+cizáš	tsitsásj	
+		
+goađáš	goadásj	
+		

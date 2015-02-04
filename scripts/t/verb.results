@@ -1,96 +1,1450 @@
-91c91
-< geahkat	giehkat
----
-> geahkat	gehkat
-145c145
-< geallat	giellat
----
-> geallat	gellat
-147c147
-< speallat	spiellat
----
-> speallat	spellat
-153c153
-< jearahallat	jierahallat
----
-> jearahallat	jerahallat
-157c157
-< dearvvahallat	diervahallat
----
-> dearvvahallat	dervahallat
-183c183
-< leaikkastallat	liejkastallat
----
-> leaikkastallat	lejkastallat
-271c271
-< jearrat	jierrat
----
-> jearrat	jerrat
-287c287
-< beassat	biessat
----
-> beassat	bessat
-313c313
-< leavvat	lievvat
----
-> leavvat	levvat
-333c333
-< dearvvašmuvvat	diervasjmuvvat
----
-> dearvvašmuvvat	dervasjmuvvat
-335c335
-< dearvvašnuvvat	diervasjnuvvat
----
-> dearvvašnuvvat	dervasjnuvvat
-579c579
-< deaivvadit	diejvadit
----
-> deaivvadit	dejvadit
-789c789
-< jearahit	jieradit
----
-> jearahit	jeradit
-797c797
-< geavahit	gievadit
----
-> geavahit	gevadit
-799c799
-< heavahit	hievadit
----
-> heavahit	hevadit
-801c801
-< dearvvahit	diervadit
----
-> dearvvahit	dervadit
-861c861
-< geardduhit	gierdudit
----
-> geardduhit	gerdudit
-883c883
-< geasuhit	giesudit
----
-> geasuhit	gesudit
-945c945
-< jearralit	jierralit
----
-> jearralit	jerralit
-1001c1001
-< heavvanit	hievvanit
----
-> heavvanit	hevvanit
-1091c1091
-< leahkastit	liehkastit
----
-> leahkastit	lehkastit
-1237c1237
-< mearkkašit	mierkatjit
----
-> mearkkašit	merkatjit
-1275c1275
-< leabbut	liebbut
----
-> leabbut	lebbut
-1343c1343
-< seailut	siejlut
----
-> seailut	sejlut
+váibat	vájbbat	
+		
+skurbat	skurbbat	
+		
+máhccat	máhttsat	
+		
+ohcat	åhtsåt	
+		
+buohcat	buohtsat	
+		
+áicat	ájttsat	
+		
+lohpádaddat	låhpådaddat	
+		
+guorahaddat	guorahaddat	
+		
+bassaladdat	bassaladdat	
+		
+buorránaddat	buorránaddat	
+		
+duhkoraddat	duhkuraddat	
+		
+dolastaddat	dålåstaddat	
+		
+šaddat	sjaddat	
+		
+heahtáduddat	hæhtáduddat	
+		
+suddat	suddat	
+		
+čierostuddat	tjierustuddat	
+		
+vuoidat	vuojddat	
+		
+duoldat	duolldat	
+		
+gierdat	gierddat	
+		
+joavdat	joavddat	
+		
+dovdat	dåvddåt	
+		
+leat	liet	
+		
+caggat	tsaggat	
+		
+figgat	figgat	
+		
+coggat	tsåggåt	
+		
+roggat	råggåt	
+		
+hoigat	håjggåt	
+		
+juoigat	juojggat	
+		
+čuoigat	tjuojggat	
+		
+golgat	gålggåt	
+		
+bargat	barggat	
+		
+ovttasbargat	åvtåsbargat	
+		
+geargat	gierggat	
+		
+borgat	bårggåt	
+		
+ravgat	ravggat	
+		
+ruovgat	ruovggat	
+		
+dadjat	dadjat	
+		
+vadjat	vadjat	
+		
+njiedjat	njiedjat	
+		
+bidjat	bidjat	
+		
+vuodjat	vuodjat	
+		
+čuodjat	tjuodjat	
+		
+rádjat	rádjat	
+		
+botnjat	bådnjåt	
+		
+dahkat	dahkat	
+		
+geahkat	gehkat	giehkat
+		
+stoahkat	stoahkat	
+		
+viehkat	viehkat	
+		
+čiehkat	tjiehkat	
+		
+lohkat	låhkåt	
+		
+nohkat	nåhkåt	
+		
+čuohkat	tjuohkat	
+		
+juhkat	juhkat	
+		
+suhkat	suhkat	
+		
+háhkat	háhkat	
+		
+njáhkat	njáhkat	
+		
+čáhkat	tjáhkat	
+		
+goikat	gåjkkåt	
+		
+luoikat	luojkkat	
+		
+lihkkat	lihkkat	
+		
+nohkkat	nåhkkåt	
+		
+dolkat	dålkkåt	
+		
+čieskat	tjiesskat	
+		
+iskat	isskat	
+		
+njuoskat	njuosskat	
+		
+suoskat	suosskat	
+		
+dutkat	dutkat	
+		
+jávkat	jávkkat	
+		
+rávkat	rávkkat	
+		
+ballat	ballat	
+		
+rohkadallat	råhkådallat	
+		
+lohpádallat	låhpådallat	
+		
+geallat	gellat	giellat
+		
+speallat	spellat	spiellat
+		
+gulahallat	guláhallat	
+		
+oahpahallat	oahpahallat	
+		
+jearahallat	jerahallat	jierahallat
+		
+guorahallat	guorahallat	
+		
+dearvvahallat	dervahallat	diervahallat
+		
+gieđahallat	giedahallat	
+		
+hárjehallat	hárjjehallat	
+		
+cahkkehallat	tsahkkehallat	
+		
+mojohallat	måjuhallat	
+		
+čohkohallat	tjåhkuhallat	
+		
+rámohallat	rámuhallat	
+		
+lonohallat	lånuhallat	
+		
+gilvvohallat	gilvuhallat	
+		
+čájáhallat	tjájáhallat	
+		
+doallat	doallat	
+		
+ságastallat	ságástallat	
+		
+ijastallat	ijástallat	
+		
+leaikkastallat	lejkastallat	liejkastallat
+		
+dolastallat	dålåstallat	
+		
+čierastallat	tjierastallat	
+		
+suohtastallat	suohtastallat	
+		
+gáfestallat	gáfestallat	
+		
+čorgestallat	tjårggestallat	
+		
+gallestallat	gallestallat	
+		
+ujostallat	ujustallat	
+		
+girkostallat	girkkustallat	
+		
+dálostallat	dálustallat	
+		
+messostallat	messustallat	
+		
+čiehkástallat	tjiehkástallat	
+		
+falástallat	falástallat	
+		
+# diek	# diek	
+		
+valástallat	valástallat	
+		
+imaštallat	imasjtallat	
+		
+árvvoštallat	árvusjtallat	
+		
+faláštallat	falásjtallat	
+		
+valáštallat	valásjtallat	
+		
+ciellat	tsiellat	
+		
+njiellat	njiellat	
+		
+gollat	gållåt	
+		
+nuollat	nuollat	
+		
+čuollat	tjuollat	
+		
+gullat	gullat	
+		
+fállat	fállat	
+		
+hállat	hállat	
+		
+skállat	skállat	
+		
+guovlat	guovllat	
+		
+doaibmat	doajmmat	
+		
+čaibmat	tjajmmat	
+		
+njammat	njammat	
+		
+doapmat	doabmat	
+		
+hupmat	hubmat	
+		
+dápmat	dábmat	
+		
+gávdnat	gávnnat	
+		
+mannat	mannat	
+		
+čatnat	tjadnat	
+		
+fitnat	fidnat	
+		
+rahpat	rahpat	
+		
+rihpat	rihpat	
+		
+cáhpat	tsáhpat	
+		
+oahppat	oahppat	
+		
+čuohppat	tjuohppat	
+		
+jearrat	jerrat	jierrat
+		
+njoarrat	njoarrat	
+		
+borrat	bårråt	
+		
+jorrat	jårråt	
+		
+gárrat	gárrat	
+		
+giksat	giksat	
+		
+joksat	jåksåt	
+		
+bassat	bassat	
+		
+beassat	bessat	biessat
+		
+riessat	riessat	
+		
+gossat	gåssåt	
+		
+ássat	ássat	
+		
+miehtat	miehtat	
+		
+sihtat	sihtat	
+		
+duhtat	duhtat	
+		
+smiehttat	smiehttat	
+		
+šiehttat	sjiehttat	
+		
+ruohttat	ruohttat	
+		
+suhttat	suhttat	
+		
+deaivat	diejvvat	
+		
+searvat	siervvat	
+		
+leavvat	levvat	lievvat
+		
+dievvat	dievvat	
+		
+bivvat	bivvat	
+		
+njuovvat	njuovvat	
+		
+billahuvvat	billahuvvat	
+		
+niesttehuvvat	niestehuvvat	
+		
+dáhpáhuvvat	dáhpáhuvvat	
+		
+boatkuluvvat	boatkuluvvat	
+		
+ráhkásmuvvat	ráhkásmuvvat	
+		
+oahpásmuvvat	oahpásmuvvat	
+		
+dearvvašmuvvat	dervasjmuvvat	diervasjmuvvat
+		
+dearvvašnuvvat	dervasjnuvvat	diervasjnuvvat
+		
+láittastuvvat	lájtastuvvat	
+		
+bivastuvvat	bivástuvvat	
+		
+čalmmástuvvat	tjalmástuvvat	
+		
+šuvvat	sjuvvat	
+		
+billašuvvat	billatjuvvat	
+		
+sávvat	sávvat	
+		
+rahčat	rahtjat	
+		
+čiekčat	tjiektjat	
+		
+gokčat	gåktjåt	
+		
+geahččat	giehttjat	
+		
+bearráigeahččat	bærrájgeahttjat	
+		
+gahččat	gahttjat	
+		
+gođđat	gåddåt	
+		
+vuoigŋat	vuojŋŋat	
+		
+duogŋat	duoggŋat	
+		
+čákŋat	tjágŋat	
+		
+viššat	vissjat	
+		
+vuoššat	vuossjat	
+		
+viežžat	viedtjat	
+		
+lebbet	lebbit	
+		
+giddet	giddit	
+		
+luddet	luddit	
+		
+áddet	áddit	
+		
+sáddet	sáddit	
+		
+riidet	rijddit	
+		
+bovdet	båvddit	
+		
+cegget	tseggit	
+		
+ligget	liggit	
+		
+čugget	tjuggit	
+		
+nágget	nággit	
+		
+geiget	gejggit	
+		
+čilget	tjilggit	
+		
+birget	birggit	
+		
+čorget	tjårggit	
+		
+biđget	birggit	
+		
+heŋget	heŋŋgit	
+		
+riŋget	riŋŋgit	
+		
+válljet	válljit	
+		
+murjet	murjjit	
+		
+smáhket	smáhkit	
+		
+leiket	lejkkit	
+		
+njuiket	njujkkit	
+		
+dohkket	dåhkkit	
+		
+báhkket	báhkkit	
+		
+gáhkket	gáhkkit	
+		
+páhkket	páhkkit	
+		
+snelket	snelkkit	
+		
+lávket	lávkkit	
+		
+skeŋket	skeŋŋkit	
+		
+dáŋket	dáŋŋkit	
+		
+háŋket	háŋŋkit	
+		
+fillet	fillit	
+		
+ollet	ållit	
+		
+dollet	dållit	
+		
+čollet	tjållit	
+		
+málet	málit	
+		
+lubmet	lubbmit	
+		
+fidnet	fiddnit	
+		
+ferdnet	fernnit	
+		
+ordnet	årnnit	
+		
+tevdnet	tevnnit	
+		
+ivdnet	ivnnit	
+		
+dinet	dinit	
+		
+nannet	nannit	
+		
+lonet	lånit	
+		
+plánet	plánit	
+		
+bumpet	bummpit	
+		
+dohppet	dåhppit	
+		
+rigeret	rigerit	
+		
+dekoreret	dekurerit	
+		
+njorret	njårrit	
+		
+gurret	gurrit	
+		
+murret	murrit	
+		
+fárret	fárrit	
+		
+bovret	båvrrit	
+		
+hukset	huksit	
+		
+dánset	dánnsit	
+		
+besset	bessit	
+		
+liktet	liktit	
+		
+loktet	låktit	
+		
+sáltet	sálltit	
+		
+luistet	lujsstit	
+		
+dustet	dusstit	
+		
+rohttet	råhttit	
+		
+láhttet	láhttit	
+		
+heivet	hejvvit	
+		
+hervet	hervvit	
+		
+čurvet	tjurvvit	
+		
+govvet	gåvvit	
+		
+rávvet	rávvit	
+		
+jeđđet	jeddit	
+		
+stunžet	stunntjit	
+		
+gohcit	gåhtsit	
+		
+báhcit	báhtsit	
+		
+váibadit	vájbbadit	
+		
+cábadit	tsábádit	
+		
+jáddadit	jáddadit	
+		
+rievdadit	rievddadit	
+		
+nagadit	nagádit	
+		
+niegadit	niegadit	
+		
+čuoiggadit	tjuojgadit	
+		
+golgadit	gålggådit	
+		
+logadit	lågådit	
+		
+sugadit	sugádit	
+		
+idjadit	idjadit	
+		
+lihkadit	lihkadit	
+		
+ráhkadit	ráhkadit	
+		
+goikadit	gåjkkådit	
+		
+liekkadit	liekkadit	
+		
+iskkadit	iskadit	
+		
+njávkkadit	njávkadit	
+		
+nuoladit	nuoladit	
+		
+humadit	humádit	
+		
+jietnadit	jiednadit	
+		
+boradit	bårådit	
+		
+joradit	jårådit	
+		
+basadit	basádit	
+		
+ruhtadit	ruhtadit	
+		
+suhtadit	suhtadit	
+		
+dulvadit	dulvvadit	
+		
+njuovadit	njuovadit	
+		
+deaivvadit	dejvadit	diejvadit
+		
+livvadit	livvadit	
+		
+geahčadit	giehtjadit	
+		
+čiŋadit	tjiŋádit	
+		
+addit	addit	
+		
+deaddit	dieddit	
+		
+goddit	gåddit	
+		
+guoddit	guoddit	
+		
+gáddit	gáddit	
+		
+čohkkedit	tjåhkkedit	
+		
+galledit	galledit	
+		
+velledit	velledit	
+		
+huraidit	hurájdit	
+		
+gáibidit	gájbbedit	
+		
+lágidit	lágedit	
+		
+runiidit	runijdit	
+		
+duskidit	dusskedit	
+		
+bilidit	biledit	
+		
+sárdnidit	sárnnedit	
+		
+buressivdnidit	buressivnnidit	
+		
+doidit	dåjddit	
+		
+lohpidit	låhpedit	
+		
+goaridit	goaredit	
+		
+buoridit	buoredit	
+		
+stuoridit	stuoredit	
+		
+mearridit	mierredit	
+		
+givssidit	givsedit	
+		
+bártidit	bárttedit	
+		
+vástidit	vásstedit	
+		
+rasttidit	rastedit	
+		
+árvidit	árvvedit	
+		
+boaldit	boalldit	
+		
+buđaldit	budáldit	
+		
+rasttildit	rasteldit	
+		
+oaivvildit	oajveldit	
+		
+váldit	válldit	
+		
+nagodit	nagudit	
+		
+njurggodit	njurgudit	
+		
+čuvggodit	tjuvgudit	
+		
+lávggodit	lávgudit	
+		
+sevnnjodit	sevnjudit	
+		
+jaskkodit	jaskudit	
+		
+fiskkodit	fiskudit	
+		
+njolodit	njåludit	
+		
+ránodit	ránudit	
+		
+molssodit	målsudit	
+		
+ruvssodit	ruvsudit	
+		
+gárvodit	gárvvudit	
+		
+čuvodit	tjuvudit	
+		
+gohčodit	gåhtjudit	
+		
+čuččodit	tjuttjudit	
+		
+libardit	libárdit	
+		
+goardit	goarddit	
+		
+vizardit	vitsárdit	
+		
+vižardit	vitjárdit	
+		
+girdit	girddit	
+		
+ipmirdit	ibmerdit	
+		
+sirdit	sirddit	
+		
+bordit	bårddit	
+		
+vuordit	vuorddit	
+		
+hárdit	hárddit	
+		
+njoahcudit	njoahtsudit	
+		
+illudit	illudit	
+		
+dálludit	dálludit	
+		
+ávvudit	ávvudit	
+		
+gáržudit	gárttjudit	
+		
+deavdit	dievddit	
+		
+bivdit	bivddit	
+		
+vuovdit	vuovddit	
+		
+njuvdit	njuvddit	
+		
+hávdádit	hávddádit	
+		
+riegádit	riegádit	
+		
+sealgádit	sælggádit	
+		
+čiehkádit	tjiehkádit	
+		
+huikkádit	hujkádit	
+		
+cieládit	tsieládit	
+		
+suoládit	suoládit	
+		
+jienádit	jienádit	
+		
+guvrragit	guvragit	
+		
+bávččagit	bávtjagit	
+		
+čoaggit	tjoaggit	
+		
+vuolgit	vuolggit	
+		
+álgit	álggit	
+		
+njávgit	njávggit	
+		
+dárbbahit	dárbadit	
+		
+ribahit	ribádit	
+		
+duolddahit	duoldadit	
+		
+válddahit	váldadit	
+		
+jurddahit	jurdadit	
+		
+viegahit	viegadit	
+		
+čuoiggahit	tjuojgadit	
+		
+álggahit	álgadit	
+		
+barggahit	bargadit	
+		
+sojahit	såjådit	
+		
+čuojahit	tjuojadit	
+		
+hohkahit	håhkådit	
+		
+luoikkahit	luojkadit	
+		
+váillahit	vájlladit	
+		
+nuolahit	nuoladit	
+		
+namahit	namádit	
+		
+doaimmahit	doajmadit	
+		
+manahit	manádit	
+		
+oahpahit	oahpadit	
+		
+loahpahit	loahpadit	
+		
+gávppahit	gávpadit	
+		
+jearahit	jeradit	jieradit
+		
+garahit	garádit	
+		
+borahit	bårådit	
+		
+ásahit	ásádit	
+		
+geavahit	gevadit	gievadit
+		
+heavahit	hevadit	hievadit
+		
+dearvvahit	dervadit	diervadit
+		
+čađahit	tjadádit	
+		
+čiŋahit	tjiŋádit	
+		
+stuŋgehit	stuŋŋgedit	
+		
+vuojehit	vuojedit	
+		
+čájehit	tjájedit	
+		
+veahkehit	viehkedit	
+		
+nahkehit	nahkedit	
+		
+cahkkehit	tsahkkedit	
+		
+dohkkehit	dåhkkedit	
+		
+gaikkehit	gajkedit	
+		
+fallehit	falledit	
+		
+vuosehit	vuosedit	
+		
+eattehit	iettedit	
+		
+heivehit	hejvvedit	
+		
+jorggihit	jårgedit	
+		
+čuojihit	tjuojedit	
+		
+skájihit	skájedit	
+		
+jávkkihit	jávkedit	
+		
+ealihit	ieledit	
+		
+doamihit	doamedit	
+		
+himihit	himedit	
+		
+galmmihit	galmedit	
+		
+morihit	måredit	
+		
+lasihit	lasedit	
+		
+dieđihit	diededit	
+		
+biggohit	biggudit	
+		
+láigohit	lájggudit	
+		
+evttohit	evtudit	
+		
+guođohit	guodudit	
+		
+geardduhit	gerdudit	gierdudit
+		
+bieguhit	biegudit	
+		
+oalgguhit	oalgudit	
+		
+borgguhit	bårgudit	
+		
+čujuhit	tjujudit	
+		
+boatkkuhit	boatkkudit	
+		
+noavkkuhit	noavkudit	
+		
+namuhit	namudit	
+		
+almmuhit	almudit	
+		
+lonuhit	lånudit	
+		
+váruhit	várudit	
+		
+geasuhit	gesudit	giesudit
+		
+divuhit	divudit	
+		
+gánnáhit	gánnádit	
+		
+doadjit	doadjit	
+		
+vuodjit	vuodjit	
+		
+juohkit	juohkit	
+		
+skeaikit	skiejkkit	
+		
+huikit	hujkkit	
+		
+dáikit	dájkkit	
+		
+šuohkkit	sjuohkkit	
+		
+jáhkkit	jáhkkit	
+		
+bealkit	bielkkit	
+		
+cealkit	tsielkkit	
+		
+časkit	tjasskit	
+		
+gáskit	gásskit	
+		
+joatkit	joatkit	
+		
+bávkit	bávkkit	
+		
+ruoškit	ruossjkit	
+		
+ohcalit	åhtsålit	
+		
+riidalit	rijddalit	
+		
+váidalit	vájddalit	
+		
+guldalit	gulldalit	
+		
+čuoigalit	tjuojggalit	
+		
+jorgalit	jårggålit	
+		
+sorjalit	sårjjålit	
+		
+várjalit	várjjalit	
+		
+viehkalit	viehkalit	
+		
+bávkalit	bávkkalit	
+		
+guovlalit	guovllalit	
+		
+doapmalit	doabmalit	
+		
+oaidnalit	oajnnalit	
+		
+jearralit	jerralit	jierralit
+		
+johtalit	jåhtålit	
+		
+muitalit	mujttalit	
+		
+náitalit	nájttalit	
+		
+hástalit	hásstalit	
+		
+biehttalit	biehttalit	
+		
+gilvalit	gilvvalit	
+		
+árvalit	árvvalit	
+		
+geahččalit	giehttjalit	
+		
+čákŋalit	tjágŋalit	
+		
+viežžalit	viedtjalit	
+		
+girdilit	girddelit	
+		
+savdnjilit	savnnjelit	
+		
+garvilit	garvvelit	
+		
+vázzilit	vádtselit	
+		
+čuožžilit	tjuodtjelit	
+		
+eallit	iellit	
+		
+ollit	ållit	
+		
+buollit	buollit	
+		
+čállit	tjállit	
+		
+jápmit	jábmit	
+		
+čoagganit	tjoagganit	
+		
+liegganit	liegganit	
+		
+lahkanit	lahkanit	
+		
+ráhkkanit	ráhkkanit	
+		
+cuovkanit	tsuovkkanit	
+		
+állanit	állanit	
+		
+guorranit	guorranit	
+		
+heavvanit	hevvanit	hievvanit
+		
+oaidnit	oajnnit	
+		
+báidnit	bájnnit	
+		
+lahkonit	lahkunit	
+		
+maŋŋonit	maŋŋunit	
+		
+atnit	adnit	
+		
+batnit	badnit	
+		
+botnit	bådnit	
+		
+ráigánit	rájggánit	
+		
+badjánit	badjánit	
+		
+ádjánit	ádjánit	
+		
+hárjánit	hárjjánit	
+		
+čohkánit	tjåhkånit	
+		
+gallánit	gallánit	
+		
+gopmánit	gåbmånit	
+		
+earránit	ærránit	
+		
+buorránit	buorránit	
+		
+bisánit	bisánit	
+		
+darvánit	darvvánit	
+		
+láhppit	láhppit	
+		
+báhtarit	báhtarit	
+		
+rahpasit	rahpasit	
+		
+haksit	haksit	
+		
+máksit	máksit	
+		
+bassit	bassit	
+		
+geassit	giessit	
+		
+boahtit	boahtit	
+		
+diehtit	diehtit	
+		
+ihtit	ihtit	
+		
+johtit	jåhtit	
+		
+heaitit	hiejttit	
+		
+moaitit	moajttit	
+		
+giitit	gijttit	
+		
+luoitit	luojttit	
+		
+vuoitit	vuojttit	
+		
+muitit	mujttit	
+		
+áitit	ájttit	
+		
+báitit	bájttit	
+		
+náitit	nájttit	
+		
+loaktit	loaktit	
+		
+diktit	diktit	
+		
+buktit	buktit	
+		
+beastit	biesstit	
+		
+seastit	siesstit	
+		
+juoiggastit	juojgastit	
+		
+leahkastit	lehkastit	liehkastit
+		
+spiehkastit	spiehkastit	
+		
+nohkastit	nåhkåstit	
+		
+sihkkelastit	sihkkelastit	
+		
+guovllastit	guovlastit	
+		
+dolastit	dålåstit	
+		
+bigálastit	bigálastit	
+		
+oassálastit	oassálastit	
+		
+rehkenastit	rehkenastit	
+		
+oastit	oasstit	
+		
+fáippastit	fájpastit	
+		
+čierastit	tjierastit	
+		
+ruohtastit	ruohtastit	
+		
+suovastit	suovastit	
+		
+geahčastit	giehtjastit	
+		
+čuoččastit	tjuottjastit	
+		
+bávččastit	bávtjastit	
+		
+vuoiŋŋastit	vuojŋastit	
+		
+vuorddestit	vuordestit	
+		
+sihkestit	sihkestit	
+		
+leikestit	lejkkestit	
+		
+gáskkestit	gáskestit	
+		
+bálkestit	bálkkestit	
+		
+lávlestit	lávllestit	
+		
+málestit	málestit	
+		
+dohppestit	dåhppestit	
+		
+firrestit	firrestit	
+		
+njorrestit	njårrestit	
+		
+dánsestit	dánnsestit	
+		
+attestit	attestit	
+		
+rávvestit	rávvestit	
+		
+bistit	bisstit	
+		
+doarggistit	doargestit	
+		
+ráhkistit	ráhkestit	
+		
+gielistit	gielestit	
+		
+billistit	billestit	
+		
+hoavrristit	hoavrestit	
+		
+máistit	májsstit	
+		
+liikostit	lijkkustit	
+		
+njoarostit	njoarustit	
+		
+dárostit	dárustit	
+		
+boagustit	boagustit	
+		
+orustit	årustit	
+		
+sámástit	sámástit	
+		
+geasástit	gæsástit	
+		
+vajáldahttit	vajáldahttit	
+		
+illudahttit	illudahttit	
+		
+ealáskahttit	æláskahttit	
+		
+buorástahttit	buorástahttit	
+		
+luohttit	luohttit	
+		
+vajálduhttit	vajálduhttit	
+		
+moraštit	måråsjtit	
+		
+háleštit	hálesjtit	
+		
+mátkkoštit	mátkkusjtit	
+		
+beroštit	berusjtit	
+		
+diđoštit	didusjtit	
+		
+gilvit	gilvvit	
+		
+garvit	garvvit	
+		
+seavvit	sievvit	
+		
+vázzit	vádtsit	
+		
+bahčit	bahtjit	
+		
+bohčit	båhtjit	
+		
+báhčit	báhtjit	
+		
+oađđit	oaddit	
+		
+gođđit	gåddit	
+		
+guođđit	guoddit	
+		
+dárbbašit	dárbatjit	
+		
+váccašit	váttsatjit	
+		
+vuorddašit	vuordatjit	
+		
+jurddašit	jurdatjit	
+		
+návddašit	návdatjit	
+		
+savnnjašit	savnjatjit	
+		
+vuojašit	vuojatjit	
+		
+mearkkašit	merkatjit	mierkatjit
+		
+gálašit	gálatjit	
+		
+gávppašit	gávpatjit	
+		
+gásttašit	gástatjit	
+		
+jođašit	jådåtjit	
+		
+hilbošit	hilbbutjit	
+		
+verrošit	verrutjit	
+		
+diŋgot	diŋŋgut	
+		
+duddjot	duddjut	
+		
+liikot	lijkkut	
+		
+nohkkot	nåhkkut	
+		
+dulkot	dulkkut	
+		
+gullot	gullut	
+		
+galbmot	galmmut	
+		
+oidnot	åjnnut	
+		
+gávdnot	gávnnut	
+		
+láhppot	láhpput	
+		
+haksot	haksut	
+		
+dihttot	dihttut	
+		
+leabbut	lebbut	liebbut
+		
+láibut	lájbbut	
+		
+máhccut	máhttsut	
+		
+coakcut	tsoaktsut	
+		
+luoddut	luoddut	
+		
+šlundut	slunndut	
+		
+márfut	márffut	
+		
+ráfut	ráfut	
+		
+oaggut	oaggut	
+		
+šiggut	sjiggut	
+		
+čuoggut	tjuoggut	
+		
+nealgut	nielggut	
+		
+šealgut	sjielggut	
+		
+bárgut	bárggut	
+		
+sárgut	sárggut	
+		
+njávgut	njávggut	
+		
+lávgut	lávggut	
+		
+šleađgut	slierggut	
+		
+siedjut	siedjut	
+		
+dádjut	dádjut	
+		
+gádjut	gádjut	
+		
+galljut	galljut	
+		
+doarjut	doarjjut	
+		
+biehkut	biehkut	
+		
+leaikut	liejkkut	
+		
+gaikut	gajkkut	
+		
+njuikut	njujkkut	
+		
+sihkkut	sihkkut	
+		
+mearkut	mierkkut	
+		
+čoaskut	tjoasskut	
+		
+čiŋkut	tjiŋŋkut	
+		
+doaškut	doassjkut	
+		
+biškut	bissjkut	
+		
+huškut	hussjkut	
+		
+seailut	sejlut	siejlut
+		
+váilut	vájlut	
+		
+goallut	goallut	
+		
+njoallut	njoallut	
+		
+sallut	sallut	
+		
+lávlut	lávllut	
+		
+njoammut	njoammut	
+		
+sárdnut	sárnnut	
+		
+doahput	doahput	
+		
+suohpput	suohpput	
+		
+gurput	gurpput	
+		
+doarrut	doarrut	
+		
+goarrut	goarrut	
+		
+čierrut	tjierrut	
+		
+orrut	årrut	
+		
+stuorrut	stuorrut	
+		
+molsut	målssut	
+		
+dánsut	dánnsut	
+		
+riessut	riessut	
+		
+bissut	bissut	
+		
+nissut	nissut	
+		
+bossut	båssut	
+		
+dáhttut	dáhttut	
+		
+doaivut	doajvvut	
+		
+goaivut	goajvvut	
+		
+doalvut	doalvvut	
+		
+čuorvut	tjuorvvut	
+		
+čárvut	tjárvvut	
+		
+divvut	divvut	
+		
+čuovvut	tjuovvut	
+		
+riehčut	riehtjut	
+		
+gohččut	gåhttjut	
+		
+buođđut	buoddut	
+		
+goargŋut	goarŋŋut	
+		
+dikšut	diksjut	
+		
+vuolšut	vuolssjut	
+		
+oažžut	oadtjut	
+		
+čuožžut	tjuodtjut	
+		
+ceaggát	tsæggát	
+		
+heaŋgát	hæŋŋgát	
+		
+moddját	måddjåt	
+		
+vuoddját	vuoddját	
+		
+sorját	sårjjåt	
+		
+čohkkát	tjåhkkåt	
+		
+veallát	vællát	
+		
+gillát	gillát	
+		
+fuobmát	fuobbmát	
+		
+šearrát	sjærrát	
+		
+ruoksát	ruoksát	
+		
+johttát	jåhttåt	
+		
+gaivát	gajvvát	
+		
+njeazzát	njædtsát	
+		
+vázzát	vádtsát	
+		
+náđđát	náddát	
+		

@@ -15,29 +15,21 @@ sme2smj-nomen.bin: sme2smj-lexeme.xfst
 	xfst -e "source nomen.$<" -e "save stack $@" -stop
 	rm -f nomen.$<
 
-.deps/verb.tsv: conversiondata/verb-sme.csv conversiondata/verb-smj.csv .deps/.d
-	@paste conversiondata/verb-sme.csv conversiondata/verb-smj.csv  > $@
-.deps/adj.tsv: conversiondata/adj-sme.csv conversiondata/adj-smj.csv .deps/.d
-	@paste conversiondata/adj-sme.csv conversiondata/adj-smj.csv  > $@
-.deps/nomen.tsv: conversiondata/nomen-sme.csv conversiondata/nomen-smj.csv .deps/.d
-	@paste conversiondata/nomen-sme.csv conversiondata/nomen-smj.csv  > $@
+t/verb.results: sme2smj-verb.bin
+	@< conversiondata/verb-sme.csv lookup -q $< | paste - conversiondata/verb-smj.csv | awk 'BEGIN{OFS=FS="\t"} $$2==$$3{$$3=""}{print}' > $@
+	@echo "=== Mistakes in verbs ==="
+	@awk 'BEGIN{print "SME SMJIFIED SMJ"} $$3{print}' $@ | column -t
+t/adj.results: sme2smj-adj.bin
+	@< conversiondata/adj-sme.csv lookup -q $< | paste - conversiondata/adj-smj.csv | awk 'BEGIN{OFS=FS="\t"} $$2==$$3{$$3=""}{print}' > $@
+	@echo "=== Mistakes in adjs ==="
+	@awk 'BEGIN{print "SME SMJIFIED SMJ"} $$3{print}' $@ | column -t
+t/nomen.results: sme2smj-nomen.bin
+	@< conversiondata/nomen-sme.csv lookup -q $< | paste - conversiondata/nomen-smj.csv | awk 'BEGIN{OFS=FS="\t"} $$2==$$3{$$3=""}{print}' > $@
+	@echo "=== Mistakes in nomens ==="
+	@awk 'BEGIN{print "SME SMJIFIED SMJ"} $$3{print}' $@ | column -t
 
-test-verb: sme2smj-verb.bin .deps/verb.tsv
-	@< conversiondata/verb-sme.csv lookup -q $< | diff -b .deps/verb.tsv - |tee t/verb.results
-test-adj: sme2smj-adj.bin .deps/adj.tsv
-	@< conversiondata/adj-sme.csv lookup -q $< | diff -b .deps/adj.tsv - |tee t/adj.results
-test-nomen: sme2smj-nomen.bin .deps/nomen.tsv
-	@< conversiondata/nomen-sme.csv lookup -q $< | diff -b .deps/nomen.tsv - |tee t/nomen.results
-
-test:   test-verb test-adj test-nomen
-.PHONY: test-verb test-adj test-nomen
-
-
-.deps/.d:
-	@mkdir .deps
-	@touch $@
-.PRECIOUS: .deps/.d
+test:   t/verb.results t/adj.results t/nomen.results
+.PHONY: t/verb.results t/adj.results t/nomen.results
 
 clean:
-	rm -rf .deps
 	rm -f $(TARGETS)
