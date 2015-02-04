@@ -221,6 +221,8 @@ define 1stsylldiphthong o -> å , O -> Å , e a -> i e , E a -> I e || [.#.|%#|%
 define labialharmony [a|á] -> å || å Cns+ _ ;
 define oa2åG1 o a -> å , O a -> Å || [.#.|%#|%-|%^|%_|%'] (Cns+) _  [Cns|[n|s|t]j|t s]  a ;
 
+define ddll d d -> l l || Syll Syll [t|h|d] [a|u] _ a t [%_|%'|.#.] ;
+
 echo << and the cleaning rules at the end >>
 
 define phones e7 -> e , o7 -> o ;
@@ -256,6 +258,7 @@ read regex [
 .o. 1styslle
 .o. 1stsylldiphthong
 .o. labialharmony
+.o. ddll
 .o. oa2åG1
 .o. phones
 !.o. technical
