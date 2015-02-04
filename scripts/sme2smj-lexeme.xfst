@@ -212,7 +212,7 @@ define longain2ndsyll a -> á || [.#.|%#|%-|%^|%_|%'] Cns* Vow [Cns|[n|s|t]j|t s
 define tjfromšafter2syll š -> t j || [.#.|%#|%-|%^|%_|%'] Syll Syll _ Vow ;
 define SamiLetters č -> t j , đ -> d , š -> s j , ŧ -> t , ž -> t j , Č -> T j , Š -> S j ;
 
-define 1stysllæ e a -> æ || [.#.|%#|%-|%^|%_|%'] (Cns+) _ Cns [Cns Cns [á|å|o] | (Cns) [o|á]] ;
+define 1stysllæ e a -> æ || [.#.|%#|%-|%^|%_|%'] (Cns+) _ Cns [Cns Cns [á|å|o|a|u] | (Cns) [o|á]] ;
 
 define 1styslle e a -> e || [.#.|%#|%-|%^|%_|%'] (Cns+) _ Cns (Cns) [u|a] ;
 
