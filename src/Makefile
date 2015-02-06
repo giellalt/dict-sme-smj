@@ -29,6 +29,8 @@ LEX = a_smesmj.csv \
 # sme:smj # ; (not to forget the initial LEXICON Root
 # and let xfst read that file
 
+all: fst
+
 lexc: ../bin/smesmj.lexc
 ../bin/smesmj.lexc: ../scripts/smesmjpairs.sh $(LEX)
 	@echo
@@ -44,8 +46,8 @@ fst: ../bin/smesmj.fst
 	$(XFST) -e "read lexc < $<" \
 			-e "save ../bin/smjsme.fst" \
 			-e "invert net" \
-			-e "save $@ \n" \
-			-quit
+			-e "save $@" \
+			-stop
 
 xml: ../bin/smesmj.xml
 ../bin/smesmj.xml: ../scripts/smesmj2xml.pl $(LEX)
