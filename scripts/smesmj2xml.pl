@@ -44,6 +44,7 @@ my $dict_file = "../bin/smesmj.xml";
 open (my $dict_h, ">", $dict_file) or die "Can't open $dict_file: $!\n";
 binmode($dict_h, ":encoding(UTF-8)");
 
+print $dict_h "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n";
 print $dict_h "<r id=\"smesmj\" xml:lang=\"sme\">\n";
 
 while ( my $line = <> ) {
@@ -52,18 +53,28 @@ while ( my $line = <> ) {
         $smj,
         $POS)
       = split /\t/, $line ;
+    my $type = "";
+    if ($POS eq "prop") {
+        $type = " type=\"Prop\"";
+        $POS = "N";
+    }
+    $POS =~ s/(.*)/\u\L$1/;
+    $POS =~ s/^Cc/CC/;
+    $POS =~ s/^Cs/CS/;
+    $sme =~ s/[%#]//g;
+    $smj =~ s/[%#]//g;
     #    print "Lina er: $line\n";
     #    print "Lemma er: $Lemma\n";
     #    $Lemma =~ s/"\W?(\w)/$1/; # rens $Lemma for " og ^L
 	my @smj = split /,/, $smj;
-    my $tg = join "\n", map {"            <t pos=\"$POS\">$_</t>"} @smj;
+    my $tg = join "\n", map {"            <t pos=\"$POS\"$type>$_</t>"} @smj;
     print $dict_h <<EOS
    <e>
       <lg>
-         <l pos=\"$POS\">$sme</l>
+         <l pos="$POS"$type>$sme</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="smj">
 $tg
          </tg>
       </mg>
