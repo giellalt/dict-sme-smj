@@ -1,35 +1,35 @@
-TARGETS=sme2smj-verb.bin sme2smj-adj.bin sme2smj-nomen.bin
+TARGETS=sme2smj-V.bin sme2smj-A.bin sme2smj-N.bin
 
 all: $(TARGETS)
 
-sme2smj-verb.bin: sme2smj-lexeme.xfst
-	sed 's/!VERB_ONLY!//g' $< > verb.$<
-	xfst -e "source verb.$<" -e "save stack $@" -stop
-	rm -f verb.$<
-sme2smj-adj.bin: sme2smj-lexeme.xfst
-	sed 's/!ADJ_ONLY!//g' $< > adj.$<
-	xfst -e "source adj.$<" -e "save stack $@" -stop
-	rm -f adj.$<
-sme2smj-nomen.bin: sme2smj-lexeme.xfst
-	sed 's/!NOMEN_ONLY!//g' $< > nomen.$<
-	xfst -e "source nomen.$<" -e "save stack $@" -stop
-	rm -f nomen.$<
+sme2smj-V.bin: sme2smj-lexeme.xfst
+	sed 's/!V_ONLY!//g' $< > V.$<
+	xfst -e "source V.$<" -e "save stack $@" -stop
+	rm -f V.$<
+sme2smj-A.bin: sme2smj-lexeme.xfst
+	sed 's/!A_ONLY!//g' $< > A.$<
+	xfst -e "source A.$<" -e "save stack $@" -stop
+	rm -f A.$<
+sme2smj-N.bin: sme2smj-lexeme.xfst
+	sed 's/!N_ONLY!//g' $< > N.$<
+	xfst -e "source N.$<" -e "save stack $@" -stop
+	rm -f N.$<
 
-t/verb.results: sme2smj-verb.bin
-	@< conversiondata/verb-sme.csv lookup -q $< | paste - conversiondata/verb-smj.csv | awk 'BEGIN{OFS=FS="\t"} $$2==$$3{$$3=""}{print}' > $@
-	@echo "=== Mistakes in verbs ==="
+t/V.results: sme2smj-V.bin
+	@< conversiondata/V-sme.csv lookup -q $< | paste - conversiondata/V-smj.csv | awk 'BEGIN{OFS=FS="\t"} $$2==$$3{$$3=""}{print}' > $@
+	@echo "=== Mistakes in Vs ==="
 	@awk 'BEGIN{print "SME SMJIFIED SMJ"} $$3{print}' $@ | column -t
-t/adj.results: sme2smj-adj.bin
-	@< conversiondata/adj-sme.csv lookup -q $< | paste - conversiondata/adj-smj.csv | awk 'BEGIN{OFS=FS="\t"} $$2==$$3{$$3=""}{print}' > $@
-	@echo "=== Mistakes in adjs ==="
+t/A.results: sme2smj-A.bin
+	@< conversiondata/A-sme.csv lookup -q $< | paste - conversiondata/A-smj.csv | awk 'BEGIN{OFS=FS="\t"} $$2==$$3{$$3=""}{print}' > $@
+	@echo "=== Mistakes in As ==="
 	@awk 'BEGIN{print "SME SMJIFIED SMJ"} $$3{print}' $@ | column -t
-t/nomen.results: sme2smj-nomen.bin
-	@< conversiondata/nomen-sme.csv lookup -q $< | paste - conversiondata/nomen-smj.csv | awk 'BEGIN{OFS=FS="\t"} $$2==$$3{$$3=""}{print}' > $@
-	@echo "=== Mistakes in nomens ==="
+t/N.results: sme2smj-N.bin
+	@< conversiondata/N-sme.csv lookup -q $< | paste - conversiondata/N-smj.csv | awk 'BEGIN{OFS=FS="\t"} $$2==$$3{$$3=""}{print}' > $@
+	@echo "=== Mistakes in Ns ==="
 	@awk 'BEGIN{print "SME SMJIFIED SMJ"} $$3{print}' $@ | column -t
 
-test:   t/verb.results t/adj.results t/nomen.results
-.PHONY: t/verb.results t/adj.results t/nomen.results
+test:   t/V.results t/A.results t/N.results
+.PHONY: t/V.results t/A.results t/N.results
 
 clean:
 	rm -f $(TARGETS)

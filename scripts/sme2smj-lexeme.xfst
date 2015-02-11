@@ -240,9 +240,9 @@ echo << Compile... >>
 
 read regex [
     FinalE
-!ADJ_ONLY! .o. adjMarkFinalT
-!ADJ_ONLY! .o. adjRemFinalT
-!ADJ_ONLY! .o. adjCleanFinalT
+!A_ONLY! .o. adjMarkFinalT
+!A_ONLY! .o. adjRemFinalT
+!A_ONLY! .o. adjCleanFinalT
  .o. ij    
  .o. dtj
  .o. ttj
@@ -258,7 +258,7 @@ read regex [
 .o. cc   !not for LOAN conversion
 .o. c    !not for LOAN conversion
 .o. eCns !not for LOAN conversion
-!VERB_ONLY! .o. it
+!V_ONLY! .o. it
 .o. H2M
 .o. M2H
 .o. hit2dit
