@@ -202,8 +202,16 @@ define RevDipht u -> u o || _ Cns+ e ;
 define eCns i -> e , I -> E ||                   Syll     _ [ Cns - j ] [%_|%'|.#.] ,
                                [.#.|%#|%-|%^|%_|%'] Syll Cns _ [Cns - j] ;
 
-!! This rule should only be used for verbs:
+!! This rule is only used for verbs:
 define it   e -> i || Syll _ t [%_|%'|.#.] ; ! Loan word rule!!
+
+!! These rules are only used for adjs:
+define adjHasFinalT [ {cahkka} | {duolba} | {duolbba} | {duolla} | {gilga} | {gilgga} | {guovga} | {guovgga} | {jalga} | {jalgga} | {jaska} | {jasska} | {jorba} | {jårbbå} | {lossa} | {låsså} | {njahpi} | {njuolga} | {njuolgga} | {njuvgga} | {njárba} | {njárbba} | {roahkka} | {russjka} | {ruška} | {ráhpa} | {sjalla} | {snávga} | {suodja} | {suohka} | {sáhppa} | {sárgga} | {tjavgga} | {tjuodna} | {tjuorgga} | {tjuovgga} | {tjáhppa} | {tjårggå} | {vielga} | {vielgga} | {viska} | {visska} | {šalla} | {čavga} | {čorga} | {čuorga} | {čuotna} | {čuovga} | {čáhppa} 
+       ! these last five exceptions were from the test set, need checking:
+       | {girjja} | {čeaska} | {lášma} | {šearra} | {vuovtta} ] ; 
+define adjMarkFinalT t -> t7 || adjHasFinalT _ [%_|%'|.#.] ;
+define adjRemFinalT  t -> 0 || _  [%_|%'|.#.] ;
+define adjCleanFinalT t7 -> t || _ [%_|%'|.#.] ;
 
 define H2M  u -> o                   || [.#.|%#|%-|%^|%_|%'] Syll Cns _ (Cns|%^|%_|%') ;
 define M2H  o -> u                   || [.#.|%#|%-|%^|%_|%'] Syll Cns _ Cns ;
@@ -232,6 +240,9 @@ echo << Compile... >>
 
 read regex [
     FinalE
+!ADJ_ONLY! .o. adjMarkFinalT
+!ADJ_ONLY! .o. adjRemFinalT
+!ADJ_ONLY! .o. adjCleanFinalT
  .o. ij    
  .o. dtj
  .o. ttj
