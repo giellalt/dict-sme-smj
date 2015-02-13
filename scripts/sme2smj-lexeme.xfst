@@ -236,9 +236,11 @@ echo << and the cleaning rules at the end >>
 define phones e7 -> e , o7 -> o ;
 define technical %# -> 0 , %^ -> 0 ;
 
+define LoanVerbs [ ?* [ {ieret} .x. {ierit} ] ] .P. [ ?* [ {eret} .x. {ierit} ] ] ;
+
 echo << Compile... >>
 
-read regex [
+define NonLoans [
     FinalE
 !A_ONLY! .o. adjMarkFinalT
 !A_ONLY! .o. adjRemFinalT
@@ -273,6 +275,11 @@ read regex [
 .o. oa2åG1
 .o. phones
 !.o. technical
+] ;
+
+read regex [
+!V_ONLY! LoanVerbs .P.
+NonLoans
 ] ;
 
 invert net ;
