@@ -147,7 +147,13 @@ define rd  m b -> m m b ,   m b b -> m b ,
 !           d n j -> d d n j , t n j -> d n j   || Cns* Vow+ _ Vow ;
            d n j -> d d n j , t n j -> d n j   || [.#.|%#|%-|%^|%_|%'] Cns* Vow+ _ Vow ;
 
-! Here comes the other rules
+
+
+!! For longer parts of fairly high frequency:
+define parts {máŋgga} -> {moatte} ;
+
+
+! Here come the other rules
 
 define FinalE i -> e || Syll Cns _ [.#.|%#|%^|%_|%'] ;
 
@@ -202,6 +208,7 @@ define RevDipht u -> u o || _ Cns+ e ;
 define eCns i -> e , I -> E ||                   Syll     _ [ Cns - j ] [%_|%'|.#.] ,
                                [.#.|%#|%-|%^|%_|%'] Syll Cns _ [Cns - j] ;
 
+
 !! This rule is only used for verbs:
 define it   e -> i || Syll _ t [%_|%'|.#.] ; ! Loan word rule!!
 
@@ -248,6 +255,7 @@ echo << Compile... >>
 
 define NonLoans [
     FinalE
+ .o. parts
 !A_ONLY! .o. adjMarkFinalT
 !A_ONLY! .o. adjRemFinalT
 !A_ONLY! .o. adjCleanFinalT
