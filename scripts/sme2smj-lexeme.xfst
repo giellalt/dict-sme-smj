@@ -217,7 +217,9 @@ define adjHasFinalT [ {cahkka} | {duolba} | {duolbba} | {duolla} | {gilga} | {gi
        ! these last five exceptions were from the test set, need checking:
        | {girjja} | {čeaska} | {lášma} | {šearra} | {vuovtta} ] ; 
 define adjMarkFinalT t -> t7 || adjHasFinalT _ [%_|%'|.#.] ;
-define adjRemFinalT  t -> 0 || _  [%_|%'|.#.] ;
+define adjFinalIt2ep  i t -> e p || _  [%_|%'|.#.] ;
+define adjFinalAt2ak  a t -> a k || _  [%_|%'|.#.] ;
+define adjRemFinalT  t -> 0 || [? - [a|i]] _  [%_|%'|.#.] ;
 define adjCleanFinalT t7 -> t || _ [%_|%'|.#.] ;
 
 define H2M  u -> o                   || [.#.|%#|%-|%^|%_|%'] Syll Cns _ (Cns|%^|%_|%') ;
@@ -258,6 +260,8 @@ define NonLoans [
  .o. parts
 !A_ONLY! .o. adjMarkFinalT
 !A_ONLY! .o. adjRemFinalT
+!A_ONLY! .o. adjFinalAt2ak
+!A_ONLY! .o. adjFinalIt2ep
 !A_ONLY! .o. adjCleanFinalT
  .o. ij    
  .o. dtj
