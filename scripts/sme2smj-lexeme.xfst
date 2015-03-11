@@ -222,6 +222,8 @@ define adjFinalAt2ak  a t -> a k || _  [%_|%'|.#.] ;
 define adjRemFinalT  t -> 0 || [? - [a|i]] _  [%_|%'|.#.] ;
 define adjCleanFinalT t7 -> t || _ [%_|%'|.#.] ;
 
+define llasj l l -> l || _ a s j [%_|%'|.#.] ;
+
 define H2M  u -> o                   || [.#.|%#|%-|%^|%_|%'] Syll Cns _ (Cns|%^|%_|%') ;
 define M2H  o -> u                   || [.#.|%#|%-|%^|%_|%'] Syll Cns _ Cns ;
 define hit2dit h -> d || _ [ i t | u s ] [%_|%'|.#.] ;         ! Odd-syll verbs  and dus nouns
@@ -291,6 +293,7 @@ define NonLoans [
 .o. labialharmony
 .o. ddll
 .o. oa2åG1
+.o. llasj
 .o. phones
 !.o. technical
 ] ;
