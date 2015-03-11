@@ -17,5 +17,7 @@ test-%: t/%.results
 test:   test-V test-A test-N
 .PHONY: test
 
+.PRECIOUS: sme2smj-V.bin sme2smj-N.bin sme2smj-A.bin
+
 clean:
 	rm -f $(TARGETS)
