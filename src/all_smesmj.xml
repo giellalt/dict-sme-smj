@@ -106330,44 +106330,4 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="Comma">,</l>
-      </lg>
-      <mg>
-         <tg xml:lang="smj">
-            <t pos="Comma">,</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="">!</l>
-      </lg>
-      <mg>
-         <tg xml:lang="smj">
-            <t pos="">!</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="">|</l>
-      </lg>
-      <mg>
-         <tg xml:lang="smj">
-            <t pos="">|</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="">-</l>
-      </lg>
-      <mg>
-         <tg xml:lang="smj">
-            <t pos="">-</t>
-         </tg>
-      </mg>
-   </e>
 </r>
