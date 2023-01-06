@@ -17,14 +17,20 @@
 
 ! With hfst:
 ! hfst-xfst -F sme2smj-lexeme.xfscript
-! Alternatively, with xfst:
+! The resulting transducer is saved as sme2smj-lexeme.hfst
+! and can be used as any other language model, e.g. with
+! hfst-lookup sme2smj-lexeme.hfst
+
+! Alternatively, you may use xfst:
+! Comment OUT the two lines for hfst and IN the two corresponding
+! lines for xfst at the end of this file. Then run:
 ! xfst -e "source sme2smj-lexeme.xfscript "
-
-! Then save the file and quit:
-! save sme2smj-lexeme.xfst
+! Then write
 ! quit
+! The resulting transducer is saved as sme2smj-lexeme.xfst
+! and can be used as any other language model, e.g. with
+! lookup sme2smj-lexeme.xfst
 
-! Then use the resulting fst as any other language model.
 
 
 ! ======
@@ -309,15 +315,19 @@ define NonLoans [
 .o. ddll
 .o. oa2åG1
 .o. llasj
-.o. phones ] ;
+.o. phones ] 
 !.o. technical
-!] ;
+] ;
 
 read regex [
 !V_ONLY! LoanVerbs .P.
 NonLoans
 ] ;
 
-invert net 
+! Commands for compiling with hfst:
+invert net
+save sme2smj-lexeme.hfst
 
-!save ~/words/dicts/smesmj/bin/j.fst
+! Alternative commands for compiling with xfst;
+invert net ;
+save sme2smj-lexeme.xfst ;
