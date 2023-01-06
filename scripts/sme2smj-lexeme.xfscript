@@ -328,6 +328,6 @@ NonLoans
 invert net
 save sme2smj-lexeme.hfst
 
-! Alternative commands for compiling with xfst;
-invert net ;
-save sme2smj-lexeme.xfst ;
+! Alternative commands for compiling with xfst:
+!invert net ;
+!save sme2smj-lexeme.xfst ;
