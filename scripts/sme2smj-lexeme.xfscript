@@ -12,6 +12,13 @@
 ! Other licensing options are available upon request, please contact
 ! giellatekno@hum.uit.no or feedback@divvun.no
 
+
+! To compile, do:
+! xfst -e "source sme2smj-lexeme.xfscript "
+! Then save the file and quit:
+! save sme2smj-lexeme.xfst
+! quit
+
 ! ======
 ! Conversion from North to Lule Sámi
 ! =======
