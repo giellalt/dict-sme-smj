@@ -22,8 +22,8 @@
 ! hfst-lookup sme2smj-lexeme.hfst
 
 ! Alternatively, you may use xfst:
-! Comment OUT the two lines for hfst and IN the two corresponding
-! lines for xfst at the end of this file. Then run:
+! Comment OUT the line for hfst and IN the corresponding
+! line for xfst at the end of this file. Then run:
 ! xfst -e "source sme2smj-lexeme.xfscript "
 ! Then write
 ! quit
@@ -325,9 +325,7 @@ NonLoans
 ] ;
 
 ! Commands for compiling with hfst:
-invert net
 save sme2smj-lexeme.hfst
 
 ! Alternative commands for compiling with xfst:
-!invert net ;
 !save sme2smj-lexeme.xfst ;
