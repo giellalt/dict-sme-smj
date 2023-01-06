@@ -14,10 +14,18 @@
 
 
 ! To compile, do:
+
+! With hfst:
+! hfst-xfst -F sme2smj-lexeme.xfscript
+! Alternatively, with xfst:
 ! xfst -e "source sme2smj-lexeme.xfscript "
+
 ! Then save the file and quit:
 ! save sme2smj-lexeme.xfst
 ! quit
+
+! Then use the resulting fst as any other language model.
+
 
 ! ======
 ! Conversion from North to Lule Sámi
@@ -301,15 +309,15 @@ define NonLoans [
 .o. ddll
 .o. oa2åG1
 .o. llasj
-.o. phones
+.o. phones ] ;
 !.o. technical
-] ;
+!] ;
 
 read regex [
 !V_ONLY! LoanVerbs .P.
 NonLoans
 ] ;
 
-invert net ;
+invert net 
 
 !save ~/words/dicts/smesmj/bin/j.fst
