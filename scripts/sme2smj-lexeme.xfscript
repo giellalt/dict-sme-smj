@@ -169,6 +169,13 @@ define rd  m b -> m m b ,   m b b -> m b ,
            d n j -> d d n j , t n j -> d n j   || [.#.|%#|%-|%^|%_|%'] Cns* Vow+ _ Vow ;
 
 
+!! This is for 3-syll aktiiva - aktijva (stiiva - stijva already works)
+define jvsuff i j v -> i j v v ,
+              i s m -> i s s m ,
+                e m -> i e b m ,
+                á l -> á l l     || Vow+ Cns* _ a .#. ;
+
+
 
 !! For longer parts of fairly high frequency:
 define parts {máŋgga} -> {moatte} ;
@@ -316,6 +323,7 @@ define NonLoans [
 .o. oa2åG1
 .o. llasj
 .o. phones 
+.o. jvsuff
 !.o. technical
 ] ;
 
