@@ -1,0 +1,8 @@
+
+To compile sme2smj-lexeme.hfst, do:
+
+hfst-xfst -F sme2smj-lexeme.xfscript
+
+To analyse, do:
+
+echo aktiiva|hfst-lookup -q sme2smj-lexeme.hfst
