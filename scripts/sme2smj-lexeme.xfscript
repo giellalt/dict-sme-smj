@@ -165,9 +165,11 @@ define rd  m b -> m m b ,   m b b -> m b ,
            d n   -> d d n ,   t n   -> d n ,
            b m   -> b b m ,   p m   -> b m ,
            g ŋ   -> g g ŋ ,   k ŋ   -> g ŋ ,
-!           d n j -> d d n j , t n j -> d n j   || Cns* Vow+ _ Vow ;
-           d n j -> d d n j , t n j -> d n j   || [.#.|%#|%-|%^|%_|%'] Cns* Vow+ _ Vow ;
+!           d n j -> d d n j , t n j -> d n j   || Cns* Vow+ _ Vow ;   ! naive "always cons.grad change" (bad option)
+           d n j -> d d n j , t n j -> d n j   || [.#.|%#|%-|%^|%_|%'] Cns* Vow+ _ Vow ; ! change in 2-syll foot
+!           d n j -> d d n j , t n j -> d n j   || Cns* Vow+ _ Vow (Cns) (j) .#. ; ! change in final foot
 
+! Of the three options above, 1 gives poorer output. 2 is good if the input has marks for #, 3 is careful
 
 !! This is for 3-syll aktiiva - aktijva (stiiva - stijva already works)
 define jvsuff i j v -> i j v v ,
@@ -175,6 +177,7 @@ define jvsuff i j v -> i j v v ,
                 e m -> i e b m ,
                 á l -> á l l     || Vow+ Cns* _ a .#. ;
 
+define finalfoot [s|t] j u v n n a -> s j å v n n å || Vow _ .#. ; ! redaksjåvnnåbarggo
 
 
 !! For longer parts of fairly high frequency:
@@ -244,11 +247,12 @@ define it   e -> i || Syll _ t [%_|%'|.#.] ; ! Loan word rule!!
 define adjHasFinalT [ {cahkka} | {duolba} | {duolbba} | {duolla} | {gilga} | {gilgga} | {guovga} | {guovgga} | {jalga} | {jalgga} | {jaska} | {jasska} | {jorba} | {jårbbå} | {lossa} | {låsså} | {njahpi} | {njuolga} | {njuolgga} | {njuvgga} | {njárba} | {njárbba} | {roahkka} | {russjka} | {ruška} | {ráhpa} | {sjalla} | {snávga} | {suodja} | {suohka} | {sáhppa} | {sárgga} | {tjavgga} | {tjuodna} | {tjuorgga} | {tjuovgga} | {tjáhppa} | {tjårggå} | {vielga} | {vielgga} | {viska} | {visska} | {šalla} | {čavga} | {čorga} | {čuorga} | {čuotna} | {čuovga} | {čáhppa} 
        ! these last five exceptions were from the test set, need checking:
        | {girjja} | {čeaska} | {lášma} | {šearra} | {vuovtta} ] ; 
-define adjMarkFinalT t -> t7 || adjHasFinalT _ [%_|%'|.#.] ;
-define adjFinalIt2ep  i t -> e p || _  [%_|%'|.#.] ;
-define adjFinalAt2ak  a t -> a k || _  [%_|%'|.#.] ;
-define adjRemFinalT  t -> 0 || [? - [a|i]] _  [%_|%'|.#.] ;
-define adjCleanFinalT t7 -> t || _ [%_|%'|.#.] ;
+
+define adjMarkFinalT    t -> t7  || adjHasFinalT _ [%_|%'|.#.] ;
+define adjFinalIt2ep  i t -> e p ||              _  [%_|%'|.#.] ;
+define adjFinalAt2ak  a t -> a k ||              _  [%_|%'|.#.] ;
+define adjRemFinalT     t -> 0   ||  [? - [a|i]] _  [%_|%'|.#.] ;
+define adjCleanFinalT  t7 -> t   ||              _ [%_|%'|.#.] ;
 
 define llasj l l -> l || _ a s j [%_|%'|.#.] ;
 
@@ -288,11 +292,11 @@ echo << Compile... >>
 define NonLoans [
     FinalE
  .o. parts
-!A_ONLY! .o. adjMarkFinalT
-!A_ONLY! .o. adjRemFinalT
-!A_ONLY! .o. adjFinalAt2ak
-!A_ONLY! .o. adjFinalIt2ep
-!A_ONLY! .o. adjCleanFinalT
+! .o. adjMarkFinalT  ! A_ONLY! 
+! .o. adjRemFinalT   ! A_ONLY! 
+! .o. adjFinalAt2ak  ! A_ONLY! 
+! .o. adjFinalIt2ep  ! A_ONLY! 
+! .o. adjCleanFinalT ! A_ONLY! 
  .o. ij    
  .o. dtj
  .o. ttj
@@ -308,7 +312,7 @@ define NonLoans [
 .o. cc   !not for LOAN conversion
 .o. c    !not for LOAN conversion
 .o. eCns !not for LOAN conversion
-!V_ONLY! .o. it
+!.o. it  ! V_ONLY! 
 .o. H2M
 .o. M2H
 .o. hit2dit
@@ -324,6 +328,7 @@ define NonLoans [
 .o. llasj
 .o. phones 
 .o. jvsuff
+.o. finalfoot
 !.o. technical
 ] ;
 
