@@ -175,9 +175,12 @@ define rd  m b -> m m b ,   m b b -> m b ,
 define jvsuff i j v -> i j v v ,
               i s m -> i s s m ,
                 e m -> i e b m ,
-                á l -> á l l     || Vow+ Cns* _ a .#. ;
+                á l -> á l l     || Vow+ Cns* _ a [.#.|%#] ;
 
-define finalfoot [s|t] j u v n n a -> s j å v n n å || Vow _ .#. ; ! redaksjåvnnåbarggo
+define finalfoot [s|t] j u v n n a -> s j å v n n å ,
+                       m e a n t a -> m æ n n t a ,
+                     t e a h t t a -> t e h t t a ,  
+                     t e   h t   a -> t e h t t a    ||  _ [.#.|%#] ; ! redaksjåvnnåbarggo
 
 
 !! For longer parts of fairly high frequency:
@@ -188,7 +191,7 @@ define parts {máŋgga} -> {moatte} ;
 
 define FinalE i -> e || Syll Cns _ [.#.|%#|%^|%_|%'] ;
 
-define ij i -> j || Vow _ ;
+define ij    i -> j     || Vow _ ;
 define dtj ž ž -> d t j || Vow _ Vow ; 
 define ttj č č -> t t j || Vow _ Vow ;
 define ssj š š -> s s j || Vow _ Vow ;
@@ -228,7 +231,7 @@ define SKK2SK s t t -> s t ,
               š k k -> š k ,               
               š m m -> š m ||  Vow  ([j|m|n|r|v]) _ Vow ; 
 
-define sl š -> s , Š -> S || [.#.|%#|%-|%^|%_|%'] _ l ;
+define sl   š -> s , Š -> S || [.#.|%#|%-|%^|%_|%'] _ l ;
 define zz z z -> d t s ;
 define z    z -> t s ;
 define cc   c c -> t t s , č č -> t t j || Vow ([j|l|h|k|n|r|v]) _ Vow ;
@@ -236,8 +239,8 @@ define c    c -> t s , č -> t j , Č -> T j || [.#.|%#|%-|%^|%_|%'|Vow|j|l|h|k|
 define RevDipht u -> u o || _ Cns+ e ;
 
 
-define eCns i -> e , I -> E ||                   Syll     _ [ Cns - j ] [%_|%'|.#.] ,
-                               [.#.|%#|%-|%^|%_|%'] Syll Cns _ [Cns - j] ;
+define eCns i -> e , I -> E ||                   Syll     _ [Cns - j] [%_|%'|.#.|%#] ,
+                            [.#.|%#|%-|%^|%_|%'] Syll Cns _ [Cns - j] [%_|%'|.#.|%#]   ; ! added final bound, check.
 
 
 !! This rule is only used for verbs:
@@ -249,9 +252,9 @@ define adjHasFinalT [ {cahkka} | {duolba} | {duolbba} | {duolla} | {gilga} | {gi
        | {girjja} | {čeaska} | {lášma} | {šearra} | {vuovtta} ] ; 
 
 define adjMarkFinalT    t -> t7  || adjHasFinalT _ [%_|%'|.#.] ;
-define adjFinalIt2ep  i t -> e p ||              _  [%_|%'|.#.] ;
-define adjFinalAt2ak  a t -> a k ||              _  [%_|%'|.#.] ;
-define adjRemFinalT     t -> 0   ||  [? - [a|i]] _  [%_|%'|.#.] ;
+define adjFinalIt2ep  i t -> e p ||              _ [%_|%'|.#.] ;
+define adjFinalAt2ak  a t -> a k ||              _ [%_|%'|.#.] ;
+define adjRemFinalT     t -> 0   ||  [? - [a|i]] _ [%_|%'|.#.] ;
 define adjCleanFinalT  t7 -> t   ||              _ [%_|%'|.#.] ;
 
 define llasj l l -> l || _ a s j [%_|%'|.#.] ;
@@ -292,11 +295,11 @@ echo << Compile... >>
 define NonLoans [
     FinalE
  .o. parts
-! .o. adjMarkFinalT  ! A_ONLY! 
-! .o. adjRemFinalT   ! A_ONLY! 
-! .o. adjFinalAt2ak  ! A_ONLY! 
-! .o. adjFinalIt2ep  ! A_ONLY! 
-! .o. adjCleanFinalT ! A_ONLY! 
+ .o. adjMarkFinalT  ! A_ONLY! 
+ .o. adjRemFinalT   ! A_ONLY! 
+ .o. adjFinalAt2ak  ! A_ONLY! 
+ .o. adjFinalIt2ep  ! A_ONLY! 
+ .o. adjCleanFinalT ! A_ONLY! 
  .o. ij    
  .o. dtj
  .o. ttj
@@ -333,7 +336,7 @@ define NonLoans [
 ] ;
 
 read regex [
-!V_ONLY! LoanVerbs .P.
+!LoanVerbs .P.  !V_ONLY!
 NonLoans
 ] ;
 
