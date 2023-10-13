@@ -201,7 +201,8 @@ define finalfoot [s|t] j u v n n a -> s j å v n n å ,
                    p e v t a -> p i e v t t a ,
                    á n s a -> á n s s a ,
                    á h t a -> á h t t a ,
-                   e a r b a -> æ r b b a , 
+                    d a t -> d a h k a , !this only for nouns, bellodat bellodahka
+                  e a r b a -> æ r b b a , 
                    n e a v v u -> n æ v v o , 
                  k e a h t t a -> k æ h t t a , 
                  n e a h t t a -> n æ h t t a , 
@@ -325,11 +326,11 @@ echo << Compile... >>
 define NonLoans [
     FinalE
  .o. parts
- .o. adjMarkFinalT  ! A_ONLY! 
- .o. adjRemFinalT   ! A_ONLY! 
- .o. adjFinalAt2ak  ! A_ONLY! 
- .o. adjFinalIt2ep  ! A_ONLY! 
- .o. adjCleanFinalT ! A_ONLY! 
+! .o. adjMarkFinalT  ! A_ONLY! 
+! .o. adjRemFinalT   ! A_ONLY! 
+! .o. adjFinalAt2ak  ! A_ONLY! 
+! .o. adjFinalIt2ep  ! A_ONLY! 
+! .o. adjCleanFinalT ! A_ONLY! 
  .o. ij    
  .o. dtj
  .o. ttj
