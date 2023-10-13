@@ -6,3 +6,21 @@ hfst-xfst -F sme2smj-lexeme.xfscript
 To analyse, do:
 
 echo aktiiva|hfst-lookup -q sme2smj-lexeme.hfst
+
+
+To compile 3 different files (for A, N, V ), do the following:
+
+For the the lines 327 - 369, comment in and out the lines marked
+A_ONLY and V_OMLY in order to get converters from A and V.
+
+The compilation script gives the output file
+sme2smj-lexeme.hfst
+
+Before changig the code, rename the generated hfst file to e.g.
+sme2smj-A-lexeme.hfst
+sme2smj-V-lexeme.hfst
+
+(if you don't, the former output will be overwritten)
+
+
+
