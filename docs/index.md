@@ -4,10 +4,17 @@ Please see [this page](https://giellalt.github.io/dicts/dicts.html) for more gen
 
 
 
-# Online dictionaries
+# Online dictionaries North - Lule Sámi
 
 - [North and Lule Sámi dictionary page](https://dicts.uit.no/smedicts.eng.html)
 
-# Other information
 
-Add text and links as needed.
+# Nordsamisk-lulesamisk ordbok
+
+
+Sjå materiale i 2023-artikkelen til LexicoNordica.
+
+Målet er å ikkje berre skrive om ordboka, men også lage ho.
+
+* [Arbeidplan 2023](arbeidsplan.md)
+
