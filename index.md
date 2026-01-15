@@ -1,20 +1,7 @@
-# Documentation for North Sámi ⇒ Lule Sámi
+# Documentation for North Saami ⇒ Lule Saami
 
-Please see [this page](https://giellalt.github.io/dicts/dicts.html) for more general information on how to work with dictionaries, and the various publishing alternatives.
+Please see [this page](https://giellalt.github.io/dicts/index.html) for more general information on how to work with dictionaries, and the various publishing alternatives.
 
+# Other information
 
-
-# Online dictionaries North - Lule Sámi
-
-- [North and Lule Sámi dictionary page](https://dicts.uit.no/smedicts.eng.html)
-
-
-# Nordsamisk-lulesamisk ordbok
-
-
-Sjå materiale i 2023-artikkelen til LexicoNordica.
-
-Målet er å ikkje berre skrive om ordboka, men også lage ho.
-
-* [Arbeidplan 2023](arbeidsplan.md)
-
+Add text and links as needed.
