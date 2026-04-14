@@ -10,7 +10,7 @@ Her ser vi på arbeid for sommaren 2023
 
 # Dokumentasjon
 
-Ha dokumentasjon i mente, skriv gjerne ein stad på [denne sida](https://giellalt.github.io/dicts/dicts.html)
+Ha dokumentasjon i mente, skriv gjerne ein stad på [denne sida](https://giellalt.github.io/dicts/)
 
 
 # smesmj
